@@ -127,8 +127,8 @@
 | 124 | Porco Rosso                                                              | 1992 | 78    | [SeaDex](https://releases.moe/416/), [AniList](https://anilist.co/anime/416)       |
 | 125 | By the Grace of the Gods                                                 | 2020 | 68    | [SeaDex](https://releases.moe/115740/), [AniList](https://anilist.co/anime/115740) |
 | 126 | Ninja Kamui                                                              | 2024 | 66    | [SeaDex](https://releases.moe/151639/), [AniList](https://anilist.co/anime/151639) |
-| 127 | Beyond the Boundary -I'LL BE HERE-: Future                               | 2015 | 79    | [SeaDex](https://releases.moe/20963/), [AniList](https://anilist.co/anime/20963)   |
-| 128 | Fuuka                                                                    | 2017 | 60    | [SeaDex](https://releases.moe/21887/), [AniList](https://anilist.co/anime/21887)   |
+| 127 | Fuuka                                                                    | 2017 | 60    | [SeaDex](https://releases.moe/21887/), [AniList](https://anilist.co/anime/21887)   |
+| 128 | Beyond the Boundary -I'LL BE HERE-: Future                               | 2015 | 79    | [SeaDex](https://releases.moe/20963/), [AniList](https://anilist.co/anime/20963)   |
 | 129 | Slam Dunk                                                                | 1993 | 83    | [SeaDex](https://releases.moe/170/), [AniList](https://anilist.co/anime/170)       |
 | 130 | Our love has always been 10 centimeters apart.                           | 2017 | 72    | [SeaDex](https://releases.moe/98977/), [AniList](https://anilist.co/anime/98977)   |
 | 131 | Dimension W                                                              | 2016 | 68    | [SeaDex](https://releases.moe/21256/), [AniList](https://anilist.co/anime/21256)   |
@@ -265,8 +265,8 @@
 | 262 | Lapis Re:LiGHTs                                                          | 2020 | 63    | [SeaDex](https://releases.moe/104937/), [AniList](https://anilist.co/anime/104937) |
 | 263 | Symphogear XV                                                            | 2019 | 82    | [SeaDex](https://releases.moe/21673/), [AniList](https://anilist.co/anime/21673)   |
 | 264 | Police in a Pod                                                          | 2022 | 68    | [SeaDex](https://releases.moe/137312/), [AniList](https://anilist.co/anime/137312) |
-| 265 | The Princess and the Pilot                                               | 2011 | 73    | [SeaDex](https://releases.moe/9000/), [AniList](https://anilist.co/anime/9000)     |
-| 266 | Seraph of the End: Battle in Nagoya - Owaranai Seraph Battle in Nagoya   | 2015 | 71    | [SeaDex](https://releases.moe/21765/), [AniList](https://anilist.co/anime/21765)   |
+| 265 | Seraph of the End: Battle in Nagoya - Owaranai Seraph Battle in Nagoya   | 2015 | 71    | [SeaDex](https://releases.moe/21765/), [AniList](https://anilist.co/anime/21765)   |
+| 266 | The Princess and the Pilot                                               | 2011 | 73    | [SeaDex](https://releases.moe/9000/), [AniList](https://anilist.co/anime/9000)     |
 | 267 | Tsurune - The Linking Shot -                                             | 2023 | 81    | [SeaDex](https://releases.moe/153841/), [AniList](https://anilist.co/anime/153841) |
 | 268 | Dropout Idol Fruit Tart                                                  | 2020 | 64    | [SeaDex](https://releases.moe/108713/), [AniList](https://anilist.co/anime/108713) |
 | 269 | Fractale                                                                 | 2011 | 65    | [SeaDex](https://releases.moe/9314/), [AniList](https://anilist.co/anime/9314)     |
