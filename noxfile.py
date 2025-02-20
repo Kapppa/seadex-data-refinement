@@ -59,8 +59,8 @@ def lint(session: nox.Session) -> None:
 def build_docs(session: nox.Session) -> None:
     install(session)
 
-    src = Path.cwd() / "docs" / "source"
-    build = Path.cwd() / "docs" / "build"
+    src = Path.cwd() / "docs"
+    build = Path.cwd() / "site"
 
     def sleep() -> None:
         if CI:
