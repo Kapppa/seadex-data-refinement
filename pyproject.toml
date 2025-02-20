@@ -7,11 +7,11 @@ license = "MIT"
 authors = [{ name = "Ravencentric", email = "me@ravencentric.cc" }]
 requires-python = ">=3.11"
 dependencies = [
-    "cyclopts>=3.8.1",
+    "cyclopts>=3.9.0",
     "httpx>=0.28.1",
     "prettytable>=3.14.0",
     "pydantic>=2.10.6",
-    "seadex>=0.6.0",
+    "seadex>=0.6.1",
 ]
 
 [project.scripts]
