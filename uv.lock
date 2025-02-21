@@ -748,7 +748,6 @@ dev = [
     { name = "ruff" },
     { name = "sphinx" },
     { name = "sphinx-inline-tabs" },
-    { name = "sphinx-last-updated-by-git" },
     { name = "sphinx-new-tab-link" },
 ]
 docs = [
@@ -756,7 +755,6 @@ docs = [
     { name = "myst-parser" },
     { name = "sphinx" },
     { name = "sphinx-inline-tabs" },
-    { name = "sphinx-last-updated-by-git" },
     { name = "sphinx-new-tab-link" },
 ]
 
@@ -778,7 +776,6 @@ dev = [
     { name = "ruff", specifier = ">=0.9.6" },
     { name = "sphinx", specifier = ">=8.1.3" },
     { name = "sphinx-inline-tabs", specifier = ">=2023.4.21" },
-    { name = "sphinx-last-updated-by-git", specifier = ">=0.3.8" },
     { name = "sphinx-new-tab-link", specifier = ">=0.6.1" },
 ]
 docs = [
@@ -786,7 +783,6 @@ docs = [
     { name = "myst-parser", specifier = ">=4.0.1" },
     { name = "sphinx", specifier = ">=8.1.3" },
     { name = "sphinx-inline-tabs", specifier = ">=2023.4.21" },
-    { name = "sphinx-last-updated-by-git", specifier = ">=0.3.8" },
     { name = "sphinx-new-tab-link", specifier = ">=0.6.1" },
 ]
 
@@ -866,18 +862,6 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/48/f5/f8a2be63ed7be9f91a4c2bea0e25bcb56aa4c5cc37ec4d8ead8065f926b1/sphinx_inline_tabs-2023.4.21.tar.gz", hash = "sha256:5df2f13f602c158f3f5f6c509e008aeada199a8c76d97ba3aa2822206683bebc", size = 42664 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/9d/60/1e4c9017d722b9c7731abc11f39ac8b083b479fbcefe12015b57e457a296/sphinx_inline_tabs-2023.4.21-py3-none-any.whl", hash = "sha256:06809ac613f7c48ddd6e2fa588413e3fe92cff2397b56e2ccf0b0218f9ef6a78", size = 6850 },
-]
-
-[[package]]
-name = "sphinx-last-updated-by-git"
-version = "0.3.8"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "sphinx" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/03/fd/de1685b6dab173dff31da24e0d3b29f02873fc24a1cdbb7678721ddc8581/sphinx_last_updated_by_git-0.3.8.tar.gz", hash = "sha256:c145011f4609d841805b69a9300099fc02fed8f5bb9e5bcef77d97aea97b7761", size = 10785 }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/e1/fb/e496f16fa11fbe2dbdd0b5e306ede153dfed050aae4766fc89d500720dc7/sphinx_last_updated_by_git-0.3.8-py3-none-any.whl", hash = "sha256:6382c8285ac1f222483a58569b78c0371af5e55f7fbf9c01e5e8a72d6fdfa499", size = 8580 },
 ]
 
 [[package]]

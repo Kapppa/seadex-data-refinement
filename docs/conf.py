@@ -15,7 +15,7 @@ author = "Ravencentric"
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["myst_parser", "sphinx_inline_tabs", "sphinx_new_tab_link", "sphinx_last_updated_by_git"]
+extensions = ["myst_parser", "sphinx_inline_tabs", "sphinx_new_tab_link"]
 source_encoding = "utf-8"
 
 # -- Options for HTML output -------------------------------------------------
@@ -30,3 +30,4 @@ html_theme_options = {
     "source_branch": "main",
     "source_directory": "docs/",
 }
+html_last_updated_fmt = "%b %d, %Y"
