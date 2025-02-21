@@ -157,8 +157,8 @@
 | 154 | Log Horizon: Destruction of the Round Table                                                 | 2021 | 69    | [SeaDex](https://releases.moe/114862/), [AniList](https://anilist.co/anime/114862) |
 | 155 | Chillin' in Another World with Level 2 Super Cheat Powers                                   | 2024 | 68    | [SeaDex](https://releases.moe/170130/), [AniList](https://anilist.co/anime/170130) |
 | 156 | World Break: Aria of Curse for a Holy Swordsman                                             | 2015 | 63    | [SeaDex](https://releases.moe/20627/), [AniList](https://anilist.co/anime/20627)   |
-| 157 | The Dungeon of Black Company                                                                | 2021 | 70    | [SeaDex](https://releases.moe/120608/), [AniList](https://anilist.co/anime/120608) |
-| 158 | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells      | 2024 | 64    | [SeaDex](https://releases.moe/173694/), [AniList](https://anilist.co/anime/173694) |
+| 157 | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells      | 2024 | 64    | [SeaDex](https://releases.moe/173694/), [AniList](https://anilist.co/anime/173694) |
+| 158 | The Dungeon of Black Company                                                                | 2021 | 70    | [SeaDex](https://releases.moe/120608/), [AniList](https://anilist.co/anime/120608) |
 | 159 | Bungo Stray Dogs 5                                                                          | 2023 | 85    | [SeaDex](https://releases.moe/163263/), [AniList](https://anilist.co/anime/163263) |
 | 160 | Am I Actually the Strongest?                                                                | 2023 | 64    | [SeaDex](https://releases.moe/154391/), [AniList](https://anilist.co/anime/154391) |
 | 161 | The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far                        | 2023 | 66    | [SeaDex](https://releases.moe/153332/), [AniList](https://anilist.co/anime/153332) |
@@ -309,9 +309,9 @@
 | 306 | Atelier Escha & Logy ~Alchemists of the Dusk Sky~                                           | 2014 | 62    | [SeaDex](https://releases.moe/20506/), [AniList](https://anilist.co/anime/20506)   |
 | 307 | Kandagawa Jet Girls                                                                         | 2019 | 52    | [SeaDex](https://releases.moe/110810/), [AniList](https://anilist.co/anime/110810) |
 | 308 | Ange Vierge                                                                                 | 2016 | 55    | [SeaDex](https://releases.moe/21439/), [AniList](https://anilist.co/anime/21439)   |
-| 309 | Lostorage incited WIXOSS                                                                    | 2016 | 63    | [SeaDex](https://releases.moe/21772/), [AniList](https://anilist.co/anime/21772)   |
-| 310 | Hackadoll the Animation                                                                     | 2015 | 61    | [SeaDex](https://releases.moe/21182/), [AniList](https://anilist.co/anime/21182)   |
-| 311 | Wanna be the Strongest in the World!                                                        | 2013 | 51    | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
+| 309 | Lostorage incited WIXOSS                                                                    | 2016 | 64    | [SeaDex](https://releases.moe/21772/), [AniList](https://anilist.co/anime/21772)   |
+| 310 | Wanna be the Strongest in the World!                                                        | 2013 | 51    | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
+| 311 | Hackadoll the Animation                                                                     | 2015 | 61    | [SeaDex](https://releases.moe/21182/), [AniList](https://anilist.co/anime/21182)   |
 | 312 | Carnival Phantasm EX Season                                                                 | 2011 | 73    | [SeaDex](https://releases.moe/12187/), [AniList](https://anilist.co/anime/12187)   |
 | 313 | Nobunagun                                                                                   | 2014 | 62    | [SeaDex](https://releases.moe/19855/), [AniList](https://anilist.co/anime/19855)   |
 | 314 | IS: Infinite Stratos 2 - Hitonatsu no Omoide                                                | 2013 | 64    | [SeaDex](https://releases.moe/20045/), [AniList](https://anilist.co/anime/20045)   |
