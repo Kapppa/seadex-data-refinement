@@ -117,7 +117,7 @@
 | 114 | Free! -Eternal Summer-                                                                      | 2014 | 74    | [SeaDex](https://releases.moe/20614/), [AniList](https://anilist.co/anime/20614)   |
 | 115 | Cells at Work!!                                                                             | 2021 | 72    | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |
 | 116 | The Wrong Way to Use Healing Magic                                                          | 2024 | 75    | [SeaDex](https://releases.moe/137908/), [AniList](https://anilist.co/anime/137908) |
-| 117 | D-Frag!                                                                                     | 2014 | 72    | [SeaDex](https://releases.moe/20031/), [AniList](https://anilist.co/anime/20031)   |
+| 117 | D-Frag!                                                                                     | 2014 | 73    | [SeaDex](https://releases.moe/20031/), [AniList](https://anilist.co/anime/20031)   |
 | 118 | Aesthetica of a Rogue Hero                                                                  | 2012 | 61    | [SeaDex](https://releases.moe/13161/), [AniList](https://anilist.co/anime/13161)   |
 | 119 | Black Clover: Sword of the Wizard King                                                      | 2023 | 80    | [SeaDex](https://releases.moe/131680/), [AniList](https://anilist.co/anime/131680) |
 | 120 | Kamisama Kiss◎                                                                              | 2015 | 81    | [SeaDex](https://releases.moe/20801/), [AniList](https://anilist.co/anime/20801)   |
@@ -351,12 +351,11 @@
 | 348 | Persona 4 the Golden Animation: Thank you Mr. Accomplice                                    | 2014 | 62    | [SeaDex](https://releases.moe/21434/), [AniList](https://anilist.co/anime/21434)   |
 | 349 | For Whom The Alchemist Exists The Movie                                                     | 2019 | 59    | [SeaDex](https://releases.moe/107864/), [AniList](https://anilist.co/anime/107864) |
 | 350 | Princess Jellyfish Specials                                                                 | 2011 | 62    | [SeaDex](https://releases.moe/9754/), [AniList](https://anilist.co/anime/9754)     |
-| 351 | Case Closed: The Million-dollar Pentagram                                                   | 2024 | 77    | [SeaDex](https://releases.moe/169754/), [AniList](https://anilist.co/anime/169754) |
-| 352 | Kandagawa Jet Girls OVA                                                                     | 2020 | 51    | [SeaDex](https://releases.moe/114926/), [AniList](https://anilist.co/anime/114926) |
-| 353 | Genesis Climber Mospeada                                                                    | 1983 | 65    | [SeaDex](https://releases.moe/3670/), [AniList](https://anilist.co/anime/3670)     |
-| 354 | LAIDBACKERS                                                                                 | 2019 | 55    | [SeaDex](https://releases.moe/104721/), [AniList](https://anilist.co/anime/104721) |
-| 355 | Princess Jellyfish: Go                                                                      | 2010 | 52    | [SeaDex](https://releases.moe/10391/), [AniList](https://anilist.co/anime/10391)   |
-| 356 | Sekai de Ichiban Tsuyoku Naritai! Specials                                                  | 2013 | 49    | [SeaDex](https://releases.moe/20522/), [AniList](https://anilist.co/anime/20522)   |
-| 357 | "Eiyuu" Kaitai                                                                              | 2016 | 54    | [SeaDex](https://releases.moe/21829/), [AniList](https://anilist.co/anime/21829)   |
-| 358 | The Big First-Grader and the Small Second-Grader                                            | 2014 | 62    | [SeaDex](https://releases.moe/20504/), [AniList](https://anilist.co/anime/20504)   |
-| 359 | After School Midnighters                                                                    | 2012 | 53    | [SeaDex](https://releases.moe/13935/), [AniList](https://anilist.co/anime/13935)   |
+| 351 | Kandagawa Jet Girls OVA                                                                     | 2020 | 51    | [SeaDex](https://releases.moe/114926/), [AniList](https://anilist.co/anime/114926) |
+| 352 | Genesis Climber Mospeada                                                                    | 1983 | 65    | [SeaDex](https://releases.moe/3670/), [AniList](https://anilist.co/anime/3670)     |
+| 353 | LAIDBACKERS                                                                                 | 2019 | 55    | [SeaDex](https://releases.moe/104721/), [AniList](https://anilist.co/anime/104721) |
+| 354 | Princess Jellyfish: Go                                                                      | 2010 | 52    | [SeaDex](https://releases.moe/10391/), [AniList](https://anilist.co/anime/10391)   |
+| 355 | Sekai de Ichiban Tsuyoku Naritai! Specials                                                  | 2013 | 49    | [SeaDex](https://releases.moe/20522/), [AniList](https://anilist.co/anime/20522)   |
+| 356 | "Eiyuu" Kaitai                                                                              | 2016 | 54    | [SeaDex](https://releases.moe/21829/), [AniList](https://anilist.co/anime/21829)   |
+| 357 | The Big First-Grader and the Small Second-Grader                                            | 2014 | 62    | [SeaDex](https://releases.moe/20504/), [AniList](https://anilist.co/anime/20504)   |
+| 358 | After School Midnighters                                                                    | 2012 | 53    | [SeaDex](https://releases.moe/13935/), [AniList](https://anilist.co/anime/13935)   |
