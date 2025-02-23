@@ -117,7 +117,7 @@
 | 114 | Free! -Eternal Summer-                                                                      | 2014 | 74    | [SeaDex](https://releases.moe/20614/), [AniList](https://anilist.co/anime/20614)   |
 | 115 | Cells at Work!!                                                                             | 2021 | 72    | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |
 | 116 | The Wrong Way to Use Healing Magic                                                          | 2024 | 75    | [SeaDex](https://releases.moe/137908/), [AniList](https://anilist.co/anime/137908) |
-| 117 | D-Frag!                                                                                     | 2014 | 73    | [SeaDex](https://releases.moe/20031/), [AniList](https://anilist.co/anime/20031)   |
+| 117 | D-Frag!                                                                                     | 2014 | 72    | [SeaDex](https://releases.moe/20031/), [AniList](https://anilist.co/anime/20031)   |
 | 118 | Aesthetica of a Rogue Hero                                                                  | 2012 | 61    | [SeaDex](https://releases.moe/13161/), [AniList](https://anilist.co/anime/13161)   |
 | 119 | Black Clover: Sword of the Wizard King                                                      | 2023 | 80    | [SeaDex](https://releases.moe/131680/), [AniList](https://anilist.co/anime/131680) |
 | 120 | Kamisama Kiss◎                                                                              | 2015 | 81    | [SeaDex](https://releases.moe/20801/), [AniList](https://anilist.co/anime/20801)   |
@@ -138,14 +138,14 @@
 | 135 | Black Butler: Book of Circus                                                                | 2014 | 78    | [SeaDex](https://releases.moe/20606/), [AniList](https://anilist.co/anime/20606)   |
 | 136 | The Reincarnation of the Strongest Exorcist in Another World                                | 2023 | 70    | [SeaDex](https://releases.moe/144553/), [AniList](https://anilist.co/anime/144553) |
 | 137 | Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!            | 2021 | 62    | [SeaDex](https://releases.moe/126791/), [AniList](https://anilist.co/anime/126791) |
-| 138 | PERSONA5 the Animation                                                                      | 2018 | 62    | [SeaDex](https://releases.moe/99693/), [AniList](https://anilist.co/anime/99693)   |
-| 139 | BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2                      | 2023 | 71    | [SeaDex](https://releases.moe/116867/), [AniList](https://anilist.co/anime/116867) |
+| 138 | BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2                      | 2023 | 71    | [SeaDex](https://releases.moe/116867/), [AniList](https://anilist.co/anime/116867) |
+| 139 | PERSONA5 the Animation                                                                      | 2018 | 62    | [SeaDex](https://releases.moe/99693/), [AniList](https://anilist.co/anime/99693)   |
 | 140 | Black Summoner                                                                              | 2022 | 69    | [SeaDex](https://releases.moe/145260/), [AniList](https://anilist.co/anime/145260) |
 | 141 | Mysterious Girlfriend X                                                                     | 2012 | 69    | [SeaDex](https://releases.moe/12467/), [AniList](https://anilist.co/anime/12467)   |
 | 142 | Aria the Scarlet Ammo                                                                       | 2011 | 63    | [SeaDex](https://releases.moe/8630/), [AniList](https://anilist.co/anime/8630)     |
 | 143 | Flying Witch                                                                                | 2016 | 74    | [SeaDex](https://releases.moe/21284/), [AniList](https://anilist.co/anime/21284)   |
-| 144 | A Certain Magical Index III                                                                 | 2018 | 66    | [SeaDex](https://releases.moe/100185/), [AniList](https://anilist.co/anime/100185) |
-| 145 | Berserk of Gluttony                                                                         | 2023 | 67    | [SeaDex](https://releases.moe/156039/), [AniList](https://anilist.co/anime/156039) |
+| 144 | Berserk of Gluttony                                                                         | 2023 | 67    | [SeaDex](https://releases.moe/156039/), [AniList](https://anilist.co/anime/156039) |
+| 145 | A Certain Magical Index III                                                                 | 2018 | 66    | [SeaDex](https://releases.moe/100185/), [AniList](https://anilist.co/anime/100185) |
 | 146 | MAGICAL GIRL SITE                                                                           | 2018 | 60    | [SeaDex](https://releases.moe/100010/), [AniList](https://anilist.co/anime/100010) |
 | 147 | Sleepy Princess in the Demon Castle                                                         | 2020 | 78    | [SeaDex](https://releases.moe/111428/), [AniList](https://anilist.co/anime/111428) |
 | 148 | Is the Order a Rabbit?                                                                      | 2014 | 72    | [SeaDex](https://releases.moe/20517/), [AniList](https://anilist.co/anime/20517)   |
@@ -309,7 +309,7 @@
 | 306 | Atelier Escha & Logy ~Alchemists of the Dusk Sky~                                           | 2014 | 62    | [SeaDex](https://releases.moe/20506/), [AniList](https://anilist.co/anime/20506)   |
 | 307 | Kandagawa Jet Girls                                                                         | 2019 | 52    | [SeaDex](https://releases.moe/110810/), [AniList](https://anilist.co/anime/110810) |
 | 308 | Ange Vierge                                                                                 | 2016 | 55    | [SeaDex](https://releases.moe/21439/), [AniList](https://anilist.co/anime/21439)   |
-| 309 | Lostorage incited WIXOSS                                                                    | 2016 | 64    | [SeaDex](https://releases.moe/21772/), [AniList](https://anilist.co/anime/21772)   |
+| 309 | Lostorage incited WIXOSS                                                                    | 2016 | 63    | [SeaDex](https://releases.moe/21772/), [AniList](https://anilist.co/anime/21772)   |
 | 310 | Wanna be the Strongest in the World!                                                        | 2013 | 51    | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
 | 311 | Hackadoll the Animation                                                                     | 2015 | 61    | [SeaDex](https://releases.moe/21182/), [AniList](https://anilist.co/anime/21182)   |
 | 312 | Carnival Phantasm EX Season                                                                 | 2011 | 73    | [SeaDex](https://releases.moe/12187/), [AniList](https://anilist.co/anime/12187)   |
