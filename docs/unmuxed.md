@@ -81,7 +81,7 @@
 | 78  | ReLIFE: Final Arc                                                        | 2018 | 80    | [SeaDex](https://releases.moe/98635/), [AniList](https://anilist.co/anime/98635)   |
 | 79  | Bunny Drop                                                               | 2011 | 81    | [SeaDex](https://releases.moe/10162/), [AniList](https://anilist.co/anime/10162)   |
 | 80  | B: The Beginning                                                         | 2018 | 69    | [SeaDex](https://releases.moe/21665/), [AniList](https://anilist.co/anime/21665)   |
-| 81  | Kiss Him, Not Me                                                         | 2016 | 66    | [SeaDex](https://releases.moe/21686/), [AniList](https://anilist.co/anime/21686)   |
+| 81  | Kiss Him, Not Me                                                         | 2016 | 65    | [SeaDex](https://releases.moe/21686/), [AniList](https://anilist.co/anime/21686)   |
 | 82  | Black Lagoon: The Second Barrage                                         | 2006 | 80    | [SeaDex](https://releases.moe/1519/), [AniList](https://anilist.co/anime/1519)     |
 | 83  | Tokyo Ravens                                                             | 2013 | 71    | [SeaDex](https://releases.moe/16011/), [AniList](https://anilist.co/anime/16011)   |
 | 84  | Vampire Knight                                                           | 2008 | 62    | [SeaDex](https://releases.moe/3457/), [AniList](https://anilist.co/anime/3457)     |
@@ -122,8 +122,8 @@
 | 119 | Urusei Yatsura (2022)                                                    | 2022 | 72    | [SeaDex](https://releases.moe/143277/), [AniList](https://anilist.co/anime/143277) |
 | 120 | Fate/kaleid liner Prisma☆Illya                                           | 2013 | 67    | [SeaDex](https://releases.moe/14829/), [AniList](https://anilist.co/anime/14829)   |
 | 121 | Princess Principal                                                       | 2017 | 75    | [SeaDex](https://releases.moe/98505/), [AniList](https://anilist.co/anime/98505)   |
-| 122 | Ground Control to Psychoelectric Girl                                    | 2011 | 68    | [SeaDex](https://releases.moe/9379/), [AniList](https://anilist.co/anime/9379)     |
-| 123 | Porco Rosso                                                              | 1992 | 78    | [SeaDex](https://releases.moe/416/), [AniList](https://anilist.co/anime/416)       |
+| 122 | Porco Rosso                                                              | 1992 | 78    | [SeaDex](https://releases.moe/416/), [AniList](https://anilist.co/anime/416)       |
+| 123 | Ground Control to Psychoelectric Girl                                    | 2011 | 68    | [SeaDex](https://releases.moe/9379/), [AniList](https://anilist.co/anime/9379)     |
 | 124 | By the Grace of the Gods                                                 | 2020 | 68    | [SeaDex](https://releases.moe/115740/), [AniList](https://anilist.co/anime/115740) |
 | 125 | Ninja Kamui                                                              | 2024 | 66    | [SeaDex](https://releases.moe/151639/), [AniList](https://anilist.co/anime/151639) |
 | 126 | Fuuka                                                                    | 2017 | 60    | [SeaDex](https://releases.moe/21887/), [AniList](https://anilist.co/anime/21887)   |
@@ -190,7 +190,7 @@
 | 187 | Gugure! Kokkuri-san                                                      | 2014 | 72    | [SeaDex](https://releases.moe/20656/), [AniList](https://anilist.co/anime/20656)   |
 | 188 | ISLAND                                                                   | 2018 | 57    | [SeaDex](https://releases.moe/21712/), [AniList](https://anilist.co/anime/21712)   |
 | 189 | Tari Tari                                                                | 2012 | 70    | [SeaDex](https://releases.moe/13333/), [AniList](https://anilist.co/anime/13333)   |
-| 190 | She Professed Herself Pupil of the Wise Man                              | 2022 | 59    | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
+| 190 | She Professed Herself Pupil of the Wise Man                              | 2022 | 60    | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
 | 191 | Natsume's Book of Friends Season 5                                       | 2016 | 84    | [SeaDex](https://releases.moe/21710/), [AniList](https://anilist.co/anime/21710)   |
 | 192 | Horizon in the Middle of Nowhere                                         | 2011 | 66    | [SeaDex](https://releases.moe/10456/), [AniList](https://anilist.co/anime/10456)   |
 | 193 | Cop Craft                                                                | 2019 | 64    | [SeaDex](https://releases.moe/106893/), [AniList](https://anilist.co/anime/106893) |
@@ -226,8 +226,8 @@
 | 223 | Wave, Listen to Me!                                                      | 2020 | 70    | [SeaDex](https://releases.moe/112353/), [AniList](https://anilist.co/anime/112353) |
 | 224 | Tsugumomo2                                                               | 2020 | 72    | [SeaDex](https://releases.moe/108266/), [AniList](https://anilist.co/anime/108266) |
 | 225 | Rewrite: Moon and Terra                                                  | 2017 | 68    | [SeaDex](https://releases.moe/97665/), [AniList](https://anilist.co/anime/97665)   |
-| 226 | Zetman                                                                   | 2012 | 64    | [SeaDex](https://releases.moe/11837/), [AniList](https://anilist.co/anime/11837)   |
-| 227 | Grisaia: Phantom Trigger THE ANIMATION                                   | 2019 | 67    | [SeaDex](https://releases.moe/99470/), [AniList](https://anilist.co/anime/99470)   |
+| 226 | Grisaia: Phantom Trigger THE ANIMATION                                   | 2019 | 67    | [SeaDex](https://releases.moe/99470/), [AniList](https://anilist.co/anime/99470)   |
+| 227 | Zetman                                                                   | 2012 | 64    | [SeaDex](https://releases.moe/11837/), [AniList](https://anilist.co/anime/11837)   |
 | 228 | A Dark Rabbit has Seven Lives                                            | 2011 | 59    | [SeaDex](https://releases.moe/9750/), [AniList](https://anilist.co/anime/9750)     |
 | 229 | Persona 3 the Movie: #2 Midsummer Knight's Dream                         | 2014 | 74    | [SeaDex](https://releases.moe/20736/), [AniList](https://anilist.co/anime/20736)   |
 | 230 | Rumbling Hearts                                                          | 2003 | 66    | [SeaDex](https://releases.moe/147/), [AniList](https://anilist.co/anime/147)       |
@@ -255,8 +255,8 @@
 | 252 | The Eccentric Family 2                                                   | 2017 | 80    | [SeaDex](https://releases.moe/97642/), [AniList](https://anilist.co/anime/97642)   |
 | 253 | Gatchaman Crowds insight                                                 | 2015 | 71    | [SeaDex](https://releases.moe/20487/), [AniList](https://anilist.co/anime/20487)   |
 | 254 | Saint Seiya: The Lost Canvas                                             | 2009 | 76    | [SeaDex](https://releases.moe/6171/), [AniList](https://anilist.co/anime/6171)     |
-| 255 | Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!            | 2014 | 64    | [SeaDex](https://releases.moe/18851/), [AniList](https://anilist.co/anime/18851)   |
-| 256 | After School Dice Club                                                   | 2019 | 64    | [SeaDex](https://releases.moe/104115/), [AniList](https://anilist.co/anime/104115) |
+| 255 | After School Dice Club                                                   | 2019 | 64    | [SeaDex](https://releases.moe/104115/), [AniList](https://anilist.co/anime/104115) |
+| 256 | Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!            | 2014 | 64    | [SeaDex](https://releases.moe/18851/), [AniList](https://anilist.co/anime/18851)   |
 | 257 | I don't like my big brother at all!!                                     | 2011 | 55    | [SeaDex](https://releases.moe/9587/), [AniList](https://anilist.co/anime/9587)     |
 | 258 | Bakuon!!                                                                 | 2016 | 61    | [SeaDex](https://releases.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
 | 259 | Lapis Re:LiGHTs                                                          | 2020 | 63    | [SeaDex](https://releases.moe/104937/), [AniList](https://anilist.co/anime/104937) |
@@ -299,8 +299,8 @@
 | 296 | Cat Planet Cuties: Come Drop By                                          | 2011 | 63    | [SeaDex](https://releases.moe/9618/), [AniList](https://anilist.co/anime/9618)     |
 | 297 | Bladedance of Elementalers Specials                                      | 2014 | 62    | [SeaDex](https://releases.moe/20871/), [AniList](https://anilist.co/anime/20871)   |
 | 298 | Modest Heroes: Ponoc Short Films Theatre, Volume 1                       | 2018 | 67    | [SeaDex](https://releases.moe/103887/), [AniList](https://anilist.co/anime/103887) |
-| 299 | Macross Zero                                                             | 2002 | 70    | [SeaDex](https://releases.moe/194/), [AniList](https://anilist.co/anime/194)       |
-| 300 | Strike the Blood: Kieta Seisou-hen                                       | 2020 | 66    | [SeaDex](https://releases.moe/112324/), [AniList](https://anilist.co/anime/112324) |
+| 299 | Strike the Blood: Kieta Seisou-hen                                       | 2020 | 66    | [SeaDex](https://releases.moe/112324/), [AniList](https://anilist.co/anime/112324) |
+| 300 | Macross Zero                                                             | 2002 | 70    | [SeaDex](https://releases.moe/194/), [AniList](https://anilist.co/anime/194)       |
 | 301 | Free! -Dive to the Future-: Build-Up of Early Spring!                    | 2018 | 74    | [SeaDex](https://releases.moe/103588/), [AniList](https://anilist.co/anime/103588) |
 | 302 | Anime De Training! EX                                                    | 2015 | 50    | [SeaDex](https://releases.moe/21320/), [AniList](https://anilist.co/anime/21320)   |
 | 303 | Mahou Shoujo Nante Mouiidesukara                                         | 2016 | 57    | [SeaDex](https://releases.moe/21422/), [AniList](https://anilist.co/anime/21422)   |
