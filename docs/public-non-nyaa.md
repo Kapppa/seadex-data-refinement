@@ -38,7 +38,7 @@
 | 35  | Free! -Dive to the Future-: Build-Up of Early Spring!              | 2018 | 74    | [SeaDex](https://releases.moe/103588/), [AniList](https://anilist.co/anime/103588) |
 | 36  | Strike Witches: Road to Berlin                                     | 2020 | 72    | [SeaDex](https://releases.moe/103119/), [AniList](https://anilist.co/anime/103119) |
 | 37  | Dogeza de Tanondemita: Isekai-hen                                  | 2021 | 53    | [SeaDex](https://releases.moe/124612/), [AniList](https://anilist.co/anime/124612) |
-| 38  | Eiken                                                              | 2003 | 35    | [SeaDex](https://releases.moe/788/), [AniList](https://anilist.co/anime/788)       |
+| 38  | Eiken                                                              | 2003 | 36    | [SeaDex](https://releases.moe/788/), [AniList](https://anilist.co/anime/788)       |
 | 39  | Ladies versus Butlers! Specials                                    | 2010 | 59    | [SeaDex](https://releases.moe/8302/), [AniList](https://anilist.co/anime/8302)     |
 | 40  | The Reflection                                                     | 2017 | 42    | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461)   |
 | 41  | Null & Peta: Slippery and Sticky! Big Sister Bikini Battle!        | 2020 | 52    | [SeaDex](https://releases.moe/113187/), [AniList](https://anilist.co/anime/113187) |
