@@ -6,7 +6,7 @@
 | 3   | Monster                                                            | 2004 | 88    | [SeaDex](https://releases.moe/19/), [AniList](https://anilist.co/anime/19)         |
 | 4   | Toilet-bound Hanako-kun                                            | 2020 | 77    | [SeaDex](https://releases.moe/108463/), [AniList](https://anilist.co/anime/108463) |
 | 5   | March comes in like a lion                                         | 2016 | 83    | [SeaDex](https://releases.moe/21366/), [AniList](https://anilist.co/anime/21366)   |
-| 6   | Welcome to the N-H-K                                               | 2006 | 81    | [SeaDex](https://releases.moe/1210/), [AniList](https://anilist.co/anime/1210)     |
+| 6   | Welcome to the N-H-K                                               | 2006 | 82    | [SeaDex](https://releases.moe/1210/), [AniList](https://anilist.co/anime/1210)     |
 | 7   | Trigun                                                             | 1998 | 80    | [SeaDex](https://releases.moe/6/), [AniList](https://anilist.co/anime/6)           |
 | 8   | The Melancholy of Haruhi Suzumiya (2009)                           | 2009 | 71    | [SeaDex](https://releases.moe/4382/), [AniList](https://anilist.co/anime/4382)     |
 | 9   | Eureka Seven                                                       | 2005 | 77    | [SeaDex](https://releases.moe/237/), [AniList](https://anilist.co/anime/237)       |
@@ -37,8 +37,8 @@
 | 34  | Sound! Euphonium 2 Shorts                                          | 2016 | 66    | [SeaDex](https://releases.moe/98338/), [AniList](https://anilist.co/anime/98338)   |
 | 35  | Free! -Dive to the Future-: Build-Up of Early Spring!              | 2018 | 74    | [SeaDex](https://releases.moe/103588/), [AniList](https://anilist.co/anime/103588) |
 | 36  | Strike Witches: Road to Berlin                                     | 2020 | 72    | [SeaDex](https://releases.moe/103119/), [AniList](https://anilist.co/anime/103119) |
-| 37  | Dogeza de Tanondemita: Isekai-hen                                  | 2021 | 53    | [SeaDex](https://releases.moe/124612/), [AniList](https://anilist.co/anime/124612) |
-| 38  | Eiken                                                              | 2003 | 36    | [SeaDex](https://releases.moe/788/), [AniList](https://anilist.co/anime/788)       |
+| 37  | Dogeza de Tanondemita: Isekai-hen                                  | 2021 | 54    | [SeaDex](https://releases.moe/124612/), [AniList](https://anilist.co/anime/124612) |
+| 38  | Eiken                                                              | 2003 | 35    | [SeaDex](https://releases.moe/788/), [AniList](https://anilist.co/anime/788)       |
 | 39  | Ladies versus Butlers! Specials                                    | 2010 | 59    | [SeaDex](https://releases.moe/8302/), [AniList](https://anilist.co/anime/8302)     |
 | 40  | The Reflection                                                     | 2017 | 42    | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461)   |
 | 41  | Null & Peta: Slippery and Sticky! Big Sister Bikini Battle!        | 2020 | 52    | [SeaDex](https://releases.moe/113187/), [AniList](https://anilist.co/anime/113187) |
