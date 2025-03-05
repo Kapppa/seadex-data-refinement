@@ -23,7 +23,7 @@
 | 20  | Akagi                                                              | 2005 | 77    | [SeaDex](https://releases.moe/658/), [AniList](https://anilist.co/anime/658)       |
 | 21  | Fate/Grand Order Final Singularity - Grand Temple of Time: Solomon | 2021 | 76    | [SeaDex](https://releases.moe/116756/), [AniList](https://anilist.co/anime/116756) |
 | 22  | Fate/Grand Order Absolute Demonic Front: Babylonia - Initium Iter  | 2019 | 70    | [SeaDex](https://releases.moe/110851/), [AniList](https://anilist.co/anime/110851) |
-| 23  | <DOGEZA>I Tried Asking While Kowtowing.                            | 2020 | 51    | [SeaDex](https://releases.moe/122137/), [AniList](https://anilist.co/anime/122137) |
+| 23  | <DOGEZA>I Tried Asking While Kowtowing.                            | 2020 | 52    | [SeaDex](https://releases.moe/122137/), [AniList](https://anilist.co/anime/122137) |
 | 24  | Rumbling Hearts                                                    | 2003 | 66    | [SeaDex](https://releases.moe/147/), [AniList](https://anilist.co/anime/147)       |
 | 25  | Saint Seiya: The Lost Canvas                                       | 2009 | 76    | [SeaDex](https://releases.moe/6171/), [AniList](https://anilist.co/anime/6171)     |
 | 26  | Angel's 3Piece!                                                    | 2017 | 62    | [SeaDex](https://releases.moe/97683/), [AniList](https://anilist.co/anime/97683)   |

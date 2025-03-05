@@ -97,8 +97,8 @@
 | 94  | Wistoria: Wand and Sword                                                                    | 2024 | 79    | [SeaDex](https://releases.moe/174576/), [AniList](https://anilist.co/anime/174576) |
 | 95  | Maoyu: Archenemy & Hero                                                                     | 2013 | 70    | [SeaDex](https://releases.moe/14833/), [AniList](https://anilist.co/anime/14833)   |
 | 96  | When Supernatural Battles Became Commonplace                                                | 2014 | 67    | [SeaDex](https://releases.moe/20646/), [AniList](https://anilist.co/anime/20646)   |
-| 97  | Remake Our Life!                                                                            | 2021 | 72    | [SeaDex](https://releases.moe/114065/), [AniList](https://anilist.co/anime/114065) |
-| 98  | A Sign of Affection                                                                         | 2024 | 82    | [SeaDex](https://releases.moe/166794/), [AniList](https://anilist.co/anime/166794) |
+| 97  | A Sign of Affection                                                                         | 2024 | 82    | [SeaDex](https://releases.moe/166794/), [AniList](https://anilist.co/anime/166794) |
+| 98  | Remake Our Life!                                                                            | 2021 | 72    | [SeaDex](https://releases.moe/114065/), [AniList](https://anilist.co/anime/114065) |
 | 99  | The Wind Rises                                                                              | 2013 | 80    | [SeaDex](https://releases.moe/16662/), [AniList](https://anilist.co/anime/16662)   |
 | 100 | Interviews with Monster Girls                                                               | 2017 | 74    | [SeaDex](https://releases.moe/97592/), [AniList](https://anilist.co/anime/97592)   |
 | 101 | Bungo Stray Dogs 4                                                                          | 2023 | 84    | [SeaDex](https://releases.moe/141249/), [AniList](https://anilist.co/anime/141249) |
@@ -110,7 +110,7 @@
 | 107 | Blood-C                                                                                     | 2011 | 61    | [SeaDex](https://releases.moe/10490/), [AniList](https://anilist.co/anime/10490)   |
 | 108 | Oreimo 2                                                                                    | 2013 | 65    | [SeaDex](https://releases.moe/13659/), [AniList](https://anilist.co/anime/13659)   |
 | 109 | Welcome to Demon School! Iruma-kun Season 2                                                 | 2021 | 80    | [SeaDex](https://releases.moe/116338/), [AniList](https://anilist.co/anime/116338) |
-| 110 | Skeleton Knight in Another World                                                            | 2022 | 70    | [SeaDex](https://releases.moe/132474/), [AniList](https://anilist.co/anime/132474) |
+| 110 | Skeleton Knight in Another World                                                            | 2022 | 71    | [SeaDex](https://releases.moe/132474/), [AniList](https://anilist.co/anime/132474) |
 | 111 | A Couple of Cuckoos                                                                         | 2022 | 67    | [SeaDex](https://releases.moe/132052/), [AniList](https://anilist.co/anime/132052) |
 | 112 | Attack on Titan: Lost Girls                                                                 | 2017 | 76    | [SeaDex](https://releases.moe/99634/), [AniList](https://anilist.co/anime/99634)   |
 | 113 | Vermeil in Gold                                                                             | 2022 | 67    | [SeaDex](https://releases.moe/146210/), [AniList](https://anilist.co/anime/146210) |
@@ -156,8 +156,8 @@
 | 153 | Is the Order a Rabbit?                                                                      | 2014 | 73    | [SeaDex](https://releases.moe/20517/), [AniList](https://anilist.co/anime/20517)   |
 | 154 | A Certain Scientific Accelerator                                                            | 2019 | 70    | [SeaDex](https://releases.moe/104463/), [AniList](https://anilist.co/anime/104463) |
 | 155 | Ben-To                                                                                      | 2011 | 68    | [SeaDex](https://releases.moe/10396/), [AniList](https://anilist.co/anime/10396)   |
-| 156 | The Kingdoms of Ruin                                                                        | 2023 | 61    | [SeaDex](https://releases.moe/160900/), [AniList](https://anilist.co/anime/160900) |
-| 157 | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability    | 2024 | 74    | [SeaDex](https://releases.moe/156415/), [AniList](https://anilist.co/anime/156415) |
+| 156 | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability    | 2024 | 74    | [SeaDex](https://releases.moe/156415/), [AniList](https://anilist.co/anime/156415) |
+| 157 | The Kingdoms of Ruin                                                                        | 2023 | 61    | [SeaDex](https://releases.moe/160900/), [AniList](https://anilist.co/anime/160900) |
 | 158 | Liz and the Blue Bird                                                                       | 2018 | 83    | [SeaDex](https://releases.moe/100178/), [AniList](https://anilist.co/anime/100178) |
 | 159 | Log Horizon: Destruction of the Round Table                                                 | 2021 | 69    | [SeaDex](https://releases.moe/114862/), [AniList](https://anilist.co/anime/114862) |
 | 160 | Chillin' in Another World with Level 2 Super Cheat Powers                                   | 2024 | 68    | [SeaDex](https://releases.moe/170130/), [AniList](https://anilist.co/anime/170130) |
@@ -184,25 +184,25 @@
 | 181 | Shinobi no Ittoki                                                                           | 2022 | 59    | [SeaDex](https://releases.moe/145604/), [AniList](https://anilist.co/anime/145604) |
 | 182 | Kuma Kuma Kuma Bear                                                                         | 2020 | 70    | [SeaDex](https://releases.moe/114340/), [AniList](https://anilist.co/anime/114340) |
 | 183 | Japan Sinks: 2020                                                                           | 2020 | 63    | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
-| 184 | AZUR LANE                                                                                   | 2019 | 58    | [SeaDex](https://releases.moe/104159/), [AniList](https://anilist.co/anime/104159) |
-| 185 | My Instant Death Ability is Overpowered                                                     | 2024 | 63    | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
+| 184 | My Instant Death Ability is Overpowered                                                     | 2024 | 63    | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
+| 185 | AZUR LANE                                                                                   | 2019 | 58    | [SeaDex](https://releases.moe/104159/), [AniList](https://anilist.co/anime/104159) |
 | 186 | Kemono Michi: Rise Up                                                                       | 2019 | 64    | [SeaDex](https://releases.moe/107339/), [AniList](https://anilist.co/anime/107339) |
 | 187 | Freezing                                                                                    | 2011 | 62    | [SeaDex](https://releases.moe/9367/), [AniList](https://anilist.co/anime/9367)     |
 | 188 | Magia Record: Puella Magi Madoka Magica Side Story                                          | 2020 | 65    | [SeaDex](https://releases.moe/104051/), [AniList](https://anilist.co/anime/104051) |
 | 189 | A Galaxy Next Door                                                                          | 2023 | 70    | [SeaDex](https://releases.moe/148098/), [AniList](https://anilist.co/anime/148098) |
 | 190 | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World              | 2024 | 71    | [SeaDex](https://releases.moe/164702/), [AniList](https://anilist.co/anime/164702) |
-| 191 | The Ancient Magus' Bride Season 2                                                           | 2023 | 78    | [SeaDex](https://releases.moe/154364/), [AniList](https://anilist.co/anime/154364) |
+| 191 | The Ancient Magus' Bride Season 2                                                           | 2023 | 77    | [SeaDex](https://releases.moe/154364/), [AniList](https://anilist.co/anime/154364) |
 | 192 | Sky Wizards Academy                                                                         | 2015 | 58    | [SeaDex](https://releases.moe/20774/), [AniList](https://anilist.co/anime/20774)   |
 | 193 | The Ryuo's Work is Never Done!                                                              | 2018 | 65    | [SeaDex](https://releases.moe/99507/), [AniList](https://anilist.co/anime/99507)   |
-| 194 | Date A Live Mayuri Judgement                                                                | 2015 | 70    | [SeaDex](https://releases.moe/20741/), [AniList](https://anilist.co/anime/20741)   |
-| 195 | Umamusume: Pretty Derby                                                                     | 2018 | 72    | [SeaDex](https://releases.moe/98514/), [AniList](https://anilist.co/anime/98514)   |
+| 194 | Umamusume: Pretty Derby                                                                     | 2018 | 72    | [SeaDex](https://releases.moe/98514/), [AniList](https://anilist.co/anime/98514)   |
+| 195 | Date A Live Mayuri Judgement                                                                | 2015 | 70    | [SeaDex](https://releases.moe/20741/), [AniList](https://anilist.co/anime/20741)   |
 | 196 | Reborn as a Vending Machine, I Now Wander the Dungeon                                       | 2023 | 63    | [SeaDex](https://releases.moe/153360/), [AniList](https://anilist.co/anime/153360) |
 | 197 | Hyouka: What Should Be Had                                                                  | 2012 | 71    | [SeaDex](https://releases.moe/13469/), [AniList](https://anilist.co/anime/13469)   |
 | 198 | A Returner's Magic Should Be Special                                                        | 2023 | 70    | [SeaDex](https://releases.moe/163142/), [AniList](https://anilist.co/anime/163142) |
 | 199 | Magical Warfare                                                                             | 2014 | 54    | [SeaDex](https://releases.moe/19769/), [AniList](https://anilist.co/anime/19769)   |
 | 200 | My Hero Academia: Make It! Do-or-Die Survival Training                                      | 2020 | 70    | [SeaDex](https://releases.moe/122349/), [AniList](https://anilist.co/anime/122349) |
-| 201 | In/Spectre 2                                                                                | 2023 | 73    | [SeaDex](https://releases.moe/126529/), [AniList](https://anilist.co/anime/126529) |
-| 202 | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | 2024 | 73    | [SeaDex](https://releases.moe/163292/), [AniList](https://anilist.co/anime/163292) |
+| 201 | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | 2024 | 73    | [SeaDex](https://releases.moe/163292/), [AniList](https://anilist.co/anime/163292) |
+| 202 | In/Spectre 2                                                                                | 2023 | 73    | [SeaDex](https://releases.moe/126529/), [AniList](https://anilist.co/anime/126529) |
 | 203 | Blue Exorcist -Shimane Illuminati Saga-                                                     | 2024 | 70    | [SeaDex](https://releases.moe/158931/), [AniList](https://anilist.co/anime/158931) |
 | 204 | In the Land of Leadale                                                                      | 2022 | 68    | [SeaDex](https://releases.moe/130166/), [AniList](https://anilist.co/anime/130166) |
 | 205 | Ranma ½                                                                                     | 1989 | 75    | [SeaDex](https://releases.moe/210/), [AniList](https://anilist.co/anime/210)       |
@@ -263,8 +263,8 @@
 | 260 | NANBAKA - Part Two                                                                          | 2017 | 73    | [SeaDex](https://releases.moe/97875/), [AniList](https://anilist.co/anime/97875)   |
 | 261 | Yuyushiki                                                                                   | 2013 | 72    | [SeaDex](https://releases.moe/15911/), [AniList](https://anilist.co/anime/15911)   |
 | 262 | Attack on Titan ~Chronicle~                                                                 | 2020 | 76    | [SeaDex](https://releases.moe/119113/), [AniList](https://anilist.co/anime/119113) |
-| 263 | Girlish Number                                                                              | 2016 | 67    | [SeaDex](https://releases.moe/21627/), [AniList](https://anilist.co/anime/21627)   |
-| 264 | Alice & Zoroku                                                                              | 2017 | 68    | [SeaDex](https://releases.moe/97821/), [AniList](https://anilist.co/anime/97821)   |
+| 263 | Alice & Zoroku                                                                              | 2017 | 68    | [SeaDex](https://releases.moe/97821/), [AniList](https://anilist.co/anime/97821)   |
+| 264 | Girlish Number                                                                              | 2016 | 67    | [SeaDex](https://releases.moe/21627/), [AniList](https://anilist.co/anime/21627)   |
 | 265 | The Vampire Dies in No Time                                                                 | 2021 | 70    | [SeaDex](https://releases.moe/118103/), [AniList](https://anilist.co/anime/118103) |
 | 266 | Date A Bullet: Dead or Bullet & Nightmare or Queen                                          | 2020 | 73    | [SeaDex](https://releases.moe/111852/), [AniList](https://anilist.co/anime/111852) |
 | 267 | Hinomaru Sumo                                                                               | 2018 | 72    | [SeaDex](https://releases.moe/100990/), [AniList](https://anilist.co/anime/100990) |
@@ -331,8 +331,8 @@
 | 328 | The Magnificent KOTOBUKI                                                                    | 2019 | 65    | [SeaDex](https://releases.moe/104253/), [AniList](https://anilist.co/anime/104253) |
 | 329 | Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-                 | 2021 | 74    | [SeaDex](https://releases.moe/136344/), [AniList](https://anilist.co/anime/136344) |
 | 330 | URAHARA                                                                                     | 2017 | 53    | [SeaDex](https://releases.moe/98513/), [AniList](https://anilist.co/anime/98513)   |
-| 331 | Dropkick on My Devil! Episode 12                                                            | 2018 | 70    | [SeaDex](https://releases.moe/104278/), [AniList](https://anilist.co/anime/104278) |
-| 332 | Carnival Phantasm: HibiChika Special                                                        | 2012 | 72    | [SeaDex](https://releases.moe/15927/), [AniList](https://anilist.co/anime/15927)   |
+| 331 | Carnival Phantasm: HibiChika Special                                                        | 2012 | 72    | [SeaDex](https://releases.moe/15927/), [AniList](https://anilist.co/anime/15927)   |
+| 332 | Dropkick on My Devil! Episode 12                                                            | 2018 | 70    | [SeaDex](https://releases.moe/104278/), [AniList](https://anilist.co/anime/104278) |
 | 333 | Natsume's Book of Friends Season 6 Specials                                                 | 2017 | 81    | [SeaDex](https://releases.moe/100283/), [AniList](https://anilist.co/anime/100283) |
 | 334 | The Vampire Dies in No Time Season 2                                                        | 2023 | 73    | [SeaDex](https://releases.moe/142914/), [AniList](https://anilist.co/anime/142914) |
 | 335 | Aesthetica of a Rogue Hero Specials                                                         | 2012 | 60    | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
@@ -350,8 +350,8 @@
 | 347 | Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.                                      | 2014 | 66    | [SeaDex](https://releases.moe/20598/), [AniList](https://anilist.co/anime/20598)   |
 | 348 | PERSONA5 the Animation: Stars and Ours                                                      | 2019 | 68    | [SeaDex](https://releases.moe/106896/), [AniList](https://anilist.co/anime/106896) |
 | 349 | Stella of the Theater: World Dai Star                                                       | 2023 | 72    | [SeaDex](https://releases.moe/157765/), [AniList](https://anilist.co/anime/157765) |
-| 350 | Buddy Complex: Into the Skies of Tomorrow                                                   | 2014 | 69    | [SeaDex](https://releases.moe/20685/), [AniList](https://anilist.co/anime/20685)   |
-| 351 | Valkyrie Drive: Mermaid Specials                                                            | 2015 | 57    | [SeaDex](https://releases.moe/21413/), [AniList](https://anilist.co/anime/21413)   |
+| 350 | Valkyrie Drive: Mermaid Specials                                                            | 2015 | 57    | [SeaDex](https://releases.moe/21413/), [AniList](https://anilist.co/anime/21413)   |
+| 351 | Buddy Complex: Into the Skies of Tomorrow                                                   | 2014 | 69    | [SeaDex](https://releases.moe/20685/), [AniList](https://anilist.co/anime/20685)   |
 | 352 | The Girl Who Leapt Through Space                                                            | 2009 | 66    | [SeaDex](https://releases.moe/5307/), [AniList](https://anilist.co/anime/5307)     |
 | 353 | Synduality Noir Part 2                                                                      | 2024 | 70    | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
 | 354 | GARO: Divine Flame                                                                          | 2016 | 74    | [SeaDex](https://releases.moe/21426/), [AniList](https://anilist.co/anime/21426)   |
