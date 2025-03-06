@@ -35,8 +35,8 @@
 | 32  | Akashic Records of Bastard Magic Instructor                              | 2017 | 68    | [SeaDex](https://releases.moe/21700/), [AniList](https://anilist.co/anime/21700)   |
 | 33  | MUSHI-SHI                                                                | 2005 | 85    | [SeaDex](https://releases.moe/457/), [AniList](https://anilist.co/anime/457)       |
 | 34  | From the New World                                                       | 2012 | 80    | [SeaDex](https://releases.moe/13125/), [AniList](https://anilist.co/anime/13125)   |
-| 35  | Ponyo                                                                    | 2008 | 79    | [SeaDex](https://releases.moe/2890/), [AniList](https://anilist.co/anime/2890)     |
-| 36  | Food Wars! The Fourth Plate                                              | 2019 | 76    | [SeaDex](https://releases.moe/109963/), [AniList](https://anilist.co/anime/109963) |
+| 35  | Food Wars! The Fourth Plate                                              | 2019 | 76    | [SeaDex](https://releases.moe/109963/), [AniList](https://anilist.co/anime/109963) |
+| 36  | Ponyo                                                                    | 2008 | 79    | [SeaDex](https://releases.moe/2890/), [AniList](https://anilist.co/anime/2890)     |
 | 37  | K                                                                        | 2012 | 70    | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
 | 38  | GAMERS!                                                                  | 2017 | 65    | [SeaDex](https://releases.moe/97766/), [AniList](https://anilist.co/anime/97766)   |
 | 39  | BLEACH: Thousand-Year Blood War                                          | 2022 | 88    | [SeaDex](https://releases.moe/116674/), [AniList](https://anilist.co/anime/116674) |
@@ -56,11 +56,11 @@
 | 53  | Katanagatari                                                             | 2010 | 81    | [SeaDex](https://releases.moe/6594/), [AniList](https://anilist.co/anime/6594)     |
 | 54  | Re:CREATORS                                                              | 2017 | 73    | [SeaDex](https://releases.moe/97980/), [AniList](https://anilist.co/anime/97980)   |
 | 55  | Hellsing                                                                 | 2001 | 71    | [SeaDex](https://releases.moe/270/), [AniList](https://anilist.co/anime/270)       |
-| 56  | Rokka -Braves of the Six Flowers-                                        | 2015 | 70    | [SeaDex](https://releases.moe/20955/), [AniList](https://anilist.co/anime/20955)   |
-| 57  | Shangri-La Frontier                                                      | 2023 | 80    | [SeaDex](https://releases.moe/151970/), [AniList](https://anilist.co/anime/151970) |
+| 56  | Shangri-La Frontier                                                      | 2023 | 80    | [SeaDex](https://releases.moe/151970/), [AniList](https://anilist.co/anime/151970) |
+| 57  | Rokka -Braves of the Six Flowers-                                        | 2015 | 70    | [SeaDex](https://releases.moe/20955/), [AniList](https://anilist.co/anime/20955)   |
 | 58  | Bottom-Tier Character Tomozaki                                           | 2021 | 70    | [SeaDex](https://releases.moe/112443/), [AniList](https://anilist.co/anime/112443) |
 | 59  | Strike the Blood                                                         | 2013 | 66    | [SeaDex](https://releases.moe/18277/), [AniList](https://anilist.co/anime/18277)   |
-| 60  | We Never Learn: BOKUBEN                                                  | 2019 | 70    | [SeaDex](https://releases.moe/103900/), [AniList](https://anilist.co/anime/103900) |
+| 60  | We Never Learn: BOKUBEN                                                  | 2019 | 71    | [SeaDex](https://releases.moe/103900/), [AniList](https://anilist.co/anime/103900) |
 | 61  | Sankarea: Undying Love                                                   | 2012 | 70    | [SeaDex](https://releases.moe/11499/), [AniList](https://anilist.co/anime/11499)   |
 | 62  | Shiki                                                                    | 2010 | 75    | [SeaDex](https://releases.moe/7724/), [AniList](https://anilist.co/anime/7724)     |
 | 63  | NEW GAME!                                                                | 2016 | 74    | [SeaDex](https://releases.moe/21455/), [AniList](https://anilist.co/anime/21455)   |
@@ -329,7 +329,7 @@
 | 326 | Katana Maidens ~ Tomoshibi                                               | 2020 | 63    | [SeaDex](https://releases.moe/114030/), [AniList](https://anilist.co/anime/114030) |
 | 327 | El Hazard: The Alternative World                                         | 1998 | 64    | [SeaDex](https://releases.moe/115/), [AniList](https://anilist.co/anime/115)       |
 | 328 | Shounen Maid Special                                                     | 2016 | 65    | [SeaDex](https://releases.moe/87538/), [AniList](https://anilist.co/anime/87538)   |
-| 329 | Kikou Kai Galient                                                        | 1984 | 63    | [SeaDex](https://releases.moe/5153/), [AniList](https://anilist.co/anime/5153)     |
+| 329 | Kikou Kai Galient                                                        | 1984 | 64    | [SeaDex](https://releases.moe/5153/), [AniList](https://anilist.co/anime/5153)     |
 | 330 | Campus Special Investigator Hikaruon                                     | 1987 | 55    | [SeaDex](https://releases.moe/1927/), [AniList](https://anilist.co/anime/1927)     |
 | 331 | Rio: Rainbow Gate Special                                                | 2011 | 53    | [SeaDex](https://releases.moe/10301/), [AniList](https://anilist.co/anime/10301)   |
 | 332 | Moyashimon: Kin Gekijou Deluxe                                           | 2007 | 62    | [SeaDex](https://releases.moe/3618/), [AniList](https://anilist.co/anime/3618)     |
