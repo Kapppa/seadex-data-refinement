@@ -2,8 +2,8 @@ SeaDex Data Refinement
 ======================
 
 SeaDex Data Refinement[^1], brought to you by Lumon Industries[^2], 
-identifies specific [SeaDex](https://releases.moe) entries that are currently lacking in one way or another.
-You can use this page as a resource to help you contribute to SeaDex.
+provides information and identifies specific [SeaDex](https://releases.moe) entries that are currently lacking in one way or another.
+You can use this page as a resource to stay informed and help contribute to SeaDex.
 
 If you notice any entries that seem to be in the wrong category, please report them [here](https://github.com/Ravencentric/seadex-data-refinement/issues).
 For any other issues with SeaDex, please report them to the [SeaDex Discord server](https://discord.com/invite/jPeeZewWRn).
@@ -14,6 +14,7 @@ For any other issues with SeaDex, please report them to the [SeaDex Discord serv
 ```{toctree}
 :hidden:
 
+size-statistics.md
 unmuxed.md
 no-comparisons.md
 marked-incomplete.md
@@ -22,6 +23,8 @@ private-tracker-only.md
 ```
 
 ## Overview
+
+* {doc}`size-statistics`: Statistics about SeaDex's size.
 
 * {doc}`unmuxed`: SeaDex entries that outline the recommended combinations for muxing to create the ideal release. Check out the [tutorial](https://thewiki.moe/advanced/muxing/) if you want to mux these releases.
 

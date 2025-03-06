@@ -66,13 +66,16 @@ def build_docs(session: nox.Session) -> None:
         if CI:
             time.sleep(30)
 
-    session.run("sdr", "unmuxed", "--outfile", src / "unmuxed.md", *session.posargs)
+    session.run("sdr", "get-entries", "unmuxed", "--outfile", src / "unmuxed.md", *session.posargs)
     sleep()
-    session.run("sdr", "no-comparisons", "--outfile", src / "no-comparisons.md", *session.posargs)
+    session.run("sdr", "get-entries", "no-comparisons", "--outfile", src / "no-comparisons.md", *session.posargs)
     sleep()
-    session.run("sdr", "marked-incomplete", "--outfile", src / "marked-incomplete.md", *session.posargs)
+    session.run("sdr", "get-entries", "marked-incomplete", "--outfile", src / "marked-incomplete.md", *session.posargs)
     sleep()
-    session.run("sdr", "public-non-nyaa", "--outfile", src / "public-non-nyaa.md", *session.posargs)
+    session.run("sdr", "get-entries", "public-non-nyaa", "--outfile", src / "public-non-nyaa.md", *session.posargs)
     sleep()
-    session.run("sdr", "private-tracker-only", "--outfile", src / "private-tracker-only.md", *session.posargs)
+    session.run(
+        "sdr", "get-entries", "private-tracker-only", "--outfile", src / "private-tracker-only.md", *session.posargs
+    )
+    session.run("sdr", "size-stats", "--outfile", src / "size-statistics.md", *session.posargs)
     session.run("sphinx-build", "-M", "html", src, build)

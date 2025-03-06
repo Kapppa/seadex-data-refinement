@@ -7,6 +7,7 @@ import seadex
 from cyclopts import App, Group
 
 from .core import MediaEntryCollection
+from .size import SeaDexSizeCalculator
 
 app = App("SeaDex Data Refinement", help_format="markdown")
 
@@ -16,7 +17,7 @@ app["--help"].group = hidden
 app["--version"].group = hidden
 
 
-@app.default
+@app.command
 def get_entries(
     criteria: Literal["unmuxed", "no-comparisons", "marked-incomplete", "public-non-nyaa", "private-tracker-only"],
     /,
@@ -107,6 +108,24 @@ def get_entries(
         output = collection.to_json()
     else:
         output = collection.to_markdown_table(header=header)
+
+    if outfile:
+        outfile.write_text(output, encoding="utf-8")
+    else:
+        print(output)
+
+
+@app.command
+def size_stats(outfile: Path | None = None) -> None:
+    """
+    Generate a markdown report of SeaDex size statistics.
+
+    Parameters
+    ----------
+    outfile : Path | None, optional
+        Path to write the output to.
+    """
+    output = SeaDexSizeCalculator().generate_markdown_report()
 
     if outfile:
         outfile.write_text(output, encoding="utf-8")
