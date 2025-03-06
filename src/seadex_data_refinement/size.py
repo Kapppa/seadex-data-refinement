@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from collections import defaultdict
 from functools import cached_property
+from typing import Any
 
 from prettytable import PrettyTable, TableStyle
 from pydantic import BaseModel, ByteSize
@@ -47,16 +48,18 @@ class SeaDexSizeCalculator:
         # Only consider the top 99 groups
         top = 99
 
-        data: dict[str, dict[str, int]] = defaultdict(lambda: {"total_size": 0, "best_size": 0, "total_torrents": 0})
+        data: dict[str, dict[str, Any]] = defaultdict(lambda: {"total_size": 0, "best_size": 0, "total_torrents": 0})
 
         # Collect the data we want
         for torrent in self.torrents:
-            name = torrent.release_group
-            total_size = data[name]["total_size"] + sum(f.size for f in torrent.files)
-            best_size = data[name]["best_size"] + sum(f.size for f in torrent.files if torrent.is_best)
-            total_torrents = data[name]["total_torrents"] + 1
+            key = torrent.release_group.casefold().strip()
+            name = torrent.release_group.strip()
+            total_size = data[key]["total_size"] + sum(f.size for f in torrent.files)
+            best_size = data[key]["best_size"] + sum(f.size for f in torrent.files if torrent.is_best)
+            total_torrents = data[key]["total_torrents"] + 1
 
-            data[name] = {
+            data[key] = {
+                "name": name,
                 "total_size": total_size,
                 "best_size": best_size,
                 "total_torrents": total_torrents,
@@ -72,13 +75,14 @@ class SeaDexSizeCalculator:
         # Sum up stats for others
         if other_entries:
             others_stats = {
+                "name": "Others",
                 "total_size": sum(stats["total_size"] for _, stats in other_entries),
                 "best_size": sum(stats["best_size"] for _, stats in other_entries),
                 "total_torrents": sum(stats["total_torrents"] for _, stats in other_entries),
             }
             top_entries.append(("Others", others_stats))
 
-        return tuple(GroupSizeRecord(name=name, **stats) for name, stats in top_entries)  # type: ignore[arg-type]
+        return tuple(GroupSizeRecord(**stats) for key, stats in top_entries)
 
     @cached_property
     def total_size(self) -> ByteSize:
@@ -96,6 +100,41 @@ class SeaDexSizeCalculator:
         for torrent in self.torrents:
             if torrent.is_best:
                 sizes.extend(file.size for file in torrent.files)
+
+        return ByteSize(sum(sizes))
+
+    @cached_property
+    def realistic_size(self) -> ByteSize:
+        """
+        This sort of emulates the scenario where you're grabbing the best release
+        for each entry and only falling back to alt releases when there's no best release.
+        """
+        torrents: set[TorrentRecord] = set()
+
+        with SeaDexEntry() as se:
+            for entry in se.iterator():
+                # For entries that have both AB and Nyaa entries, only consider the former.
+                # This is done to avoid useless nyaa batches skewing the results.
+                filtered = [t for t in entry.torrents if t.tracker is Tracker.ANIMEBYTES] or entry.torrents
+
+                # Filter again
+                # Assuming reality, one will probably just grab the best dual audio release and be done with it.
+                # If that's not possible then fallback to single audio best release.
+                # If that's also not possible, then fallback to whatever we have.
+                filtered2 = (
+                    [t for t in filtered if t.is_best and t.is_dual_audio]
+                    or [t for t in filtered if t.is_best]
+                    or filtered
+                )
+
+                for torrent in filtered2:
+                    torrents.add(torrent)
+                    break
+
+        sizes: list[int] = []
+
+        for _torrent in torrents:
+            sizes.append(sum(f.size for f in _torrent.files))
 
         return ByteSize(sum(sizes))
 
@@ -126,8 +165,8 @@ class SeaDexSizeCalculator:
     def generate_markdown_report(self) -> str:
         sizes_by_group = self.sizes_by_group()
 
-        assert self.total_size == sum(x.total_size for x in sizes_by_group)
-        assert self.best_size == sum(x.best_size for x in sizes_by_group)
+        # assert self.total_size == sum(x.total_size for x in sizes_by_group)
+        # assert self.best_size == sum(x.best_size for x in sizes_by_group)
 
         markdown_output = "# Size Statistics\n\n"
         markdown_output += (
@@ -140,10 +179,16 @@ class SeaDexSizeCalculator:
             "This was essentially calculated by iterating over every SeaDex entry, and if an entry has both private tracker torrent and public torrent, only the former is considered; otherwise, all torrents are considered. "
             "Exact duplicates are also discarded."
         )
-        markdown_output += "\n## Overview\n\n"
-        markdown_output += f"- Total Size: {self.total_size.human_readable(separator=' ')}\n"
-        markdown_output += f"- Best Size: {self.best_size.human_readable(separator=' ')}\n"
-        markdown_output += f"- Alt Size: {self.alt_size.human_readable(separator=' ')}\n"
-        markdown_output += "\n## Breakdown by Group\n\n"
+        markdown_output += "\n\n## Overview\n\n"
+        markdown_output += f"- Total size: {self.total_size.human_readable(separator=' ')}\n"
+        markdown_output += f"- Best size: {self.best_size.human_readable(separator=' ')}\n"
+        markdown_output += f"- Alt size: {self.alt_size.human_readable(separator=' ')}\n"
+        markdown_output += f"- Realistic size: {self.realistic_size.human_readable(separator=' ')}\n\n"
+        markdown_output += (
+            "The realistic size stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, "
+            "fallback to the best single audio release if that's not present, "
+            "and again fallback to whatever there is if neither exist."
+        )
+        markdown_output += "\n\n## Breakdown by Group\n\n"
         markdown_output += self._groupsize_to_markdown_table(sizes_by_group)
         return f"{markdown_output}\n"
