@@ -35,8 +35,8 @@
 | 32  | Akashic Records of Bastard Magic Instructor                              | 2017 | 68    | [SeaDex](https://releases.moe/21700/), [AniList](https://anilist.co/anime/21700)   |
 | 33  | MUSHI-SHI                                                                | 2005 | 85    | [SeaDex](https://releases.moe/457/), [AniList](https://anilist.co/anime/457)       |
 | 34  | From the New World                                                       | 2012 | 80    | [SeaDex](https://releases.moe/13125/), [AniList](https://anilist.co/anime/13125)   |
-| 35  | Food Wars! The Fourth Plate                                              | 2019 | 76    | [SeaDex](https://releases.moe/109963/), [AniList](https://anilist.co/anime/109963) |
-| 36  | Ponyo                                                                    | 2008 | 79    | [SeaDex](https://releases.moe/2890/), [AniList](https://anilist.co/anime/2890)     |
+| 35  | Ponyo                                                                    | 2008 | 79    | [SeaDex](https://releases.moe/2890/), [AniList](https://anilist.co/anime/2890)     |
+| 36  | Food Wars! The Fourth Plate                                              | 2019 | 76    | [SeaDex](https://releases.moe/109963/), [AniList](https://anilist.co/anime/109963) |
 | 37  | K                                                                        | 2012 | 70    | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
 | 38  | GAMERS!                                                                  | 2017 | 65    | [SeaDex](https://releases.moe/97766/), [AniList](https://anilist.co/anime/97766)   |
 | 39  | BLEACH: Thousand-Year Blood War                                          | 2022 | 88    | [SeaDex](https://releases.moe/116674/), [AniList](https://anilist.co/anime/116674) |
