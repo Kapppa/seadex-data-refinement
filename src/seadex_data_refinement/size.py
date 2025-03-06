@@ -115,9 +115,9 @@ class SeaDexSizeCalculator:
                 [
                     rank,
                     entry.name,
-                    entry.total_size.human_readable(),
-                    f"{entry.best_size.human_readable()} ({entry.best_size_percentage:.2f}%)",
-                    f"{entry.total_torrents} (~{entry.average_torrent_size.human_readable()} each)",
+                    entry.total_size.human_readable(separator=" "),
+                    f"{entry.best_size.human_readable(separator=' ')} ({entry.best_size_percentage:.2f}%)",
+                    f"{entry.total_torrents} (~{entry.average_torrent_size.human_readable(separator=' ')} each)",
                 ],
             )
 
@@ -129,11 +129,21 @@ class SeaDexSizeCalculator:
         assert self.total_size == sum(x.total_size for x in sizes_by_group)
         assert self.best_size == sum(x.best_size for x in sizes_by_group)
 
-        markdown_output = "# SeaDex Size Statistics\n"
+        markdown_output = "# Size Statistics\n\n"
+        markdown_output += (
+            "These statistics are NOT 100% accurate, but they likely are as realistic as (reasonably) possible.\n\n"
+            'The definition of an entry (or a "complete" torrent) is quite murky. '
+            "SeaDex defines it as an AniList entry, but every private tracker has their own definition (typically, they follow AniDB or TVDB), while Nyaa does not enforce a specific definition. "
+            "Every release can quite possibly have slightly different torrents across trackers, or a single torrent on Nyaa can include several SeaDex entries. "
+            "A Nyaa torrent might contain an entire franchise, but only a single file out of it might be relevant.\n\n"
+            "All of this and more means that we need to settle on a method to calculate these statistics. "
+            "This was essentially calculated by iterating over every SeaDex entry, and if an entry has both private tracker torrent and public torrent, only the former is considered; otherwise, all torrents are considered. "
+            "Exact duplicates are also discarded."
+        )
         markdown_output += "\n## Overview\n\n"
-        markdown_output += f"- Total Size: {self.total_size.human_readable()}\n"
-        markdown_output += f"- Best Size: {self.best_size.human_readable()}\n"
-        markdown_output += f"- Alt Size: {self.alt_size.human_readable()}\n"
+        markdown_output += f"- Total Size: {self.total_size.human_readable(separator=' ')}\n"
+        markdown_output += f"- Best Size: {self.best_size.human_readable(separator=' ')}\n"
+        markdown_output += f"- Alt Size: {self.alt_size.human_readable(separator=' ')}\n"
         markdown_output += "\n## Breakdown by Group\n\n"
         markdown_output += self._groupsize_to_markdown_table(sizes_by_group)
         return f"{markdown_output}\n"
