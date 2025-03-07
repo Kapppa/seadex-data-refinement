@@ -7,6 +7,7 @@ import seadex
 from cyclopts import App, Group
 
 from .core import MediaEntryCollection
+from .leaderboard import SeaDexLeaderboard
 from .size import SeaDexSizeCalculator
 
 app = App("SeaDex Data Refinement", help_format="markdown")
@@ -126,6 +127,24 @@ def size_stats(outfile: Path | None = None) -> None:
         Path to write the output to.
     """
     output = SeaDexSizeCalculator().generate_markdown_report()
+
+    if outfile:
+        outfile.write_text(output, encoding="utf-8")
+    else:
+        print(output)
+
+
+@app.command
+def leaderboards(outfile: Path | None = None) -> None:
+    """
+    Generate a markdown leaderboard for SeaDex entries.
+
+    Parameters
+    ----------
+    outfile : Path | None, optional
+        Path to write the output to.
+    """
+    output = SeaDexLeaderboard().generate_markdown_report()
 
     if outfile:
         outfile.write_text(output, encoding="utf-8")

@@ -14,6 +14,7 @@ For any other issues with SeaDex, please report them to the [SeaDex Discord serv
 ```{toctree}
 :hidden:
 
+leaderboards.md
 size-statistics.md
 unmuxed.md
 no-comparisons.md
@@ -23,6 +24,8 @@ private-tracker-only.md
 ```
 
 ## Overview
+
+* {doc}`leaderboards`: Leaderboards for SeaDex entries.
 
 * {doc}`size-statistics`: Statistics about SeaDex's size.
 
