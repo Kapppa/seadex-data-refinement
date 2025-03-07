@@ -50,21 +50,19 @@ class SeaDexSizeCalculator:
         return tuple(torrents)
 
     def _sizes_by_group(self) -> tuple[GroupSizeRecord, ...]:
-        # Only consider the top 99 groups
-        top = 50
+        # Only consider the top 49 groups
+        top = 49
 
         data: dict[str, dict[str, Any]] = defaultdict(lambda: {"total_size": 0, "best_size": 0, "total_torrents": 0})
 
         # Collect the data we want
         for torrent in self.torrents:
-            key = torrent.release_group.casefold().strip()
             name = torrent.release_group.strip()
-            total_size = data[key]["total_size"] + sum(f.size for f in torrent.files)
-            best_size = data[key]["best_size"] + sum(f.size for f in torrent.files if torrent.is_best)
-            total_torrents = data[key]["total_torrents"] + 1
+            total_size = data[name]["total_size"] + sum(f.size for f in torrent.files)
+            best_size = data[name]["best_size"] + sum(f.size for f in torrent.files if torrent.is_best)
+            total_torrents = data[name]["total_torrents"] + 1
 
-            data[key] = {
-                "name": name,
+            data[name] = {
                 "total_size": total_size,
                 "best_size": best_size,
                 "total_torrents": total_torrents,
@@ -80,14 +78,13 @@ class SeaDexSizeCalculator:
         # Sum up stats for others
         if other_entries:
             others_stats = {
-                "name": "Others",
                 "total_size": sum(stats["total_size"] for _, stats in other_entries),
                 "best_size": sum(stats["best_size"] for _, stats in other_entries),
                 "total_torrents": sum(stats["total_torrents"] for _, stats in other_entries),
             }
             top_entries.append(("Others", others_stats))
 
-        return tuple(GroupSizeRecord(**stats) for key, stats in top_entries)
+        return tuple(GroupSizeRecord(name=name, **stats) for name, stats in top_entries)
 
     @cached_property
     def total_size(self) -> ByteSize:
