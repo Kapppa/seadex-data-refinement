@@ -28,10 +28,9 @@ docs = [
 dev = [
     "mypy>=1.15.0",
     "nox>=2025.2.9",
-    "ruff>=0.9.6",
-    { include-group = "docs" }
+    "ruff>=0.9.9",
+    { include-group = "docs" },
 ]
-
 
 [tool.ruff]
 line-length = 120

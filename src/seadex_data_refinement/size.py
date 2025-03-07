@@ -6,7 +6,7 @@ from typing import Any
 
 from prettytable import PrettyTable, TableStyle
 from pydantic import BaseModel, ByteSize
-from seadex import SeaDexEntry, TorrentRecord, Tracker
+from seadex import SeaDexEntry, TorrentRecord
 
 
 class GroupSizeRecord(BaseModel):
@@ -37,16 +37,21 @@ class SeaDexSizeCalculator:
 
         with SeaDexEntry() as se:
             for entry in se.iterator():
-                # For entries that have both AB and Nyaa entries, only consider the former.
-                # This is done to avoid useless nyaa batches skewing the results.
-                filtered = [t for t in entry.torrents if t.tracker is Tracker.ANIMEBYTES] or entry.torrents
-                torrents.update(filtered)
+                unique_groups = {t.release_group for t in entry.torrents}
+                for group in unique_groups:
+                    # For every group in an entry, that has both a PT and Public release,
+                    # only consider the PT release. If a group does not have a PT release,
+                    # then we fallback to public releases.
+                    filtered = [t for t in entry.torrents if t.release_group == group and t.tracker.is_private()] or [
+                        t for t in entry.torrents if t.release_group == group
+                    ]
+                    torrents.update(filtered)
 
         return tuple(torrents)
 
-    def sizes_by_group(self) -> tuple[GroupSizeRecord, ...]:
+    def _sizes_by_group(self) -> tuple[GroupSizeRecord, ...]:
         # Only consider the top 99 groups
-        top = 99
+        top = 50
 
         data: dict[str, dict[str, Any]] = defaultdict(lambda: {"total_size": 0, "best_size": 0, "total_torrents": 0})
 
@@ -113,21 +118,20 @@ class SeaDexSizeCalculator:
 
         with SeaDexEntry() as se:
             for entry in se.iterator():
-                # For entries that have both AB and Nyaa entries, only consider the former.
-                # This is done to avoid useless nyaa batches skewing the results.
-                filtered = [t for t in entry.torrents if t.tracker is Tracker.ANIMEBYTES] or entry.torrents
-
-                # Filter again
-                # Assuming reality, one will probably just grab the best dual audio release and be done with it.
-                # If that's not possible then fallback to single audio best release.
-                # If that's also not possible, then fallback to whatever we have.
-                filtered2 = (
-                    [t for t in filtered if t.is_best and t.is_dual_audio]
-                    or [t for t in filtered if t.is_best]
-                    or filtered
+                filtered = (
+                    # 1. Best release with dual audio from private tracker
+                    [t for t in entry.torrents if t.is_best and t.is_dual_audio and t.tracker.is_private()]
+                    # 2. Best release with dual audio from any tracker
+                    or [t for t in entry.torrents if t.is_best and t.is_dual_audio]
+                    # 3. Best release from private tracker
+                    or [t for t in entry.torrents if t.is_best and t.tracker.is_private()]
+                    # 4. Best release from any tracker
+                    or [t for t in entry.torrents if t.is_best]
+                    # 5. Any available release
+                    or entry.torrents
                 )
 
-                for torrent in filtered2:
+                for torrent in filtered:
                     torrents.add(torrent)
                     break
 
@@ -163,7 +167,7 @@ class SeaDexSizeCalculator:
         return table.get_formatted_string()
 
     def generate_markdown_report(self) -> str:
-        sizes_by_group = self.sizes_by_group()
+        sizes_by_group = self._sizes_by_group()
 
         # assert self.total_size == sum(x.total_size for x in sizes_by_group)
         # assert self.best_size == sum(x.best_size for x in sizes_by_group)
@@ -180,10 +184,10 @@ class SeaDexSizeCalculator:
             "Exact duplicates are also discarded."
         )
         markdown_output += "\n\n## Overview\n\n"
-        markdown_output += f"- Total size: {self.total_size.human_readable(separator=' ')}\n"
-        markdown_output += f"- Best size: {self.best_size.human_readable(separator=' ')}\n"
-        markdown_output += f"- Alt size: {self.alt_size.human_readable(separator=' ')}\n"
-        markdown_output += f"- Realistic size: {self.realistic_size.human_readable(separator=' ')}\n\n"
+        markdown_output += f"- Total size: `{self.total_size.human_readable(separator=' ')}`\n"
+        markdown_output += f"- Best size: `{self.best_size.human_readable(separator=' ')}`\n"
+        markdown_output += f"- Alt size: `{self.alt_size.human_readable(separator=' ')}`\n"
+        markdown_output += f"- Realistic size: `{self.realistic_size.human_readable(separator=' ')}`\n\n"
         markdown_output += (
             "The realistic size stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, "
             "fallback to the best single audio release if that's not present, "
