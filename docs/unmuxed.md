@@ -54,12 +54,12 @@
 | 51  | Blood Lad                                                                | 2013 | 69    | [SeaDex](https://releases.moe/11633/), [AniList](https://anilist.co/anime/11633)   |
 | 52  | Katanagatari                                                             | 2010 | 81    | [SeaDex](https://releases.moe/6594/), [AniList](https://anilist.co/anime/6594)     |
 | 53  | Re:CREATORS                                                              | 2017 | 73    | [SeaDex](https://releases.moe/97980/), [AniList](https://anilist.co/anime/97980)   |
-| 54  | Hellsing                                                                 | 2001 | 71    | [SeaDex](https://releases.moe/270/), [AniList](https://anilist.co/anime/270)       |
-| 55  | Shangri-La Frontier                                                      | 2023 | 80    | [SeaDex](https://releases.moe/151970/), [AniList](https://anilist.co/anime/151970) |
+| 54  | Shangri-La Frontier                                                      | 2023 | 80    | [SeaDex](https://releases.moe/151970/), [AniList](https://anilist.co/anime/151970) |
+| 55  | Hellsing                                                                 | 2001 | 71    | [SeaDex](https://releases.moe/270/), [AniList](https://anilist.co/anime/270)       |
 | 56  | Rokka -Braves of the Six Flowers-                                        | 2015 | 70    | [SeaDex](https://releases.moe/20955/), [AniList](https://anilist.co/anime/20955)   |
 | 57  | Bottom-Tier Character Tomozaki                                           | 2021 | 70    | [SeaDex](https://releases.moe/112443/), [AniList](https://anilist.co/anime/112443) |
 | 58  | Strike the Blood                                                         | 2013 | 66    | [SeaDex](https://releases.moe/18277/), [AniList](https://anilist.co/anime/18277)   |
-| 59  | We Never Learn: BOKUBEN                                                  | 2019 | 71    | [SeaDex](https://releases.moe/103900/), [AniList](https://anilist.co/anime/103900) |
+| 59  | We Never Learn: BOKUBEN                                                  | 2019 | 70    | [SeaDex](https://releases.moe/103900/), [AniList](https://anilist.co/anime/103900) |
 | 60  | Sankarea: Undying Love                                                   | 2012 | 70    | [SeaDex](https://releases.moe/11499/), [AniList](https://anilist.co/anime/11499)   |
 | 61  | Shiki                                                                    | 2010 | 75    | [SeaDex](https://releases.moe/7724/), [AniList](https://anilist.co/anime/7724)     |
 | 62  | NEW GAME!                                                                | 2016 | 74    | [SeaDex](https://releases.moe/21455/), [AniList](https://anilist.co/anime/21455)   |
