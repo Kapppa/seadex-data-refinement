@@ -68,5 +68,4 @@ The realistic size stat tries to emulate a scenario where a user will likely dow
 | 47   | FraMeSToR        | 456.6 GiB  | 456.6 GiB (100.00%) | 9 (~50.7 GiB each)    |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | A&C              | 401.6 GiB  | 375.0 GiB (93.37%)  | 2 (~200.8 GiB each)   |
-| 50   | Pog42            | 386.2 GiB  | 218.1 GiB (56.47%)  | 28 (~13.8 GiB each)   |
-| 51   | Others           | 26.5 TiB   | 15.0 TiB (56.69%)   | 1397 (~19.4 GiB each) |
+| 50   | Others           | 26.8 TiB   | 15.2 TiB (56.69%)   | 1425 (~19.3 GiB each) |
