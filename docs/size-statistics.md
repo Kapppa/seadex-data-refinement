@@ -4,23 +4,21 @@ These statistics are NOT 100% accurate, but they likely are as realistic as (rea
 
 The definition of an entry (or a "complete" torrent) is quite murky. SeaDex defines it as an AniList entry, but every private tracker has their own definition (typically, they follow AniDB or TVDB), while Nyaa does not enforce a specific definition. Every release can quite possibly have slightly different torrents across trackers, or a single torrent on Nyaa can include several SeaDex entries. A Nyaa torrent might contain an entire franchise, but only a single file out of it might be relevant.
 
-All of this and more means that we need to settle on a method to calculate these statistics. This was essentially calculated by iterating over every SeaDex entry, and if an entry has both private tracker torrent and public torrent from the same group, only the former is considered; otherwise, all torrents are considered. The `total_entries` metric counts how many times a group appears across entries, with each group counted up to twice per entry—once for best torrents and once for alt torrents. This avoids skewing results from entries with multiple torrents (e.g., a single entry with 12 torrents counts as one for `total_entries`).Exact duplicates are also discarded.
+All of this and more means that we need to settle on a method to calculate these statistics. This was essentially calculated by iterating over every SeaDex entry, and if an entry has both private tracker torrent and public torrent from the same group, only the former is considered; otherwise, all torrents are considered. The `total_entries` metric counts how many times a group appears across entries, with each group counted up to twice per entry—once for best torrents and once for alt torrents. This avoids skewing results from entries with multiple torrents (e.g., a single entry with 12 torrents counts as one for `total_entries`). Exact duplicates are also discarded.
 
 ## Overview
 
 - Total size: `87.8 TiB`
 - Best size: `63.8 TiB`
 - Alt size: `24.0 TiB`
-- Realistic size: `76.1 TiB`
+- Realistic size: `67.5 TiB`
 
-- Realistic size (Public only): `15.1 TiB`
+The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
-The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, fallback to the best single audio release if that's not present, and again fallback to whatever there is if neither exist.
-The `Realistic size (Public only)` is the same scenario with the added constraint being the user only has access to public torrents.
 
 ## Breakdown by Group
 
-| Rank | Group            | Total Size | Best Size           | Total Torrents        |
+| Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 13.9 TiB   | 11.7 TiB (84.33%)   | 177 (~80.4 GiB each)  |
 | 2    | sam              | 3.7 TiB    | 3.4 TiB (90.32%)    | 131 (~29.1 GiB each)  |
