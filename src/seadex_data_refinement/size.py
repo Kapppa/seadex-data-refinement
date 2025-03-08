@@ -184,7 +184,7 @@ class SeaDexSizeCalculator:
             "The `total_entries` metric counts how many times a group appears across entries, "
             "with each group counted up to twice per entry—once for best torrents and once for alt torrents. "
             "This avoids skewing results from entries with multiple torrents "
-            "(e.g., a single entry with 12 torrents counts as one for `total_entries`)."
+            "(e.g., a single entry with 12 torrents counts as one for `total_entries`). "
             "Exact duplicates are also discarded."
         )
         markdown_output += "\n\n## Overview\n\n"
