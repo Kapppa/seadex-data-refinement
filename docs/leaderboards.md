@@ -126,6 +126,6 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | sam              | 13    |
 | 21   | IK               | 13    |
 | 22   | Erai-raws        | 12    |
-| 23   | Asakura          | 12    |
-| 24   | NH               | 12    |
+| 23   | NH               | 12    |
+| 24   | Asakura          | 12    |
 | 25   | CyC              | 11    |

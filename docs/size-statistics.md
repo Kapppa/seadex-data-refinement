@@ -11,9 +11,12 @@ All of this and more means that we need to settle on a method to calculate these
 - Total size: `87.8 TiB`
 - Best size: `63.8 TiB`
 - Alt size: `24.0 TiB`
-- Realistic size: `67.5 TiB`
+- Realistic size: `76.1 TiB`
 
-The realistic size stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, fallback to the best single audio release if that's not present, and again fallback to whatever there is if neither exist.
+- Realistic size (Public only): `15.1 TiB`
+
+The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, fallback to the best single audio release if that's not present, and again fallback to whatever there is if neither exist.
+The `Realistic size (Public only)` is the same scenario with the added constraint being the user only has access to public torrents.
 
 ## Breakdown by Group
 
