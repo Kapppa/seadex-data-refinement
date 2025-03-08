@@ -8,9 +8,9 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `87.5 TiB`
+- Total size: `87.6 TiB`
 - Best size: `63.6 TiB`
-- Alt size: `23.9 TiB`
+- Alt size: `24.0 TiB`
 - Realistic size: `67.3 TiB`
 
 The realistic size stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, fallback to the best single audio release if that's not present, and again fallback to whatever there is if neither exist.
@@ -32,7 +32,7 @@ The realistic size stat tries to emulate a scenario where a user will likely dow
 | 11   | MTBB             | 1.3 TiB    | 1.1 TiB (83.73%)    | 82 (~15.9 GiB each)   |
 | 12   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 3 (~425.3 GiB each)   |
 | 13   | NOGRP            | 1.2 TiB    | 805.4 GiB (63.40%)  | 15 (~84.7 GiB each)   |
-| 14   | SubsPlease       | 1.0 TiB    | 202.5 GiB (18.95%)  | 66 (~16.2 GiB each)   |
+| 14   | SubsPlease       | 1.1 TiB    | 202.5 GiB (18.65%)  | 67 (~16.2 GiB each)   |
 | 15   | YURI             | 895.6 GiB  | 454.2 GiB (50.71%)  | 76 (~11.8 GiB each)   |
 | 16   | smol             | 890.6 GiB  | 857.6 GiB (96.29%)  | 60 (~14.8 GiB each)   |
 | 17   | LYS1TH3A         | 887.5 GiB  | 868.0 GiB (97.80%)  | 36 (~24.7 GiB each)   |
@@ -68,4 +68,4 @@ The realistic size stat tries to emulate a scenario where a user will likely dow
 | 47   | FraMeSToR        | 456.6 GiB  | 456.6 GiB (100.00%) | 9 (~50.7 GiB each)    |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | A&C              | 401.6 GiB  | 375.0 GiB (93.37%)  | 2 (~200.8 GiB each)   |
-| 50   | Others           | 26.8 TiB   | 15.2 TiB (56.69%)   | 1425 (~19.3 GiB each) |
+| 50   | Others           | 26.9 TiB   | 15.2 TiB (56.62%)   | 1427 (~19.3 GiB each) |

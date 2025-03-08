@@ -18,7 +18,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 76    |
-| 5    | SubsPlease       | 66    |
+| 5    | SubsPlease       | 67    |
 | 6    | Drag             | 59    |
 | 7    | smol             | 53    |
 | 8    | NAN0             | 53    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 53    |
+| 🥇   | SubsPlease       | 54    |
 | 🥈   | Drag             | 43    |
 | 🥉   | -ZR-             | 39    |
 | 4    | YURI             | 37    |
@@ -125,7 +125,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | UDF              | 13    |
 | 20   | sam              | 13    |
 | 21   | IK               | 13    |
-| 22   | NH               | 12    |
-| 23   | Erai-raws        | 11    |
+| 22   | Erai-raws        | 12    |
+| 23   | NH               | 12    |
 | 24   | Asakura          | 11    |
 | 25   | CyC              | 11    |
