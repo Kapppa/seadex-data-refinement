@@ -201,7 +201,7 @@ class SeaDexSizeCalculator:
         table = PrettyTable()
         table.set_style(TableStyle.MARKDOWN)
         table.align = "l"
-        table.field_names = ["Rank", "Group", "Total Size", "Best Size", "Total Torrents"]
+        table.field_names = ["Rank", "Group", "Total Size", "Best Size", "Total Entries"]
         for rank, entry in enumerate(sizes_by_group, start=1):
             table.add_row(
                 [
