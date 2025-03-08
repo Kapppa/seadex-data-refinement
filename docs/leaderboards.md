@@ -14,11 +14,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 161   |
+| 🥇   | -ZR-             | 162   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 76    |
-| 5    | SubsPlease       | 67    |
+| 5    | SubsPlease       | 66    |
 | 6    | Drag             | 59    |
 | 7    | smol             | 53    |
 | 8    | NAN0             | 53    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 103   |
+| 🥇   | -ZR-      | 104   |
 | 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 45    |
 | 4    | LYS1TH3A  | 34    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 138   |
+| 🥇   | -ZR-      | 139   |
 | 🥈   | sam       | 118   |
 | 🥉   | MTBB      | 56    |
 | 4    | smol      | 52    |
@@ -104,9 +104,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 54    |
+| 🥇   | SubsPlease       | 53    |
 | 🥈   | Drag             | 43    |
-| 🥉   | -ZR-             | 39    |
+| 🥉   | -ZR-             | 38    |
 | 4    | YURI             | 37    |
 | 5    | LostYears        | 34    |
 | 6    | Commie           | 32    |
@@ -126,6 +126,6 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | sam              | 13    |
 | 21   | IK               | 13    |
 | 22   | Erai-raws        | 12    |
-| 23   | NH               | 12    |
-| 24   | Asakura          | 11    |
+| 23   | Asakura          | 12    |
+| 24   | NH               | 12    |
 | 25   | CyC              | 11    |
