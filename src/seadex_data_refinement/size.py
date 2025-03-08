@@ -107,12 +107,43 @@ class SeaDexSizeCalculator:
 
             for torrent in filtered:
                 torrents.add(torrent)
-                break
 
         sizes: list[int] = []
 
         for torrent in torrents:
             sizes.append(sum(f.size for f in torrent.files))
+
+        return ByteSize(sum(sizes))
+
+    @cached_property
+    def realistic_size_public_only(self) -> ByteSize:
+        """
+        Same as `realistic_size` but with an added criteria of being available on a public tracker.
+        """
+        torrents: set[TorrentRecord] = set()
+
+        for entry in self.entries:
+            filtered = (
+                # 1. Best release with dual audio from private tracker
+                [t for t in entry.torrents if t.is_best and t.is_dual_audio and t.tracker.is_private()]
+                # 2. Best release with dual audio from any tracker
+                or [t for t in entry.torrents if t.is_best and t.is_dual_audio]
+                # 3. Best release from private tracker
+                or [t for t in entry.torrents if t.is_best and t.tracker.is_private()]
+                # 4. Best release from any tracker
+                or [t for t in entry.torrents if t.is_best]
+                # 5. Any available release
+                or entry.torrents
+            )
+
+            for torrent in filtered:
+                torrents.add(torrent)
+
+        sizes: list[int] = []
+
+        for torrent in torrents:
+            if torrent.tracker.is_public():
+                sizes.append(sum(f.size for f in torrent.files))
 
         return ByteSize(sum(sizes))
 
@@ -193,9 +224,13 @@ class SeaDexSizeCalculator:
         markdown_output += f"- Alt size: `{self.alt_size.human_readable(separator=' ')}`\n"
         markdown_output += f"- Realistic size: `{self.realistic_size.human_readable(separator=' ')}`\n\n"
         markdown_output += (
-            "The realistic size stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, "
+            f"- Realistic size (Public only): `{self.realistic_size_public_only.human_readable(separator=' ')}`\n\n"
+        )
+        markdown_output += (
+            "The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, "
             "fallback to the best single audio release if that's not present, "
-            "and again fallback to whatever there is if neither exist."
+            "and again fallback to whatever there is if neither exist.\n"
+            "The `Realistic size (Public only)` is the same scenario with the added constraint being the user only has access to public torrents."
         )
 
         table = PrettyTable()
