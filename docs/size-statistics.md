@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `87.8 TiB`
-- Best size: `63.8 TiB`
+- Total size: `87.9 TiB`
+- Best size: `63.9 TiB`
 - Alt size: `24.0 TiB`
 - Realistic size: `67.5 TiB`
 
@@ -22,7 +22,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 13.9 TiB   | 11.7 TiB (84.33%)   | 177 (~80.4 GiB each)  |
 | 2    | sam              | 3.7 TiB    | 3.4 TiB (90.32%)    | 131 (~29.1 GiB each)  |
-| 3    | NAN0             | 3.6 TiB    | 3.5 TiB (97.88%)    | 53 (~68.8 GiB each)   |
+| 3    | NAN0             | 3.6 TiB    | 3.6 TiB (97.92%)    | 54 (~69.0 GiB each)   |
 | 4    | CRUCiBLE         | 2.8 TiB    | 2.8 TiB (100.00%)   | 35 (~82.9 GiB each)   |
 | 5    | TTGA             | 2.2 TiB    | 2.0 TiB (90.60%)    | 31 (~71.8 GiB each)   |
 | 6    | hchcsen          | 2.2 TiB    | 1.5 TiB (70.44%)    | 54 (~40.9 GiB each)   |

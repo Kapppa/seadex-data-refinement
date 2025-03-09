@@ -20,8 +20,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | YURI             | 76    |
 | 5    | SubsPlease       | 66    |
 | 6    | Drag             | 59    |
-| 7    | smol             | 53    |
-| 8    | NAN0             | 53    |
+| 7    | NAN0             | 54    |
+| 8    | smol             | 53    |
 | 9    | hchcsen          | 51    |
 | 10   | LostYears        | 50    |
 | 11   | KH               | 48    |
@@ -77,8 +77,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 139   |
 | 🥈   | sam       | 118   |
 | 🥉   | MTBB      | 56    |
-| 4    | smol      | 52    |
-| 5    | NAN0      | 52    |
+| 4    | NAN0      | 53    |
+| 5    | smol      | 52    |
 | 6    | Moxie     | 46    |
 | 7    | YURI      | 39    |
 | 8    | LYS1TH3A  | 35    |
