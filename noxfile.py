@@ -77,7 +77,7 @@ def build_docs(session: nox.Session) -> None:
     session.run(
         "sdr", "get-entries", "private-tracker-only", "--outfile", src / "private-tracker-only.md", *session.posargs
     )
-
+    sleep()
     session.run(
         "sdr", "get-entries", "public-tracker-only", "--outfile", src / "public-tracker-only.md", *session.posargs
     )
