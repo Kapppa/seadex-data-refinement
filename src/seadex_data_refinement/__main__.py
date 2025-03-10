@@ -114,7 +114,7 @@ def get_entries(
             with seadex.SeaDexEntry() as seadex_entry:
                 for entry in seadex_entry.iterator():
                     for torrent in entry.torrents:
-                        if torrent.tracker.is_private():
+                        if torrent.tracker.is_public():
                             release_group = torrent.release_group.casefold().strip()
                             if not any(
                                 t.tracker.is_private()
