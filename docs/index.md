@@ -40,6 +40,8 @@ public-tracker-only.md
 
 * {doc}`private-tracker-only`: SeaDex entries found only on private trackers. You can contribute by reposting them to Nyaa, but only if the private tracker allows it.
 
+* {doc}`public-tracker-only`: SeaDex entries found only on public trackers. You can contribute by reposting them to private trackers, following their rules and requirements.
+
 
 ## Running locally
 
