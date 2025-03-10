@@ -21,6 +21,7 @@ no-comparisons.md
 marked-incomplete.md
 public-non-nyaa.md
 private-tracker-only.md
+public-tracker-only.md
 ```
 
 ## Overview
