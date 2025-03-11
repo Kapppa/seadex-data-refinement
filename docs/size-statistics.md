@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `88.6 TiB`
-- Best size: `64.5 TiB`
-- Alt size: `24.1 TiB`
-- Realistic size: `68.1 TiB`
+- Total size: `88.8 TiB`
+- Best size: `64.6 TiB`
+- Alt size: `24.2 TiB`
+- Realistic size: `68.2 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -37,7 +37,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 15   | YURI             | 895.6 GiB  | 454.2 GiB (50.71%)  | 76 (~11.8 GiB each)   |
 | 16   | smol             | 890.6 GiB  | 857.6 GiB (96.29%)  | 53 (~16.8 GiB each)   |
 | 17   | LYS1TH3A         | 887.5 GiB  | 868.0 GiB (97.80%)  | 37 (~24.0 GiB each)   |
-| 18   | LostYears        | 879.0 GiB  | 328.1 GiB (37.33%)  | 52 (~16.9 GiB each)   |
+| 18   | LostYears        | 880.4 GiB  | 328.1 GiB (37.27%)  | 53 (~16.6 GiB each)   |
 | 19   | KH               | 793.5 GiB  | 290.9 GiB (36.66%)  | 48 (~16.5 GiB each)   |
 | 20   | Arid             | 785.1 GiB  | 225.6 GiB (28.73%)  | 46 (~17.1 GiB each)   |
 | 21   | ZeroBuild        | 753.7 GiB  | 656.9 GiB (87.16%)  | 17 (~44.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | FraMeSToR        | 456.6 GiB  | 456.6 GiB (100.00%) | 8 (~57.1 GiB each)    |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | A&C              | 401.6 GiB  | 375.0 GiB (93.37%)  | 3 (~133.9 GiB each)   |
-| 50   | Others           | 27.0 TiB   | 15.3 TiB (56.54%)   | 1440 (~19.2 GiB each) |
+| 50   | Others           | 27.1 TiB   | 15.3 TiB (56.56%)   | 1443 (~19.2 GiB each) |

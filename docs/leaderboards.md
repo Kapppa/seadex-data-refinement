@@ -22,7 +22,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | Drag             | 59    |
 | 7    | NAN0             | 56    |
 | 8    | smol             | 53    |
-| 9    | LostYears        | 52    |
+| 9    | LostYears        | 53    |
 | 10   | hchcsen          | 51    |
 | 11   | KH               | 48    |
 | 12   | Moxie            | 46    |
@@ -30,8 +30,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | CRUCiBLE         | 40    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | Lulu             | 34    |
-| 17   | Commie           | 33    |
-| 18   | YURASUKA         | 32    |
+| 17   | YURASUKA         | 33    |
+| 18   | Commie           | 33    |
 | 19   | Kametsu          | 31    |
 | 20   | TTGA             | 31    |
 | 21   | Bunny-Apocalypse | 30    |
@@ -108,9 +108,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | Drag             | 43    |
 | 🥉   | -ZR-             | 38    |
 | 4    | YURI             | 37    |
-| 5    | LostYears        | 36    |
-| 6    | Commie           | 32    |
-| 7    | YURASUKA         | 31    |
+| 5    | LostYears        | 37    |
+| 6    | YURASUKA         | 32    |
+| 7    | Commie           | 32    |
 | 8    | MTBB             | 30    |
 | 9    | KH               | 29    |
 | 10   | Kametsu          | 24    |
