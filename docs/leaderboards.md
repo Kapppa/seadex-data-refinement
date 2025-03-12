@@ -18,11 +18,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 76    |
-| 5    | SubsPlease       | 66    |
+| 5    | SubsPlease       | 67    |
 | 6    | Drag             | 59    |
-| 7    | NAN0             | 56    |
-| 8    | smol             | 53    |
-| 9    | LostYears        | 53    |
+| 7    | NAN0             | 58    |
+| 8    | LostYears        | 54    |
+| 9    | smol             | 53    |
 | 10   | hchcsen          | 51    |
 | 11   | KH               | 48    |
 | 12   | Moxie            | 46    |
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 105   |
 | 🥈   | sam       | 88    |
-| 🥉   | NAN0      | 47    |
+| 🥉   | NAN0      | 48    |
 | 4    | LYS1TH3A  | 34    |
 | 5    | CRUCiBLE  | 33    |
 | 6    | hchcsen   | 30    |
@@ -56,7 +56,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Flugel    | 19    |
 | 11   | TTGA      | 19    |
 | 12   | KH        | 17    |
-| 13   | LostYears | 16    |
+| 13   | LostYears | 17    |
 | 14   | LazyRemux | 15    |
 | 15   | Arid      | 14    |
 | 16   | ZeroBuild | 13    |
@@ -74,10 +74,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 140   |
+| 🥇   | -ZR-      | 141   |
 | 🥈   | sam       | 118   |
 | 🥉   | MTBB      | 56    |
-| 4    | NAN0      | 55    |
+| 4    | NAN0      | 56    |
 | 5    | smol      | 52    |
 | 6    | Moxie     | 46    |
 | 7    | CRUCiBLE  | 40    |
@@ -93,7 +93,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | LazyRemux | 19    |
 | 18   | KH        | 19    |
 | 19   | Drag      | 17    |
-| 20   | LostYears | 16    |
+| 20   | LostYears | 17    |
 | 21   | B00BA     | 16    |
 | 22   | Pog42     | 14    |
 | 23   | hydes     | 13    |
@@ -104,11 +104,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 54    |
+| 🥇   | SubsPlease       | 55    |
 | 🥈   | Drag             | 43    |
-| 🥉   | -ZR-             | 38    |
-| 4    | YURI             | 37    |
-| 5    | LostYears        | 37    |
+| 🥉   | YURI             | 37    |
+| 4    | LostYears        | 37    |
+| 5    | -ZR-             | 37    |
 | 6    | YURASUKA         | 32    |
 | 7    | Commie           | 32    |
 | 8    | MTBB             | 30    |
@@ -122,10 +122,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | SCY              | 16    |
 | 17   | Pog42            | 15    |
 | 18   | Reza             | 15    |
-| 19   | Erai-raws        | 14    |
-| 20   | UDF              | 13    |
+| 19   | UDF              | 13    |
+| 20   | Erai-raws        | 13    |
 | 21   | sam              | 13    |
 | 22   | IK               | 13    |
-| 23   | NH               | 12    |
-| 24   | Asakura          | 12    |
+| 23   | Asakura          | 12    |
+| 24   | NH               | 12    |
 | 25   | CyC              | 11    |
