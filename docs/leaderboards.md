@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 163   |
+| 🥇   | -ZR-             | 164   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 76    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 105   |
+| 🥇   | -ZR-      | 106   |
 | 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 48    |
 | 4    | LYS1TH3A  | 34    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 141   |
+| 🥇   | -ZR-      | 142   |
 | 🥈   | sam       | 118   |
 | 🥉   | MTBB      | 56    |
 | 4    | NAN0      | 56    |
