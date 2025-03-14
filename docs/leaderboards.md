@@ -27,7 +27,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | KH               | 48    |
 | 12   | Moxie            | 46    |
 | 13   | Arid             | 45    |
-| 14   | CRUCiBLE         | 40    |
+| 14   | CRUCiBLE         | 43    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | Lulu             | 34    |
 | 17   | YURASUKA         | 33    |
@@ -47,8 +47,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 106   |
 | 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 48    |
-| 4    | LYS1TH3A  | 34    |
-| 5    | CRUCiBLE  | 33    |
+| 4    | CRUCiBLE  | 36    |
+| 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 30    |
 | 7    | Lulu      | 22    |
 | 8    | smol      | 21    |
@@ -80,7 +80,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | NAN0      | 56    |
 | 5    | smol      | 52    |
 | 6    | Moxie     | 46    |
-| 7    | CRUCiBLE  | 40    |
+| 7    | CRUCiBLE  | 43    |
 | 8    | YURI      | 39    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | hchcsen   | 31    |
@@ -122,8 +122,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | SCY              | 16    |
 | 17   | Pog42            | 15    |
 | 18   | Reza             | 15    |
-| 19   | UDF              | 13    |
-| 20   | Erai-raws        | 13    |
+| 19   | Erai-raws        | 14    |
+| 20   | UDF              | 13    |
 | 21   | sam              | 13    |
 | 22   | IK               | 13    |
 | 23   | Asakura          | 12    |

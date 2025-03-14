@@ -9,8 +9,8 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `89.8 TiB`
-- Best size: `65.5 TiB`
-- Alt size: `24.3 TiB`
+- Best size: `65.6 TiB`
+- Alt size: `24.2 TiB`
 - Realistic size: `69.0 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -23,11 +23,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 14.1 TiB   | 11.9 TiB (84.71%)   | 179 (~80.5 GiB each)  |
 | 2    | NAN0             | 4.0 TiB    | 3.8 TiB (94.81%)    | 58 (~70.8 GiB each)   |
 | 3    | sam              | 3.7 TiB    | 3.4 TiB (90.32%)    | 131 (~29.1 GiB each)  |
-| 4    | CRUCiBLE         | 3.1 TiB    | 3.1 TiB (100.00%)   | 40 (~79.8 GiB each)   |
+| 4    | CRUCiBLE         | 3.4 TiB    | 3.4 TiB (100.00%)   | 43 (~79.8 GiB each)   |
 | 5    | TTGA             | 2.2 TiB    | 2.0 TiB (90.60%)    | 31 (~71.8 GiB each)   |
 | 6    | hchcsen          | 2.2 TiB    | 1.5 TiB (70.44%)    | 54 (~40.9 GiB each)   |
-| 7    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 46 (~46.6 GiB each)   |
-| 8    | JySzE            | 2.0 TiB    | 2.0 TiB (100.00%)   | 8 (~260.2 GiB each)   |
+| 7    | Moxie            | 2.0 TiB    | 2.0 TiB (100.00%)   | 46 (~44.8 GiB each)   |
+| 8    | JySzE            | 1.8 TiB    | 1.8 TiB (100.00%)   | 7 (~265.9 GiB each)   |
 | 9    | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 10   | B00BA            | 1.4 TiB    | 1.4 TiB (100.00%)   | 16 (~86.9 GiB each)   |
 | 11   | MTBB             | 1.3 TiB    | 1.1 TiB (83.73%)    | 86 (~15.2 GiB each)   |
@@ -63,10 +63,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 41   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 4 (~124.2 GiB each)   |
 | 42   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
 | 43   | Almighty         | 491.4 GiB  | 0 B (0.00%)         | 2 (~245.7 GiB each)   |
-| 44   | IK               | 479.8 GiB  | 256.7 GiB (53.50%)  | 22 (~21.8 GiB each)   |
-| 45   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
-| 46   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
-| 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
-| 48   | FraMeSToR        | 456.6 GiB  | 456.6 GiB (100.00%) | 8 (~57.1 GiB each)    |
-| 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 27.1 TiB   | 15.3 TiB (56.54%)   | 1445 (~19.2 GiB each) |
+| 44   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
+| 45   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
+| 46   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
+| 47   | FraMeSToR        | 456.6 GiB  | 456.6 GiB (100.00%) | 8 (~57.1 GiB each)    |
+| 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
+| 49   | IK               | 400.9 GiB  | 177.9 GiB (44.36%)  | 22 (~18.2 GiB each)   |
+| 50   | Others           | 27.3 TiB   | 15.6 TiB (57.19%)   | 1447 (~19.3 GiB each) |
