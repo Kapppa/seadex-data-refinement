@@ -11,7 +11,7 @@ All of this and more means that we need to settle on a method to calculate these
 - Total size: `89.8 TiB`
 - Best size: `65.6 TiB`
 - Alt size: `24.2 TiB`
-- Realistic size: `68.9 TiB`
+- Realistic size: `69.0 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | FraMeSToR        | 456.6 GiB  | 456.6 GiB (100.00%) | 8 (~57.1 GiB each)    |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | IK               | 400.9 GiB  | 177.9 GiB (44.36%)  | 22 (~18.2 GiB each)   |
-| 50   | Others           | 27.4 TiB   | 15.7 TiB (57.28%)   | 1449 (~19.4 GiB each) |
+| 50   | Others           | 27.4 TiB   | 15.7 TiB (57.22%)   | 1450 (~19.4 GiB each) |

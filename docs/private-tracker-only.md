@@ -45,7 +45,7 @@
 | 42  | Kabaneri of the Iron Fortress                                                               | 2016 | 70    | [SeaDex](https://releases.moe/21196/), [AniList](https://anilist.co/anime/21196)   |
 | 43  | BLEND-S                                                                                     | 2017 | 70    | [SeaDex](https://releases.moe/97994/), [AniList](https://anilist.co/anime/97994)   |
 | 44  | Yamada and the Seven Witches                                                                | 2015 | 73    | [SeaDex](https://releases.moe/20966/), [AniList](https://anilist.co/anime/20966)   |
-| 45  | Tengoku Daimakyo                                                                            | 2023 | 82    | [SeaDex](https://releases.moe/155783/), [AniList](https://anilist.co/anime/155783) |
+| 45  | Tengoku Daimakyo                                                                            | 2023 | 81    | [SeaDex](https://releases.moe/155783/), [AniList](https://anilist.co/anime/155783) |
 | 46  | A Whisker Away                                                                              | 2020 | 72    | [SeaDex](https://releases.moe/114963/), [AniList](https://anilist.co/anime/114963) |
 | 47  | From the New World                                                                          | 2012 | 80    | [SeaDex](https://releases.moe/13125/), [AniList](https://anilist.co/anime/13125)   |
 | 48  | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat             | 2021 | 72    | [SeaDex](https://releases.moe/129898/), [AniList](https://anilist.co/anime/129898) |
@@ -108,8 +108,8 @@
 | 105 | Demon King Daimao                                                                           | 2010 | 62    | [SeaDex](https://releases.moe/7088/), [AniList](https://anilist.co/anime/7088)     |
 | 106 | Our Last Crusade or the Rise of a New World                                                 | 2020 | 65    | [SeaDex](https://releases.moe/112667/), [AniList](https://anilist.co/anime/112667) |
 | 107 | IRODUKU: The World in Colors                                                                | 2018 | 73    | [SeaDex](https://releases.moe/101316/), [AniList](https://anilist.co/anime/101316) |
-| 108 | Kono Oto Tomare!: Sounds of Life                                                            | 2019 | 78    | [SeaDex](https://releases.moe/103302/), [AniList](https://anilist.co/anime/103302) |
-| 109 | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You                     | 2023 | 77    | [SeaDex](https://releases.moe/162694/), [AniList](https://anilist.co/anime/162694) |
+| 108 | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You                     | 2023 | 77    | [SeaDex](https://releases.moe/162694/), [AniList](https://anilist.co/anime/162694) |
+| 109 | Kono Oto Tomare!: Sounds of Life                                                            | 2019 | 78    | [SeaDex](https://releases.moe/103302/), [AniList](https://anilist.co/anime/103302) |
 | 110 | Given The Movie                                                                             | 2020 | 80    | [SeaDex](https://releases.moe/111734/), [AniList](https://anilist.co/anime/111734) |
 | 111 | Blood-C                                                                                     | 2011 | 61    | [SeaDex](https://releases.moe/10490/), [AniList](https://anilist.co/anime/10490)   |
 | 112 | Oreimo 2                                                                                    | 2013 | 65    | [SeaDex](https://releases.moe/13659/), [AniList](https://anilist.co/anime/13659)   |
@@ -136,8 +136,8 @@
 | 133 | Campfire Cooking in Another World with my Absurd Skill                                      | 2023 | 76    | [SeaDex](https://releases.moe/156067/), [AniList](https://anilist.co/anime/156067) |
 | 134 | So, I Can't Play H!                                                                         | 2012 | 60    | [SeaDex](https://releases.moe/12549/), [AniList](https://anilist.co/anime/12549)   |
 | 135 | Amagami SS                                                                                  | 2010 | 69    | [SeaDex](https://releases.moe/8676/), [AniList](https://anilist.co/anime/8676)     |
-| 136 | When Marnie Was There                                                                       | 2014 | 78    | [SeaDex](https://releases.moe/20555/), [AniList](https://anilist.co/anime/20555)   |
-| 137 | Bubble                                                                                      | 2022 | 71    | [SeaDex](https://releases.moe/142455/), [AniList](https://anilist.co/anime/142455) |
+| 136 | Bubble                                                                                      | 2022 | 71    | [SeaDex](https://releases.moe/142455/), [AniList](https://anilist.co/anime/142455) |
+| 137 | When Marnie Was There                                                                       | 2014 | 78    | [SeaDex](https://releases.moe/20555/), [AniList](https://anilist.co/anime/20555)   |
 | 138 | Sweetness & Lightning                                                                       | 2016 | 73    | [SeaDex](https://releases.moe/21659/), [AniList](https://anilist.co/anime/21659)   |
 | 139 | Outbreak Company                                                                            | 2013 | 69    | [SeaDex](https://releases.moe/19369/), [AniList](https://anilist.co/anime/19369)   |
 | 140 | The Ice Guy and His Cool Female Colleague                                                   | 2023 | 72    | [SeaDex](https://releases.moe/151252/), [AniList](https://anilist.co/anime/151252) |
@@ -157,8 +157,8 @@
 | 154 | MAGICAL GIRL SITE                                                                           | 2018 | 60    | [SeaDex](https://releases.moe/100010/), [AniList](https://anilist.co/anime/100010) |
 | 155 | Sleepy Princess in the Demon Castle                                                         | 2020 | 78    | [SeaDex](https://releases.moe/111428/), [AniList](https://anilist.co/anime/111428) |
 | 156 | The Elusive Samurai                                                                         | 2024 | 77    | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
-| 157 | Is the Order a Rabbit?                                                                      | 2014 | 73    | [SeaDex](https://releases.moe/20517/), [AniList](https://anilist.co/anime/20517)   |
-| 158 | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability    | 2024 | 74    | [SeaDex](https://releases.moe/156415/), [AniList](https://anilist.co/anime/156415) |
+| 157 | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability    | 2024 | 74    | [SeaDex](https://releases.moe/156415/), [AniList](https://anilist.co/anime/156415) |
+| 158 | Is the Order a Rabbit?                                                                      | 2014 | 73    | [SeaDex](https://releases.moe/20517/), [AniList](https://anilist.co/anime/20517)   |
 | 159 | The Kingdoms of Ruin                                                                        | 2023 | 61    | [SeaDex](https://releases.moe/160900/), [AniList](https://anilist.co/anime/160900) |
 | 160 | A Certain Scientific Accelerator                                                            | 2019 | 70    | [SeaDex](https://releases.moe/104463/), [AniList](https://anilist.co/anime/104463) |
 | 161 | Ben-To                                                                                      | 2011 | 68    | [SeaDex](https://releases.moe/10396/), [AniList](https://anilist.co/anime/10396)   |
