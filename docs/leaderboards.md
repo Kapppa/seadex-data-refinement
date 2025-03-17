@@ -14,20 +14,20 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 164   |
+| 🥇   | -ZR-             | 165   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
-| 5    | SubsPlease       | 66    |
-| 6    | Drag             | 59    |
-| 7    | NAN0             | 59    |
+| 5    | SubsPlease       | 67    |
+| 6    | NAN0             | 60    |
+| 7    | Drag             | 59    |
 | 8    | smol             | 55    |
 | 9    | LostYears        | 54    |
 | 10   | hchcsen          | 51    |
 | 11   | KH               | 48    |
 | 12   | Moxie            | 47    |
 | 13   | Arid             | 45    |
-| 14   | CRUCiBLE         | 43    |
+| 14   | CRUCiBLE         | 44    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | Lulu             | 34    |
 | 17   | YURASUKA         | 33    |
@@ -44,10 +44,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 106   |
+| 🥇   | -ZR-      | 107   |
 | 🥈   | sam       | 88    |
-| 🥉   | NAN0      | 48    |
-| 4    | CRUCiBLE  | 36    |
+| 🥉   | NAN0      | 49    |
+| 4    | CRUCiBLE  | 37    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
 | 7    | Lulu      | 22    |
@@ -74,13 +74,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 142   |
+| 🥇   | -ZR-      | 143   |
 | 🥈   | sam       | 118   |
-| 🥉   | NAN0      | 57    |
+| 🥉   | NAN0      | 58    |
 | 4    | MTBB      | 56    |
 | 5    | smol      | 54    |
 | 6    | Moxie     | 47    |
-| 7    | CRUCiBLE  | 43    |
+| 7    | CRUCiBLE  | 44    |
 | 8    | YURI      | 40    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | hchcsen   | 30    |
@@ -104,11 +104,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 55    |
+| 🥇   | SubsPlease       | 56    |
 | 🥈   | Drag             | 43    |
-| 🥉   | YURI             | 37    |
-| 4    | LostYears        | 37    |
-| 5    | -ZR-             | 37    |
+| 🥉   | -ZR-             | 38    |
+| 4    | YURI             | 37    |
+| 5    | LostYears        | 37    |
 | 6    | YURASUKA         | 32    |
 | 7    | Commie           | 32    |
 | 8    | MTBB             | 30    |
@@ -126,6 +126,6 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | UDF              | 13    |
 | 21   | sam              | 13    |
 | 22   | IK               | 13    |
-| 23   | NH               | 12    |
-| 24   | Asakura          | 12    |
+| 23   | Asakura          | 12    |
+| 24   | NH               | 12    |
 | 25   | CyC              | 11    |
