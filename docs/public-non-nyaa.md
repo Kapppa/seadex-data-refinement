@@ -17,8 +17,8 @@
 | 14  | Free! -Dive to the Future-                                         | 2018 | 75    | [SeaDex](https://releases.moe/101117/), [AniList](https://anilist.co/anime/101117) |
 | 15  | Magia Record: Puella Magi Madoka Magica Side Story                 | 2020 | 65    | [SeaDex](https://releases.moe/104051/), [AniList](https://anilist.co/anime/104051) |
 | 16  | Thus Spoke Rohan Kishibe                                           | 2017 | 76    | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
-| 17  | Pretty Boy Detective Club                                          | 2021 | 69    | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
-| 18  | SSSS.DYNAZENON                                                     | 2021 | 74    | [SeaDex](https://releases.moe/113950/), [AniList](https://anilist.co/anime/113950) |
+| 17  | SSSS.DYNAZENON                                                     | 2021 | 74    | [SeaDex](https://releases.moe/113950/), [AniList](https://anilist.co/anime/113950) |
+| 18  | Pretty Boy Detective Club                                          | 2021 | 69    | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
 | 19  | Magical Girl Raising Project                                       | 2016 | 66    | [SeaDex](https://releases.moe/21340/), [AniList](https://anilist.co/anime/21340)   |
 | 20  | Akagi                                                              | 2005 | 77    | [SeaDex](https://releases.moe/658/), [AniList](https://anilist.co/anime/658)       |
 | 21  | Fate/Grand Order Final Singularity - Grand Temple of Time: Solomon | 2021 | 76    | [SeaDex](https://releases.moe/116756/), [AniList](https://anilist.co/anime/116756) |
