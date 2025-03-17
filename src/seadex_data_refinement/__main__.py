@@ -188,7 +188,7 @@ def top_200(outfile: Path | None = None) -> None:
     output = MediaEntryCollection.top_200_anilist_not_on_dex()
 
     if outfile:
-        outfile.write_text(output, encoding="utf-8")
+        outfile.write_text(output.to_markdown_table(header="# Top 200 missing shows"), encoding="utf-8")
     else:
         print(output)
 

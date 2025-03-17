@@ -34,8 +34,8 @@ query Media($idIn: [Int]) {
 
 ANILIST_TOP_50_QUERY = """\
 query Media($idNotIn: [Int], $page: Int) {
-  Page(perPage: 50, page: $page) {
-    media(status_not_in:[NOT_YET_RELEASED,CANCELLED],type:ANIME,sort:[POPULARITY_DESC], id_not_in: $idNotIn {
+  Page(perPage:50, page: $page) {
+    media(status_not_in:[NOT_YET_RELEASED,CANCELLED], type:ANIME, sort:[POPULARITY_DESC], id_not_in: $idNotIn) {
       id
       title {
         romaji
@@ -45,7 +45,7 @@ query Media($idNotIn: [Int], $page: Int) {
         year
       }
       averageScore
-      popularity    
+      popularity
     }
   }
 }
@@ -121,14 +121,14 @@ class MediaEntryCollection(BaseModel):
         results = []
 
         with httpx.Client() as client:
-            ids = client.get(SEADEX_ANILIST_IDS_URL).raise_for_status().text
+            ids = client.get(SEADEX_ANILIST_IDS_URL).raise_for_status().text.split(",")
             for page in range(4):
                 resp = (
                     client.post(
                         ANILIST_API_URL,
                         json={
-                            "query": ANILIST_QUERY,
-                            "variables": {"page": page+1, "idNotIN": ids},
+                            "query": ANILIST_TOP_50_QUERY,
+                            "variables": {"page": page+1, "idNotIn": ids},
                         },
                     )
                     .raise_for_status()
