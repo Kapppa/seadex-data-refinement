@@ -9,12 +9,33 @@ import httpx
 from prettytable import PrettyTable, TableStyle
 from pydantic import BaseModel, ConfigDict
 
+SEADEX_ANILIST_IDS_URL = "https://releases.moe/api/listIDs"
+
 ANILIST_API_URL = "https://graphql.anilist.co"
 
 ANILIST_QUERY = """\
 query Media($idIn: [Int]) {
   Page {
     media(id_in: $idIn) {
+      id
+      title {
+        romaji
+        english
+      }
+      startDate {
+        year
+      }
+      averageScore
+      popularity
+    }
+  }
+}
+"""
+
+ANILIST_TOP_50_QUERY = """\
+query Media($idNotIn: [Int], $page: Int) {
+  Page(perPage:50, page: $page) {
+    media(status_not_in:[NOT_YET_RELEASED,CANCELLED], type:ANIME, sort:[POPULARITY_DESC], id_not_in: $idNotIn) {
       id
       title {
         romaji
@@ -65,6 +86,49 @@ class MediaEntryCollection(BaseModel):
                         json={
                             "query": ANILIST_QUERY,
                             "variables": {"idIn": batch},
+                        },
+                    )
+                    .raise_for_status()
+                    .json()["data"]["Page"]["media"]
+                )
+
+                for media in resp:
+                    results.append(
+                        MediaEntry(
+                            id=media["id"],
+                            title=media["title"]["english"] or media["title"]["romaji"],
+                            year=media["startDate"]["year"],
+                            score=media["averageScore"],
+                            popularity=media["popularity"],
+                            seadex_url=f"https://releases.moe/{media['id']}/",
+                            anilist_url=f"https://anilist.co/anime/{media['id']}",
+                        ),
+                    )
+
+                time.sleep(1)
+
+        results.sort(
+            reverse=True,
+            key=lambda x: x.popularity if x.popularity is not None else -1,
+        )
+
+        return cls(entries=tuple(results))
+    
+
+    @classmethod
+    def top_200_anilist_not_on_dex(cls) -> Self:
+        """Fetches and creates an MediaEntryCollection of the Top 200 not on SeaDex."""
+        results = []
+
+        with httpx.Client() as client:
+            ids = client.get(SEADEX_ANILIST_IDS_URL).raise_for_status().text.split(",")
+            for page in range(4):
+                resp = (
+                    client.post(
+                        ANILIST_API_URL,
+                        json={
+                            "query": ANILIST_TOP_50_QUERY,
+                            "variables": {"page": page+1, "idNotIn": ids},
                         },
                     )
                     .raise_for_status()

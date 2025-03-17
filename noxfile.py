@@ -83,4 +83,5 @@ def build_docs(session: nox.Session) -> None:
     )
     session.run("sdr", "size-stats", "--outfile", src / "size-statistics.md", *session.posargs)
     session.run("sdr", "leaderboards", "--outfile", src / "leaderboards.md", *session.posargs)
+    session.run("sdr", "top-200", "--outfile", src / "top-200.md", *session.posargs)
     session.run("sphinx-build", "-M", "html", src, build)
