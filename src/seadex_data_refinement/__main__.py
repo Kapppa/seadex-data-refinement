@@ -27,7 +27,8 @@ def get_entries(
         "public-non-nyaa",
         "private-tracker-only",
         "public-tracker-only",
-        "best-no-dual",
+        "best-missing-dual",
+        "alt-missing-dual",
     ],
     /,
     *,
@@ -125,26 +126,27 @@ def get_entries(
                             ):
                                 anilist_ids.append(entry.anilist_id)
                                 break
+        case "best-missing-dual" | "alt-missing-dual":
 
-        case "best-no-dual":
-            header = "# Best entries without a dual audio version\n\n"
+            header = f"# {criteria.startswith('best') and 'Best' or 'Alt'} missing dual-audio\n\n"
+
             header += (
-                "An entry appears here if its designated 'best' version lacks dual audio, "
-                "but at least one alternative release for the same entry "
+                f"An entry appears here if its designated '{criteria.startswith('best') and 'best' or 'alt'}' version lacks dual audio, "
+                f"but at least one {criteria.startswith('best') and 'alt' or 'best'} release for the same entry "
                 "includes a dual audio option.\n\n"
             )
 
             with seadex.SeaDexEntry() as seadex_entry:
                 for entry in seadex_entry.iterator():
-                    if any(torrent.is_dual_audio for torrent in entry.torrents if torrent.is_best):
-                        # There's already a best dual audio torrent in this entry
-                        continue
-                    else:  # There's no best dual audio torrent in this entry
-                        if any(torrent.is_dual_audio for torrent in entry.torrents if not torrent.is_best):
-                            # Check if any alt release has a dual audio torrent
-                            # This means there *is* a dub, so we can mark this as
-                            # an entry that needs a dual audio mux of the best release.
-                            anilist_ids.append(entry.anilist_id)
+                    alt_has_dual = any(t for t in entry.torrents if not t.is_best and t.is_dual_audio)
+                    best_has_dual = any(t for t in entry.torrents if t.is_best and t.is_dual_audio)
+                    has_best = any(t for t in entry.torrents if t.is_best)
+                    has_alt = any(t for t in entry.torrents if not t.is_best)
+
+                    if alt_has_dual and not best_has_dual and has_best and criteria == "best-missing-dual":
+                        anilist_ids.append(entry.anilist_id)
+                    elif not alt_has_dual and best_has_dual and has_alt and criteria == "alt-missing-dual":
+                        anilist_ids.append(entry.anilist_id)
 
         case _:  # Won't ever happen because cyclopts already validates the input.
             raise ValueError(criteria)
