@@ -22,7 +22,6 @@ marked-incomplete.md
 public-non-nyaa.md
 private-tracker-only.md
 public-tracker-only.md
-best-no-dual.md
 top-200.md
 best-missing-dual.md
 alt-missing-dual.md
@@ -46,13 +45,11 @@ alt-missing-dual.md
 
 * {doc}`public-tracker-only`: SeaDex entries found only on public trackers. You can contribute by reposting them to private trackers, following their rules and requirements.
 
-* {doc}`best-no-dual`: Best entries that currently do not have a dual audio version available. If you're interested in creating dual audio muxes for these entries, it's recommended to first join the [Discord](https://discord.com/invite/jPeeZewWRn) to consult with others before starting. You can also find a helpful guide in the [muxing tutorial](https://thewiki.moe/advanced/muxing/).
-
 * {doc}`top-200`: Top 200 AniList entries that aren't yet on SeaDex. If you'd like to see any of these added, your comparison submissions are needed. The [tutorial](https://thewiki.moe/tutorials/comparison/) provides a step-by-step guide. Once you've made your comparisons, please share them in the `#comparisons` channel on [Discord](https://discord.com/invite/jPeeZewWRn).
 
-* {doc}`best-missing-dual`: SeaDex entries where the alt has Dual-Audio but the best doesn't
+* {doc}`best-missing-dual`: Best entries that currently do not have a dual audio version available. If you're interested in creating dual audio muxes for these entries, it's recommended to first join the [Discord](https://discord.com/invite/jPeeZewWRn) to consult with others before starting. You can also find a helpful guide in the [muxing tutorial](https://thewiki.moe/advanced/muxing/).
 
-* {doc}`alt-missing-dual`: SeaDex entries where the best has Dual-Audio but the alt doesn't
+* {doc}`alt-missing-dual`: Same as best-missing-dual, but for alt releases instead.
 
 ## Running locally
 
