@@ -22,6 +22,7 @@ marked-incomplete.md
 public-non-nyaa.md
 private-tracker-only.md
 public-tracker-only.md
+best-no-dual.md
 top-200.md
 ```
 
@@ -43,7 +44,9 @@ top-200.md
 
 * {doc}`public-tracker-only`: SeaDex entries found only on public trackers. You can contribute by reposting them to private trackers, following their rules and requirements.
 
-* {doc}`top-200`: Top 200 AniList entries that are *not* on SeaDex.
+* {doc}`best-no-dual`: Best entries that currently do not have a dual audio version available. If you're interested in creating dual audio muxes for these entries, it's recommended to first join the [Discord](https://discord.com/invite/jPeeZewWRn) to consult with others before starting. You can also find a helpful guide in the [muxing tutorial](https://thewiki.moe/advanced/muxing/).
+
+* {doc}`top-200`: Top 200 AniList entries that aren't yet on SeaDex. If you'd like to see any of these added, your comparison submissions are needed. The [tutorial](https://thewiki.moe/tutorials/comparison/) provides a step-by-step guide. Once you've made your comparisons, please share them in the `#comparisons` channel on [Discord](https://discord.com/invite/jPeeZewWRn).
 
 ## Running locally
 
