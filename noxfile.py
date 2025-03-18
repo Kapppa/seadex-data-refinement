@@ -81,7 +81,10 @@ def build_docs(session: nox.Session) -> None:
     session.run(
         "sdr", "get-entries", "public-tracker-only", "--outfile", src / "public-tracker-only.md", *session.posargs
     )
+    sleep()
+    session.run("sdr", "top-200", "--outfile", src / "top-200.md", *session.posargs)
+
+    # No sleep here because these do not hit AniList.
     session.run("sdr", "size-stats", "--outfile", src / "size-statistics.md", *session.posargs)
     session.run("sdr", "leaderboards", "--outfile", src / "leaderboards.md", *session.posargs)
-    session.run("sdr", "top-200", "--outfile", src / "top-200.md", *session.posargs)
     session.run("sphinx-build", "-M", "html", src, build)

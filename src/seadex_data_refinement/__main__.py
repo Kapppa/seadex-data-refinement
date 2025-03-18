@@ -175,6 +175,7 @@ def leaderboards(outfile: Path | None = None) -> None:
     else:
         print(output)
 
+
 @app.command
 def top_200(outfile: Path | None = None) -> None:
     """

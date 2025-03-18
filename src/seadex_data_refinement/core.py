@@ -113,7 +113,6 @@ class MediaEntryCollection(BaseModel):
         )
 
         return cls(entries=tuple(results))
-    
 
     @classmethod
     def top_200_anilist_not_on_dex(cls) -> Self:
@@ -128,7 +127,7 @@ class MediaEntryCollection(BaseModel):
                         ANILIST_API_URL,
                         json={
                             "query": ANILIST_TOP_50_QUERY,
-                            "variables": {"page": page+1, "idNotIn": ids},
+                            "variables": {"page": page + 1, "idNotIn": ids},
                         },
                     )
                     .raise_for_status()

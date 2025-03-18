@@ -43,6 +43,7 @@ top-200.md
 
 * {doc}`public-tracker-only`: SeaDex entries found only on public trackers. You can contribute by reposting them to private trackers, following their rules and requirements.
 
+* {doc}`top-200`: Top 200 AniList entries that are *not* on SeaDex.
 
 ## Running locally
 
