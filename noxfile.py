@@ -82,7 +82,9 @@ def build_docs(session: nox.Session) -> None:
         "sdr", "get-entries", "public-tracker-only", "--outfile", src / "public-tracker-only.md", *session.posargs
     )
     sleep()
-    session.run("sdr", "get-entries", "best-no-dual", "--outfile", src / "best-no-dual.md", *session.posargs)
+    session.run("sdr", "get-entries", "best-missing-dual", "--outfile", src / "best-missing-dual.md", *session.posargs)
+    sleep()
+    session.run("sdr", "get-entries", "alt-missing-dual", "--outfile", src / "alt-missing-dual.md", *session.posargs)
     sleep()
     session.run("sdr", "top-200", "--outfile", src / "top-200.md", *session.posargs)
 
