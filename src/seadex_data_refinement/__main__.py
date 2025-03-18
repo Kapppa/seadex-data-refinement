@@ -145,7 +145,6 @@ def get_entries(
                             # This means there *is* a dub, so we can mark this as
                             # an entry that needs a dual audio mux of the best release.
                             anilist_ids.append(entry.anilist_id)
-                            break
 
         case _:  # Won't ever happen because cyclopts already validates the input.
             raise ValueError(criteria)
