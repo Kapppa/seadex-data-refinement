@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `90.5 TiB`
-- Best size: `66.2 TiB`
-- Alt size: `24.3 TiB`
-- Realistic size: `69.4 TiB`
+- Total size: `91.3 TiB`
+- Best size: `66.5 TiB`
+- Alt size: `24.8 TiB`
+- Realistic size: `70.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,11 +20,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.2 TiB   | 12.1 TiB (84.86%)   | 181 (~80.5 GiB each)  |
+| 1    | -ZR-             | 14.6 TiB   | 12.2 TiB (83.98%)   | 184 (~81.2 GiB each)  |
 | 2    | NAN0             | 4.1 TiB    | 3.9 TiB (94.96%)    | 60 (~70.5 GiB each)   |
 | 3    | sam              | 3.7 TiB    | 3.4 TiB (90.32%)    | 131 (~29.1 GiB each)  |
 | 4    | CRUCiBLE         | 3.4 TiB    | 3.4 TiB (100.00%)   | 44 (~79.2 GiB each)   |
-| 5    | TTGA             | 2.2 TiB    | 2.0 TiB (90.60%)    | 31 (~71.8 GiB each)   |
+| 5    | TTGA             | 2.3 TiB    | 2.1 TiB (91.22%)    | 32 (~74.5 GiB each)   |
 | 6    | hchcsen          | 2.2 TiB    | 1.5 TiB (69.25%)    | 55 (~40.2 GiB each)   |
 | 7    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 47 (~45.5 GiB each)   |
 | 8    | JySzE            | 1.8 TiB    | 1.8 TiB (100.00%)   | 7 (~265.9 GiB each)   |
@@ -33,9 +33,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 11   | MTBB             | 1.3 TiB    | 1.1 TiB (83.73%)    | 86 (~15.2 GiB each)   |
 | 12   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 13   | NOGRP            | 1.2 TiB    | 805.4 GiB (63.40%)  | 15 (~84.7 GiB each)   |
-| 14   | SubsPlease       | 1.0 TiB    | 177.7 GiB (16.60%)  | 67 (~16.0 GiB each)   |
+| 14   | SubsPlease       | 1.1 TiB    | 177.7 GiB (15.65%)  | 69 (~16.5 GiB each)   |
 | 15   | PMR              | 1.0 TiB    | 1.0 TiB (100.00%)   | 12 (~87.3 GiB each)   |
-| 16   | YURI             | 904.4 GiB  | 463.0 GiB (51.19%)  | 77 (~11.7 GiB each)   |
+| 16   | YURI             | 903.6 GiB  | 463.0 GiB (51.24%)  | 77 (~11.7 GiB each)   |
 | 17   | smol             | 899.2 GiB  | 866.2 GiB (96.33%)  | 55 (~16.3 GiB each)   |
 | 18   | LostYears        | 898.0 GiB  | 345.7 GiB (38.50%)  | 54 (~16.6 GiB each)   |
 | 19   | LYS1TH3A         | 887.5 GiB  | 868.0 GiB (97.80%)  | 37 (~24.0 GiB each)   |
@@ -47,9 +47,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 25   | Holomux          | 731.4 GiB  | 154.4 GiB (21.11%)  | 29 (~25.2 GiB each)   |
 | 26   | A&C              | 728.3 GiB  | 701.7 GiB (96.35%)  | 4 (~182.1 GiB each)   |
 | 27   | Lulu             | 678.0 GiB  | 446.4 GiB (65.83%)  | 34 (~19.9 GiB each)   |
-| 28   | Drag             | 655.7 GiB  | 164.5 GiB (25.09%)  | 60 (~10.9 GiB each)   |
-| 29   | Meakes           | 624.4 GiB  | 624.4 GiB (100.00%) | 8 (~78.0 GiB each)    |
-| 30   | Bunny-Apocalypse | 620.2 GiB  | 173.8 GiB (28.02%)  | 30 (~20.7 GiB each)   |
+| 28   | Bunny-Apocalypse | 674.5 GiB  | 173.8 GiB (25.77%)  | 31 (~21.8 GiB each)   |
+| 29   | Drag             | 655.7 GiB  | 164.5 GiB (25.09%)  | 60 (~10.9 GiB each)   |
+| 30   | Meakes           | 624.4 GiB  | 624.4 GiB (100.00%) | 8 (~78.0 GiB each)    |
 | 31   | Okay-Subs        | 594.4 GiB  | 559.7 GiB (94.16%)  | 29 (~20.5 GiB each)   |
 | 32   | Flugel           | 587.0 GiB  | 587.0 GiB (100.00%) | 19 (~30.9 GiB each)   |
 | 33   | D4C              | 583.2 GiB  | 583.2 GiB (100.00%) | 3 (~194.4 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | FraMeSToR        | 456.6 GiB  | 456.6 GiB (100.00%) | 8 (~57.1 GiB each)    |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | IK               | 400.9 GiB  | 177.9 GiB (44.36%)  | 22 (~18.2 GiB each)   |
-| 50   | Others           | 27.5 TiB   | 15.7 TiB (57.11%)   | 1451 (~19.4 GiB each) |
+| 50   | Others           | 27.6 TiB   | 15.7 TiB (56.85%)   | 1457 (~19.4 GiB each) |
