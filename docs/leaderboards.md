@@ -14,11 +14,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 168   |
+| 🥇   | -ZR-             | 166   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
-| 5    | SubsPlease       | 69    |
+| 5    | SubsPlease       | 70    |
 | 6    | NAN0             | 60    |
 | 7    | Drag             | 59    |
 | 8    | smol             | 55    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 145   |
+| 🥇   | -ZR-      | 143   |
 | 🥈   | sam       | 118   |
 | 🥉   | NAN0      | 58    |
 | 4    | MTBB      | 56    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 58    |
+| 🥇   | SubsPlease       | 59    |
 | 🥈   | Drag             | 43    |
 | 🥉   | -ZR-             | 39    |
 | 4    | YURI             | 37    |
@@ -126,6 +126,6 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | UDF              | 13    |
 | 21   | sam              | 13    |
 | 22   | IK               | 13    |
-| 23   | Asakura          | 12    |
-| 24   | NH               | 12    |
+| 23   | NH               | 12    |
+| 24   | Asakura          | 12    |
 | 25   | Chihiro          | 11    |
