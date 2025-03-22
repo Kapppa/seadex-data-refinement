@@ -19,7 +19,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
 | 5    | SubsPlease       | 70    |
-| 6    | NAN0             | 60    |
+| 6    | NAN0             | 61    |
 | 7    | Drag             | 59    |
 | 8    | smol             | 55    |
 | 9    | LostYears        | 54    |
@@ -27,7 +27,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | KH               | 48    |
 | 12   | Moxie            | 47    |
 | 13   | Arid             | 45    |
-| 14   | CRUCiBLE         | 44    |
+| 14   | CRUCiBLE         | 45    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | Lulu             | 34    |
 | 17   | YURASUKA         | 33    |
@@ -44,9 +44,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 109   |
+| 🥇   | -ZR-      | 108   |
 | 🥈   | sam       | 88    |
-| 🥉   | NAN0      | 49    |
+| 🥉   | NAN0      | 50    |
 | 4    | CRUCiBLE  | 37    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
@@ -74,13 +74,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 143   |
+| 🥇   | -ZR-      | 142   |
 | 🥈   | sam       | 118   |
-| 🥉   | NAN0      | 58    |
+| 🥉   | NAN0      | 59    |
 | 4    | MTBB      | 56    |
 | 5    | smol      | 54    |
 | 6    | Moxie     | 47    |
-| 7    | CRUCiBLE  | 44    |
+| 7    | CRUCiBLE  | 45    |
 | 8    | YURI      | 40    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 30    |
