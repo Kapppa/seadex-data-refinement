@@ -14,12 +14,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 166   |
+| 🥇   | -ZR-             | 167   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
 | 5    | SubsPlease       | 70    |
-| 6    | NAN0             | 61    |
+| 6    | NAN0             | 63    |
 | 7    | Drag             | 59    |
 | 8    | smol             | 55    |
 | 9    | LostYears        | 54    |
@@ -35,8 +35,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | TTGA             | 32    |
 | 20   | Kametsu          | 31    |
 | 21   | Bunny-Apocalypse | 31    |
-| 22   | Okay-Subs        | 29    |
-| 23   | Pog42            | 29    |
+| 22   | Pog42            | 30    |
+| 23   | Okay-Subs        | 29    |
 | 24   | SCY              | 28    |
 | 25   | Holomux          | 27    |
 
@@ -44,9 +44,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 108   |
+| 🥇   | -ZR-      | 109   |
 | 🥈   | sam       | 88    |
-| 🥉   | NAN0      | 50    |
+| 🥉   | NAN0      | 52    |
 | 4    | CRUCiBLE  | 37    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
@@ -63,8 +63,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | ZeroBuild | 13    |
 | 18   | hydes     | 12    |
 | 19   | Vodes     | 11    |
-| 20   | SCY       | 11    |
-| 21   | DemiHuman | 10    |
+| 20   | DemiHuman | 11    |
+| 21   | SCY       | 11    |
 | 22   | koala     | 9     |
 | 23   | UDF       | 9     |
 | 24   | Meakes    | 8     |
@@ -74,9 +74,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 142   |
+| 🥇   | -ZR-      | 143   |
 | 🥈   | sam       | 118   |
-| 🥉   | NAN0      | 59    |
+| 🥉   | NAN0      | 61    |
 | 4    | MTBB      | 56    |
 | 5    | smol      | 54    |
 | 6    | Moxie     | 47    |
@@ -120,8 +120,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | CTR              | 19    |
 | 15   | Holomux          | 18    |
 | 16   | SCY              | 16    |
-| 17   | Erai-raws        | 16    |
-| 18   | Pog42            | 15    |
+| 17   | Pog42            | 16    |
+| 18   | Erai-raws        | 16    |
 | 19   | Reza             | 15    |
 | 20   | UDF              | 13    |
 | 21   | sam              | 13    |

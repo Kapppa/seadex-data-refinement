@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `91.4 TiB`
-- Best size: `66.5 TiB`
+- Total size: `91.7 TiB`
+- Best size: `66.8 TiB`
 - Alt size: `24.9 TiB`
-- Realistic size: `70.2 TiB`
+- Realistic size: `70.5 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,8 +20,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.4 TiB   | 12.0 TiB (83.74%)   | 181 (~81.3 GiB each)  |
-| 2    | NAN0             | 4.2 TiB    | 4.0 TiB (95.04%)    | 61 (~70.4 GiB each)   |
+| 1    | -ZR-             | 14.4 TiB   | 12.1 TiB (83.82%)   | 182 (~81.3 GiB each)  |
+| 2    | NAN0             | 4.3 TiB    | 4.1 TiB (95.21%)    | 63 (~70.6 GiB each)   |
 | 3    | sam              | 3.7 TiB    | 3.4 TiB (90.32%)    | 131 (~29.1 GiB each)  |
 | 4    | CRUCiBLE         | 3.4 TiB    | 3.4 TiB (100.00%)   | 45 (~78.2 GiB each)   |
 | 5    | TTGA             | 2.3 TiB    | 2.1 TiB (91.22%)    | 32 (~74.5 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | FraMeSToR        | 456.6 GiB  | 456.6 GiB (100.00%) | 8 (~57.1 GiB each)    |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | IK               | 400.9 GiB  | 177.9 GiB (44.36%)  | 22 (~18.2 GiB each)   |
-| 50   | Others           | 27.8 TiB   | 15.8 TiB (56.92%)   | 1464 (~19.5 GiB each) |
+| 50   | Others           | 27.9 TiB   | 15.9 TiB (56.82%)   | 1469 (~19.5 GiB each) |
