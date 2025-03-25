@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 168   |
+| 🥇   | -ZR-             | 169   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
@@ -35,16 +35,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | TTGA             | 32    |
 | 20   | Kametsu          | 31    |
 | 21   | Bunny-Apocalypse | 31    |
-| 22   | Pog42            | 30    |
-| 23   | Holomux          | 29    |
-| 24   | Okay-Subs        | 29    |
+| 22   | Okay-Subs        | 30    |
+| 23   | Pog42            | 30    |
+| 24   | Holomux          | 29    |
 | 25   | SCY              | 28    |
 
 ## Top 25 - Best dual audio entries
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 110   |
+| 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 52    |
 | 4    | CRUCiBLE  | 37    |
@@ -55,9 +55,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | TTGA      | 20    |
 | 10   | YURI      | 19    |
 | 11   | Flugel    | 19    |
-| 12   | KH        | 17    |
-| 13   | LostYears | 17    |
-| 14   | LazyRemux | 15    |
+| 12   | LostYears | 17    |
+| 13   | LazyRemux | 15    |
+| 14   | KH        | 15    |
 | 15   | Arid      | 14    |
 | 16   | Moxie     | 13    |
 | 17   | ZeroBuild | 13    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 144   |
+| 🥇   | -ZR-      | 145   |
 | 🥈   | sam       | 118   |
 | 🥉   | NAN0      | 61    |
 | 4    | MTBB      | 56    |
@@ -85,16 +85,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 30    |
 | 11   | hchcsen   | 30    |
-| 12   | Orphan    | 26    |
-| 13   | Okay-Subs | 25    |
+| 12   | Okay-Subs | 26    |
+| 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
 | 15   | Arid      | 23    |
 | 16   | Flugel    | 19    |
 | 17   | LazyRemux | 19    |
-| 18   | KH        | 19    |
+| 18   | KH        | 18    |
 | 19   | Drag      | 17    |
 | 20   | LostYears | 17    |
-| 21   | B00BA     | 16    |
+| 21   | B00BA     | 17    |
 | 22   | Pog42     | 14    |
 | 23   | hydes     | 13    |
 | 24   | Beatrice  | 13    |
@@ -111,8 +111,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | LostYears        | 37    |
 | 6    | YURASUKA         | 33    |
 | 7    | Commie           | 32    |
-| 8    | MTBB             | 30    |
-| 9    | KH               | 29    |
+| 8    | KH               | 31    |
+| 9    | MTBB             | 30    |
 | 10   | hchcsen          | 25    |
 | 11   | Bunny-Apocalypse | 24    |
 | 12   | Kametsu          | 24    |
@@ -126,6 +126,6 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | UDF              | 13    |
 | 21   | sam              | 13    |
 | 22   | IK               | 13    |
-| 23   | NH               | 12    |
-| 24   | Asakura          | 12    |
+| 23   | Asakura          | 12    |
+| 24   | NH               | 12    |
 | 25   | Chihiro          | 12    |
