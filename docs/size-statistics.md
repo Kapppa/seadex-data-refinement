@@ -9,8 +9,8 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `92.1 TiB`
-- Best size: `67.0 TiB`
-- Alt size: `25.1 TiB`
+- Best size: `66.9 TiB`
+- Alt size: `25.2 TiB`
 - Realistic size: `71.3 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -23,8 +23,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 14.6 TiB   | 12.3 TiB (84.00%)   | 184 (~81.3 GiB each)  |
 | 2    | NAN0             | 4.3 TiB    | 4.1 TiB (95.21%)    | 63 (~70.6 GiB each)   |
 | 3    | sam              | 3.7 TiB    | 3.4 TiB (90.32%)    | 131 (~29.1 GiB each)  |
-| 4    | CRUCiBLE         | 3.4 TiB    | 3.4 TiB (100.00%)   | 45 (~78.2 GiB each)   |
-| 5    | TTGA             | 2.3 TiB    | 2.1 TiB (91.22%)    | 32 (~74.5 GiB each)   |
+| 4    | CRUCiBLE         | 3.5 TiB    | 3.5 TiB (100.00%)   | 46 (~78.1 GiB each)   |
+| 5    | TTGA             | 2.3 TiB    | 2.1 TiB (90.97%)    | 31 (~74.7 GiB each)   |
 | 6    | hchcsen          | 2.2 TiB    | 1.5 TiB (69.25%)    | 55 (~40.2 GiB each)   |
 | 7    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 47 (~45.5 GiB each)   |
 | 8    | JySzE            | 1.8 TiB    | 1.8 TiB (100.00%)   | 7 (~265.9 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | IK               | 400.9 GiB  | 177.9 GiB (44.36%)  | 22 (~18.2 GiB each)   |
-| 50   | Others           | 28.0 TiB   | 15.8 TiB (56.66%)   | 1473 (~19.4 GiB each) |
+| 50   | Others           | 28.0 TiB   | 15.8 TiB (56.49%)   | 1473 (~19.4 GiB each) |
