@@ -14,15 +14,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 169   |
+| 🥇   | -ZR-             | 171   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
-| 5    | SubsPlease       | 70    |
+| 5    | SubsPlease       | 73    |
 | 6    | NAN0             | 63    |
 | 7    | Drag             | 59    |
 | 8    | smol             | 55    |
-| 9    | LostYears        | 54    |
+| 9    | LostYears        | 53    |
 | 10   | hchcsen          | 51    |
 | 11   | KH               | 48    |
 | 12   | Moxie            | 47    |
@@ -31,9 +31,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | LYS1TH3A         | 37    |
 | 16   | Lulu             | 34    |
 | 17   | YURASUKA         | 34    |
-| 18   | Commie           | 33    |
-| 19   | Kametsu          | 31    |
-| 20   | TTGA             | 31    |
+| 18   | TTGA             | 33    |
+| 19   | Commie           | 33    |
+| 20   | Kametsu          | 31    |
 | 21   | Bunny-Apocalypse | 31    |
 | 22   | Okay-Subs        | 30    |
 | 23   | Pog42            | 30    |
@@ -52,10 +52,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | hchcsen   | 29    |
 | 7    | Lulu      | 21    |
 | 8    | smol      | 21    |
-| 9    | YURI      | 19    |
-| 10   | Flugel    | 19    |
-| 11   | TTGA      | 19    |
-| 12   | LostYears | 17    |
+| 9    | TTGA      | 21    |
+| 10   | YURI      | 19    |
+| 11   | Flugel    | 19    |
+| 12   | LostYears | 16    |
 | 13   | LazyRemux | 15    |
 | 14   | KH        | 15    |
 | 15   | Arid      | 14    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 145   |
+| 🥇   | -ZR-      | 146   |
 | 🥈   | sam       | 118   |
 | 🥉   | NAN0      | 61    |
 | 4    | MTBB      | 56    |
@@ -83,8 +83,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | CRUCiBLE  | 46    |
 | 8    | YURI      | 40    |
 | 9    | LYS1TH3A  | 35    |
-| 10   | hchcsen   | 30    |
-| 11   | TTGA      | 29    |
+| 10   | TTGA      | 31    |
+| 11   | hchcsen   | 30    |
 | 12   | Okay-Subs | 26    |
 | 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
@@ -93,8 +93,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | LazyRemux | 19    |
 | 18   | KH        | 18    |
 | 19   | Drag      | 17    |
-| 20   | LostYears | 17    |
-| 21   | B00BA     | 17    |
+| 20   | B00BA     | 17    |
+| 21   | LostYears | 16    |
 | 22   | Pog42     | 14    |
 | 23   | hydes     | 13    |
 | 24   | Beatrice  | 13    |
@@ -104,9 +104,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 59    |
+| 🥇   | SubsPlease       | 62    |
 | 🥈   | Drag             | 43    |
-| 🥉   | -ZR-             | 39    |
+| 🥉   | -ZR-             | 40    |
 | 4    | YURI             | 37    |
 | 5    | LostYears        | 37    |
 | 6    | YURASUKA         | 33    |
@@ -125,7 +125,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | Reza             | 15    |
 | 20   | UDF              | 13    |
 | 21   | sam              | 13    |
-| 22   | IK               | 13    |
-| 23   | Asakura          | 12    |
+| 22   | Chihiro          | 13    |
+| 23   | IK               | 13    |
 | 24   | NH               | 12    |
-| 25   | Chihiro          | 12    |
+| 25   | Asakura          | 12    |
