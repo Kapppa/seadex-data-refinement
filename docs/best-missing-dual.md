@@ -10,8 +10,8 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 3   | Death Parade                                                                    | 2015 | 80    | [SeaDex](https://releases.moe/20931/), [AniList](https://anilist.co/anime/20931)   |
 | 4   | Anohana: The Flower We Saw That Day                                             | 2011 | 80    | [SeaDex](https://releases.moe/9989/), [AniList](https://anilist.co/anime/9989)     |
 | 5   | Toilet-bound Hanako-kun                                                         | 2020 | 77    | [SeaDex](https://releases.moe/108463/), [AniList](https://anilist.co/anime/108463) |
-| 6   | Great Pretender                                                                 | 2020 | 82    | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
-| 7   | Classroom of the Elite Season 2                                                 | 2022 | 79    | [SeaDex](https://releases.moe/145545/), [AniList](https://anilist.co/anime/145545) |
+| 6   | Classroom of the Elite Season 2                                                 | 2022 | 79    | [SeaDex](https://releases.moe/145545/), [AniList](https://anilist.co/anime/145545) |
+| 7   | Great Pretender                                                                 | 2020 | 82    | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
 | 8   | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | 2021 | 72    | [SeaDex](https://releases.moe/129898/), [AniList](https://anilist.co/anime/129898) |
 | 9   | Laid-Back Camp                                                                  | 2018 | 81    | [SeaDex](https://releases.moe/98444/), [AniList](https://anilist.co/anime/98444)   |
 | 10  | BEASTARS Season 2                                                               | 2021 | 78    | [SeaDex](https://releases.moe/114194/), [AniList](https://anilist.co/anime/114194) |

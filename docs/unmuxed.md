@@ -69,8 +69,8 @@
 | 66  | LOVE and LIES                                                            | 2017 | 62    | [SeaDex](https://releases.moe/98320/), [AniList](https://anilist.co/anime/98320)   |
 | 67  | World Trigger                                                            | 2014 | 72    | [SeaDex](https://releases.moe/20729/), [AniList](https://anilist.co/anime/20729)   |
 | 68  | BLEACH: Thousand-Year Blood War - The Separation                         | 2023 | 86    | [SeaDex](https://releases.moe/159322/), [AniList](https://anilist.co/anime/159322) |
-| 69  | Seitokai Yakuindomo                                                      | 2010 | 73    | [SeaDex](https://releases.moe/8675/), [AniList](https://anilist.co/anime/8675)     |
-| 70  | Buddy Daddies                                                            | 2023 | 80    | [SeaDex](https://releases.moe/155907/), [AniList](https://anilist.co/anime/155907) |
+| 69  | Buddy Daddies                                                            | 2023 | 80    | [SeaDex](https://releases.moe/155907/), [AniList](https://anilist.co/anime/155907) |
+| 70  | Seitokai Yakuindomo                                                      | 2010 | 73    | [SeaDex](https://releases.moe/8675/), [AniList](https://anilist.co/anime/8675)     |
 | 71  | Kakushigoto                                                              | 2020 | 78    | [SeaDex](https://releases.moe/113311/), [AniList](https://anilist.co/anime/113311) |
 | 72  | Interspecies Reviewers                                                   | 2020 | 72    | [SeaDex](https://releases.moe/110270/), [AniList](https://anilist.co/anime/110270) |
 | 73  | GOBLIN SLAYER II                                                         | 2023 | 71    | [SeaDex](https://releases.moe/129188/), [AniList](https://anilist.co/anime/129188) |
@@ -116,8 +116,8 @@
 | 113 | Arakawa Under the Bridge                                                 | 2010 | 74    | [SeaDex](https://releases.moe/7647/), [AniList](https://anilist.co/anime/7647)     |
 | 114 | Sword of the Stranger                                                    | 2007 | 79    | [SeaDex](https://releases.moe/2418/), [AniList](https://anilist.co/anime/2418)     |
 | 115 | Campione!                                                                | 2012 | 64    | [SeaDex](https://releases.moe/12293/), [AniList](https://anilist.co/anime/12293)   |
-| 116 | Flying Witch                                                             | 2016 | 74    | [SeaDex](https://releases.moe/21284/), [AniList](https://anilist.co/anime/21284)   |
-| 117 | Revolutionary Girl Utena                                                 | 1997 | 82    | [SeaDex](https://releases.moe/440/), [AniList](https://anilist.co/anime/440)       |
+| 116 | Revolutionary Girl Utena                                                 | 1997 | 82    | [SeaDex](https://releases.moe/440/), [AniList](https://anilist.co/anime/440)       |
+| 117 | Flying Witch                                                             | 2016 | 74    | [SeaDex](https://releases.moe/21284/), [AniList](https://anilist.co/anime/21284)   |
 | 118 | Place to Place                                                           | 2012 | 72    | [SeaDex](https://releases.moe/12291/), [AniList](https://anilist.co/anime/12291)   |
 | 119 | Parallel World Pharmacy                                                  | 2022 | 72    | [SeaDex](https://releases.moe/136707/), [AniList](https://anilist.co/anime/136707) |
 | 120 | Tokyo Magnitude 8.0                                                      | 2009 | 77    | [SeaDex](https://releases.moe/6211/), [AniList](https://anilist.co/anime/6211)     |
@@ -140,7 +140,7 @@
 | 137 | The aquatope on white sand                                               | 2021 | 73    | [SeaDex](https://releases.moe/128545/), [AniList](https://anilist.co/anime/128545) |
 | 138 | Darker than Black: Gemini of the Meteor                                  | 2009 | 71    | [SeaDex](https://releases.moe/6573/), [AniList](https://anilist.co/anime/6573)     |
 | 139 | RADIANT                                                                  | 2018 | 65    | [SeaDex](https://releases.moe/101024/), [AniList](https://anilist.co/anime/101024) |
-| 140 | Akiba Maid War                                                           | 2022 | 74    | [SeaDex](https://releases.moe/151379/), [AniList](https://anilist.co/anime/151379) |
+| 140 | Akiba Maid War                                                           | 2022 | 75    | [SeaDex](https://releases.moe/151379/), [AniList](https://anilist.co/anime/151379) |
 | 141 | Code:Breaker                                                             | 2012 | 63    | [SeaDex](https://releases.moe/11703/), [AniList](https://anilist.co/anime/11703)   |
 | 142 | Black Lagoon: Roberta's Blood Trail                                      | 2010 | 78    | [SeaDex](https://releases.moe/4901/), [AniList](https://anilist.co/anime/4901)     |
 | 143 | Uzaki-chan Wants to Hang Out! Season 2                                   | 2022 | 71    | [SeaDex](https://releases.moe/124395/), [AniList](https://anilist.co/anime/124395) |
