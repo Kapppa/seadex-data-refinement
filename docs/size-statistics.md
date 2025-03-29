@@ -9,9 +9,9 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `92.4 TiB`
-- Best size: `67.1 TiB`
-- Alt size: `25.3 TiB`
-- Realistic size: `71.5 TiB`
+- Best size: `67.2 TiB`
+- Alt size: `25.2 TiB`
+- Realistic size: `71.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,7 +20,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.7 TiB   | 12.4 TiB (84.00%)   | 186 (~81.0 GiB each)  |
+| 1    | -ZR-             | 14.8 TiB   | 12.4 TiB (84.09%)   | 187 (~81.0 GiB each)  |
 | 2    | NAN0             | 4.3 TiB    | 4.1 TiB (95.21%)    | 63 (~70.6 GiB each)   |
 | 3    | sam              | 3.7 TiB    | 3.4 TiB (90.32%)    | 131 (~29.1 GiB each)  |
 | 4    | CRUCiBLE         | 3.5 TiB    | 3.5 TiB (100.00%)   | 46 (~78.1 GiB each)   |
@@ -40,14 +40,14 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 18   | LYS1TH3A         | 887.5 GiB  | 868.0 GiB (97.80%)  | 37 (~24.0 GiB each)   |
 | 19   | LostYears        | 880.4 GiB  | 328.1 GiB (37.27%)  | 53 (~16.6 GiB each)   |
 | 20   | KH               | 793.5 GiB  | 274.4 GiB (34.58%)  | 49 (~16.2 GiB each)   |
-| 21   | Arid             | 785.1 GiB  | 225.6 GiB (28.73%)  | 46 (~17.1 GiB each)   |
-| 22   | Vodes            | 769.7 GiB  | 449.9 GiB (58.45%)  | 18 (~42.8 GiB each)   |
-| 23   | ZeroBuild        | 753.7 GiB  | 656.9 GiB (87.16%)  | 17 (~44.3 GiB each)   |
-| 24   | Holomux          | 751.2 GiB  | 152.5 GiB (20.31%)  | 31 (~24.2 GiB each)   |
-| 25   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
-| 26   | A&C              | 726.4 GiB  | 699.8 GiB (96.34%)  | 4 (~181.6 GiB each)   |
-| 27   | Lulu             | 678.0 GiB  | 401.0 GiB (59.15%)  | 34 (~19.9 GiB each)   |
-| 28   | Bunny-Apocalypse | 674.5 GiB  | 173.8 GiB (25.77%)  | 31 (~21.8 GiB each)   |
+| 21   | Vodes            | 769.7 GiB  | 449.9 GiB (58.45%)  | 18 (~42.8 GiB each)   |
+| 22   | ZeroBuild        | 753.7 GiB  | 656.9 GiB (87.16%)  | 17 (~44.3 GiB each)   |
+| 23   | Holomux          | 751.2 GiB  | 152.5 GiB (20.31%)  | 31 (~24.2 GiB each)   |
+| 24   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
+| 25   | A&C              | 726.4 GiB  | 699.8 GiB (96.34%)  | 4 (~181.6 GiB each)   |
+| 26   | Arid             | 718.6 GiB  | 225.6 GiB (31.39%)  | 46 (~15.6 GiB each)   |
+| 27   | Bunny-Apocalypse | 692.4 GiB  | 173.8 GiB (25.10%)  | 32 (~21.6 GiB each)   |
+| 28   | Lulu             | 678.0 GiB  | 401.0 GiB (59.15%)  | 34 (~19.9 GiB each)   |
 | 29   | Drag             | 655.7 GiB  | 164.5 GiB (25.09%)  | 60 (~10.9 GiB each)   |
 | 30   | Okay-Subs        | 627.4 GiB  | 592.7 GiB (94.47%)  | 30 (~20.9 GiB each)   |
 | 31   | Meakes           | 624.4 GiB  | 624.4 GiB (100.00%) | 8 (~78.0 GiB each)    |

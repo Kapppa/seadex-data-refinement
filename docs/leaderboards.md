@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 171   |
+| 🥇   | -ZR-             | 172   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
@@ -33,8 +33,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | YURASUKA         | 34    |
 | 18   | TTGA             | 33    |
 | 19   | Commie           | 33    |
-| 20   | Kametsu          | 31    |
-| 21   | Bunny-Apocalypse | 31    |
+| 20   | Bunny-Apocalypse | 32    |
+| 21   | Kametsu          | 31    |
 | 22   | Okay-Subs        | 30    |
 | 23   | Pog42            | 30    |
 | 24   | Holomux          | 29    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 111   |
+| 🥇   | -ZR-      | 112   |
 | 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 52    |
 | 4    | CRUCiBLE  | 38    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 146   |
+| 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
 | 🥉   | NAN0      | 61    |
 | 4    | MTBB      | 56    |
@@ -113,8 +113,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | Commie           | 32    |
 | 8    | KH               | 31    |
 | 9    | MTBB             | 30    |
-| 10   | hchcsen          | 25    |
-| 11   | Bunny-Apocalypse | 24    |
+| 10   | Bunny-Apocalypse | 25    |
+| 11   | hchcsen          | 25    |
 | 12   | Kametsu          | 24    |
 | 13   | Arid             | 23    |
 | 14   | Holomux          | 21    |
@@ -127,5 +127,5 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | sam              | 13    |
 | 22   | Chihiro          | 13    |
 | 23   | IK               | 13    |
-| 24   | Asakura          | 12    |
-| 25   | NH               | 12    |
+| 24   | NH               | 12    |
+| 25   | Asakura          | 12    |
