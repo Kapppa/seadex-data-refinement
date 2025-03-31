@@ -14,19 +14,19 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 172   |
+| 🥇   | -ZR-             | 171   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
 | 5    | SubsPlease       | 74    |
-| 6    | NAN0             | 63    |
+| 6    | NAN0             | 62    |
 | 7    | Drag             | 59    |
 | 8    | smol             | 55    |
 | 9    | LostYears        | 53    |
-| 10   | hchcsen          | 51    |
-| 11   | KH               | 48    |
-| 12   | Moxie            | 47    |
-| 13   | CRUCiBLE         | 46    |
+| 10   | KH               | 51    |
+| 11   | hchcsen          | 51    |
+| 12   | CRUCiBLE         | 49    |
+| 13   | Moxie            | 47    |
 | 14   | Arid             | 45    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | Lulu             | 34    |
@@ -35,7 +35,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | Commie           | 33    |
 | 20   | Bunny-Apocalypse | 32    |
 | 21   | Kametsu          | 31    |
-| 22   | Okay-Subs        | 30    |
+| 22   | Okay-Subs        | 31    |
 | 23   | Pog42            | 30    |
 | 24   | Holomux          | 29    |
 | 25   | SCY              | 28    |
@@ -44,10 +44,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 111   |
+| 🥇   | -ZR-      | 110   |
 | 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 52    |
-| 4    | CRUCiBLE  | 38    |
+| 4    | CRUCiBLE  | 41    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
 | 7    | Lulu      | 21    |
@@ -55,9 +55,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | TTGA      | 21    |
 | 10   | YURI      | 19    |
 | 11   | Flugel    | 19    |
-| 12   | LostYears | 16    |
-| 13   | LazyRemux | 15    |
-| 14   | KH        | 15    |
+| 12   | KH        | 17    |
+| 13   | LostYears | 16    |
+| 14   | LazyRemux | 15    |
 | 15   | Arid      | 14    |
 | 16   | Moxie     | 13    |
 | 17   | ZeroBuild | 13    |
@@ -66,7 +66,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | DemiHuman | 11    |
 | 21   | SCY       | 11    |
 | 22   | koala     | 9     |
-| 23   | UDF       | 9     |
+| 23   | UDF       | 8     |
 | 24   | Meakes    | 8     |
 | 25   | Reza      | 8     |
 
@@ -74,24 +74,24 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 146   |
+| 🥇   | -ZR-      | 145   |
 | 🥈   | sam       | 118   |
 | 🥉   | NAN0      | 61    |
 | 4    | MTBB      | 56    |
 | 5    | smol      | 54    |
-| 6    | Moxie     | 47    |
-| 7    | CRUCiBLE  | 46    |
+| 6    | CRUCiBLE  | 49    |
+| 7    | Moxie     | 47    |
 | 8    | YURI      | 40    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 31    |
 | 11   | hchcsen   | 30    |
-| 12   | Okay-Subs | 26    |
+| 12   | Okay-Subs | 27    |
 | 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
 | 15   | Arid      | 23    |
 | 16   | Flugel    | 19    |
 | 17   | LazyRemux | 19    |
-| 18   | KH        | 18    |
+| 18   | KH        | 19    |
 | 19   | B00BA     | 18    |
 | 20   | Drag      | 17    |
 | 21   | LostYears | 16    |
@@ -109,9 +109,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | -ZR-             | 41    |
 | 4    | YURI             | 37    |
 | 5    | LostYears        | 37    |
-| 6    | YURASUKA         | 33    |
-| 7    | Commie           | 32    |
-| 8    | KH               | 31    |
+| 6    | KH               | 34    |
+| 7    | YURASUKA         | 33    |
+| 8    | Commie           | 32    |
 | 9    | MTBB             | 30    |
 | 10   | Bunny-Apocalypse | 25    |
 | 11   | hchcsen          | 25    |
