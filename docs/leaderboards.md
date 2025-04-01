@@ -14,25 +14,25 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 171   |
+| 🥇   | -ZR-             | 172   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
-| 5    | SubsPlease       | 74    |
+| 5    | SubsPlease       | 75    |
 | 6    | NAN0             | 62    |
 | 7    | Drag             | 59    |
 | 8    | smol             | 55    |
 | 9    | LostYears        | 53    |
-| 10   | KH               | 51    |
-| 11   | hchcsen          | 51    |
+| 10   | hchcsen          | 51    |
+| 11   | KH               | 50    |
 | 12   | CRUCiBLE         | 49    |
 | 13   | Moxie            | 47    |
 | 14   | Arid             | 45    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | Lulu             | 34    |
 | 17   | YURASUKA         | 34    |
-| 18   | TTGA             | 33    |
-| 19   | Commie           | 33    |
+| 18   | Commie           | 34    |
+| 19   | TTGA             | 33    |
 | 20   | Bunny-Apocalypse | 32    |
 | 21   | Kametsu          | 31    |
 | 22   | Okay-Subs        | 31    |
@@ -92,7 +92,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | Flugel    | 19    |
 | 17   | LazyRemux | 19    |
 | 18   | KH        | 19    |
-| 19   | B00BA     | 18    |
+| 19   | B00BA     | 19    |
 | 20   | Drag      | 17    |
 | 21   | LostYears | 16    |
 | 22   | Pog42     | 14    |
@@ -104,14 +104,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 63    |
+| 🥇   | SubsPlease       | 64    |
 | 🥈   | Drag             | 43    |
-| 🥉   | -ZR-             | 41    |
+| 🥉   | -ZR-             | 42    |
 | 4    | YURI             | 37    |
 | 5    | LostYears        | 37    |
-| 6    | KH               | 34    |
-| 7    | YURASUKA         | 33    |
-| 8    | Commie           | 32    |
+| 6    | YURASUKA         | 33    |
+| 7    | KH               | 33    |
+| 8    | Commie           | 33    |
 | 9    | MTBB             | 30    |
 | 10   | Bunny-Apocalypse | 25    |
 | 11   | hchcsen          | 25    |
