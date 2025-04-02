@@ -160,7 +160,7 @@
 | 157 | Mobile Suit Gundam: The Witch from Mercury                                                                   | 2022 | 78    | [SeaDex](https://releases.moe/139274/), [AniList](https://anilist.co/anime/139274) |
 | 158 | The Dreaming Boy is a Realist                                                                                | 2023 | 65    | [SeaDex](https://releases.moe/157397/), [AniList](https://anilist.co/anime/157397) |
 | 159 | Days with My Stepsister                                                                                      | 2024 | 73    | [SeaDex](https://releases.moe/152681/), [AniList](https://anilist.co/anime/152681) |
-| 160 | Akiba Maid War                                                                                               | 2022 | 75    | [SeaDex](https://releases.moe/151379/), [AniList](https://anilist.co/anime/151379) |
+| 160 | Akiba Maid War                                                                                               | 2022 | 74    | [SeaDex](https://releases.moe/151379/), [AniList](https://anilist.co/anime/151379) |
 | 161 | I Parry Everything                                                                                           | 2024 | 68    | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
 | 162 | Gushing Over Magical Girls                                                                                   | 2024 | 74    | [SeaDex](https://releases.moe/162780/), [AniList](https://anilist.co/anime/162780) |
 | 163 | High School DxD OVA                                                                                          | 2012 | 68    | [SeaDex](https://releases.moe/12729/), [AniList](https://anilist.co/anime/12729)   |
@@ -177,8 +177,8 @@
 | 174 | Magical Warfare                                                                                              | 2014 | 54    | [SeaDex](https://releases.moe/19769/), [AniList](https://anilist.co/anime/19769)   |
 | 175 | Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note                                                    | 2019 | 72    | [SeaDex](https://releases.moe/106918/), [AniList](https://anilist.co/anime/106918) |
 | 176 | The Boy and the Heron                                                                                        | 2023 | 77    | [SeaDex](https://releases.moe/109979/), [AniList](https://anilist.co/anime/109979) |
-| 177 | Trinity Seven: Eternal Library & Alchemic Girl                                                               | 2017 | 69    | [SeaDex](https://releases.moe/21874/), [AniList](https://anilist.co/anime/21874)   |
-| 178 | I'm Getting Married to a Girl I Hate in My Class                                                             | 2025 | 68    | [SeaDex](https://releases.moe/178462/), [AniList](https://anilist.co/anime/178462) |
+| 177 | I'm Getting Married to a Girl I Hate in My Class                                                             | 2025 | 68    | [SeaDex](https://releases.moe/178462/), [AniList](https://anilist.co/anime/178462) |
+| 178 | Trinity Seven: Eternal Library & Alchemic Girl                                                               | 2017 | 69    | [SeaDex](https://releases.moe/21874/), [AniList](https://anilist.co/anime/21874)   |
 | 179 | I'm Standing on a Million Lives Season 2                                                                     | 2021 | 66    | [SeaDex](https://releases.moe/127366/), [AniList](https://anilist.co/anime/127366) |
 | 180 | Real Girl 2                                                                                                  | 2019 | 74    | [SeaDex](https://releases.moe/102882/), [AniList](https://anilist.co/anime/102882) |
 | 181 | High School DxD: Fantasy Jiggles Unleashed                                                                   | 2012 | 68    | [SeaDex](https://releases.moe/13357/), [AniList](https://anilist.co/anime/13357)   |

@@ -87,8 +87,8 @@
 | 84  | Rent-a-Girlfriend Season 2                                                                  | 2022 | 66    | [SeaDex](https://releases.moe/124410/), [AniList](https://anilist.co/anime/124410) |
 | 85  | BAKI                                                                                        | 2018 | 72    | [SeaDex](https://releases.moe/97888/), [AniList](https://anilist.co/anime/97888)   |
 | 86  | Platinum End                                                                                | 2021 | 58    | [SeaDex](https://releases.moe/127401/), [AniList](https://anilist.co/anime/127401) |
-| 87  | DRIFTERS                                                                                    | 2016 | 75    | [SeaDex](https://releases.moe/21123/), [AniList](https://anilist.co/anime/21123)   |
-| 88  | The Rising of the Shield Hero Season 3                                                      | 2023 | 71    | [SeaDex](https://releases.moe/111322/), [AniList](https://anilist.co/anime/111322) |
+| 87  | The Rising of the Shield Hero Season 3                                                      | 2023 | 71    | [SeaDex](https://releases.moe/111322/), [AniList](https://anilist.co/anime/111322) |
+| 88  | DRIFTERS                                                                                    | 2016 | 75    | [SeaDex](https://releases.moe/21123/), [AniList](https://anilist.co/anime/21123)   |
 | 89  | Tanaka-kun is Always Listless                                                               | 2016 | 77    | [SeaDex](https://releases.moe/21495/), [AniList](https://anilist.co/anime/21495)   |
 | 90  | Seirei Gensouki: Spirit Chronicles                                                          | 2021 | 69    | [SeaDex](https://releases.moe/126546/), [AniList](https://anilist.co/anime/126546) |
 | 91  | I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too            | 2023 | 63    | [SeaDex](https://releases.moe/153845/), [AniList](https://anilist.co/anime/153845) |
@@ -185,7 +185,7 @@
 | 182 | Days with My Stepsister                                                                     | 2024 | 73    | [SeaDex](https://releases.moe/152681/), [AniList](https://anilist.co/anime/152681) |
 | 183 | Taboo Tattoo                                                                                | 2016 | 53    | [SeaDex](https://releases.moe/21031/), [AniList](https://anilist.co/anime/21031)   |
 | 184 | 7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!            | 2024 | 75    | [SeaDex](https://releases.moe/168374/), [AniList](https://anilist.co/anime/168374) |
-| 185 | Akiba Maid War                                                                              | 2022 | 75    | [SeaDex](https://releases.moe/151379/), [AniList](https://anilist.co/anime/151379) |
+| 185 | Akiba Maid War                                                                              | 2022 | 74    | [SeaDex](https://releases.moe/151379/), [AniList](https://anilist.co/anime/151379) |
 | 186 | The Iceblade Sorcerer Shall Rule the World                                                  | 2023 | 63    | [SeaDex](https://releases.moe/148116/), [AniList](https://anilist.co/anime/148116) |
 | 187 | Reign of the Seven Spellblades                                                              | 2023 | 65    | [SeaDex](https://releases.moe/142598/), [AniList](https://anilist.co/anime/142598) |
 | 188 | Golden Kamuy Season 2                                                                       | 2018 | 81    | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |

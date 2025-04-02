@@ -8,7 +8,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `93.0 TiB`
+- Total size: `93.1 TiB`
 - Best size: `67.8 TiB`
 - Alt size: `25.3 TiB`
 - Realistic size: `72.1 TiB`
@@ -27,7 +27,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 5    | TTGA             | 2.3 TiB    | 2.1 TiB (91.24%)    | 33 (~72.4 GiB each)   |
 | 6    | hchcsen          | 2.2 TiB    | 1.5 TiB (69.25%)    | 55 (~40.2 GiB each)   |
 | 7    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 47 (~45.5 GiB each)   |
-| 8    | JySzE            | 1.7 TiB    | 1.7 TiB (100.00%)   | 7 (~249.4 GiB each)   |
+| 8    | JySzE            | 1.7 TiB    | 1.7 TiB (98.96%)    | 8 (~220.6 GiB each)   |
 | 9    | B00BA            | 1.6 TiB    | 1.6 TiB (100.00%)   | 19 (~87.7 GiB each)   |
 | 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 11   | MTBB             | 1.3 TiB    | 1.1 TiB (83.73%)    | 86 (~15.2 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 48   | FraMeSToR        | 456.6 GiB  | 456.6 GiB (100.00%) | 8 (~57.1 GiB each)    |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 28.4 TiB   | 15.9 TiB (55.97%)   | 1503 (~19.3 GiB each) |
+| 50   | Others           | 28.4 TiB   | 15.9 TiB (55.96%)   | 1503 (~19.3 GiB each) |
