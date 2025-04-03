@@ -23,16 +23,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | Drag             | 59    |
 | 8    | smol             | 55    |
 | 9    | LostYears        | 53    |
-| 10   | hchcsen          | 51    |
-| 11   | KH               | 50    |
-| 12   | CRUCiBLE         | 49    |
+| 10   | CRUCiBLE         | 52    |
+| 11   | hchcsen          | 51    |
+| 12   | KH               | 50    |
 | 13   | Moxie            | 47    |
 | 14   | Arid             | 45    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | Lulu             | 34    |
 | 17   | YURASUKA         | 34    |
-| 18   | Commie           | 34    |
-| 19   | TTGA             | 33    |
+| 18   | TTGA             | 34    |
+| 19   | Commie           | 34    |
 | 20   | Bunny-Apocalypse | 32    |
 | 21   | Kametsu          | 31    |
 | 22   | Okay-Subs        | 31    |
@@ -47,12 +47,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 110   |
 | 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 52    |
-| 4    | CRUCiBLE  | 41    |
+| 4    | CRUCiBLE  | 44    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
-| 7    | Lulu      | 21    |
-| 8    | smol      | 21    |
-| 9    | TTGA      | 21    |
+| 7    | TTGA      | 22    |
+| 8    | Lulu      | 21    |
+| 9    | smol      | 21    |
 | 10   | YURI      | 19    |
 | 11   | Flugel    | 19    |
 | 12   | KH        | 17    |
@@ -79,11 +79,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | NAN0      | 61    |
 | 4    | MTBB      | 56    |
 | 5    | smol      | 54    |
-| 6    | CRUCiBLE  | 49    |
+| 6    | CRUCiBLE  | 52    |
 | 7    | Moxie     | 47    |
 | 8    | YURI      | 40    |
 | 9    | LYS1TH3A  | 35    |
-| 10   | TTGA      | 31    |
+| 10   | TTGA      | 32    |
 | 11   | hchcsen   | 30    |
 | 12   | Okay-Subs | 27    |
 | 13   | Orphan    | 26    |
@@ -96,9 +96,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | Drag      | 17    |
 | 21   | LostYears | 16    |
 | 22   | Pog42     | 14    |
-| 23   | hydes     | 13    |
-| 24   | Beatrice  | 13    |
-| 25   | Mysteria  | 13    |
+| 23   | PMR       | 14    |
+| 24   | hydes     | 13    |
+| 25   | Beatrice  | 13    |
 
 ## Top 25 - Alt entries
 
@@ -122,10 +122,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | SCY              | 16    |
 | 17   | Pog42            | 16    |
 | 18   | Erai-raws        | 16    |
-| 19   | Reza             | 15    |
+| 19   | Reza             | 16    |
 | 20   | UDF              | 13    |
 | 21   | sam              | 13    |
 | 22   | Chihiro          | 13    |
 | 23   | IK               | 13    |
-| 24   | NH               | 12    |
-| 25   | Asakura          | 12    |
+| 24   | Asakura          | 12    |
+| 25   | NH               | 12    |
