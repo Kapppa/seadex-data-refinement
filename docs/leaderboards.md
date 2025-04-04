@@ -14,11 +14,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 172   |
+| 🥇   | -ZR-             | 171   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
-| 5    | SubsPlease       | 75    |
+| 5    | SubsPlease       | 74    |
 | 6    | NAN0             | 62    |
 | 7    | Drag             | 59    |
 | 8    | smol             | 55    |
@@ -29,8 +29,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Moxie            | 47    |
 | 14   | Arid             | 45    |
 | 15   | LYS1TH3A         | 37    |
-| 16   | Lulu             | 34    |
-| 17   | YURASUKA         | 34    |
+| 16   | YURASUKA         | 35    |
+| 17   | Lulu             | 34    |
 | 18   | TTGA             | 34    |
 | 19   | Commie           | 34    |
 | 20   | Bunny-Apocalypse | 32    |
@@ -104,12 +104,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 64    |
+| 🥇   | SubsPlease       | 63    |
 | 🥈   | Drag             | 43    |
-| 🥉   | -ZR-             | 42    |
+| 🥉   | -ZR-             | 41    |
 | 4    | YURI             | 37    |
 | 5    | LostYears        | 37    |
-| 6    | YURASUKA         | 33    |
+| 6    | YURASUKA         | 34    |
 | 7    | KH               | 33    |
 | 8    | Commie           | 33    |
 | 9    | MTBB             | 30    |
