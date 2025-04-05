@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 171   |
+| 🥇   | -ZR-             | 172   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
@@ -27,16 +27,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | hchcsen          | 51    |
 | 12   | KH               | 50    |
 | 13   | Moxie            | 47    |
-| 14   | Arid             | 45    |
+| 14   | Arid             | 46    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | YURASUKA         | 35    |
 | 17   | Lulu             | 34    |
 | 18   | TTGA             | 34    |
 | 19   | Commie           | 34    |
 | 20   | Bunny-Apocalypse | 32    |
-| 21   | Kametsu          | 31    |
-| 22   | Okay-Subs        | 31    |
-| 23   | Pog42            | 30    |
+| 21   | Pog42            | 32    |
+| 22   | Kametsu          | 31    |
+| 23   | Okay-Subs        | 31    |
 | 24   | Holomux          | 29    |
 | 25   | SCY              | 28    |
 
@@ -66,15 +66,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | DemiHuman | 11    |
 | 21   | SCY       | 11    |
 | 22   | koala     | 9     |
-| 23   | UDF       | 8     |
-| 24   | Meakes    | 8     |
-| 25   | Reza      | 8     |
+| 23   | FraMeSToR | 9     |
+| 24   | UDF       | 8     |
+| 25   | Meakes    | 8     |
 
 ## Top 25 - Best entries
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 145   |
+| 🥇   | -ZR-      | 146   |
 | 🥈   | sam       | 118   |
 | 🥉   | NAN0      | 61    |
 | 4    | MTBB      | 56    |
@@ -89,10 +89,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
 | 15   | Arid      | 23    |
-| 16   | Flugel    | 19    |
-| 17   | LazyRemux | 19    |
-| 18   | KH        | 19    |
-| 19   | B00BA     | 19    |
+| 16   | B00BA     | 20    |
+| 17   | Flugel    | 19    |
+| 18   | LazyRemux | 19    |
+| 19   | KH        | 19    |
 | 20   | Drag      | 17    |
 | 21   | LostYears | 16    |
 | 22   | Pog42     | 14    |
@@ -115,17 +115,17 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | MTBB             | 30    |
 | 10   | Bunny-Apocalypse | 25    |
 | 11   | hchcsen          | 25    |
-| 12   | Kametsu          | 24    |
-| 13   | Arid             | 23    |
+| 12   | Arid             | 24    |
+| 13   | Kametsu          | 24    |
 | 14   | Holomux          | 21    |
 | 15   | CTR              | 19    |
-| 16   | SCY              | 16    |
-| 17   | Pog42            | 16    |
-| 18   | Erai-raws        | 16    |
+| 16   | Pog42            | 18    |
+| 17   | Erai-raws        | 17    |
+| 18   | SCY              | 16    |
 | 19   | Reza             | 16    |
 | 20   | UDF              | 13    |
 | 21   | sam              | 13    |
 | 22   | Chihiro          | 13    |
 | 23   | IK               | 13    |
-| 24   | Asakura          | 12    |
-| 25   | NH               | 12    |
+| 24   | HorribleSubs     | 13    |
+| 25   | Asakura          | 12    |
