@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 172   |
+| 🥇   | -ZR-             | 174   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
@@ -24,8 +24,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | smol             | 55    |
 | 9    | LostYears        | 53    |
 | 10   | CRUCiBLE         | 52    |
-| 11   | hchcsen          | 51    |
-| 12   | KH               | 50    |
+| 11   | KH               | 51    |
+| 12   | hchcsen          | 51    |
 | 13   | Moxie            | 47    |
 | 14   | Arid             | 46    |
 | 15   | LYS1TH3A         | 37    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 110   |
+| 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 52    |
 | 4    | CRUCiBLE  | 44    |
@@ -55,11 +55,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | smol      | 21    |
 | 10   | YURI      | 19    |
 | 11   | Flugel    | 19    |
-| 12   | KH        | 17    |
+| 12   | KH        | 18    |
 | 13   | LostYears | 16    |
 | 14   | LazyRemux | 15    |
-| 15   | Arid      | 14    |
-| 16   | Moxie     | 13    |
+| 15   | Moxie     | 13    |
+| 16   | Arid      | 13    |
 | 17   | ZeroBuild | 13    |
 | 18   | hydes     | 12    |
 | 19   | Vodes     | 11    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 146   |
+| 🥇   | -ZR-      | 148   |
 | 🥈   | sam       | 118   |
 | 🥉   | NAN0      | 61    |
 | 4    | MTBB      | 56    |
@@ -88,11 +88,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Okay-Subs | 27    |
 | 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
-| 15   | Arid      | 23    |
-| 16   | B00BA     | 20    |
-| 17   | Flugel    | 19    |
-| 18   | LazyRemux | 19    |
-| 19   | KH        | 19    |
+| 15   | Arid      | 22    |
+| 16   | KH        | 20    |
+| 17   | B00BA     | 20    |
+| 18   | Flugel    | 19    |
+| 19   | LazyRemux | 19    |
 | 20   | Drag      | 17    |
 | 21   | LostYears | 16    |
 | 22   | Pog42     | 14    |
@@ -113,14 +113,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | KH               | 33    |
 | 8    | Commie           | 33    |
 | 9    | MTBB             | 30    |
-| 10   | Bunny-Apocalypse | 25    |
-| 11   | hchcsen          | 25    |
-| 12   | Arid             | 24    |
+| 10   | Arid             | 25    |
+| 11   | Bunny-Apocalypse | 25    |
+| 12   | hchcsen          | 25    |
 | 13   | Kametsu          | 24    |
 | 14   | Holomux          | 21    |
 | 15   | CTR              | 19    |
 | 16   | Pog42            | 18    |
-| 17   | Erai-raws        | 17    |
+| 17   | Erai-raws        | 18    |
 | 18   | SCY              | 16    |
 | 19   | Reza             | 16    |
 | 20   | UDF              | 13    |

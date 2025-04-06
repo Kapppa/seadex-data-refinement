@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `94.5 TiB`
-- Best size: `68.8 TiB`
-- Alt size: `25.8 TiB`
-- Realistic size: `73.4 TiB`
+- Total size: `95.0 TiB`
+- Best size: `69.1 TiB`
+- Alt size: `26.0 TiB`
+- Realistic size: `73.8 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,7 +20,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.6 TiB   | 12.2 TiB (83.68%)   | 187 (~79.9 GiB each)  |
+| 1    | -ZR-             | 14.8 TiB   | 12.5 TiB (83.94%)   | 189 (~80.4 GiB each)  |
 | 2    | NAN0             | 4.2 TiB    | 4.1 TiB (98.21%)    | 62 (~69.6 GiB each)   |
 | 3    | CRUCiBLE         | 4.1 TiB    | 4.1 TiB (100.00%)   | 52 (~81.0 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (90.32%)    | 131 (~29.1 GiB each)  |
@@ -39,13 +39,13 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 17   | smol             | 903.2 GiB  | 870.2 GiB (96.35%)  | 55 (~16.4 GiB each)   |
 | 18   | LYS1TH3A         | 887.5 GiB  | 868.0 GiB (97.80%)  | 37 (~24.0 GiB each)   |
 | 19   | LostYears        | 880.4 GiB  | 328.1 GiB (37.27%)  | 53 (~16.6 GiB each)   |
-| 20   | KH               | 830.9 GiB  | 299.3 GiB (36.02%)  | 52 (~16.0 GiB each)   |
+| 20   | KH               | 853.8 GiB  | 322.3 GiB (37.74%)  | 53 (~16.1 GiB each)   |
 | 21   | Vodes            | 769.7 GiB  | 449.9 GiB (58.45%)  | 18 (~42.8 GiB each)   |
 | 22   | ZeroBuild        | 753.7 GiB  | 656.9 GiB (87.16%)  | 17 (~44.3 GiB each)   |
 | 23   | Holomux          | 751.2 GiB  | 152.5 GiB (20.31%)  | 31 (~24.2 GiB each)   |
 | 24   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
 | 25   | A&C              | 726.4 GiB  | 699.8 GiB (96.34%)  | 4 (~181.6 GiB each)   |
-| 26   | Arid             | 720.4 GiB  | 225.6 GiB (31.31%)  | 47 (~15.3 GiB each)   |
+| 26   | Arid             | 720.4 GiB  | 206.7 GiB (28.69%)  | 47 (~15.3 GiB each)   |
 | 27   | Bunny-Apocalypse | 692.4 GiB  | 173.8 GiB (25.10%)  | 32 (~21.6 GiB each)   |
 | 28   | Lulu             | 678.0 GiB  | 401.0 GiB (59.15%)  | 34 (~19.9 GiB each)   |
 | 29   | FraMeSToR        | 667.1 GiB  | 667.1 GiB (100.00%) | 9 (~74.1 GiB each)    |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
 | 48   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 29.0 TiB   | 16.0 TiB (55.25%)   | 1521 (~19.5 GiB each) |
+| 50   | Others           | 29.3 TiB   | 16.1 TiB (55.04%)   | 1528 (~19.6 GiB each) |
