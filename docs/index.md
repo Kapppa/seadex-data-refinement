@@ -20,7 +20,8 @@ unmuxed.md
 no-comparisons.md
 marked-incomplete.md
 public-non-nyaa.md
-private-tracker-only.md
+private-tracker-only-entries.md
+private-tracker-only-torrents.md
 public-tracker-only.md
 top-200.md
 best-missing-dual.md
@@ -41,7 +42,9 @@ alt-missing-dual.md
 
 * {doc}`public-non-nyaa`: SeaDex entries that are publicly available but not yet on Nyaa. Reposting them to Nyaa is a simple way to contribute, just be mindful of Nyaa's rules.
 
-* {doc}`private-tracker-only`: SeaDex entries found only on private trackers. You can contribute by reposting them to Nyaa, but only if the private tracker allows it.
+* {doc}`private-tracker-only-entries`: SeaDex entries found only on private trackers. You can contribute by reposting them to Nyaa, but only if the private tracker allows it.
+
+* {doc}`private-tracker-only-torrents`: SeaDex entries with atleast one torrent found only on private trackers. You can contribute by reposting them to Nyaa, but only if the private tracker allows it.
 
 * {doc}`public-tracker-only`: SeaDex entries found only on public trackers. You can contribute by reposting them to private trackers, following their rules and requirements.
 

@@ -25,7 +25,8 @@ def get_entries(
         "no-comparisons",
         "marked-incomplete",
         "public-non-nyaa",
-        "private-tracker-only",
+        "private-tracker-only-torrents",
+        "private-tracker-only-entries",
         "public-tracker-only",
         "best-missing-dual",
         "alt-missing-dual",
@@ -41,7 +42,7 @@ def get_entries(
 
     Parameters
     ----------
-    criteria : Literal["unmuxed", "no-comparisons", "marked-incomplete", "public-non-nyaa", "private-tracker-only", "public-tracker-only", "best-no-dual"]
+    criteria : Literal["unmuxed", "no-comparisons", "marked-incomplete", "public-non-nyaa", "private-tracker-only-torrents", "private-tracker-only-entries", "public-tracker-only", "best-no-dual"]
         The criteria to use for retrieving SeaDex entries.
         - "unmuxed": Unmuxed entries.
         - "no-comparisons": Entries without any comparisons.
@@ -95,8 +96,8 @@ def get_entries(
                             anilist_ids.append(entry.anilist_id)
                             break
 
-        case "private-tracker-only":
-            header = "# Private tracker only"
+        case "private-tracker-only-torrents":
+            header = "# Private tracker only torrents"
 
             with seadex.SeaDexEntry() as seadex_entry:
                 for entry in seadex_entry.iterator():
@@ -110,6 +111,14 @@ def get_entries(
                             ):
                                 anilist_ids.append(entry.anilist_id)
                                 break
+
+        case "private-tracker-only-entries":
+            header = "# Private tracker only entries"
+
+            with seadex.SeaDexEntry() as seadex_entry:
+                for entry in seadex_entry.iterator():
+                    if all(torrent.tracker.is_private() for torrent in entry.torrents):
+                        anilist_ids.append(entry.anilist_id)
 
         case "public-tracker-only":
             header = "# Public tracker only"
@@ -127,12 +136,11 @@ def get_entries(
                                 anilist_ids.append(entry.anilist_id)
                                 break
         case "best-missing-dual" | "alt-missing-dual":
-
-            header = f"# {criteria.startswith('best') and 'Best' or 'Alt'} missing dual-audio\n\n"
+            header = f"# {(criteria.startswith('best') and 'Best') or 'Alt'} missing dual-audio\n\n"
 
             header += (
-                f"An entry appears here if its designated '{criteria.startswith('best') and 'best' or 'alt'}' version lacks dual audio, "
-                f"but at least one {criteria.startswith('best') and 'alt' or 'best'} release for the same entry "
+                f"An entry appears here if its designated '{(criteria.startswith('best') and 'best') or 'alt'}' version lacks dual audio, "
+                f"but at least one {(criteria.startswith('best') and 'alt') or 'best'} release for the same entry "
                 "includes a dual audio option.\n\n"
             )
 

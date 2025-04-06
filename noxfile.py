@@ -75,7 +75,21 @@ def build_docs(session: nox.Session) -> None:
     session.run("sdr", "get-entries", "public-non-nyaa", "--outfile", src / "public-non-nyaa.md", *session.posargs)
     sleep()
     session.run(
-        "sdr", "get-entries", "private-tracker-only", "--outfile", src / "private-tracker-only.md", *session.posargs
+        "sdr",
+        "get-entries",
+        "private-tracker-only-entries",
+        "--outfile",
+        src / "private-tracker-only-entries.md",
+        *session.posargs,
+    )
+    sleep()
+    session.run(
+        "sdr",
+        "get-entries",
+        "private-tracker-only-torrents",
+        "--outfile",
+        src / "private-tracker-only-torrents.md",
+        *session.posargs,
     )
     sleep()
     session.run(
