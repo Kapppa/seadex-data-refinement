@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `95.0 TiB`
-- Best size: `69.1 TiB`
+- Total size: `95.1 TiB`
+- Best size: `69.2 TiB`
 - Alt size: `26.0 TiB`
-- Realistic size: `73.8 TiB`
+- Realistic size: `73.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -27,8 +27,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (91.77%)    | 34 (~74.8 GiB each)   |
 | 6    | hchcsen          | 2.2 TiB    | 1.5 TiB (69.25%)    | 55 (~40.2 GiB each)   |
 | 7    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 47 (~45.5 GiB each)   |
-| 8    | JySzE            | 1.7 TiB    | 1.7 TiB (100.00%)   | 8 (~220.8 GiB each)   |
-| 9    | B00BA            | 1.7 TiB    | 1.7 TiB (100.00%)   | 20 (~86.9 GiB each)   |
+| 8    | B00BA            | 1.8 TiB    | 1.8 TiB (100.00%)   | 21 (~87.0 GiB each)   |
+| 9    | JySzE            | 1.7 TiB    | 1.7 TiB (100.00%)   | 8 (~220.8 GiB each)   |
 | 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 11   | MTBB             | 1.3 TiB    | 1.1 TiB (83.73%)    | 86 (~15.2 GiB each)   |
 | 12   | NOGRP            | 1.3 TiB    | 836.1 GiB (64.26%)  | 16 (~81.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
 | 48   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 29.3 TiB   | 16.1 TiB (55.04%)   | 1528 (~19.6 GiB each) |
+| 50   | Others           | 29.3 TiB   | 16.1 TiB (55.04%)   | 1532 (~19.6 GiB each) |

@@ -340,17 +340,18 @@
 | 337 | Joker Game: Kuroneko Yoru no Bouken                                      | 2016 | 62    | [SeaDex](https://releases.moe/21790/), [AniList](https://anilist.co/anime/21790)   |
 | 338 | Symphogear AXZ Omake                                                     | 2017 | 70    | [SeaDex](https://releases.moe/101104/), [AniList](https://anilist.co/anime/101104) |
 | 339 | Princess Principal Picture Drama                                         | 2017 | 61    | [SeaDex](https://releases.moe/100519/), [AniList](https://anilist.co/anime/100519) |
-| 340 | Neo Heroic Fantasia Arion                                                | 1986 | 62    | [SeaDex](https://releases.moe/791/), [AniList](https://anilist.co/anime/791)       |
-| 341 | GARO: THE ANIMATION - HOME                                               | 2015 | 64    | [SeaDex](https://releases.moe/102098/), [AniList](https://anilist.co/anime/102098) |
-| 342 | Armor Shop for Ladies & Gentlemen Flips the Script                       | 2019 | 51    | [SeaDex](https://releases.moe/108355/), [AniList](https://anilist.co/anime/108355) |
-| 343 | Symphogear XV Omake                                                      | 2019 | 70    | [SeaDex](https://releases.moe/113348/), [AniList](https://anilist.co/anime/113348) |
-| 344 | Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete     | 2015 | 62    | [SeaDex](https://releases.moe/21405/), [AniList](https://anilist.co/anime/21405)   |
-| 345 | Flying Witch Petit Special                                               | 2016 | 55    | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
-| 346 | Katana Maidens ~ Tomoshibi                                               | 2020 | 63    | [SeaDex](https://releases.moe/114030/), [AniList](https://anilist.co/anime/114030) |
-| 347 | El Hazard: The Alternative World                                         | 1998 | 64    | [SeaDex](https://releases.moe/115/), [AniList](https://anilist.co/anime/115)       |
-| 348 | Shounen Maid Special                                                     | 2016 | 66    | [SeaDex](https://releases.moe/87538/), [AniList](https://anilist.co/anime/87538)   |
-| 349 | Kikou Kai Galient                                                        | 1984 | 64    | [SeaDex](https://releases.moe/5153/), [AniList](https://anilist.co/anime/5153)     |
-| 350 | Campus Special Investigator Hikaruon                                     | 1987 | 55    | [SeaDex](https://releases.moe/1927/), [AniList](https://anilist.co/anime/1927)     |
-| 351 | Rio: Rainbow Gate Special                                                | 2011 | 53    | [SeaDex](https://releases.moe/10301/), [AniList](https://anilist.co/anime/10301)   |
-| 352 | Moyashimon: Kin Gekijou Deluxe                                           | 2007 | 62    | [SeaDex](https://releases.moe/3618/), [AniList](https://anilist.co/anime/3618)     |
-| 353 | Kouya no Kotobuki Hikoutai: Kanzenban                                    | 2020 | 51    | [SeaDex](https://releases.moe/115082/), [AniList](https://anilist.co/anime/115082) |
+| 340 | Code: Realize ~Guardian of Rebirth~ Set a thief to catch a thief         | 2018 | 65    | [SeaDex](https://releases.moe/101875/), [AniList](https://anilist.co/anime/101875) |
+| 341 | Neo Heroic Fantasia Arion                                                | 1986 | 62    | [SeaDex](https://releases.moe/791/), [AniList](https://anilist.co/anime/791)       |
+| 342 | GARO: THE ANIMATION - HOME                                               | 2015 | 64    | [SeaDex](https://releases.moe/102098/), [AniList](https://anilist.co/anime/102098) |
+| 343 | Armor Shop for Ladies & Gentlemen Flips the Script                       | 2019 | 51    | [SeaDex](https://releases.moe/108355/), [AniList](https://anilist.co/anime/108355) |
+| 344 | Symphogear XV Omake                                                      | 2019 | 70    | [SeaDex](https://releases.moe/113348/), [AniList](https://anilist.co/anime/113348) |
+| 345 | Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete     | 2015 | 62    | [SeaDex](https://releases.moe/21405/), [AniList](https://anilist.co/anime/21405)   |
+| 346 | Flying Witch Petit Special                                               | 2016 | 55    | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
+| 347 | Katana Maidens ~ Tomoshibi                                               | 2020 | 63    | [SeaDex](https://releases.moe/114030/), [AniList](https://anilist.co/anime/114030) |
+| 348 | El Hazard: The Alternative World                                         | 1998 | 64    | [SeaDex](https://releases.moe/115/), [AniList](https://anilist.co/anime/115)       |
+| 349 | Shounen Maid Special                                                     | 2016 | 66    | [SeaDex](https://releases.moe/87538/), [AniList](https://anilist.co/anime/87538)   |
+| 350 | Kikou Kai Galient                                                        | 1984 | 64    | [SeaDex](https://releases.moe/5153/), [AniList](https://anilist.co/anime/5153)     |
+| 351 | Campus Special Investigator Hikaruon                                     | 1987 | 55    | [SeaDex](https://releases.moe/1927/), [AniList](https://anilist.co/anime/1927)     |
+| 352 | Rio: Rainbow Gate Special                                                | 2011 | 53    | [SeaDex](https://releases.moe/10301/), [AniList](https://anilist.co/anime/10301)   |
+| 353 | Moyashimon: Kin Gekijou Deluxe                                           | 2007 | 62    | [SeaDex](https://releases.moe/3618/), [AniList](https://anilist.co/anime/3618)     |
+| 354 | Kouya no Kotobuki Hikoutai: Kanzenban                                    | 2020 | 51    | [SeaDex](https://releases.moe/115082/), [AniList](https://anilist.co/anime/115082) |

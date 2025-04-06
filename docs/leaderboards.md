@@ -89,8 +89,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
 | 15   | Arid      | 22    |
-| 16   | KH        | 20    |
-| 17   | B00BA     | 20    |
+| 16   | B00BA     | 21    |
+| 17   | KH        | 20    |
 | 18   | Flugel    | 19    |
 | 19   | LazyRemux | 19    |
 | 20   | Drag      | 17    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | Chihiro          | 13    |
 | 23   | IK               | 13    |
 | 24   | HorribleSubs     | 13    |
-| 25   | Asakura          | 12    |
+| 25   | NH               | 12    |
