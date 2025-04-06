@@ -209,19 +209,21 @@ def leaderboards(outfile: Path | None = None) -> None:
 
 
 @app.command
-def top_200(outfile: Path | None = None) -> None:
+def top_missing(count: int, outfile: Path | None = None) -> None:
     """
-    Generate a markdown of top 200 shows not on SeaDex
+    Generate a markdown of top shows not on SeaDex
 
     Parameters
     ----------
+    count : Int
+        The amount of releases x50
     outfile : Path | None, optional
         Path to write the output to.
     """
-    output = MediaEntryCollection.top_200_anilist_not_on_dex()
+    output = MediaEntryCollection.top_x_anilist_not_on_dex(count)
 
     if outfile:
-        outfile.write_text(output.to_markdown_table(header="# Top 200 missing shows"), encoding="utf-8")
+        outfile.write_text(output.to_markdown_table(header=f"# Top {len(output.entries)} missing shows"), encoding="utf-8")
     else:
         print(output)
 

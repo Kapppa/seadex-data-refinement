@@ -115,13 +115,19 @@ class MediaEntryCollection(BaseModel):
         return cls(entries=tuple(results))
 
     @classmethod
-    def top_200_anilist_not_on_dex(cls) -> Self:
-        """Fetches and creates an MediaEntryCollection of the Top 200 not on SeaDex."""
+    def top_x_anilist_not_on_dex(cls, count=4) -> Self:
+        """Fetches and creates an MediaEntryCollection of the Top x50 not on SeaDex.
+        
+        Parameters
+        ----------
+        count : Int, optional
+            The amount of releases x50
+        """
         results = []
 
         with httpx.Client() as client:
             ids = client.get(SEADEX_ANILIST_IDS_URL).raise_for_status().text.split(",")
-            for page in range(4):
+            for page in range(count):
                 resp = (
                     client.post(
                         ANILIST_API_URL,
