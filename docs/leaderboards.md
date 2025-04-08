@@ -18,26 +18,26 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
-| 5    | SubsPlease       | 74    |
+| 5    | SubsPlease       | 75    |
 | 6    | NAN0             | 62    |
-| 7    | Drag             | 59    |
+| 7    | Drag             | 58    |
 | 8    | smol             | 55    |
-| 9    | LostYears        | 53    |
-| 10   | CRUCiBLE         | 52    |
+| 9    | CRUCiBLE         | 53    |
+| 10   | LostYears        | 53    |
 | 11   | KH               | 51    |
 | 12   | hchcsen          | 51    |
-| 13   | Moxie            | 47    |
-| 14   | Arid             | 46    |
+| 13   | Arid             | 46    |
+| 14   | Moxie            | 46    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | YURASUKA         | 35    |
-| 17   | Lulu             | 34    |
-| 18   | TTGA             | 34    |
+| 17   | TTGA             | 35    |
+| 18   | Lulu             | 34    |
 | 19   | Commie           | 34    |
 | 20   | Bunny-Apocalypse | 32    |
 | 21   | Pog42            | 32    |
 | 22   | Kametsu          | 31    |
 | 23   | Okay-Subs        | 31    |
-| 24   | Holomux          | 29    |
+| 24   | Holomux          | 28    |
 | 25   | SCY              | 28    |
 
 ## Top 25 - Best dual audio entries
@@ -47,9 +47,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 52    |
-| 4    | CRUCiBLE  | 44    |
+| 4    | CRUCiBLE  | 45    |
 | 5    | LYS1TH3A  | 34    |
-| 6    | hchcsen   | 29    |
+| 6    | hchcsen   | 28    |
 | 7    | TTGA      | 22    |
 | 8    | Lulu      | 21    |
 | 9    | smol      | 21    |
@@ -79,12 +79,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | NAN0      | 61    |
 | 4    | MTBB      | 56    |
 | 5    | smol      | 54    |
-| 6    | CRUCiBLE  | 52    |
-| 7    | Moxie     | 47    |
+| 6    | CRUCiBLE  | 53    |
+| 7    | Moxie     | 46    |
 | 8    | YURI      | 40    |
 | 9    | LYS1TH3A  | 35    |
-| 10   | TTGA      | 32    |
-| 11   | hchcsen   | 30    |
+| 10   | TTGA      | 33    |
+| 11   | hchcsen   | 29    |
 | 12   | Okay-Subs | 27    |
 | 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
@@ -105,7 +105,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 63    |
-| 🥈   | Drag             | 43    |
+| 🥈   | Drag             | 42    |
 | 🥉   | -ZR-             | 41    |
 | 4    | YURI             | 37    |
 | 5    | LostYears        | 37    |
@@ -113,11 +113,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | KH               | 33    |
 | 8    | Commie           | 33    |
 | 9    | MTBB             | 30    |
-| 10   | Arid             | 25    |
-| 11   | Bunny-Apocalypse | 25    |
-| 12   | hchcsen          | 25    |
+| 10   | hchcsen          | 26    |
+| 11   | Arid             | 25    |
+| 12   | Bunny-Apocalypse | 25    |
 | 13   | Kametsu          | 24    |
-| 14   | Holomux          | 21    |
+| 14   | Holomux          | 20    |
 | 15   | CTR              | 19    |
 | 16   | Pog42            | 18    |
 | 17   | Erai-raws        | 18    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | Chihiro          | 13    |
 | 23   | IK               | 13    |
 | 24   | HorribleSubs     | 13    |
-| 25   | NH               | 12    |
+| 25   | Asakura          | 12    |
