@@ -22,8 +22,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | NAN0             | 62    |
 | 7    | Drag             | 58    |
 | 8    | smol             | 55    |
-| 9    | CRUCiBLE         | 53    |
-| 10   | LostYears        | 53    |
+| 9    | LostYears        | 54    |
+| 10   | CRUCiBLE         | 53    |
 | 11   | KH               | 51    |
 | 12   | hchcsen          | 51    |
 | 13   | Arid             | 46    |
@@ -107,8 +107,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | SubsPlease       | 63    |
 | 🥈   | Drag             | 42    |
 | 🥉   | -ZR-             | 41    |
-| 4    | YURI             | 37    |
-| 5    | LostYears        | 37    |
+| 4    | LostYears        | 38    |
+| 5    | YURI             | 37    |
 | 6    | YURASUKA         | 34    |
 | 7    | KH               | 33    |
 | 8    | Commie           | 33    |

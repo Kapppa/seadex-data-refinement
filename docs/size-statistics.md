@@ -37,8 +37,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 15   | PMR              | 1.1 TiB    | 1.1 TiB (100.00%)   | 14 (~81.0 GiB each)   |
 | 16   | YURI             | 903.6 GiB  | 463.0 GiB (51.24%)  | 77 (~11.7 GiB each)   |
 | 17   | smol             | 903.2 GiB  | 870.2 GiB (96.35%)  | 55 (~16.4 GiB each)   |
-| 18   | LYS1TH3A         | 887.5 GiB  | 868.0 GiB (97.80%)  | 37 (~24.0 GiB each)   |
-| 19   | LostYears        | 880.4 GiB  | 328.1 GiB (37.27%)  | 53 (~16.6 GiB each)   |
+| 18   | LostYears        | 898.6 GiB  | 328.1 GiB (36.51%)  | 54 (~16.6 GiB each)   |
+| 19   | LYS1TH3A         | 887.5 GiB  | 868.0 GiB (97.80%)  | 37 (~24.0 GiB each)   |
 | 20   | KH               | 853.8 GiB  | 322.3 GiB (37.74%)  | 53 (~16.1 GiB each)   |
 | 21   | Vodes            | 769.7 GiB  | 449.9 GiB (58.45%)  | 18 (~42.8 GiB each)   |
 | 22   | ZeroBuild        | 753.7 GiB  | 656.9 GiB (87.16%)  | 17 (~44.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
 | 48   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 29.4 TiB   | 16.1 TiB (54.79%)   | 1525 (~19.7 GiB each) |
+| 50   | Others           | 29.4 TiB   | 16.1 TiB (54.76%)   | 1528 (~19.7 GiB each) |

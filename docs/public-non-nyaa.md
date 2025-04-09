@@ -12,7 +12,7 @@
 | 9   | Eureka Seven                                                       | 2005 | 77    | [SeaDex](https://releases.moe/237/), [AniList](https://anilist.co/anime/237)       |
 | 10  | Fate/Grand Order Absolute Demonic Front: Babylonia                 | 2019 | 78    | [SeaDex](https://releases.moe/103275/), [AniList](https://anilist.co/anime/103275) |
 | 11  | Texhnolyze                                                         | 2003 | 77    | [SeaDex](https://releases.moe/26/), [AniList](https://anilist.co/anime/26)         |
-| 12  | Sirius the Jaeger                                                  | 2018 | 68    | [SeaDex](https://releases.moe/101361/), [AniList](https://anilist.co/anime/101361) |
+| 12  | Sirius the Jaeger                                                  | 2018 | 67    | [SeaDex](https://releases.moe/101361/), [AniList](https://anilist.co/anime/101361) |
 | 13  | Himouto! Umaru-chan R                                              | 2017 | 71    | [SeaDex](https://releases.moe/98572/), [AniList](https://anilist.co/anime/98572)   |
 | 14  | Free! -Dive to the Future-                                         | 2018 | 75    | [SeaDex](https://releases.moe/101117/), [AniList](https://anilist.co/anime/101117) |
 | 15  | Magia Record: Puella Magi Madoka Magica Side Story                 | 2020 | 65    | [SeaDex](https://releases.moe/104051/), [AniList](https://anilist.co/anime/104051) |
