@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `95.4 TiB`
-- Best size: `69.3 TiB`
-- Alt size: `26.1 TiB`
-- Realistic size: `74.1 TiB`
+- Total size: `95.6 TiB`
+- Best size: `69.4 TiB`
+- Alt size: `26.2 TiB`
+- Realistic size: `74.3 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,20 +20,20 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.8 TiB   | 12.4 TiB (83.88%)   | 189 (~80.0 GiB each)  |
-| 2    | NAN0             | 4.2 TiB    | 4.1 TiB (98.21%)    | 62 (~69.6 GiB each)   |
+| 1    | -ZR-             | 14.7 TiB   | 12.3 TiB (83.92%)   | 188 (~80.1 GiB each)  |
+| 2    | NAN0             | 4.3 TiB    | 4.2 TiB (98.23%)    | 63 (~69.5 GiB each)   |
 | 3    | CRUCiBLE         | 4.2 TiB    | 4.2 TiB (100.00%)   | 53 (~81.0 GiB each)   |
-| 4    | sam              | 3.7 TiB    | 3.4 TiB (90.32%)    | 131 (~29.1 GiB each)  |
+| 4    | sam              | 3.8 TiB    | 3.4 TiB (90.41%)    | 131 (~29.3 GiB each)  |
 | 5    | TTGA             | 2.6 TiB    | 2.3 TiB (92.00%)    | 35 (~74.7 GiB each)   |
 | 6    | hchcsen          | 2.2 TiB    | 1.5 TiB (68.78%)    | 55 (~40.5 GiB each)   |
 | 7    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 46 (~46.5 GiB each)   |
 | 8    | B00BA            | 1.8 TiB    | 1.8 TiB (100.00%)   | 21 (~87.0 GiB each)   |
 | 9    | JySzE            | 1.7 TiB    | 1.7 TiB (100.00%)   | 8 (~220.8 GiB each)   |
 | 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
-| 11   | MTBB             | 1.3 TiB    | 1.1 TiB (83.73%)    | 86 (~15.2 GiB each)   |
-| 12   | NOGRP            | 1.3 TiB    | 836.1 GiB (64.26%)  | 16 (~81.3 GiB each)   |
+| 11   | NOGRP            | 1.3 TiB    | 836.1 GiB (61.31%)  | 18 (~75.8 GiB each)   |
+| 12   | MTBB             | 1.3 TiB    | 1.1 TiB (83.73%)    | 86 (~15.2 GiB each)   |
 | 13   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
-| 14   | SubsPlease       | 1.2 TiB    | 193.8 GiB (15.38%)  | 75 (~16.8 GiB each)   |
+| 14   | SubsPlease       | 1.2 TiB    | 206.8 GiB (16.24%)  | 76 (~16.8 GiB each)   |
 | 15   | PMR              | 1.1 TiB    | 1.1 TiB (100.00%)   | 14 (~81.0 GiB each)   |
 | 16   | YURI             | 903.6 GiB  | 463.0 GiB (51.24%)  | 77 (~11.7 GiB each)   |
 | 17   | smol             | 903.2 GiB  | 870.2 GiB (96.35%)  | 55 (~16.4 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
 | 48   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 29.4 TiB   | 16.1 TiB (54.76%)   | 1528 (~19.7 GiB each) |
+| 50   | Others           | 29.5 TiB   | 16.1 TiB (54.72%)   | 1533 (~19.7 GiB each) |

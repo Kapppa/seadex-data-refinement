@@ -18,8 +18,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
-| 5    | SubsPlease       | 75    |
-| 6    | NAN0             | 62    |
+| 5    | SubsPlease       | 76    |
+| 6    | NAN0             | 63    |
 | 7    | Drag             | 58    |
 | 8    | smol             | 55    |
 | 9    | LostYears        | 54    |
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
-| 🥉   | NAN0      | 52    |
+| 🥉   | NAN0      | 53    |
 | 4    | CRUCiBLE  | 45    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 28    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 148   |
 | 🥈   | sam       | 118   |
-| 🥉   | NAN0      | 61    |
+| 🥉   | NAN0      | 62    |
 | 4    | MTBB      | 56    |
 | 5    | smol      | 54    |
 | 6    | CRUCiBLE  | 53    |
@@ -106,7 +106,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 63    |
 | 🥈   | Drag             | 42    |
-| 🥉   | -ZR-             | 41    |
+| 🥉   | -ZR-             | 40    |
 | 4    | LostYears        | 38    |
 | 5    | YURI             | 37    |
 | 6    | YURASUKA         | 34    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | Chihiro          | 13    |
 | 23   | IK               | 13    |
 | 24   | HorribleSubs     | 13    |
-| 25   | Asakura          | 12    |
+| 25   | NH               | 12    |

@@ -10,31 +10,29 @@
 | 7   | Trigun                                                             | 1998 | 80    | [SeaDex](https://releases.moe/6/), [AniList](https://anilist.co/anime/6)           |
 | 8   | The Melancholy of Haruhi Suzumiya (2009)                           | 2009 | 71    | [SeaDex](https://releases.moe/4382/), [AniList](https://anilist.co/anime/4382)     |
 | 9   | Eureka Seven                                                       | 2005 | 77    | [SeaDex](https://releases.moe/237/), [AniList](https://anilist.co/anime/237)       |
-| 10  | Fate/Grand Order Absolute Demonic Front: Babylonia                 | 2019 | 78    | [SeaDex](https://releases.moe/103275/), [AniList](https://anilist.co/anime/103275) |
-| 11  | Texhnolyze                                                         | 2003 | 77    | [SeaDex](https://releases.moe/26/), [AniList](https://anilist.co/anime/26)         |
-| 12  | Sirius the Jaeger                                                  | 2018 | 67    | [SeaDex](https://releases.moe/101361/), [AniList](https://anilist.co/anime/101361) |
-| 13  | Himouto! Umaru-chan R                                              | 2017 | 71    | [SeaDex](https://releases.moe/98572/), [AniList](https://anilist.co/anime/98572)   |
-| 14  | Free! -Dive to the Future-                                         | 2018 | 75    | [SeaDex](https://releases.moe/101117/), [AniList](https://anilist.co/anime/101117) |
-| 15  | Magia Record: Puella Magi Madoka Magica Side Story                 | 2020 | 65    | [SeaDex](https://releases.moe/104051/), [AniList](https://anilist.co/anime/104051) |
-| 16  | Thus Spoke Rohan Kishibe                                           | 2017 | 76    | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
-| 17  | SSSS.DYNAZENON                                                     | 2021 | 74    | [SeaDex](https://releases.moe/113950/), [AniList](https://anilist.co/anime/113950) |
-| 18  | Pretty Boy Detective Club                                          | 2021 | 69    | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
-| 19  | Magical Girl Raising Project                                       | 2016 | 66    | [SeaDex](https://releases.moe/21340/), [AniList](https://anilist.co/anime/21340)   |
-| 20  | Akagi                                                              | 2005 | 77    | [SeaDex](https://releases.moe/658/), [AniList](https://anilist.co/anime/658)       |
-| 21  | Fate/Grand Order Final Singularity - Grand Temple of Time: Solomon | 2021 | 76    | [SeaDex](https://releases.moe/116756/), [AniList](https://anilist.co/anime/116756) |
-| 22  | Fate/Grand Order Absolute Demonic Front: Babylonia - Initium Iter  | 2019 | 70    | [SeaDex](https://releases.moe/110851/), [AniList](https://anilist.co/anime/110851) |
-| 23  | <DOGEZA>I Tried Asking While Kowtowing.                            | 2020 | 51    | [SeaDex](https://releases.moe/122137/), [AniList](https://anilist.co/anime/122137) |
-| 24  | Rumbling Hearts                                                    | 2003 | 66    | [SeaDex](https://releases.moe/147/), [AniList](https://anilist.co/anime/147)       |
-| 25  | Saint Seiya: The Lost Canvas                                       | 2009 | 76    | [SeaDex](https://releases.moe/6171/), [AniList](https://anilist.co/anime/6171)     |
-| 26  | Angel's 3Piece!                                                    | 2017 | 62    | [SeaDex](https://releases.moe/97683/), [AniList](https://anilist.co/anime/97683)   |
-| 27  | Escaflowne: A Girl in Gaea                                         | 2000 | 66    | [SeaDex](https://releases.moe/393/), [AniList](https://anilist.co/anime/393)       |
-| 28  | Sound! Euphonium Shorts                                            | 2015 | 67    | [SeaDex](https://releases.moe/21255/), [AniList](https://anilist.co/anime/21255)   |
-| 29  | Saint Seiya: The Lost Canvas 2                                     | 2011 | 77    | [SeaDex](https://releases.moe/9130/), [AniList](https://anilist.co/anime/9130)     |
-| 30  | Jyu-Oh-Sei: Planet of the Beast King                               | 2006 | 67    | [SeaDex](https://releases.moe/953/), [AniList](https://anilist.co/anime/953)       |
-| 31  | Sound! Euphonium 2 Shorts                                          | 2016 | 66    | [SeaDex](https://releases.moe/98338/), [AniList](https://anilist.co/anime/98338)   |
-| 32  | Free! -Dive to the Future-: Build-Up of Early Spring!              | 2018 | 74    | [SeaDex](https://releases.moe/103588/), [AniList](https://anilist.co/anime/103588) |
-| 33  | Strike Witches: Road to Berlin                                     | 2020 | 72    | [SeaDex](https://releases.moe/103119/), [AniList](https://anilist.co/anime/103119) |
-| 34  | Dogeza de Tanondemita: Isekai-hen                                  | 2021 | 53    | [SeaDex](https://releases.moe/124612/), [AniList](https://anilist.co/anime/124612) |
-| 35  | Eiken                                                              | 2003 | 36    | [SeaDex](https://releases.moe/788/), [AniList](https://anilist.co/anime/788)       |
-| 36  | The Reflection                                                     | 2017 | 42    | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461)   |
-| 37  | Null & Peta: Slippery and Sticky! Big Sister Bikini Battle!        | 2020 | 52    | [SeaDex](https://releases.moe/113187/), [AniList](https://anilist.co/anime/113187) |
+| 10  | Texhnolyze                                                         | 2003 | 77    | [SeaDex](https://releases.moe/26/), [AniList](https://anilist.co/anime/26)         |
+| 11  | Sirius the Jaeger                                                  | 2018 | 67    | [SeaDex](https://releases.moe/101361/), [AniList](https://anilist.co/anime/101361) |
+| 12  | Himouto! Umaru-chan R                                              | 2017 | 71    | [SeaDex](https://releases.moe/98572/), [AniList](https://anilist.co/anime/98572)   |
+| 13  | Free! -Dive to the Future-                                         | 2018 | 75    | [SeaDex](https://releases.moe/101117/), [AniList](https://anilist.co/anime/101117) |
+| 14  | Magia Record: Puella Magi Madoka Magica Side Story                 | 2020 | 65    | [SeaDex](https://releases.moe/104051/), [AniList](https://anilist.co/anime/104051) |
+| 15  | Thus Spoke Rohan Kishibe                                           | 2017 | 76    | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
+| 16  | SSSS.DYNAZENON                                                     | 2021 | 74    | [SeaDex](https://releases.moe/113950/), [AniList](https://anilist.co/anime/113950) |
+| 17  | Pretty Boy Detective Club                                          | 2021 | 69    | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
+| 18  | Magical Girl Raising Project                                       | 2016 | 66    | [SeaDex](https://releases.moe/21340/), [AniList](https://anilist.co/anime/21340)   |
+| 19  | Akagi                                                              | 2005 | 77    | [SeaDex](https://releases.moe/658/), [AniList](https://anilist.co/anime/658)       |
+| 20  | Fate/Grand Order Final Singularity - Grand Temple of Time: Solomon | 2021 | 76    | [SeaDex](https://releases.moe/116756/), [AniList](https://anilist.co/anime/116756) |
+| 21  | <DOGEZA>I Tried Asking While Kowtowing.                            | 2020 | 51    | [SeaDex](https://releases.moe/122137/), [AniList](https://anilist.co/anime/122137) |
+| 22  | Rumbling Hearts                                                    | 2003 | 66    | [SeaDex](https://releases.moe/147/), [AniList](https://anilist.co/anime/147)       |
+| 23  | Saint Seiya: The Lost Canvas                                       | 2009 | 76    | [SeaDex](https://releases.moe/6171/), [AniList](https://anilist.co/anime/6171)     |
+| 24  | Angel's 3Piece!                                                    | 2017 | 62    | [SeaDex](https://releases.moe/97683/), [AniList](https://anilist.co/anime/97683)   |
+| 25  | Escaflowne: A Girl in Gaea                                         | 2000 | 66    | [SeaDex](https://releases.moe/393/), [AniList](https://anilist.co/anime/393)       |
+| 26  | Sound! Euphonium Shorts                                            | 2015 | 67    | [SeaDex](https://releases.moe/21255/), [AniList](https://anilist.co/anime/21255)   |
+| 27  | Saint Seiya: The Lost Canvas 2                                     | 2011 | 77    | [SeaDex](https://releases.moe/9130/), [AniList](https://anilist.co/anime/9130)     |
+| 28  | Jyu-Oh-Sei: Planet of the Beast King                               | 2006 | 67    | [SeaDex](https://releases.moe/953/), [AniList](https://anilist.co/anime/953)       |
+| 29  | Sound! Euphonium 2 Shorts                                          | 2016 | 66    | [SeaDex](https://releases.moe/98338/), [AniList](https://anilist.co/anime/98338)   |
+| 30  | Free! -Dive to the Future-: Build-Up of Early Spring!              | 2018 | 74    | [SeaDex](https://releases.moe/103588/), [AniList](https://anilist.co/anime/103588) |
+| 31  | Strike Witches: Road to Berlin                                     | 2020 | 72    | [SeaDex](https://releases.moe/103119/), [AniList](https://anilist.co/anime/103119) |
+| 32  | Dogeza de Tanondemita: Isekai-hen                                  | 2021 | 53    | [SeaDex](https://releases.moe/124612/), [AniList](https://anilist.co/anime/124612) |
+| 33  | Eiken                                                              | 2003 | 36    | [SeaDex](https://releases.moe/788/), [AniList](https://anilist.co/anime/788)       |
+| 34  | The Reflection                                                     | 2017 | 42    | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461)   |
+| 35  | Null & Peta: Slippery and Sticky! Big Sister Bikini Battle!        | 2020 | 52    | [SeaDex](https://releases.moe/113187/), [AniList](https://anilist.co/anime/113187) |
