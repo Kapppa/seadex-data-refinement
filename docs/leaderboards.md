@@ -14,18 +14,18 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 174   |
+| 🥇   | -ZR-             | 176   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
 | 4    | YURI             | 77    |
-| 5    | SubsPlease       | 76    |
+| 5    | SubsPlease       | 77    |
 | 6    | NAN0             | 63    |
 | 7    | Drag             | 58    |
 | 8    | smol             | 55    |
 | 9    | LostYears        | 54    |
 | 10   | CRUCiBLE         | 53    |
-| 11   | KH               | 51    |
-| 12   | hchcsen          | 51    |
+| 11   | hchcsen          | 52    |
+| 12   | KH               | 51    |
 | 13   | Arid             | 46    |
 | 14   | Moxie            | 46    |
 | 15   | LYS1TH3A         | 37    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 111   |
+| 🥇   | -ZR-      | 112   |
 | 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 53    |
 | 4    | CRUCiBLE  | 45    |
@@ -66,15 +66,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | DemiHuman | 11    |
 | 21   | SCY       | 11    |
 | 22   | koala     | 9     |
-| 23   | FraMeSToR | 9     |
-| 24   | UDF       | 8     |
-| 25   | Meakes    | 8     |
+| 23   | FLE       | 9     |
+| 24   | FraMeSToR | 9     |
+| 25   | UDF       | 8     |
 
 ## Top 25 - Best entries
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 148   |
+| 🥇   | -ZR-      | 149   |
 | 🥈   | sam       | 118   |
 | 🥉   | NAN0      | 62    |
 | 4    | MTBB      | 56    |
@@ -104,16 +104,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 63    |
+| 🥇   | SubsPlease       | 64    |
 | 🥈   | Drag             | 42    |
-| 🥉   | -ZR-             | 40    |
+| 🥉   | -ZR-             | 41    |
 | 4    | LostYears        | 38    |
 | 5    | YURI             | 37    |
 | 6    | YURASUKA         | 34    |
 | 7    | KH               | 33    |
 | 8    | Commie           | 33    |
 | 9    | MTBB             | 30    |
-| 10   | hchcsen          | 26    |
+| 10   | hchcsen          | 27    |
 | 11   | Arid             | 25    |
 | 12   | Bunny-Apocalypse | 25    |
 | 13   | Kametsu          | 24    |
