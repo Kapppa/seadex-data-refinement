@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `96.2 TiB`
-- Best size: `69.8 TiB`
+- Total size: `96.3 TiB`
+- Best size: `69.9 TiB`
 - Alt size: `26.4 TiB`
-- Realistic size: `74.7 TiB`
+- Realistic size: `74.8 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -32,7 +32,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 11   | NOGRP            | 1.3 TiB    | 836.1 GiB (61.31%)  | 18 (~75.8 GiB each)   |
 | 12   | MTBB             | 1.3 TiB    | 1.1 TiB (83.73%)    | 86 (~15.2 GiB each)   |
-| 13   | SubsPlease       | 1.3 TiB    | 206.8 GiB (16.06%)  | 77 (~16.7 GiB each)   |
+| 13   | SubsPlease       | 1.3 TiB    | 206.8 GiB (15.87%)  | 78 (~16.7 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 15   | PMR              | 1.1 TiB    | 1.1 TiB (100.00%)   | 14 (~81.0 GiB each)   |
 | 16   | RUDY             | 994.3 GiB  | 958.2 GiB (96.37%)  | 12 (~82.9 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
 | 48   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 29.6 TiB   | 16.2 TiB (54.68%)   | 1538 (~19.7 GiB each) |
+| 50   | Others           | 29.7 TiB   | 16.2 TiB (54.77%)   | 1540 (~19.7 GiB each) |

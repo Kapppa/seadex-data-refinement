@@ -17,8 +17,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 176   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
-| 4    | YURI             | 77    |
-| 5    | SubsPlease       | 77    |
+| 4    | SubsPlease       | 78    |
+| 5    | YURI             | 77    |
 | 6    | NAN0             | 63    |
 | 7    | Drag             | 58    |
 | 8    | smol             | 55    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 64    |
+| 🥇   | SubsPlease       | 65    |
 | 🥈   | Drag             | 42    |
 | 🥉   | -ZR-             | 41    |
 | 4    | LostYears        | 38    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | Chihiro          | 13    |
 | 23   | IK               | 13    |
 | 24   | HorribleSubs     | 13    |
-| 25   | NH               | 12    |
+| 25   | Asakura          | 12    |

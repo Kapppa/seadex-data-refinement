@@ -22,20 +22,19 @@
 | 19  | Liar, Liar                                                                       | 2023 | 62    | [SeaDex](https://releases.moe/131863/), [AniList](https://anilist.co/anime/131863) |
 | 20  | Big Order                                                                        | 2016 | 48    | [SeaDex](https://releases.moe/21445/), [AniList](https://anilist.co/anime/21445)   |
 | 21  | The Demon Sword Master of Excalibur Academy                                      | 2023 | 61    | [SeaDex](https://releases.moe/140501/), [AniList](https://anilist.co/anime/140501) |
-| 22  | Hitorijime My Hero                                                               | 2017 | 70    | [SeaDex](https://releases.moe/87494/), [AniList](https://anilist.co/anime/87494)   |
-| 23  | Loner Life in Another World                                                      | 2024 | 65    | [SeaDex](https://releases.moe/173693/), [AniList](https://anilist.co/anime/173693) |
-| 24  | Tales of Wedding Rings                                                           | 2024 | 59    | [SeaDex](https://releases.moe/160389/), [AniList](https://anilist.co/anime/160389) |
-| 25  | She Professed Herself Pupil of the Wise Man                                      | 2022 | 60    | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
-| 26  | Scarlet Nexus                                                                    | 2021 | 53    | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
-| 27  | Conception                                                                       | 2018 | 39    | [SeaDex](https://releases.moe/101609/), [AniList](https://anilist.co/anime/101609) |
-| 28  | Isuca                                                                            | 2015 | 54    | [SeaDex](https://releases.moe/20746/), [AniList](https://anilist.co/anime/20746)   |
-| 29  | A Salad Bowl of Eccentrics                                                       | 2024 | 71    | [SeaDex](https://releases.moe/166828/), [AniList](https://anilist.co/anime/166828) |
-| 30  | IS: Infinite Stratos - World Purge-hen                                           | 2014 | 65    | [SeaDex](https://releases.moe/20571/), [AniList](https://anilist.co/anime/20571)   |
-| 31  | Spy Classroom Season 2                                                           | 2023 | 70    | [SeaDex](https://releases.moe/163542/), [AniList](https://anilist.co/anime/163542) |
-| 32  | Place to Place OVA                                                               | 2012 | 72    | [SeaDex](https://releases.moe/16273/), [AniList](https://anilist.co/anime/16273)   |
-| 33  | URAHARA                                                                          | 2017 | 53    | [SeaDex](https://releases.moe/98513/), [AniList](https://anilist.co/anime/98513)   |
-| 34  | Macross Zero                                                                     | 2002 | 70    | [SeaDex](https://releases.moe/194/), [AniList](https://anilist.co/anime/194)       |
-| 35  | Hinata no Aoshigure                                                              | 2013 | 65    | [SeaDex](https://releases.moe/20471/), [AniList](https://anilist.co/anime/20471)   |
-| 36  | Stella of the Theater: World Dai Star                                            | 2023 | 72    | [SeaDex](https://releases.moe/157765/), [AniList](https://anilist.co/anime/157765) |
-| 37  | Overlord: Ple Ple Pleiades 4                                                     | 2022 | 66    | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 38  | The Big First-Grader and the Small Second-Grader                                 | 2014 | 62    | [SeaDex](https://releases.moe/20504/), [AniList](https://anilist.co/anime/20504)   |
+| 22  | Loner Life in Another World                                                      | 2024 | 65    | [SeaDex](https://releases.moe/173693/), [AniList](https://anilist.co/anime/173693) |
+| 23  | Tales of Wedding Rings                                                           | 2024 | 59    | [SeaDex](https://releases.moe/160389/), [AniList](https://anilist.co/anime/160389) |
+| 24  | She Professed Herself Pupil of the Wise Man                                      | 2022 | 60    | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
+| 25  | Scarlet Nexus                                                                    | 2021 | 53    | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
+| 26  | Conception                                                                       | 2018 | 39    | [SeaDex](https://releases.moe/101609/), [AniList](https://anilist.co/anime/101609) |
+| 27  | Isuca                                                                            | 2015 | 54    | [SeaDex](https://releases.moe/20746/), [AniList](https://anilist.co/anime/20746)   |
+| 28  | A Salad Bowl of Eccentrics                                                       | 2024 | 71    | [SeaDex](https://releases.moe/166828/), [AniList](https://anilist.co/anime/166828) |
+| 29  | IS: Infinite Stratos - World Purge-hen                                           | 2014 | 65    | [SeaDex](https://releases.moe/20571/), [AniList](https://anilist.co/anime/20571)   |
+| 30  | Spy Classroom Season 2                                                           | 2023 | 70    | [SeaDex](https://releases.moe/163542/), [AniList](https://anilist.co/anime/163542) |
+| 31  | Place to Place OVA                                                               | 2012 | 72    | [SeaDex](https://releases.moe/16273/), [AniList](https://anilist.co/anime/16273)   |
+| 32  | URAHARA                                                                          | 2017 | 53    | [SeaDex](https://releases.moe/98513/), [AniList](https://anilist.co/anime/98513)   |
+| 33  | Macross Zero                                                                     | 2002 | 70    | [SeaDex](https://releases.moe/194/), [AniList](https://anilist.co/anime/194)       |
+| 34  | Hinata no Aoshigure                                                              | 2013 | 65    | [SeaDex](https://releases.moe/20471/), [AniList](https://anilist.co/anime/20471)   |
+| 35  | Stella of the Theater: World Dai Star                                            | 2023 | 72    | [SeaDex](https://releases.moe/157765/), [AniList](https://anilist.co/anime/157765) |
+| 36  | Overlord: Ple Ple Pleiades 4                                                     | 2022 | 66    | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 37  | The Big First-Grader and the Small Second-Grader                                 | 2014 | 62    | [SeaDex](https://releases.moe/20504/), [AniList](https://anilist.co/anime/20504)   |
