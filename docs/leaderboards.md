@@ -17,13 +17,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 176   |
 | 🥈   | sam              | 130   |
 | 🥉   | MTBB             | 86    |
-| 4    | SubsPlease       | 78    |
+| 4    | SubsPlease       | 79    |
 | 5    | YURI             | 77    |
-| 6    | NAN0             | 63    |
+| 6    | NAN0             | 64    |
 | 7    | Drag             | 58    |
-| 8    | smol             | 55    |
-| 9    | LostYears        | 54    |
-| 10   | CRUCiBLE         | 53    |
+| 8    | CRUCiBLE         | 56    |
+| 9    | smol             | 55    |
+| 10   | LostYears        | 54    |
 | 11   | hchcsen          | 52    |
 | 12   | KH               | 51    |
 | 13   | Arid             | 46    |
@@ -47,7 +47,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 112   |
 | 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 53    |
-| 4    | CRUCiBLE  | 45    |
+| 4    | CRUCiBLE  | 47    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 28    |
 | 7    | TTGA      | 22    |
@@ -65,7 +65,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | Vodes     | 11    |
 | 20   | DemiHuman | 11    |
 | 21   | SCY       | 11    |
-| 22   | koala     | 9     |
+| 22   | koala     | 10    |
 | 23   | FLE       | 9     |
 | 24   | FraMeSToR | 9     |
 | 25   | UDF       | 8     |
@@ -76,10 +76,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 149   |
 | 🥈   | sam       | 118   |
-| 🥉   | NAN0      | 62    |
-| 4    | MTBB      | 56    |
-| 5    | smol      | 54    |
-| 6    | CRUCiBLE  | 53    |
+| 🥉   | NAN0      | 63    |
+| 4    | CRUCiBLE  | 56    |
+| 5    | MTBB      | 56    |
+| 6    | smol      | 54    |
 | 7    | Moxie     | 46    |
 | 8    | YURI      | 40    |
 | 9    | LYS1TH3A  | 35    |
@@ -88,8 +88,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Okay-Subs | 27    |
 | 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
-| 15   | Arid      | 22    |
-| 16   | B00BA     | 21    |
+| 15   | B00BA     | 22    |
+| 16   | Arid      | 22    |
 | 17   | KH        | 20    |
 | 18   | Flugel    | 19    |
 | 19   | LazyRemux | 19    |
@@ -97,14 +97,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | LostYears | 16    |
 | 22   | Pog42     | 14    |
 | 23   | PMR       | 14    |
-| 24   | hydes     | 13    |
-| 25   | Beatrice  | 13    |
+| 24   | koala     | 13    |
+| 25   | hydes     | 13    |
 
 ## Top 25 - Alt entries
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 65    |
+| 🥇   | SubsPlease       | 66    |
 | 🥈   | Drag             | 42    |
 | 🥉   | -ZR-             | 41    |
 | 4    | LostYears        | 38    |
@@ -123,9 +123,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Erai-raws        | 18    |
 | 18   | SCY              | 16    |
 | 19   | Reza             | 16    |
-| 20   | UDF              | 13    |
-| 21   | sam              | 13    |
-| 22   | Chihiro          | 13    |
-| 23   | IK               | 13    |
-| 24   | HorribleSubs     | 13    |
+| 20   | HorribleSubs     | 14    |
+| 21   | UDF              | 13    |
+| 22   | sam              | 13    |
+| 23   | Chihiro          | 13    |
+| 24   | IK               | 13    |
 | 25   | Asakura          | 12    |
