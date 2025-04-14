@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `96.9 TiB`
-- Best size: `70.3 TiB`
+- Total size: `97.0 TiB`
+- Best size: `70.4 TiB`
 - Alt size: `26.6 TiB`
 - Realistic size: `75.3 TiB`
 
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
 | 48   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 29.8 TiB   | 16.3 TiB (54.71%)   | 1547 (~19.7 GiB each) |
+| 50   | Others           | 29.9 TiB   | 16.3 TiB (54.65%)   | 1551 (~19.7 GiB each) |

@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | sam              | 13    |
 | 23   | Chihiro          | 13    |
 | 24   | IK               | 13    |
-| 25   | Asakura          | 12    |
+| 25   | NH               | 12    |
