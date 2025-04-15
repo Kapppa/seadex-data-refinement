@@ -14,16 +14,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 176   |
-| 🥈   | sam              | 130   |
+| 🥇   | -ZR-             | 175   |
+| 🥈   | sam              | 131   |
 | 🥉   | MTBB             | 86    |
 | 4    | SubsPlease       | 79    |
 | 5    | YURI             | 77    |
-| 6    | NAN0             | 64    |
+| 6    | NAN0             | 65    |
 | 7    | Drag             | 58    |
 | 8    | CRUCiBLE         | 56    |
 | 9    | smol             | 55    |
-| 10   | LostYears        | 54    |
+| 10   | LostYears        | 52    |
 | 11   | hchcsen          | 52    |
 | 12   | KH               | 51    |
 | 13   | Arid             | 46    |
@@ -33,7 +33,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | TTGA             | 35    |
 | 18   | Lulu             | 34    |
 | 19   | Commie           | 34    |
-| 20   | Bunny-Apocalypse | 32    |
+| 20   | Bunny-Apocalypse | 33    |
 | 21   | Pog42            | 32    |
 | 22   | Kametsu          | 31    |
 | 23   | Okay-Subs        | 31    |
@@ -44,9 +44,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 112   |
-| 🥈   | sam       | 88    |
-| 🥉   | NAN0      | 53    |
+| 🥇   | -ZR-      | 111   |
+| 🥈   | sam       | 89    |
+| 🥉   | NAN0      | 54    |
 | 4    | CRUCiBLE  | 47    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 28    |
@@ -56,8 +56,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | YURI      | 19    |
 | 11   | Flugel    | 19    |
 | 12   | KH        | 18    |
-| 13   | LostYears | 16    |
-| 14   | LazyRemux | 15    |
+| 13   | LazyRemux | 15    |
+| 14   | LostYears | 15    |
 | 15   | Moxie     | 13    |
 | 16   | Arid      | 13    |
 | 17   | ZeroBuild | 13    |
@@ -74,9 +74,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 149   |
-| 🥈   | sam       | 118   |
-| 🥉   | NAN0      | 63    |
+| 🥇   | -ZR-      | 148   |
+| 🥈   | sam       | 119   |
+| 🥉   | NAN0      | 64    |
 | 4    | CRUCiBLE  | 56    |
 | 5    | MTBB      | 56    |
 | 6    | smol      | 54    |
@@ -94,7 +94,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | Flugel    | 19    |
 | 19   | LazyRemux | 19    |
 | 20   | Drag      | 17    |
-| 21   | LostYears | 16    |
+| 21   | LostYears | 15    |
 | 22   | Pog42     | 14    |
 | 23   | PMR       | 14    |
 | 24   | koala     | 13    |
@@ -107,15 +107,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | SubsPlease       | 66    |
 | 🥈   | Drag             | 42    |
 | 🥉   | -ZR-             | 41    |
-| 4    | LostYears        | 38    |
-| 5    | YURI             | 37    |
+| 4    | YURI             | 37    |
+| 5    | LostYears        | 37    |
 | 6    | YURASUKA         | 34    |
 | 7    | KH               | 33    |
 | 8    | Commie           | 33    |
 | 9    | MTBB             | 30    |
 | 10   | hchcsen          | 27    |
-| 11   | Arid             | 25    |
-| 12   | Bunny-Apocalypse | 25    |
+| 11   | Bunny-Apocalypse | 26    |
+| 12   | Arid             | 25    |
 | 13   | Kametsu          | 24    |
 | 14   | Holomux          | 20    |
 | 15   | CTR              | 19    |
@@ -123,9 +123,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Erai-raws        | 18    |
 | 18   | SCY              | 16    |
 | 19   | Reza             | 16    |
-| 20   | HorribleSubs     | 14    |
-| 21   | UDF              | 13    |
-| 22   | sam              | 13    |
-| 23   | Chihiro          | 13    |
+| 20   | Chihiro          | 14    |
+| 21   | HorribleSubs     | 14    |
+| 22   | UDF              | 13    |
+| 23   | sam              | 13    |
 | 24   | IK               | 13    |
 | 25   | NH               | 12    |
