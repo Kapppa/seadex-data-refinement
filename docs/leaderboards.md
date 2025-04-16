@@ -16,17 +16,17 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 175   |
 | 🥈   | sam              | 131   |
-| 🥉   | MTBB             | 86    |
+| 🥉   | MTBB             | 88    |
 | 4    | SubsPlease       | 79    |
 | 5    | YURI             | 77    |
 | 6    | NAN0             | 65    |
-| 7    | Drag             | 58    |
-| 8    | CRUCiBLE         | 56    |
+| 7    | CRUCiBLE         | 58    |
+| 8    | Drag             | 58    |
 | 9    | smol             | 55    |
 | 10   | LostYears        | 52    |
 | 11   | hchcsen          | 52    |
 | 12   | KH               | 51    |
-| 13   | Arid             | 46    |
+| 13   | Arid             | 47    |
 | 14   | Moxie            | 46    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | YURASUKA         | 35    |
@@ -47,7 +47,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 89    |
 | 🥉   | NAN0      | 54    |
-| 4    | CRUCiBLE  | 47    |
+| 4    | CRUCiBLE  | 49    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 28    |
 | 7    | TTGA      | 22    |
@@ -61,7 +61,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | Moxie     | 13    |
 | 16   | Arid      | 13    |
 | 17   | ZeroBuild | 13    |
-| 18   | hydes     | 12    |
+| 18   | hydes     | 11    |
 | 19   | Vodes     | 11    |
 | 20   | DemiHuman | 11    |
 | 21   | SCY       | 11    |
@@ -77,8 +77,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 148   |
 | 🥈   | sam       | 119   |
 | 🥉   | NAN0      | 64    |
-| 4    | CRUCiBLE  | 56    |
-| 5    | MTBB      | 56    |
+| 4    | CRUCiBLE  | 58    |
+| 5    | MTBB      | 58    |
 | 6    | smol      | 54    |
 | 7    | Moxie     | 46    |
 | 8    | YURI      | 40    |
@@ -98,7 +98,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | Pog42     | 14    |
 | 23   | PMR       | 14    |
 | 24   | koala     | 13    |
-| 25   | hydes     | 13    |
+| 25   | Beatrice  | 13    |
 
 ## Top 25 - Alt entries
 
@@ -114,8 +114,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | Commie           | 33    |
 | 9    | MTBB             | 30    |
 | 10   | hchcsen          | 27    |
-| 11   | Bunny-Apocalypse | 26    |
-| 12   | Arid             | 25    |
+| 11   | Arid             | 26    |
+| 12   | Bunny-Apocalypse | 26    |
 | 13   | Kametsu          | 24    |
 | 14   | Holomux          | 20    |
 | 15   | CTR              | 19    |

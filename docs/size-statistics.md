@@ -21,8 +21,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.7 TiB   | 12.3 TiB (83.84%)   | 189 (~79.8 GiB each)  |
-| 2    | NAN0             | 4.5 TiB    | 4.4 TiB (98.31%)    | 65 (~70.2 GiB each)   |
-| 3    | CRUCiBLE         | 4.4 TiB    | 4.4 TiB (100.00%)   | 56 (~79.9 GiB each)   |
+| 2    | CRUCiBLE         | 4.5 TiB    | 4.5 TiB (100.00%)   | 58 (~80.0 GiB each)   |
+| 3    | NAN0             | 4.5 TiB    | 4.4 TiB (98.31%)    | 65 (~70.2 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.4 TiB (90.49%)    | 132 (~29.4 GiB each)  |
 | 5    | TTGA             | 2.6 TiB    | 2.3 TiB (92.00%)    | 35 (~74.7 GiB each)   |
 | 6    | hchcsen          | 2.3 TiB    | 1.5 TiB (66.21%)    | 56 (~41.3 GiB each)   |
@@ -31,8 +31,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 9    | JySzE            | 1.7 TiB    | 1.7 TiB (100.00%)   | 8 (~220.8 GiB each)   |
 | 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 11   | NOGRP            | 1.3 TiB    | 836.1 GiB (61.25%)  | 19 (~71.8 GiB each)   |
-| 12   | SubsPlease       | 1.3 TiB    | 206.8 GiB (15.43%)  | 79 (~17.0 GiB each)   |
-| 13   | MTBB             | 1.3 TiB    | 1.1 TiB (83.73%)    | 86 (~15.2 GiB each)   |
+| 12   | MTBB             | 1.3 TiB    | 1.1 TiB (84.35%)    | 88 (~15.4 GiB each)   |
+| 13   | SubsPlease       | 1.3 TiB    | 206.8 GiB (15.43%)  | 79 (~17.0 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 15   | PMR              | 1.1 TiB    | 1.1 TiB (100.00%)   | 14 (~81.0 GiB each)   |
 | 16   | RUDY             | 994.3 GiB  | 958.2 GiB (96.37%)  | 12 (~82.9 GiB each)   |
@@ -41,7 +41,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 19   | LYS1TH3A         | 887.5 GiB  | 868.0 GiB (97.80%)  | 37 (~24.0 GiB each)   |
 | 20   | LostYears        | 866.5 GiB  | 311.7 GiB (35.98%)  | 52 (~16.7 GiB each)   |
 | 21   | KH               | 853.8 GiB  | 322.3 GiB (37.74%)  | 53 (~16.1 GiB each)   |
-| 22   | Arid             | 786.9 GiB  | 206.7 GiB (26.26%)  | 47 (~16.7 GiB each)   |
+| 22   | Arid             | 788.5 GiB  | 206.7 GiB (26.21%)  | 48 (~16.4 GiB each)   |
 | 23   | Vodes            | 769.7 GiB  | 449.9 GiB (58.45%)  | 18 (~42.8 GiB each)   |
 | 24   | ZeroBuild        | 753.7 GiB  | 656.9 GiB (87.16%)  | 17 (~44.3 GiB each)   |
 | 25   | Bunny-Apocalypse | 747.0 GiB  | 173.8 GiB (23.27%)  | 33 (~22.6 GiB each)   |
@@ -59,14 +59,14 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 37   | UDF              | 561.4 GiB  | 203.8 GiB (36.29%)  | 23 (~24.4 GiB each)   |
 | 38   | koala            | 554.9 GiB  | 554.9 GiB (100.00%) | 13 (~42.7 GiB each)   |
 | 39   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
-| 40   | hydes            | 515.4 GiB  | 515.4 GiB (100.00%) | 13 (~39.6 GiB each)   |
-| 41   | Almighty         | 507.8 GiB  | 0 B (0.00%)         | 3 (~169.3 GiB each)   |
-| 42   | CTR              | 507.1 GiB  | 135.3 GiB (26.67%)  | 26 (~19.5 GiB each)   |
-| 43   | VULCAN           | 499.2 GiB  | 439.1 GiB (87.97%)  | 6 (~83.2 GiB each)    |
-| 44   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 45   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
-| 46   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
-| 47   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
-| 48   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
-| 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 30.1 TiB   | 16.5 TiB (54.86%)   | 1552 (~19.8 GiB each) |
+| 40   | Almighty         | 507.8 GiB  | 0 B (0.00%)         | 3 (~169.3 GiB each)   |
+| 41   | CTR              | 507.1 GiB  | 135.3 GiB (26.67%)  | 26 (~19.5 GiB each)   |
+| 42   | VULCAN           | 499.2 GiB  | 439.1 GiB (87.97%)  | 6 (~83.2 GiB each)    |
+| 43   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
+| 44   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
+| 45   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
+| 46   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
+| 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
+| 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
+| 49   | Pog42            | 423.1 GiB  | 218.1 GiB (51.54%)  | 32 (~13.2 GiB each)   |
+| 50   | Others           | 30.0 TiB   | 16.6 TiB (55.42%)   | 1532 (~20.1 GiB each) |
