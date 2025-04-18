@@ -260,8 +260,8 @@
 | 257 | Sankarea: I, Too, Am... A Zombie...                                      | 2012 | 70    | [SeaDex](https://releases.moe/16694/), [AniList](https://anilist.co/anime/16694)   |
 | 258 | Lucifer and the Biscuit Hammer                                           | 2022 | 50    | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
 | 259 | Persona 3 the Movie: #4 Winter of Rebirth                                | 2016 | 79    | [SeaDex](https://releases.moe/21248/), [AniList](https://anilist.co/anime/21248)   |
-| 260 | Requiem of the Rose King                                                 | 2022 | 56    | [SeaDex](https://releases.moe/124060/), [AniList](https://anilist.co/anime/124060) |
-| 261 | And Yet The Town Moves                                                   | 2010 | 73    | [SeaDex](https://releases.moe/8726/), [AniList](https://anilist.co/anime/8726)     |
+| 260 | And Yet The Town Moves                                                   | 2010 | 73    | [SeaDex](https://releases.moe/8726/), [AniList](https://anilist.co/anime/8726)     |
+| 261 | Requiem of the Rose King                                                 | 2022 | 56    | [SeaDex](https://releases.moe/124060/), [AniList](https://anilist.co/anime/124060) |
 | 262 | Valvrave the Liberator 2                                                 | 2013 | 68    | [SeaDex](https://releases.moe/18295/), [AniList](https://anilist.co/anime/18295)   |
 | 263 | Bottom-Tier Character Tomozaki OVA                                       | 2021 | 67    | [SeaDex](https://releases.moe/127363/), [AniList](https://anilist.co/anime/127363) |
 | 264 | LINK CLICK Episode 5.5                                                   | 2021 | 78    | [SeaDex](https://releases.moe/136145/), [AniList](https://anilist.co/anime/136145) |
@@ -297,8 +297,8 @@
 | 294 | The Sky Crawlers                                                         | 2008 | 70    | [SeaDex](https://releases.moe/3089/), [AniList](https://anilist.co/anime/3089)     |
 | 295 | Maken-Ki! OVA                                                            | 2012 | 62    | [SeaDex](https://releases.moe/11209/), [AniList](https://anilist.co/anime/11209)   |
 | 296 | Forest of Piano Season 2                                                 | 2019 | 73    | [SeaDex](https://releases.moe/103049/), [AniList](https://anilist.co/anime/103049) |
-| 297 | Kingdom Season 4                                                         | 2022 | 85    | [SeaDex](https://releases.moe/140350/), [AniList](https://anilist.co/anime/140350) |
-| 298 | Future Boy Conan                                                         | 1978 | 77    | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
+| 297 | Future Boy Conan                                                         | 1978 | 77    | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
+| 298 | Kingdom Season 4                                                         | 2022 | 85    | [SeaDex](https://releases.moe/140350/), [AniList](https://anilist.co/anime/140350) |
 | 299 | AKB0048                                                                  | 2012 | 69    | [SeaDex](https://releases.moe/12149/), [AniList](https://anilist.co/anime/12149)   |
 | 300 | Chronicles of the Going Home Club                                        | 2013 | 64    | [SeaDex](https://releases.moe/18495/), [AniList](https://anilist.co/anime/18495)   |
 | 301 | No Zo Ki A Na                                                            | 2013 | 60    | [SeaDex](https://releases.moe/17157/), [AniList](https://anilist.co/anime/17157)   |
