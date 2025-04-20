@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 175   |
+| 🥇   | -ZR-             | 177   |
 | 🥈   | sam              | 131   |
 | 🥉   | MTBB             | 88    |
 | 4    | SubsPlease       | 79    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 111   |
+| 🥇   | -ZR-      | 113   |
 | 🥈   | sam       | 89    |
 | 🥉   | NAN0      | 54    |
 | 4    | CRUCiBLE  | 50    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 148   |
+| 🥇   | -ZR-      | 150   |
 | 🥈   | sam       | 119   |
 | 🥉   | NAN0      | 64    |
 | 4    | CRUCiBLE  | 59    |
@@ -95,8 +95,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | LazyRemux | 19    |
 | 20   | Drag      | 17    |
 | 21   | LostYears | 15    |
-| 22   | Pog42     | 14    |
-| 23   | PMR       | 14    |
+| 22   | PMR       | 15    |
+| 23   | Pog42     | 14    |
 | 24   | koala     | 13    |
 | 25   | Beatrice  | 13    |
 
