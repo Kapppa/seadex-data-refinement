@@ -14,13 +14,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 177   |
+| 🥇   | -ZR-             | 178   |
 | 🥈   | sam              | 131   |
 | 🥉   | MTBB             | 88    |
-| 4    | SubsPlease       | 79    |
+| 4    | SubsPlease       | 80    |
 | 5    | YURI             | 77    |
-| 6    | NAN0             | 65    |
-| 7    | CRUCiBLE         | 59    |
+| 6    | NAN0             | 66    |
+| 7    | CRUCiBLE         | 60    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 55    |
 | 10   | LostYears        | 52    |
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 113   |
 | 🥈   | sam       | 89    |
-| 🥉   | NAN0      | 54    |
+| 🥉   | NAN0      | 55    |
 | 4    | CRUCiBLE  | 50    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 28    |
@@ -76,8 +76,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 150   |
 | 🥈   | sam       | 119   |
-| 🥉   | NAN0      | 64    |
-| 4    | CRUCiBLE  | 59    |
+| 🥉   | NAN0      | 65    |
+| 4    | CRUCiBLE  | 60    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 54    |
 | 7    | Moxie     | 46    |
@@ -104,9 +104,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 66    |
+| 🥇   | SubsPlease       | 67    |
 | 🥈   | Drag             | 42    |
-| 🥉   | -ZR-             | 41    |
+| 🥉   | -ZR-             | 42    |
 | 4    | YURI             | 37    |
 | 5    | LostYears        | 37    |
 | 6    | YURASUKA         | 34    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | UDF              | 13    |
 | 23   | sam              | 13    |
 | 24   | IK               | 13    |
-| 25   | Asakura          | 12    |
+| 25   | NH               | 12    |
