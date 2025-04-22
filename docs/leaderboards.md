@@ -26,8 +26,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | LostYears        | 52    |
 | 11   | hchcsen          | 52    |
 | 12   | KH               | 51    |
-| 13   | Arid             | 47    |
-| 14   | Moxie            | 46    |
+| 13   | Moxie            | 48    |
+| 14   | Arid             | 47    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | YURASUKA         | 35    |
 | 17   | TTGA             | 35    |
@@ -56,9 +56,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | YURI      | 19    |
 | 11   | Flugel    | 19    |
 | 12   | KH        | 18    |
-| 13   | LazyRemux | 15    |
-| 14   | LostYears | 15    |
-| 15   | Moxie     | 13    |
+| 13   | Moxie     | 15    |
+| 14   | LazyRemux | 15    |
+| 15   | LostYears | 15    |
 | 16   | Arid      | 13    |
 | 17   | ZeroBuild | 13    |
 | 18   | hydes     | 11    |
@@ -80,7 +80,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | CRUCiBLE  | 60    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 54    |
-| 7    | Moxie     | 46    |
+| 7    | Moxie     | 48    |
 | 8    | YURI      | 40    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 33    |
