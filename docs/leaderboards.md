@@ -15,12 +15,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 178   |
-| 🥈   | sam              | 131   |
-| 🥉   | MTBB             | 88    |
+| 🥈   | sam              | 132   |
+| 🥉   | MTBB             | 89    |
 | 4    | SubsPlease       | 80    |
 | 5    | YURI             | 77    |
 | 6    | NAN0             | 66    |
-| 7    | CRUCiBLE         | 60    |
+| 7    | CRUCiBLE         | 61    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 55    |
 | 10   | LostYears        | 52    |
@@ -44,10 +44,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 113   |
-| 🥈   | sam       | 89    |
+| 🥇   | -ZR-      | 112   |
+| 🥈   | sam       | 90    |
 | 🥉   | NAN0      | 55    |
-| 4    | CRUCiBLE  | 50    |
+| 4    | CRUCiBLE  | 51    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 28    |
 | 7    | TTGA      | 22    |
@@ -74,10 +74,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 150   |
-| 🥈   | sam       | 119   |
+| 🥇   | -ZR-      | 149   |
+| 🥈   | sam       | 120   |
 | 🥉   | NAN0      | 65    |
-| 4    | CRUCiBLE  | 60    |
+| 4    | CRUCiBLE  | 61    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 54    |
 | 7    | Moxie     | 48    |
@@ -104,15 +104,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 67    |
-| 🥈   | Drag             | 42    |
-| 🥉   | -ZR-             | 42    |
+| 🥇   | SubsPlease       | 68    |
+| 🥈   | -ZR-             | 43    |
+| 🥉   | Drag             | 42    |
 | 4    | YURI             | 37    |
 | 5    | LostYears        | 37    |
 | 6    | YURASUKA         | 34    |
 | 7    | KH               | 33    |
 | 8    | Commie           | 33    |
-| 9    | MTBB             | 30    |
+| 9    | MTBB             | 31    |
 | 10   | hchcsen          | 27    |
 | 11   | Arid             | 26    |
 | 12   | Bunny-Apocalypse | 26    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | UDF              | 13    |
 | 23   | sam              | 13    |
 | 24   | IK               | 13    |
-| 25   | NH               | 12    |
+| 25   | Asakura          | 12    |
