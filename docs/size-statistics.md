@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `98.4 TiB`
-- Best size: `71.6 TiB`
+- Total size: `98.5 TiB`
+- Best size: `71.7 TiB`
 - Alt size: `26.8 TiB`
 - Realistic size: `76.3 TiB`
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.9 TiB   | 12.5 TiB (83.80%)   | 192 (~79.4 GiB each)  |
-| 2    | CRUCiBLE         | 4.8 TiB    | 4.8 TiB (100.00%)   | 62 (~78.7 GiB each)   |
+| 2    | CRUCiBLE         | 4.8 TiB    | 4.8 TiB (100.00%)   | 63 (~78.6 GiB each)   |
 | 3    | NAN0             | 4.6 TiB    | 4.5 TiB (98.36%)    | 66 (~71.3 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.5 TiB (90.67%)    | 133 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.6 TiB    | 2.3 TiB (92.00%)    | 35 (~74.7 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | Pog42            | 423.1 GiB  | 218.1 GiB (51.54%)  | 32 (~13.2 GiB each)   |
-| 50   | Others           | 30.1 TiB   | 16.8 TiB (55.65%)   | 1537 (~20.1 GiB each) |
+| 50   | Others           | 30.1 TiB   | 16.8 TiB (55.62%)   | 1538 (~20.1 GiB each) |
