@@ -19,14 +19,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | MTBB             | 89    |
 | 4    | SubsPlease       | 80    |
 | 5    | YURI             | 77    |
-| 6    | NAN0             | 66    |
+| 6    | NAN0             | 67    |
 | 7    | CRUCiBLE         | 63    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 55    |
 | 10   | LostYears        | 52    |
 | 11   | hchcsen          | 52    |
 | 12   | KH               | 51    |
-| 13   | Moxie            | 49    |
+| 13   | Moxie            | 50    |
 | 14   | Arid             | 47    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | YURASUKA         | 35    |
@@ -76,11 +76,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 149   |
 | 🥈   | sam       | 120   |
-| 🥉   | NAN0      | 65    |
+| 🥉   | NAN0      | 66    |
 | 4    | CRUCiBLE  | 63    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 54    |
-| 7    | Moxie     | 49    |
+| 7    | Moxie     | 50    |
 | 8    | YURI      | 40    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 33    |
@@ -123,9 +123,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Erai-raws        | 18    |
 | 18   | SCY              | 16    |
 | 19   | Reza             | 16    |
-| 20   | Chihiro          | 14    |
+| 20   | Chihiro          | 15    |
 | 21   | HorribleSubs     | 14    |
 | 22   | UDF              | 13    |
 | 23   | sam              | 13    |
 | 24   | IK               | 13    |
-| 25   | NH               | 12    |
+| 25   | Asakura          | 12    |
