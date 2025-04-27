@@ -60,8 +60,8 @@
 | 57  | Kemono Jihen                                                             | 2021 | 72    | [SeaDex](https://releases.moe/114085/), [AniList](https://anilist.co/anime/114085) |
 | 58  | Problem Children Are Coming From Another World, Aren't They?             | 2013 | 70    | [SeaDex](https://releases.moe/15315/), [AniList](https://anilist.co/anime/15315)   |
 | 59  | AJIN: Demi-Human                                                         | 2016 | 71    | [SeaDex](https://releases.moe/21341/), [AniList](https://anilist.co/anime/21341)   |
-| 60  | Twin Star Exorcists                                                      | 2016 | 69    | [SeaDex](https://releases.moe/21499/), [AniList](https://anilist.co/anime/21499)   |
-| 61  | More than a Married Couple, but Not Lovers.                              | 2022 | 75    | [SeaDex](https://releases.moe/141949/), [AniList](https://anilist.co/anime/141949) |
+| 60  | More than a Married Couple, but Not Lovers.                              | 2022 | 75    | [SeaDex](https://releases.moe/141949/), [AniList](https://anilist.co/anime/141949) |
+| 61  | Twin Star Exorcists                                                      | 2016 | 69    | [SeaDex](https://releases.moe/21499/), [AniList](https://anilist.co/anime/21499)   |
 | 62  | Blast of Tempest                                                         | 2012 | 76    | [SeaDex](https://releases.moe/14075/), [AniList](https://anilist.co/anime/14075)   |
 | 63  | LOVE and LIES                                                            | 2017 | 62    | [SeaDex](https://releases.moe/98320/), [AniList](https://anilist.co/anime/98320)   |
 | 64  | World Trigger                                                            | 2014 | 72    | [SeaDex](https://releases.moe/20729/), [AniList](https://anilist.co/anime/20729)   |
@@ -316,8 +316,8 @@
 | 313 | Riddle Story of Devil Special                                            | 2014 | 61    | [SeaDex](https://releases.moe/20926/), [AniList](https://anilist.co/anime/20926)   |
 | 314 | Modest Heroes: Ponoc Short Films Theatre, Volume 1                       | 2018 | 67    | [SeaDex](https://releases.moe/103887/), [AniList](https://anilist.co/anime/103887) |
 | 315 | Macross Zero                                                             | 2002 | 70    | [SeaDex](https://releases.moe/194/), [AniList](https://anilist.co/anime/194)       |
-| 316 | Bladedance of Elementalers Specials                                      | 2014 | 62    | [SeaDex](https://releases.moe/20871/), [AniList](https://anilist.co/anime/20871)   |
-| 317 | Shagahai ReLIFE Kenkyuujo Support-ka                                     | 2018 | 69    | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 316 | Shagahai ReLIFE Kenkyuujo Support-ka                                     | 2018 | 69    | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 317 | Bladedance of Elementalers Specials                                      | 2014 | 62    | [SeaDex](https://releases.moe/20871/), [AniList](https://anilist.co/anime/20871)   |
 | 318 | Strike the Blood: Kieta Seisou-hen                                       | 2020 | 66    | [SeaDex](https://releases.moe/112324/), [AniList](https://anilist.co/anime/112324) |
 | 319 | Free! -Dive to the Future-: Build-Up of Early Spring!                    | 2018 | 74    | [SeaDex](https://releases.moe/103588/), [AniList](https://anilist.co/anime/103588) |
 | 320 | Anime De Training! EX                                                    | 2015 | 50    | [SeaDex](https://releases.moe/21320/), [AniList](https://anilist.co/anime/21320)   |

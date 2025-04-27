@@ -59,8 +59,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 37   | UDF              | 561.4 GiB  | 203.8 GiB (36.29%)  | 23 (~24.4 GiB each)   |
 | 38   | koala            | 554.9 GiB  | 554.9 GiB (100.00%) | 13 (~42.7 GiB each)   |
 | 39   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
-| 40   | Almighty         | 507.8 GiB  | 0 B (0.00%)         | 3 (~169.3 GiB each)   |
-| 41   | CTR              | 507.1 GiB  | 135.3 GiB (26.67%)  | 26 (~19.5 GiB each)   |
+| 40   | CTR              | 507.1 GiB  | 135.3 GiB (26.67%)  | 26 (~19.5 GiB each)   |
+| 41   | Almighty         | 500.9 GiB  | 0 B (0.00%)         | 3 (~167.0 GiB each)   |
 | 42   | VULCAN           | 499.2 GiB  | 439.1 GiB (87.97%)  | 6 (~83.2 GiB each)    |
 | 43   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
 | 44   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
