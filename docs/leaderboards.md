@@ -22,7 +22,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | NAN0             | 67    |
 | 7    | CRUCiBLE         | 64    |
 | 8    | Drag             | 58    |
-| 9    | smol             | 55    |
+| 9    | smol             | 57    |
 | 10   | LostYears        | 52    |
 | 11   | hchcsen          | 52    |
 | 12   | KH               | 51    |
@@ -45,14 +45,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group     | Count |
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 112   |
-| 🥈   | sam       | 90    |
+| 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 55    |
 | 4    | CRUCiBLE  | 54    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 28    |
-| 7    | TTGA      | 22    |
-| 8    | Lulu      | 21    |
-| 9    | smol      | 21    |
+| 7    | smol      | 23    |
+| 8    | TTGA      | 22    |
+| 9    | Lulu      | 21    |
 | 10   | Flugel    | 19    |
 | 11   | YURI      | 18    |
 | 12   | KH        | 18    |
@@ -75,11 +75,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group     | Count |
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 149   |
-| 🥈   | sam       | 120   |
+| 🥈   | sam       | 118   |
 | 🥉   | NAN0      | 66    |
 | 4    | CRUCiBLE  | 64    |
 | 5    | MTBB      | 58    |
-| 6    | smol      | 54    |
+| 6    | smol      | 56    |
 | 7    | Moxie     | 50    |
 | 8    | YURI      | 39    |
 | 9    | LYS1TH3A  | 35    |
@@ -123,9 +123,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Erai-raws        | 18    |
 | 18   | SCY              | 16    |
 | 19   | Reza             | 16    |
-| 20   | Chihiro          | 15    |
-| 21   | HorribleSubs     | 14    |
-| 22   | UDF              | 13    |
-| 23   | sam              | 13    |
+| 20   | sam              | 15    |
+| 21   | Chihiro          | 15    |
+| 22   | HorribleSubs     | 14    |
+| 23   | UDF              | 13    |
 | 24   | IK               | 13    |
 | 25   | NH               | 12    |

@@ -180,7 +180,7 @@
 | 177 | Joker Game                                                               | 2016 | 66    | [SeaDex](https://releases.moe/21291/), [AniList](https://anilist.co/anime/21291)   |
 | 178 | Please tell me! Galko-chan                                               | 2016 | 67    | [SeaDex](https://releases.moe/21472/), [AniList](https://anilist.co/anime/21472)   |
 | 179 | Symphogear                                                               | 2012 | 68    | [SeaDex](https://releases.moe/11751/), [AniList](https://anilist.co/anime/11751)   |
-| 180 | Loner Life in Another World                                              | 2024 | 64    | [SeaDex](https://releases.moe/173693/), [AniList](https://anilist.co/anime/173693) |
+| 180 | Loner Life in Another World                                              | 2024 | 65    | [SeaDex](https://releases.moe/173693/), [AniList](https://anilist.co/anime/173693) |
 | 181 | Another: The Other                                                       | 2012 | 68    | [SeaDex](https://releases.moe/11701/), [AniList](https://anilist.co/anime/11701)   |
 | 182 | Ladies Versus Butlers                                                    | 2010 | 61    | [SeaDex](https://releases.moe/7148/), [AniList](https://anilist.co/anime/7148)     |
 | 183 | Chaika -The Coffin Princess- AVENGING BATTLE                             | 2014 | 69    | [SeaDex](https://releases.moe/20719/), [AniList](https://anilist.co/anime/20719)   |
@@ -257,7 +257,7 @@
 | 254 | Lucifer and the Biscuit Hammer                                           | 2022 | 50    | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
 | 255 | Persona 3 the Movie: #4 Winter of Rebirth                                | 2016 | 79    | [SeaDex](https://releases.moe/21248/), [AniList](https://anilist.co/anime/21248)   |
 | 256 | And Yet The Town Moves                                                   | 2010 | 73    | [SeaDex](https://releases.moe/8726/), [AniList](https://anilist.co/anime/8726)     |
-| 257 | Requiem of the Rose King                                                 | 2022 | 55    | [SeaDex](https://releases.moe/124060/), [AniList](https://anilist.co/anime/124060) |
+| 257 | Requiem of the Rose King                                                 | 2022 | 56    | [SeaDex](https://releases.moe/124060/), [AniList](https://anilist.co/anime/124060) |
 | 258 | Valvrave the Liberator 2                                                 | 2013 | 68    | [SeaDex](https://releases.moe/18295/), [AniList](https://anilist.co/anime/18295)   |
 | 259 | Bottom-Tier Character Tomozaki OVA                                       | 2021 | 67    | [SeaDex](https://releases.moe/127363/), [AniList](https://anilist.co/anime/127363) |
 | 260 | LINK CLICK Episode 5.5                                                   | 2021 | 78    | [SeaDex](https://releases.moe/136145/), [AniList](https://anilist.co/anime/136145) |
@@ -273,7 +273,7 @@
 | 270 | Bakuon!!                                                                 | 2016 | 61    | [SeaDex](https://releases.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
 | 271 | Symphogear XV                                                            | 2019 | 82    | [SeaDex](https://releases.moe/21673/), [AniList](https://anilist.co/anime/21673)   |
 | 272 | The Princess and the Pilot                                               | 2011 | 73    | [SeaDex](https://releases.moe/9000/), [AniList](https://anilist.co/anime/9000)     |
-| 273 | Seraph of the End: Battle in Nagoya - Owaranai Seraph Battle in Nagoya   | 2015 | 71    | [SeaDex](https://releases.moe/21765/), [AniList](https://anilist.co/anime/21765)   |
+| 273 | Seraph of the End: Battle in Nagoya - Owaranai Seraph Battle in Nagoya   | 2015 | 72    | [SeaDex](https://releases.moe/21765/), [AniList](https://anilist.co/anime/21765)   |
 | 274 | Tsurune - The Linking Shot -                                             | 2023 | 81    | [SeaDex](https://releases.moe/153841/), [AniList](https://anilist.co/anime/153841) |
 | 275 | Plus-Sized Elf                                                           | 2024 | 52    | [SeaDex](https://releases.moe/173388/), [AniList](https://anilist.co/anime/173388) |
 | 276 | Dropout Idol Fruit Tart                                                  | 2020 | 64    | [SeaDex](https://releases.moe/108713/), [AniList](https://anilist.co/anime/108713) |
@@ -314,7 +314,7 @@
 | 311 | Papa no Iukoto wo Kikinasai!: Pokkapoka                                  | 2012 | 68    | [SeaDex](https://releases.moe/12673/), [AniList](https://anilist.co/anime/12673)   |
 | 312 | Cinderella Nine                                                          | 2019 | 56    | [SeaDex](https://releases.moe/104989/), [AniList](https://anilist.co/anime/104989) |
 | 313 | Riddle Story of Devil Special                                            | 2014 | 61    | [SeaDex](https://releases.moe/20926/), [AniList](https://anilist.co/anime/20926)   |
-| 314 | Modest Heroes: Ponoc Short Films Theatre, Volume 1                       | 2018 | 67    | [SeaDex](https://releases.moe/103887/), [AniList](https://anilist.co/anime/103887) |
+| 314 | Modest Heroes: Ponoc Short Films Theatre, Volume 1                       | 2018 | 66    | [SeaDex](https://releases.moe/103887/), [AniList](https://anilist.co/anime/103887) |
 | 315 | Macross Zero                                                             | 2002 | 70    | [SeaDex](https://releases.moe/194/), [AniList](https://anilist.co/anime/194)       |
 | 316 | Shagahai ReLIFE Kenkyuujo Support-ka                                     | 2018 | 69    | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
 | 317 | Bladedance of Elementalers Specials                                      | 2014 | 62    | [SeaDex](https://releases.moe/20871/), [AniList](https://anilist.co/anime/20871)   |
