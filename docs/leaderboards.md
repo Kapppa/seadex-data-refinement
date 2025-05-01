@@ -17,14 +17,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 178   |
 | 🥈   | sam              | 132   |
 | 🥉   | MTBB             | 89    |
-| 4    | SubsPlease       | 80    |
+| 4    | SubsPlease       | 81    |
 | 5    | YURI             | 77    |
 | 6    | NAN0             | 67    |
 | 7    | CRUCiBLE         | 64    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 57    |
-| 10   | LostYears        | 52    |
-| 11   | hchcsen          | 52    |
+| 10   | hchcsen          | 52    |
+| 11   | LostYears        | 51    |
 | 12   | KH               | 51    |
 | 13   | Moxie            | 50    |
 | 14   | Arid             | 47    |
@@ -34,9 +34,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | Lulu             | 34    |
 | 19   | Commie           | 34    |
 | 20   | Bunny-Apocalypse | 33    |
-| 21   | Pog42            | 32    |
-| 22   | Kametsu          | 31    |
-| 23   | Okay-Subs        | 31    |
+| 21   | Okay-Subs        | 32    |
+| 22   | Pog42            | 32    |
+| 23   | Kametsu          | 31    |
 | 24   | Holomux          | 28    |
 | 25   | SCY              | 28    |
 
@@ -85,7 +85,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 33    |
 | 11   | hchcsen   | 29    |
-| 12   | Okay-Subs | 27    |
+| 12   | Okay-Subs | 28    |
 | 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
 | 15   | B00BA     | 22    |
@@ -104,11 +104,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 68    |
+| 🥇   | SubsPlease       | 69    |
 | 🥈   | -ZR-             | 43    |
 | 🥉   | Drag             | 42    |
 | 4    | YURI             | 38    |
-| 5    | LostYears        | 37    |
+| 5    | LostYears        | 36    |
 | 6    | YURASUKA         | 34    |
 | 7    | KH               | 33    |
 | 8    | Commie           | 33    |
