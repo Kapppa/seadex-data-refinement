@@ -20,7 +20,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | SubsPlease       | 81    |
 | 5    | YURI             | 77    |
 | 6    | NAN0             | 67    |
-| 7    | CRUCiBLE         | 64    |
+| 7    | CRUCiBLE         | 65    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 57    |
 | 10   | hchcsen          | 52    |
@@ -30,8 +30,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | Arid             | 47    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | YURASUKA         | 35    |
-| 17   | TTGA             | 35    |
-| 18   | Lulu             | 34    |
+| 17   | Lulu             | 34    |
+| 18   | TTGA             | 34    |
 | 19   | Commie           | 34    |
 | 20   | Bunny-Apocalypse | 33    |
 | 21   | Okay-Subs        | 32    |
@@ -46,8 +46,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 112   |
 | 🥈   | sam       | 88    |
-| 🥉   | NAN0      | 55    |
-| 4    | CRUCiBLE  | 54    |
+| 🥉   | CRUCiBLE  | 55    |
+| 4    | NAN0      | 55    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 28    |
 | 7    | smol      | 23    |
@@ -77,7 +77,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 149   |
 | 🥈   | sam       | 118   |
 | 🥉   | NAN0      | 66    |
-| 4    | CRUCiBLE  | 64    |
+| 4    | CRUCiBLE  | 65    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 56    |
 | 7    | Moxie     | 50    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | HorribleSubs     | 14    |
 | 23   | UDF              | 13    |
 | 24   | IK               | 13    |
-| 25   | NH               | 12    |
+| 25   | Asakura          | 12    |
