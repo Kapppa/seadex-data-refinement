@@ -17,15 +17,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 178   |
 | 🥈   | sam              | 132   |
 | 🥉   | MTBB             | 89    |
-| 4    | SubsPlease       | 81    |
+| 4    | SubsPlease       | 82    |
 | 5    | YURI             | 77    |
 | 6    | NAN0             | 67    |
-| 7    | CRUCiBLE         | 65    |
+| 7    | CRUCiBLE         | 66    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 57    |
-| 10   | hchcsen          | 52    |
-| 11   | LostYears        | 51    |
-| 12   | KH               | 51    |
+| 10   | KH               | 52    |
+| 11   | hchcsen          | 52    |
+| 12   | LostYears        | 51    |
 | 13   | Moxie            | 50    |
 | 14   | Arid             | 47    |
 | 15   | LYS1TH3A         | 37    |
@@ -76,8 +76,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 149   |
 | 🥈   | sam       | 118   |
-| 🥉   | NAN0      | 66    |
-| 4    | CRUCiBLE  | 65    |
+| 🥉   | CRUCiBLE  | 66    |
+| 4    | NAN0      | 66    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 56    |
 | 7    | Moxie     | 50    |
@@ -104,13 +104,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 69    |
+| 🥇   | SubsPlease       | 70    |
 | 🥈   | -ZR-             | 43    |
 | 🥉   | Drag             | 42    |
 | 4    | YURI             | 38    |
 | 5    | LostYears        | 36    |
 | 6    | YURASUKA         | 34    |
-| 7    | KH               | 33    |
+| 7    | KH               | 34    |
 | 8    | Commie           | 33    |
 | 9    | MTBB             | 31    |
 | 10   | hchcsen          | 27    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | HorribleSubs     | 14    |
 | 23   | UDF              | 13    |
 | 24   | IK               | 13    |
-| 25   | NH               | 12    |
+| 25   | Asakura          | 12    |
