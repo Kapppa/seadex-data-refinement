@@ -8,7 +8,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `99.4 TiB`
+- Total size: `99.5 TiB`
 - Best size: `72.4 TiB`
 - Alt size: `27.0 TiB`
 - Realistic size: `77.1 TiB`
@@ -25,7 +25,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 3    | NAN0             | 4.7 TiB    | 4.6 TiB (98.38%)    | 67 (~71.4 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.4 TiB (88.71%)    | 133 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (94.85%)    | 34 (~74.6 GiB each)   |
-| 6    | hchcsen          | 2.3 TiB    | 1.5 TiB (66.21%)    | 56 (~41.3 GiB each)   |
+| 6    | hchcsen          | 2.3 TiB    | 1.5 TiB (64.25%)    | 57 (~41.8 GiB each)   |
 | 7    | Moxie            | 2.2 TiB    | 2.2 TiB (100.00%)   | 50 (~44.7 GiB each)   |
 | 8    | B00BA            | 1.9 TiB    | 1.9 TiB (100.00%)   | 22 (~86.9 GiB each)   |
 | 9    | JySzE            | 1.7 TiB    | 1.7 TiB (100.00%)   | 8 (~220.8 GiB each)   |
@@ -35,7 +35,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 13   | NOGRP            | 1.3 TiB    | 836.1 GiB (61.25%)  | 19 (~71.8 GiB each)   |
 | 14   | PMR              | 1.3 TiB    | 1.3 TiB (100.00%)   | 15 (~89.9 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
-| 16   | RUDY             | 1.1 TiB    | 1.0 TiB (96.74%)    | 13 (~85.3 GiB each)   |
+| 16   | RUDY             | 1.1 TiB    | 1.0 TiB (99.30%)    | 12 (~90.0 GiB each)   |
 | 17   | smol             | 980.9 GiB  | 947.9 GiB (96.64%)  | 57 (~17.2 GiB each)   |
 | 18   | LYS1TH3A         | 922.7 GiB  | 903.2 GiB (97.89%)  | 37 (~24.9 GiB each)   |
 | 19   | YURI             | 903.6 GiB  | 445.7 GiB (49.33%)  | 77 (~11.7 GiB each)   |

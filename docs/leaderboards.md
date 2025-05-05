@@ -23,8 +23,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | CRUCiBLE         | 66    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 57    |
-| 10   | KH               | 52    |
-| 11   | hchcsen          | 52    |
+| 10   | hchcsen          | 53    |
+| 11   | KH               | 52    |
 | 12   | LostYears        | 51    |
 | 13   | Moxie            | 50    |
 | 14   | Arid             | 47    |
@@ -113,7 +113,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | KH               | 34    |
 | 8    | Commie           | 33    |
 | 9    | MTBB             | 31    |
-| 10   | hchcsen          | 27    |
+| 10   | hchcsen          | 28    |
 | 11   | Arid             | 26    |
 | 12   | Bunny-Apocalypse | 26    |
 | 13   | Kametsu          | 24    |
