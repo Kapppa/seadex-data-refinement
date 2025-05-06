@@ -125,7 +125,7 @@
 | 122 | Ground Control to Psychoelectric Girl                                    | 2011 | 68    | [SeaDex](https://releases.moe/9379/), [AniList](https://anilist.co/anime/9379)     |
 | 123 | By the Grace of the Gods                                                 | 2020 | 68    | [SeaDex](https://releases.moe/115740/), [AniList](https://anilist.co/anime/115740) |
 | 124 | Slam Dunk                                                                | 1993 | 83    | [SeaDex](https://releases.moe/170/), [AniList](https://anilist.co/anime/170)       |
-| 125 | Fuuka                                                                    | 2017 | 61    | [SeaDex](https://releases.moe/21887/), [AniList](https://anilist.co/anime/21887)   |
+| 125 | Fuuka                                                                    | 2017 | 60    | [SeaDex](https://releases.moe/21887/), [AniList](https://anilist.co/anime/21887)   |
 | 126 | Fena: Pirate Princess                                                    | 2021 | 69    | [SeaDex](https://releases.moe/122052/), [AniList](https://anilist.co/anime/122052) |
 | 127 | Pseudo Harem                                                             | 2024 | 76    | [SeaDex](https://releases.moe/163623/), [AniList](https://anilist.co/anime/163623) |
 | 128 | Cells at Work! CODE BLACK                                                | 2021 | 73    | [SeaDex](https://releases.moe/117533/), [AniList](https://anilist.co/anime/117533) |
@@ -147,8 +147,8 @@
 | 144 | Seiren                                                                   | 2017 | 59    | [SeaDex](https://releases.moe/97730/), [AniList](https://anilist.co/anime/97730)   |
 | 145 | Michiko & Hatchin                                                        | 2008 | 76    | [SeaDex](https://releases.moe/4087/), [AniList](https://anilist.co/anime/4087)     |
 | 146 | Riddle Story of Devil                                                    | 2014 | 62    | [SeaDex](https://releases.moe/19429/), [AniList](https://anilist.co/anime/19429)   |
-| 147 | Chihayafuru 2                                                            | 2013 | 83    | [SeaDex](https://releases.moe/14397/), [AniList](https://anilist.co/anime/14397)   |
-| 148 | Dark Gathering                                                           | 2023 | 75    | [SeaDex](https://releases.moe/152802/), [AniList](https://anilist.co/anime/152802) |
+| 147 | Dark Gathering                                                           | 2023 | 75    | [SeaDex](https://releases.moe/152802/), [AniList](https://anilist.co/anime/152802) |
+| 148 | Chihayafuru 2                                                            | 2013 | 83    | [SeaDex](https://releases.moe/14397/), [AniList](https://anilist.co/anime/14397)   |
 | 149 | Senryu Girl                                                              | 2019 | 71    | [SeaDex](https://releases.moe/106051/), [AniList](https://anilist.co/anime/106051) |
 | 150 | Free! -Dive to the Future-                                               | 2018 | 75    | [SeaDex](https://releases.moe/101117/), [AniList](https://anilist.co/anime/101117) |
 | 151 | Flowers of Evil                                                          | 2013 | 67    | [SeaDex](https://releases.moe/16201/), [AniList](https://anilist.co/anime/16201)   |
@@ -229,8 +229,8 @@
 | 226 | Strawberry Panic                                                         | 2006 | 67    | [SeaDex](https://releases.moe/855/), [AniList](https://anilist.co/anime/855)       |
 | 227 | Garo: The Animation                                                      | 2014 | 70    | [SeaDex](https://releases.moe/20753/), [AniList](https://anilist.co/anime/20753)   |
 | 228 | Planetarian                                                              | 2016 | 73    | [SeaDex](https://releases.moe/21732/), [AniList](https://anilist.co/anime/21732)   |
-| 229 | Momokuri                                                                 | 2015 | 68    | [SeaDex](https://releases.moe/21050/), [AniList](https://anilist.co/anime/21050)   |
-| 230 | Tearmoon Empire                                                          | 2023 | 71    | [SeaDex](https://releases.moe/154384/), [AniList](https://anilist.co/anime/154384) |
+| 229 | Tearmoon Empire                                                          | 2023 | 71    | [SeaDex](https://releases.moe/154384/), [AniList](https://anilist.co/anime/154384) |
+| 230 | Momokuri                                                                 | 2015 | 68    | [SeaDex](https://releases.moe/21050/), [AniList](https://anilist.co/anime/21050)   |
 | 231 | ENDRO!                                                                   | 2019 | 67    | [SeaDex](https://releases.moe/103301/), [AniList](https://anilist.co/anime/103301) |
 | 232 | Cross Game                                                               | 2009 | 81    | [SeaDex](https://releases.moe/5941/), [AniList](https://anilist.co/anime/5941)     |
 | 233 | Amanchu!                                                                 | 2016 | 71    | [SeaDex](https://releases.moe/21406/), [AniList](https://anilist.co/anime/21406)   |
@@ -311,8 +311,8 @@
 | 308 | Cat Planet Cuties: Come Drop By                                          | 2011 | 63    | [SeaDex](https://releases.moe/9618/), [AniList](https://anilist.co/anime/9618)     |
 | 309 | Papa no Iukoto wo Kikinasai!: Pokkapoka                                  | 2012 | 68    | [SeaDex](https://releases.moe/12673/), [AniList](https://anilist.co/anime/12673)   |
 | 310 | Cinderella Nine                                                          | 2019 | 56    | [SeaDex](https://releases.moe/104989/), [AniList](https://anilist.co/anime/104989) |
-| 311 | Riddle Story of Devil Special                                            | 2014 | 61    | [SeaDex](https://releases.moe/20926/), [AniList](https://anilist.co/anime/20926)   |
-| 312 | Modest Heroes: Ponoc Short Films Theatre, Volume 1                       | 2018 | 67    | [SeaDex](https://releases.moe/103887/), [AniList](https://anilist.co/anime/103887) |
+| 311 | Modest Heroes: Ponoc Short Films Theatre, Volume 1                       | 2018 | 67    | [SeaDex](https://releases.moe/103887/), [AniList](https://anilist.co/anime/103887) |
+| 312 | Riddle Story of Devil Special                                            | 2014 | 61    | [SeaDex](https://releases.moe/20926/), [AniList](https://anilist.co/anime/20926)   |
 | 313 | Macross Zero                                                             | 2002 | 70    | [SeaDex](https://releases.moe/194/), [AniList](https://anilist.co/anime/194)       |
 | 314 | Shagahai ReLIFE Kenkyuujo Support-ka                                     | 2018 | 69    | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
 | 315 | Bladedance of Elementalers Specials                                      | 2014 | 62    | [SeaDex](https://releases.moe/20871/), [AniList](https://anilist.co/anime/20871)   |
