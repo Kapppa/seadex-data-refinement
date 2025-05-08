@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `99.5 TiB`
+- Total size: `99.6 TiB`
 - Best size: `72.5 TiB`
 - Alt size: `27.0 TiB`
-- Realistic size: `77.1 TiB`
+- Realistic size: `77.2 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | Pog42            | 423.1 GiB  | 218.1 GiB (51.54%)  | 32 (~13.2 GiB each)   |
-| 50   | Others           | 30.4 TiB   | 16.9 TiB (55.65%)   | 1551 (~20.1 GiB each) |
+| 50   | Others           | 30.4 TiB   | 17.0 TiB (55.76%)   | 1552 (~20.1 GiB each) |

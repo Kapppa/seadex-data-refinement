@@ -46,4 +46,4 @@
 | 43  | Stella of the Theater: World Dai Star                                                                                   | 2023 | 72    | [SeaDex](https://releases.moe/157765/), [AniList](https://anilist.co/anime/157765) |
 | 44  | Komada - A Whisky Family                                                                                                | 2023 | 66    | [SeaDex](https://releases.moe/164293/), [AniList](https://anilist.co/anime/164293) |
 | 45  | Overlord: Ple Ple Pleiades 4                                                                                            | 2022 | 66    | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 46  | The Big First-Grader and the Small Second-Grader                                                                        | 2014 | 62    | [SeaDex](https://releases.moe/20504/), [AniList](https://anilist.co/anime/20504)   |
+| 46  | The Big First-Grader and the Small Second-Grader                                                                        | 2014 | 61    | [SeaDex](https://releases.moe/20504/), [AniList](https://anilist.co/anime/20504)   |
