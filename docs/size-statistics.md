@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `99.7 TiB`
-- Best size: `72.7 TiB`
+- Total size: `99.9 TiB`
+- Best size: `72.9 TiB`
 - Alt size: `27.0 TiB`
-- Realistic size: `77.3 TiB`
+- Realistic size: `77.4 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -27,7 +27,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (94.85%)    | 34 (~74.6 GiB each)   |
 | 6    | hchcsen          | 2.3 TiB    | 1.5 TiB (64.25%)    | 57 (~41.8 GiB each)   |
 | 7    | Moxie            | 2.2 TiB    | 2.2 TiB (100.00%)   | 50 (~44.7 GiB each)   |
-| 8    | B00BA            | 1.9 TiB    | 1.9 TiB (100.00%)   | 22 (~86.9 GiB each)   |
+| 8    | B00BA            | 2.0 TiB    | 2.0 TiB (100.00%)   | 23 (~90.4 GiB each)   |
 | 9    | JySzE            | 1.7 TiB    | 1.7 TiB (100.00%)   | 8 (~220.8 GiB each)   |
 | 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 11   | MTBB             | 1.4 TiB    | 1.1 TiB (81.97%)    | 89 (~15.7 GiB each)   |

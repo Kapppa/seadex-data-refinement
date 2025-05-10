@@ -88,7 +88,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Okay-Subs | 28    |
 | 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
-| 15   | B00BA     | 22    |
+| 15   | B00BA     | 23    |
 | 16   | Arid      | 22    |
 | 17   | KH        | 20    |
 | 18   | Flugel    | 19    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | HorribleSubs     | 14    |
 | 23   | UDF              | 13    |
 | 24   | IK               | 13    |
-| 25   | NH               | 12    |
+| 25   | Asakura          | 12    |

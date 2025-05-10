@@ -30,7 +30,7 @@
 | 27  | Sound! Euphonium Shorts                                            | 2015 | 67    | [SeaDex](https://releases.moe/21255/), [AniList](https://anilist.co/anime/21255)   |
 | 28  | Saint Seiya: The Lost Canvas 2                                     | 2011 | 77    | [SeaDex](https://releases.moe/9130/), [AniList](https://anilist.co/anime/9130)     |
 | 29  | Jyu-Oh-Sei: Planet of the Beast King                               | 2006 | 67    | [SeaDex](https://releases.moe/953/), [AniList](https://anilist.co/anime/953)       |
-| 30  | Sound! Euphonium 2 Shorts                                          | 2016 | 67    | [SeaDex](https://releases.moe/98338/), [AniList](https://anilist.co/anime/98338)   |
+| 30  | Sound! Euphonium 2 Shorts                                          | 2016 | 66    | [SeaDex](https://releases.moe/98338/), [AniList](https://anilist.co/anime/98338)   |
 | 31  | Free! -Dive to the Future-: Build-Up of Early Spring!              | 2018 | 74    | [SeaDex](https://releases.moe/103588/), [AniList](https://anilist.co/anime/103588) |
 | 32  | Strike Witches: Road to Berlin                                     | 2020 | 72    | [SeaDex](https://releases.moe/103119/), [AniList](https://anilist.co/anime/103119) |
 | 33  | Dogeza de Tanondemita: Isekai-hen                                  | 2021 | 53    | [SeaDex](https://releases.moe/124612/), [AniList](https://anilist.co/anime/124612) |
