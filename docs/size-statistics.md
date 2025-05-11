@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.7 TiB   | 12.3 TiB (83.62%)   | 190 (~79.4 GiB each)  |
-| 2    | CRUCiBLE         | 5.3 TiB    | 5.3 TiB (100.00%)   | 67 (~81.0 GiB each)   |
+| 2    | CRUCiBLE         | 5.2 TiB    | 5.2 TiB (100.00%)   | 66 (~81.1 GiB each)   |
 | 3    | NAN0             | 4.9 TiB    | 4.8 TiB (98.46%)    | 69 (~72.8 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.4 TiB (88.71%)    | 133 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (94.85%)    | 34 (~74.6 GiB each)   |
@@ -32,12 +32,12 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 11   | MTBB             | 1.4 TiB    | 1.1 TiB (81.97%)    | 89 (~15.7 GiB each)   |
 | 12   | SubsPlease       | 1.4 TiB    | 206.8 GiB (14.88%)  | 83 (~16.7 GiB each)   |
-| 13   | NOGRP            | 1.3 TiB    | 836.1 GiB (61.25%)  | 19 (~71.8 GiB each)   |
-| 14   | PMR              | 1.3 TiB    | 1.3 TiB (100.00%)   | 15 (~90.8 GiB each)   |
+| 13   | PMR              | 1.4 TiB    | 1.4 TiB (100.00%)   | 15 (~92.2 GiB each)   |
+| 14   | NOGRP            | 1.3 TiB    | 836.1 GiB (61.25%)  | 19 (~71.8 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 16   | RUDY             | 1.1 TiB    | 1.0 TiB (99.30%)    | 12 (~90.0 GiB each)   |
 | 17   | smol             | 980.9 GiB  | 947.9 GiB (96.64%)  | 57 (~17.2 GiB each)   |
-| 18   | LYS1TH3A         | 922.7 GiB  | 903.2 GiB (97.89%)  | 37 (~24.9 GiB each)   |
+| 18   | LYS1TH3A         | 938.0 GiB  | 918.5 GiB (97.92%)  | 37 (~25.4 GiB each)   |
 | 19   | YURI             | 903.6 GiB  | 445.7 GiB (49.33%)  | 77 (~11.7 GiB each)   |
 | 20   | KH               | 879.4 GiB  | 322.3 GiB (36.65%)  | 54 (~16.3 GiB each)   |
 | 21   | LostYears        | 865.1 GiB  | 311.7 GiB (36.03%)  | 51 (~17.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | Pog42            | 423.1 GiB  | 218.1 GiB (51.54%)  | 32 (~13.2 GiB each)   |
-| 50   | Others           | 30.4 TiB   | 17.0 TiB (55.76%)   | 1552 (~20.1 GiB each) |
+| 50   | Others           | 30.5 TiB   | 17.1 TiB (55.87%)   | 1554 (~20.1 GiB each) |

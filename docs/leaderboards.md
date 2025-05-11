@@ -20,7 +20,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | SubsPlease       | 82    |
 | 5    | YURI             | 77    |
 | 6    | NAN0             | 69    |
-| 7    | CRUCiBLE         | 67    |
+| 7    | CRUCiBLE         | 66    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 57    |
 | 10   | hchcsen          | 53    |
@@ -47,7 +47,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
 | 🥉   | NAN0      | 57    |
-| 4    | CRUCiBLE  | 56    |
+| 4    | CRUCiBLE  | 55    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 28    |
 | 7    | smol      | 23    |
@@ -77,7 +77,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
 | 🥉   | NAN0      | 68    |
-| 4    | CRUCiBLE  | 67    |
+| 4    | CRUCiBLE  | 66    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 56    |
 | 7    | Moxie     | 50    |
