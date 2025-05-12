@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `99.9 TiB`
-- Best size: `72.9 TiB`
+- Total size: `100.0 TiB`
+- Best size: `73.1 TiB`
 - Alt size: `27.0 TiB`
 - Realistic size: `77.4 TiB`
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.7 TiB   | 12.3 TiB (83.62%)   | 190 (~79.4 GiB each)  |
-| 2    | CRUCiBLE         | 5.2 TiB    | 5.2 TiB (100.00%)   | 66 (~81.1 GiB each)   |
+| 2    | CRUCiBLE         | 5.4 TiB    | 5.4 TiB (100.00%)   | 68 (~81.8 GiB each)   |
 | 3    | NAN0             | 4.9 TiB    | 4.8 TiB (98.46%)    | 69 (~72.8 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.4 TiB (88.71%)    | 133 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (94.85%)    | 34 (~74.6 GiB each)   |
@@ -61,12 +61,12 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 39   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
 | 40   | CTR              | 507.1 GiB  | 135.3 GiB (26.67%)  | 26 (~19.5 GiB each)   |
 | 41   | Almighty         | 500.9 GiB  | 0 B (0.00%)         | 3 (~167.0 GiB each)   |
-| 42   | VULCAN           | 499.2 GiB  | 439.1 GiB (87.97%)  | 6 (~83.2 GiB each)    |
-| 43   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 44   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
-| 45   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
-| 46   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
-| 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
-| 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
+| 42   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
+| 43   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
+| 44   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
+| 45   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
+| 46   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
+| 47   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
+| 48   | VULCAN           | 439.1 GiB  | 439.1 GiB (100.00%) | 5 (~87.8 GiB each)    |
 | 49   | Pog42            | 423.1 GiB  | 218.1 GiB (51.54%)  | 32 (~13.2 GiB each)   |
 | 50   | Others           | 30.5 TiB   | 17.1 TiB (55.87%)   | 1554 (~20.1 GiB each) |
