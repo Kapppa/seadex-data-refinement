@@ -30,7 +30,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 23  | K: RETURN OF KINGS                                                              | 2015 | 73    | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 24  | Thus Spoke Rohan Kishibe                                                        | 2017 | 76    | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
 | 25  | Ranma ½                                                                         | 1989 | 75    | [SeaDex](https://releases.moe/210/), [AniList](https://anilist.co/anime/210)       |
-| 26  | Den-noh Coil                                                                    | 2007 | 77    | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
+| 26  | Den-noh Coil                                                                    | 2007 | 78    | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
 | 27  | Now and Then, Here and There                                                    | 1999 | 73    | [SeaDex](https://releases.moe/160/), [AniList](https://anilist.co/anime/160)       |
 | 28  | A Certain Magical Index: The Miracle of Endymion                                | 2013 | 72    | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
 | 29  | Assault Lily BOUQUET                                                            | 2020 | 62    | [SeaDex](https://releases.moe/112479/), [AniList](https://anilist.co/anime/112479) |
