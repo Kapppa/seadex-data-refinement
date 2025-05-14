@@ -14,10 +14,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 177   |
+| 🥇   | -ZR-             | 176   |
 | 🥈   | sam              | 132   |
 | 🥉   | MTBB             | 89    |
-| 4    | SubsPlease       | 82    |
+| 4    | SubsPlease       | 81    |
 | 5    | YURI             | 77    |
 | 6    | NAN0             | 69    |
 | 7    | CRUCiBLE         | 68    |
@@ -66,7 +66,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | DemiHuman | 11    |
 | 21   | SCY       | 11    |
 | 22   | koala     | 10    |
-| 23   | FLE       | 9     |
+| 23   | FLE       | 10    |
 | 24   | FraMeSToR | 9     |
 | 25   | UDF       | 8     |
 
@@ -104,9 +104,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 70    |
-| 🥈   | -ZR-             | 43    |
-| 🥉   | Drag             | 42    |
+| 🥇   | SubsPlease       | 69    |
+| 🥈   | Drag             | 42    |
+| 🥉   | -ZR-             | 42    |
 | 4    | YURI             | 38    |
 | 5    | LostYears        | 36    |
 | 6    | YURASUKA         | 34    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | HorribleSubs     | 14    |
 | 23   | UDF              | 13    |
 | 24   | IK               | 13    |
-| 25   | NH               | 12    |
+| 25   | Asakura          | 12    |
