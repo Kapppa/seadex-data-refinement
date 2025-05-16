@@ -19,11 +19,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | MTBB             | 89    |
 | 4    | SubsPlease       | 81    |
 | 5    | YURI             | 77    |
-| 6    | NAN0             | 69    |
-| 7    | CRUCiBLE         | 68    |
+| 6    | CRUCiBLE         | 71    |
+| 7    | NAN0             | 69    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 57    |
-| 10   | hchcsen          | 53    |
+| 10   | hchcsen          | 55    |
 | 11   | KH               | 52    |
 | 12   | LostYears        | 51    |
 | 13   | Moxie            | 50    |
@@ -32,8 +32,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | YURASUKA         | 35    |
 | 17   | Lulu             | 34    |
 | 18   | TTGA             | 34    |
-| 19   | Commie           | 34    |
-| 20   | Bunny-Apocalypse | 33    |
+| 19   | Bunny-Apocalypse | 34    |
+| 20   | Commie           | 34    |
 | 21   | Okay-Subs        | 32    |
 | 22   | Pog42            | 32    |
 | 23   | Kametsu          | 31    |
@@ -46,10 +46,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
-| 🥉   | CRUCiBLE  | 57    |
+| 🥉   | CRUCiBLE  | 60    |
 | 4    | NAN0      | 57    |
 | 5    | LYS1TH3A  | 34    |
-| 6    | hchcsen   | 28    |
+| 6    | hchcsen   | 30    |
 | 7    | smol      | 23    |
 | 8    | TTGA      | 22    |
 | 9    | Lulu      | 21    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 68    |
+| 🥉   | CRUCiBLE  | 71    |
 | 4    | NAN0      | 68    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 56    |
@@ -84,7 +84,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | YURI      | 39    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 33    |
-| 11   | hchcsen   | 29    |
+| 11   | hchcsen   | 31    |
 | 12   | Okay-Subs | 28    |
 | 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
@@ -113,16 +113,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | KH               | 34    |
 | 8    | Commie           | 33    |
 | 9    | MTBB             | 31    |
-| 10   | hchcsen          | 28    |
-| 11   | Arid             | 26    |
-| 12   | Bunny-Apocalypse | 26    |
+| 10   | hchcsen          | 30    |
+| 11   | Bunny-Apocalypse | 27    |
+| 12   | Arid             | 26    |
 | 13   | Kametsu          | 24    |
 | 14   | Holomux          | 20    |
 | 15   | CTR              | 19    |
 | 16   | Pog42            | 18    |
 | 17   | Erai-raws        | 18    |
 | 18   | SCY              | 16    |
-| 19   | Reza             | 16    |
+| 19   | Reza             | 15    |
 | 20   | sam              | 15    |
 | 21   | Chihiro          | 15    |
 | 22   | HorribleSubs     | 14    |
