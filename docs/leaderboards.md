@@ -20,7 +20,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | SubsPlease       | 81    |
 | 5    | YURI             | 77    |
 | 6    | CRUCiBLE         | 71    |
-| 7    | NAN0             | 69    |
+| 7    | NAN0             | 70    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 57    |
 | 10   | hchcsen          | 55    |
@@ -47,7 +47,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
 | 🥉   | CRUCiBLE  | 60    |
-| 4    | NAN0      | 57    |
+| 4    | NAN0      | 58    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 30    |
 | 7    | smol      | 23    |
@@ -67,7 +67,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | SCY       | 11    |
 | 22   | koala     | 10    |
 | 23   | FLE       | 10    |
-| 24   | FraMeSToR | 9     |
+| 24   | FraMeSToR | 10    |
 | 25   | UDF       | 8     |
 
 ## Top 25 - Best entries
@@ -77,7 +77,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
 | 🥉   | CRUCiBLE  | 71    |
-| 4    | NAN0      | 68    |
+| 4    | NAN0      | 69    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 56    |
 | 7    | Moxie     | 50    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | HorribleSubs     | 14    |
 | 23   | UDF              | 13    |
 | 24   | IK               | 13    |
-| 25   | Asakura          | 12    |
+| 25   | NH               | 12    |
