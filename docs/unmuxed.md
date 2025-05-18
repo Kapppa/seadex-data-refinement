@@ -167,8 +167,8 @@
 | 164 | Sunday Without God                                                       | 2013 | 69    | [SeaDex](https://releases.moe/16009/), [AniList](https://anilist.co/anime/16009)   |
 | 165 | HIGH CARD                                                                | 2023 | 71    | [SeaDex](https://releases.moe/135778/), [AniList](https://anilist.co/anime/135778) |
 | 166 | Gatchaman Crowds                                                         | 2013 | 70    | [SeaDex](https://releases.moe/18229/), [AniList](https://anilist.co/anime/18229)   |
-| 167 | Joker Game                                                               | 2016 | 66    | [SeaDex](https://releases.moe/21291/), [AniList](https://anilist.co/anime/21291)   |
-| 168 | Loner Life in Another World                                              | 2024 | 65    | [SeaDex](https://releases.moe/173693/), [AniList](https://anilist.co/anime/173693) |
+| 167 | Loner Life in Another World                                              | 2024 | 65    | [SeaDex](https://releases.moe/173693/), [AniList](https://anilist.co/anime/173693) |
+| 168 | Joker Game                                                               | 2016 | 66    | [SeaDex](https://releases.moe/21291/), [AniList](https://anilist.co/anime/21291)   |
 | 169 | Please tell me! Galko-chan                                               | 2016 | 67    | [SeaDex](https://releases.moe/21472/), [AniList](https://anilist.co/anime/21472)   |
 | 170 | Symphogear                                                               | 2012 | 68    | [SeaDex](https://releases.moe/11751/), [AniList](https://anilist.co/anime/11751)   |
 | 171 | Another: The Other                                                       | 2012 | 68    | [SeaDex](https://releases.moe/11701/), [AniList](https://anilist.co/anime/11701)   |
@@ -198,7 +198,7 @@
 | 195 | Ace Attorney                                                             | 2016 | 60    | [SeaDex](https://releases.moe/21360/), [AniList](https://anilist.co/anime/21360)   |
 | 196 | My Sister, My Writer                                                     | 2018 | 44    | [SeaDex](https://releases.moe/100382/), [AniList](https://anilist.co/anime/100382) |
 | 197 | Angels of Death (ONA)                                                    | 2018 | 70    | [SeaDex](https://releases.moe/104243/), [AniList](https://anilist.co/anime/104243) |
-| 198 | Valvrave the Liberator                                                   | 2013 | 66    | [SeaDex](https://releases.moe/16668/), [AniList](https://anilist.co/anime/16668)   |
+| 198 | Valvrave the Liberator                                                   | 2013 | 67    | [SeaDex](https://releases.moe/16668/), [AniList](https://anilist.co/anime/16668)   |
 | 199 | That Time I Got Reincarnated as a Slime: Visions of Coleus               | 2023 | 76    | [SeaDex](https://releases.moe/161802/), [AniList](https://anilist.co/anime/161802) |
 | 200 | The Great Passage                                                        | 2016 | 75    | [SeaDex](https://releases.moe/21703/), [AniList](https://anilist.co/anime/21703)   |
 | 201 | Mysteria Friends                                                         | 2019 | 66    | [SeaDex](https://releases.moe/21322/), [AniList](https://anilist.co/anime/21322)   |
