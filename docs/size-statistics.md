@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `101.1 TiB`
-- Best size: `74.1 TiB`
+- Total size: `101.3 TiB`
+- Best size: `74.3 TiB`
 - Alt size: `27.0 TiB`
-- Realistic size: `78.3 TiB`
+- Realistic size: `78.4 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.7 TiB   | 12.3 TiB (83.72%)   | 189 (~79.7 GiB each)  |
-| 2    | CRUCiBLE         | 5.6 TiB    | 5.6 TiB (100.00%)   | 71 (~80.5 GiB each)   |
+| 2    | CRUCiBLE         | 5.7 TiB    | 5.7 TiB (100.00%)   | 73 (~80.3 GiB each)   |
 | 3    | NAN0             | 5.0 TiB    | 4.9 TiB (98.48%)    | 70 (~72.7 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.4 TiB (88.71%)    | 133 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (94.85%)    | 34 (~74.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | VULCAN           | 439.1 GiB  | 439.1 GiB (100.00%) | 5 (~87.8 GiB each)    |
-| 50   | Others           | 31.2 TiB   | 17.5 TiB (56.08%)   | 1585 (~20.2 GiB each) |
+| 50   | Others           | 31.2 TiB   | 17.5 TiB (56.04%)   | 1586 (~20.2 GiB each) |
