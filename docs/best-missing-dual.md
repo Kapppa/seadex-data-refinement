@@ -24,7 +24,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 17  | Steins;Gate: Egoistic Poriomania                                                | 2012 | 80    | [SeaDex](https://releases.moe/10863/), [AniList](https://anilist.co/anime/10863)   |
 | 18  | SHADOWS HOUSE                                                                   | 2021 | 77    | [SeaDex](https://releases.moe/125038/), [AniList](https://anilist.co/anime/125038) |
 | 19  | Life Lessons with Uramichi Oniisan                                              | 2021 | 76    | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
-| 20  | Texhnolyze                                                                      | 2003 | 77    | [SeaDex](https://releases.moe/26/), [AniList](https://anilist.co/anime/26)         |
+| 20  | Texhnolyze                                                                      | 2003 | 76    | [SeaDex](https://releases.moe/26/), [AniList](https://anilist.co/anime/26)         |
 | 21  | The Elusive Samurai                                                             | 2024 | 77    | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
 | 22  | Our love has always been 10 centimeters apart.                                  | 2017 | 72    | [SeaDex](https://releases.moe/98977/), [AniList](https://anilist.co/anime/98977)   |
 | 23  | K: RETURN OF KINGS                                                              | 2015 | 73    | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |

@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | VULCAN           | 439.1 GiB  | 439.1 GiB (100.00%) | 5 (~87.8 GiB each)    |
-| 50   | Others           | 31.3 TiB   | 17.5 TiB (56.03%)   | 1589 (~20.2 GiB each) |
+| 50   | Others           | 31.3 TiB   | 17.5 TiB (56.04%)   | 1589 (~20.2 GiB each) |
