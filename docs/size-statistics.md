@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `101.3 TiB`
+- Total size: `101.4 TiB`
 - Best size: `74.3 TiB`
-- Alt size: `27.0 TiB`
-- Realistic size: `78.4 TiB`
+- Alt size: `27.1 TiB`
+- Realistic size: `78.5 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -41,8 +41,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 19   | YURI             | 903.6 GiB  | 445.7 GiB (49.33%)  | 77 (~11.7 GiB each)   |
 | 20   | KH               | 879.4 GiB  | 322.3 GiB (36.65%)  | 54 (~16.3 GiB each)   |
 | 21   | LostYears        | 865.1 GiB  | 311.7 GiB (36.03%)  | 51 (~17.0 GiB each)   |
-| 22   | Arid             | 788.5 GiB  | 206.7 GiB (26.21%)  | 48 (~16.4 GiB each)   |
-| 23   | Vodes            | 769.7 GiB  | 449.9 GiB (58.45%)  | 18 (~42.8 GiB each)   |
+| 22   | Vodes            | 853.4 GiB  | 533.6 GiB (62.53%)  | 19 (~44.9 GiB each)   |
+| 23   | Arid             | 788.5 GiB  | 206.7 GiB (26.21%)  | 48 (~16.4 GiB each)   |
 | 24   | ZeroBuild        | 753.7 GiB  | 656.9 GiB (87.16%)  | 17 (~44.3 GiB each)   |
 | 25   | Bunny-Apocalypse | 748.1 GiB  | 173.8 GiB (23.23%)  | 34 (~22.0 GiB each)   |
 | 26   | FraMeSToR        | 745.7 GiB  | 745.7 GiB (100.00%) | 10 (~74.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | VULCAN           | 439.1 GiB  | 439.1 GiB (100.00%) | 5 (~87.8 GiB each)    |
-| 50   | Others           | 31.3 TiB   | 17.5 TiB (56.00%)   | 1590 (~20.2 GiB each) |
+| 50   | Others           | 31.3 TiB   | 17.5 TiB (55.83%)   | 1590 (~20.2 GiB each) |

@@ -61,8 +61,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | LostYears | 15    |
 | 16   | Arid      | 13    |
 | 17   | ZeroBuild | 13    |
-| 18   | hydes     | 11    |
-| 19   | Vodes     | 11    |
+| 18   | Vodes     | 12    |
+| 19   | hydes     | 11    |
 | 20   | DemiHuman | 11    |
 | 21   | SCY       | 11    |
 | 22   | koala     | 10    |
@@ -97,8 +97,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | LostYears | 15    |
 | 22   | PMR       | 15    |
 | 23   | Pog42     | 14    |
-| 24   | koala     | 13    |
-| 25   | Beatrice  | 13    |
+| 24   | Vodes     | 14    |
+| 25   | koala     | 13    |
 
 ## Top 25 - Alt entries
 
