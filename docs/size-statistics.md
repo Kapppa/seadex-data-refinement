@@ -20,9 +20,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.7 TiB   | 12.3 TiB (83.72%)   | 189 (~79.7 GiB each)  |
+| 1    | -ZR-             | 14.7 TiB   | 12.3 TiB (83.80%)   | 188 (~80.1 GiB each)  |
 | 2    | CRUCiBLE         | 5.7 TiB    | 5.7 TiB (100.00%)   | 73 (~80.3 GiB each)   |
-| 3    | NAN0             | 5.0 TiB    | 4.9 TiB (98.48%)    | 70 (~72.7 GiB each)   |
+| 3    | NAN0             | 5.0 TiB    | 4.9 TiB (98.48%)    | 70 (~72.6 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.4 TiB (88.71%)    | 133 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (94.85%)    | 34 (~74.6 GiB each)   |
 | 6    | hchcsen          | 2.4 TiB    | 1.6 TiB (64.72%)    | 61 (~40.2 GiB each)   |
@@ -33,7 +33,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 11   | MTBB             | 1.4 TiB    | 1.1 TiB (81.97%)    | 89 (~15.7 GiB each)   |
 | 12   | PMR              | 1.4 TiB    | 1.4 TiB (100.00%)   | 15 (~92.2 GiB each)   |
 | 13   | NOGRP            | 1.3 TiB    | 849.8 GiB (61.64%)  | 20 (~68.9 GiB each)   |
-| 14   | SubsPlease       | 1.3 TiB    | 206.8 GiB (15.06%)  | 82 (~16.7 GiB each)   |
+| 14   | SubsPlease       | 1.3 TiB    | 206.8 GiB (15.22%)  | 81 (~16.8 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 16   | RUDY             | 1.1 TiB    | 1.0 TiB (97.62%)    | 13 (~84.5 GiB each)   |
 | 17   | smol             | 980.9 GiB  | 947.9 GiB (96.64%)  | 57 (~17.2 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | VULCAN           | 439.1 GiB  | 439.1 GiB (100.00%) | 5 (~87.8 GiB each)    |
-| 50   | Others           | 31.3 TiB   | 17.5 TiB (55.83%)   | 1590 (~20.2 GiB each) |
+| 50   | Others           | 31.3 TiB   | 17.5 TiB (55.85%)   | 1591 (~20.2 GiB each) |
