@@ -78,7 +78,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam       | 118   |
 | 🥉   | CRUCiBLE  | 73    |
 | 4    | NAN0      | 69    |
-| 5    | MTBB      | 58    |
+| 5    | MTBB      | 57    |
 | 6    | smol      | 56    |
 | 7    | Moxie     | 50    |
 | 8    | YURI      | 39    |
@@ -112,7 +112,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | YURASUKA         | 34    |
 | 7    | KH               | 34    |
 | 8    | Commie           | 33    |
-| 9    | MTBB             | 31    |
+| 9    | MTBB             | 32    |
 | 10   | hchcsen          | 30    |
 | 11   | Bunny-Apocalypse | 27    |
 | 12   | Arid             | 26    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | HorribleSubs     | 14    |
 | 23   | UDF              | 13    |
 | 24   | IK               | 13    |
-| 25   | Asakura          | 12    |
+| 25   | NH               | 12    |

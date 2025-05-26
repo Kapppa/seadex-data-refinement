@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `101.4 TiB`
-- Best size: `74.3 TiB`
+- Total size: `101.5 TiB`
+- Best size: `74.4 TiB`
 - Alt size: `27.1 TiB`
 - Realistic size: `78.5 TiB`
 
@@ -30,7 +30,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 8    | B00BA            | 2.0 TiB    | 2.0 TiB (100.00%)   | 23 (~90.4 GiB each)   |
 | 9    | JySzE            | 1.7 TiB    | 1.7 TiB (100.00%)   | 8 (~220.8 GiB each)   |
 | 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
-| 11   | MTBB             | 1.4 TiB    | 1.1 TiB (81.97%)    | 89 (~15.7 GiB each)   |
+| 11   | MTBB             | 1.4 TiB    | 1.1 TiB (81.28%)    | 89 (~15.7 GiB each)   |
 | 12   | PMR              | 1.4 TiB    | 1.4 TiB (100.00%)   | 15 (~92.2 GiB each)   |
 | 13   | NOGRP            | 1.3 TiB    | 849.8 GiB (61.64%)  | 20 (~68.9 GiB each)   |
 | 14   | SubsPlease       | 1.3 TiB    | 206.8 GiB (15.22%)  | 81 (~16.8 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
 | 49   | VULCAN           | 439.1 GiB  | 439.1 GiB (100.00%) | 5 (~87.8 GiB each)    |
-| 50   | Others           | 31.3 TiB   | 17.5 TiB (55.85%)   | 1591 (~20.2 GiB each) |
+| 50   | Others           | 31.4 TiB   | 17.6 TiB (55.96%)   | 1593 (~20.2 GiB each) |
