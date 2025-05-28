@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `101.5 TiB`
-- Best size: `74.4 TiB`
+- Total size: `101.6 TiB`
+- Best size: `74.5 TiB`
 - Alt size: `27.1 TiB`
-- Realistic size: `78.5 TiB`
+- Realistic size: `78.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.7 TiB   | 12.3 TiB (83.80%)   | 188 (~80.1 GiB each)  |
-| 2    | CRUCiBLE         | 5.7 TiB    | 5.7 TiB (100.00%)   | 73 (~80.3 GiB each)   |
+| 2    | CRUCiBLE         | 5.8 TiB    | 5.8 TiB (100.00%)   | 74 (~80.0 GiB each)   |
 | 3    | NAN0             | 5.0 TiB    | 4.9 TiB (98.48%)    | 70 (~72.6 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.4 TiB (88.71%)    | 133 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (94.85%)    | 34 (~74.6 GiB each)   |
@@ -67,6 +67,6 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 45   | Kametsu          | 470.3 GiB  | 133.1 GiB (28.31%)  | 32 (~14.7 GiB each)   |
 | 46   | FLE              | 463.5 GiB  | 443.7 GiB (95.73%)  | 11 (~42.1 GiB each)   |
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
-| 48   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 49   | VULCAN           | 439.1 GiB  | 439.1 GiB (100.00%) | 5 (~87.8 GiB each)    |
-| 50   | Others           | 31.4 TiB   | 17.6 TiB (55.96%)   | 1593 (~20.2 GiB each) |
+| 48   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
+| 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
+| 50   | Others           | 31.5 TiB   | 17.6 TiB (56.02%)   | 1592 (~20.2 GiB each) |
