@@ -19,7 +19,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | MTBB             | 89    |
 | 4    | SubsPlease       | 80    |
 | 5    | YURI             | 77    |
-| 6    | CRUCiBLE         | 74    |
+| 6    | CRUCiBLE         | 76    |
 | 7    | NAN0             | 70    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 57    |
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
-| 🥉   | CRUCiBLE  | 62    |
+| 🥉   | CRUCiBLE  | 64    |
 | 4    | NAN0      | 58    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 30    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 74    |
+| 🥉   | CRUCiBLE  | 76    |
 | 4    | NAN0      | 69    |
 | 5    | MTBB      | 57    |
 | 6    | smol      | 56    |
@@ -95,9 +95,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | LazyRemux | 19    |
 | 20   | Drag      | 17    |
 | 21   | LostYears | 15    |
-| 22   | PMR       | 15    |
-| 23   | Pog42     | 14    |
-| 24   | Vodes     | 14    |
+| 22   | Pog42     | 14    |
+| 23   | Vodes     | 14    |
+| 24   | PMR       | 14    |
 | 25   | koala     | 13    |
 
 ## Top 25 - Alt entries
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | HorribleSubs     | 14    |
 | 23   | UDF              | 13    |
 | 24   | IK               | 13    |
-| 25   | NH               | 12    |
+| 25   | Asakura          | 12    |

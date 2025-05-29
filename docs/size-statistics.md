@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `101.6 TiB`
-- Best size: `74.5 TiB`
+- Total size: `101.7 TiB`
+- Best size: `74.6 TiB`
 - Alt size: `27.1 TiB`
-- Realistic size: `78.6 TiB`
+- Realistic size: `78.7 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.7 TiB   | 12.3 TiB (83.80%)   | 188 (~80.1 GiB each)  |
-| 2    | CRUCiBLE         | 5.8 TiB    | 5.8 TiB (100.00%)   | 74 (~80.0 GiB each)   |
+| 2    | CRUCiBLE         | 5.9 TiB    | 5.9 TiB (100.00%)   | 76 (~79.6 GiB each)   |
 | 3    | NAN0             | 5.0 TiB    | 4.9 TiB (98.48%)    | 70 (~72.6 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.4 TiB (88.71%)    | 133 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (94.85%)    | 34 (~74.6 GiB each)   |
@@ -31,9 +31,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 9    | JySzE            | 1.7 TiB    | 1.7 TiB (100.00%)   | 8 (~220.8 GiB each)   |
 | 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 11   | MTBB             | 1.4 TiB    | 1.1 TiB (81.28%)    | 89 (~15.7 GiB each)   |
-| 12   | PMR              | 1.4 TiB    | 1.4 TiB (100.00%)   | 15 (~92.2 GiB each)   |
-| 13   | NOGRP            | 1.3 TiB    | 849.8 GiB (61.64%)  | 20 (~68.9 GiB each)   |
-| 14   | SubsPlease       | 1.3 TiB    | 206.8 GiB (15.22%)  | 81 (~16.8 GiB each)   |
+| 12   | NOGRP            | 1.3 TiB    | 849.8 GiB (61.64%)  | 20 (~68.9 GiB each)   |
+| 13   | SubsPlease       | 1.3 TiB    | 206.8 GiB (15.22%)  | 81 (~16.8 GiB each)   |
+| 14   | PMR              | 1.3 TiB    | 1.3 TiB (100.00%)   | 14 (~96.5 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 16   | RUDY             | 1.1 TiB    | 1.0 TiB (97.62%)    | 13 (~84.5 GiB each)   |
 | 17   | smol             | 980.9 GiB  | 947.9 GiB (96.64%)  | 57 (~17.2 GiB each)   |
