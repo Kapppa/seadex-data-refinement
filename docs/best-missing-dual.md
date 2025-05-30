@@ -13,7 +13,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 6   | Solo Leveling                                                                   | 2024 | 82    | [SeaDex](https://releases.moe/151807/), [AniList](https://anilist.co/anime/151807) |
 | 7   | Toilet-bound Hanako-kun                                                         | 2020 | 77    | [SeaDex](https://releases.moe/108463/), [AniList](https://anilist.co/anime/108463) |
 | 8   | Classroom of the Elite Season 2                                                 | 2022 | 79    | [SeaDex](https://releases.moe/145545/), [AniList](https://anilist.co/anime/145545) |
-| 9   | Great Pretender                                                                 | 2020 | 82    | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
+| 9   | Great Pretender                                                                 | 2020 | 81    | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
 | 10  | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | 2021 | 72    | [SeaDex](https://releases.moe/129898/), [AniList](https://anilist.co/anime/129898) |
 | 11  | A Place Further Than the Universe                                               | 2018 | 84    | [SeaDex](https://releases.moe/99426/), [AniList](https://anilist.co/anime/99426)   |
 | 12  | Laid-Back Camp                                                                  | 2018 | 81    | [SeaDex](https://releases.moe/98444/), [AniList](https://anilist.co/anime/98444)   |
@@ -25,7 +25,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 18  | SHIROBAKO                                                                       | 2014 | 82    | [SeaDex](https://releases.moe/20812/), [AniList](https://anilist.co/anime/20812)   |
 | 19  | Steins;Gate: Egoistic Poriomania                                                | 2012 | 80    | [SeaDex](https://releases.moe/10863/), [AniList](https://anilist.co/anime/10863)   |
 | 20  | SHADOWS HOUSE                                                                   | 2021 | 77    | [SeaDex](https://releases.moe/125038/), [AniList](https://anilist.co/anime/125038) |
-| 21  | Life Lessons with Uramichi Oniisan                                              | 2021 | 76    | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
+| 21  | Life Lessons with Uramichi Oniisan                                              | 2021 | 75    | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
 | 22  | Texhnolyze                                                                      | 2003 | 76    | [SeaDex](https://releases.moe/26/), [AniList](https://anilist.co/anime/26)         |
 | 23  | The Elusive Samurai                                                             | 2024 | 77    | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
 | 24  | Our love has always been 10 centimeters apart.                                  | 2017 | 72    | [SeaDex](https://releases.moe/98977/), [AniList](https://anilist.co/anime/98977)   |
@@ -33,7 +33,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 26  | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout        | 2022 | 70    | [SeaDex](https://releases.moe/134252/), [AniList](https://anilist.co/anime/134252) |
 | 27  | Thus Spoke Rohan Kishibe                                                        | 2017 | 76    | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
 | 28  | Ranma ½                                                                         | 1989 | 75    | [SeaDex](https://releases.moe/210/), [AniList](https://anilist.co/anime/210)       |
-| 29  | Den-noh Coil                                                                    | 2007 | 77    | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
+| 29  | Den-noh Coil                                                                    | 2007 | 78    | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
 | 30  | Now and Then, Here and There                                                    | 1999 | 73    | [SeaDex](https://releases.moe/160/), [AniList](https://anilist.co/anime/160)       |
 | 31  | A Certain Magical Index: The Miracle of Endymion                                | 2013 | 72    | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
 | 32  | Assault Lily BOUQUET                                                            | 2020 | 62    | [SeaDex](https://releases.moe/112479/), [AniList](https://anilist.co/anime/112479) |
