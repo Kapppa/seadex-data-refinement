@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `101.7 TiB`
-- Best size: `74.6 TiB`
+- Total size: `101.8 TiB`
+- Best size: `74.8 TiB`
 - Alt size: `27.1 TiB`
-- Realistic size: `78.7 TiB`
+- Realistic size: `78.8 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 48   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 31.5 TiB   | 17.6 TiB (56.02%)   | 1592 (~20.2 GiB each) |
+| 50   | Others           | 31.6 TiB   | 17.8 TiB (56.21%)   | 1593 (~20.3 GiB each) |
