@@ -17,9 +17,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 175   |
 | 🥈   | sam              | 132   |
 | 🥉   | MTBB             | 89    |
-| 4    | SubsPlease       | 80    |
-| 5    | YURI             | 77    |
-| 6    | CRUCiBLE         | 76    |
+| 4    | SubsPlease       | 81    |
+| 5    | CRUCiBLE         | 78    |
+| 6    | YURI             | 77    |
 | 7    | NAN0             | 70    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 57    |
@@ -27,7 +27,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | KH               | 52    |
 | 12   | LostYears        | 51    |
 | 13   | Moxie            | 50    |
-| 14   | Arid             | 47    |
+| 14   | Arid             | 45    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | YURASUKA         | 35    |
 | 17   | Lulu             | 34    |
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
-| 🥉   | CRUCiBLE  | 64    |
+| 🥉   | CRUCiBLE  | 65    |
 | 4    | NAN0      | 58    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 30    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 76    |
+| 🥉   | CRUCiBLE  | 78    |
 | 4    | NAN0      | 69    |
 | 5    | MTBB      | 57    |
 | 6    | smol      | 56    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 68    |
+| 🥇   | SubsPlease       | 69    |
 | 🥈   | Drag             | 42    |
 | 🥉   | -ZR-             | 41    |
 | 4    | YURI             | 38    |
@@ -115,7 +115,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | MTBB             | 32    |
 | 10   | hchcsen          | 30    |
 | 11   | Bunny-Apocalypse | 27    |
-| 12   | Arid             | 26    |
+| 12   | Arid             | 24    |
 | 13   | Kametsu          | 24    |
 | 14   | Holomux          | 20    |
 | 15   | Erai-raws        | 19    |
