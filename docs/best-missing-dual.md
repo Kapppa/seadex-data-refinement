@@ -45,6 +45,6 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 38  | Aesthetica of a Rogue Hero Specials                                             | 2012 | 60    | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
 | 39  | IS: Infinite Stratos 2 - Infinite Wedding                                       | 2016 | 60    | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
 | 40  | Ranma ½ (1989)                                                                  | 1989 | 76    | [SeaDex](https://releases.moe/149939/), [AniList](https://anilist.co/anime/149939) |
-| 41  | Mobile Suit Gundam SEED FREEDOM                                                 | 2024 | 74    | [SeaDex](https://releases.moe/134761/), [AniList](https://anilist.co/anime/134761) |
+| 41  | Mobile Suit Gundam SEED FREEDOM                                                 | 2024 | 73    | [SeaDex](https://releases.moe/134761/), [AniList](https://anilist.co/anime/134761) |
 | 42  | El Hazard: The Wanderers                                                        | 1995 | 67    | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
 | 43  | Photon: The Idiot Adventures                                                    | 1997 | 65    | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |

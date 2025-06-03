@@ -25,7 +25,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | smol             | 57    |
 | 10   | hchcsen          | 55    |
 | 11   | KH               | 52    |
-| 12   | LostYears        | 51    |
+| 12   | LostYears        | 50    |
 | 13   | Moxie            | 50    |
 | 14   | Arid             | 45    |
 | 15   | LYS1TH3A         | 37    |
@@ -108,7 +108,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | Drag             | 42    |
 | 🥉   | -ZR-             | 41    |
 | 4    | YURI             | 38    |
-| 5    | LostYears        | 36    |
+| 5    | LostYears        | 35    |
 | 6    | YURASUKA         | 34    |
 | 7    | KH               | 34    |
 | 8    | Commie           | 33    |
