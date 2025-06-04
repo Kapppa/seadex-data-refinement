@@ -18,7 +18,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam              | 132   |
 | 🥉   | MTBB             | 89    |
 | 4    | SubsPlease       | 83    |
-| 5    | CRUCiBLE         | 79    |
+| 5    | CRUCiBLE         | 80    |
 | 6    | YURI             | 77    |
 | 7    | NAN0             | 70    |
 | 8    | Drag             | 58    |
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
-| 🥉   | CRUCiBLE  | 65    |
+| 🥉   | CRUCiBLE  | 66    |
 | 4    | NAN0      | 58    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 30    |
@@ -60,8 +60,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | LazyRemux | 15    |
 | 15   | LostYears | 15    |
 | 16   | Arid      | 13    |
-| 17   | ZeroBuild | 13    |
-| 18   | Vodes     | 12    |
+| 17   | Vodes     | 12    |
+| 18   | ZeroBuild | 12    |
 | 19   | hydes     | 11    |
 | 20   | DemiHuman | 11    |
 | 21   | SCY       | 11    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 79    |
+| 🥉   | CRUCiBLE  | 80    |
 | 4    | NAN0      | 69    |
 | 5    | MTBB      | 57    |
 | 6    | smol      | 56    |
@@ -117,15 +117,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | Bunny-Apocalypse | 27    |
 | 12   | Arid             | 24    |
 | 13   | Kametsu          | 24    |
-| 14   | Holomux          | 20    |
-| 15   | Erai-raws        | 20    |
-| 16   | CTR              | 19    |
+| 14   | CTR              | 21    |
+| 15   | Holomux          | 20    |
+| 16   | Erai-raws        | 20    |
 | 17   | Pog42            | 18    |
 | 18   | SCY              | 16    |
 | 19   | Chihiro          | 16    |
 | 20   | Reza             | 15    |
 | 21   | sam              | 15    |
-| 22   | HorribleSubs     | 14    |
-| 23   | UDF              | 13    |
+| 22   | UDF              | 14    |
+| 23   | HorribleSubs     | 14    |
 | 24   | IK               | 13    |
 | 25   | NH               | 12    |
