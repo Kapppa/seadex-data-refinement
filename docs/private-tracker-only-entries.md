@@ -8,6 +8,5 @@
 | 5   | The Demon Sword Master of Excalibur Academy  | 2023 | 61    | [SeaDex](https://releases.moe/140501/), [AniList](https://anilist.co/anime/140501) |
 | 6   | Scarlet Nexus                                | 2021 | 53    | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
 | 7   | Conception                                   | 2018 | 39    | [SeaDex](https://releases.moe/101609/), [AniList](https://anilist.co/anime/101609) |
-| 8   | Spy Classroom Season 2                       | 2023 | 70    | [SeaDex](https://releases.moe/163542/), [AniList](https://anilist.co/anime/163542) |
-| 9   | Komada - A Whisky Family                     | 2023 | 66    | [SeaDex](https://releases.moe/164293/), [AniList](https://anilist.co/anime/164293) |
-| 10  | Overlord: Ple Ple Pleiades 4                 | 2022 | 66    | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 8   | Komada - A Whisky Family                     | 2023 | 66    | [SeaDex](https://releases.moe/164293/), [AniList](https://anilist.co/anime/164293) |
+| 9   | Overlord: Ple Ple Pleiades 4                 | 2022 | 66    | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |

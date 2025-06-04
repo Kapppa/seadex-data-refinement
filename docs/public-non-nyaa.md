@@ -29,7 +29,7 @@
 | 26  | Angel's 3Piece!                                                    | 2017 | 62    | [SeaDex](https://releases.moe/97683/), [AniList](https://anilist.co/anime/97683)   |
 | 27  | Escaflowne: A Girl in Gaea                                         | 2000 | 66    | [SeaDex](https://releases.moe/393/), [AniList](https://anilist.co/anime/393)       |
 | 28  | Sound! Euphonium Shorts                                            | 2015 | 67    | [SeaDex](https://releases.moe/21255/), [AniList](https://anilist.co/anime/21255)   |
-| 29  | Saint Seiya: The Lost Canvas 2                                     | 2011 | 77    | [SeaDex](https://releases.moe/9130/), [AniList](https://anilist.co/anime/9130)     |
+| 29  | Saint Seiya: The Lost Canvas 2                                     | 2011 | 78    | [SeaDex](https://releases.moe/9130/), [AniList](https://anilist.co/anime/9130)     |
 | 30  | Jyu-Oh-Sei: Planet of the Beast King                               | 2006 | 67    | [SeaDex](https://releases.moe/953/), [AniList](https://anilist.co/anime/953)       |
 | 31  | Sound! Euphonium 2 Shorts                                          | 2016 | 67    | [SeaDex](https://releases.moe/98338/), [AniList](https://anilist.co/anime/98338)   |
 | 32  | Free! -Dive to the Future-: Build-Up of Early Spring!              | 2018 | 74    | [SeaDex](https://releases.moe/103588/), [AniList](https://anilist.co/anime/103588) |

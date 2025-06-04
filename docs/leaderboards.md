@@ -17,16 +17,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 175   |
 | 🥈   | sam              | 132   |
 | 🥉   | MTBB             | 89    |
-| 4    | SubsPlease       | 81    |
-| 5    | CRUCiBLE         | 78    |
+| 4    | SubsPlease       | 83    |
+| 5    | CRUCiBLE         | 79    |
 | 6    | YURI             | 77    |
 | 7    | NAN0             | 70    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 57    |
 | 10   | hchcsen          | 55    |
 | 11   | KH               | 52    |
-| 12   | LostYears        | 50    |
-| 13   | Moxie            | 50    |
+| 12   | Moxie            | 51    |
+| 13   | LostYears        | 50    |
 | 14   | Arid             | 45    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | YURASUKA         | 35    |
@@ -34,7 +34,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | TTGA             | 34    |
 | 19   | Bunny-Apocalypse | 34    |
 | 20   | Commie           | 34    |
-| 21   | Okay-Subs        | 32    |
+| 21   | Okay-Subs        | 33    |
 | 22   | Pog42            | 32    |
 | 23   | Kametsu          | 31    |
 | 24   | Holomux          | 28    |
@@ -56,7 +56,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Flugel    | 19    |
 | 11   | YURI      | 18    |
 | 12   | KH        | 18    |
-| 13   | Moxie     | 15    |
+| 13   | Moxie     | 16    |
 | 14   | LazyRemux | 15    |
 | 15   | LostYears | 15    |
 | 16   | Arid      | 13    |
@@ -76,16 +76,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 78    |
+| 🥉   | CRUCiBLE  | 79    |
 | 4    | NAN0      | 69    |
 | 5    | MTBB      | 57    |
 | 6    | smol      | 56    |
-| 7    | Moxie     | 50    |
+| 7    | Moxie     | 51    |
 | 8    | YURI      | 39    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 33    |
 | 11   | hchcsen   | 31    |
-| 12   | Okay-Subs | 28    |
+| 12   | Okay-Subs | 29    |
 | 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
 | 15   | B00BA     | 23    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 69    |
+| 🥇   | SubsPlease       | 71    |
 | 🥈   | Drag             | 42    |
 | 🥉   | -ZR-             | 41    |
 | 4    | YURI             | 38    |
@@ -118,7 +118,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Arid             | 24    |
 | 13   | Kametsu          | 24    |
 | 14   | Holomux          | 20    |
-| 15   | Erai-raws        | 19    |
+| 15   | Erai-raws        | 20    |
 | 16   | CTR              | 19    |
 | 17   | Pog42            | 18    |
 | 18   | SCY              | 16    |
