@@ -16,7 +16,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 175   |
 | 🥈   | sam              | 132   |
-| 🥉   | MTBB             | 89    |
+| 🥉   | MTBB             | 88    |
 | 4    | SubsPlease       | 83    |
 | 5    | CRUCiBLE         | 80    |
 | 6    | YURI             | 77    |
@@ -36,7 +36,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | Commie           | 34    |
 | 21   | Okay-Subs        | 33    |
 | 22   | Pog42            | 32    |
-| 23   | Kametsu          | 31    |
+| 23   | Kametsu          | 30    |
 | 24   | Holomux          | 28    |
 | 25   | SCY              | 28    |
 
@@ -50,7 +50,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | NAN0      | 58    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 30    |
-| 7    | smol      | 23    |
+| 7    | smol      | 22    |
 | 8    | TTGA      | 22    |
 | 9    | Lulu      | 21    |
 | 10   | Flugel    | 19    |
@@ -63,10 +63,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Vodes     | 12    |
 | 18   | ZeroBuild | 12    |
 | 19   | hydes     | 11    |
-| 20   | DemiHuman | 11    |
-| 21   | SCY       | 11    |
-| 22   | koala     | 10    |
-| 23   | FLE       | 10    |
+| 20   | FLE       | 11    |
+| 21   | DemiHuman | 11    |
+| 22   | SCY       | 11    |
+| 23   | koala     | 10    |
 | 24   | FraMeSToR | 10    |
 | 25   | UDF       | 8     |
 
@@ -78,8 +78,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam       | 118   |
 | 🥉   | CRUCiBLE  | 80    |
 | 4    | NAN0      | 69    |
-| 5    | MTBB      | 57    |
-| 6    | smol      | 56    |
+| 5    | MTBB      | 56    |
+| 6    | smol      | 55    |
 | 7    | Moxie     | 51    |
 | 8    | YURI      | 39    |
 | 9    | LYS1TH3A  | 35    |
@@ -116,7 +116,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | hchcsen          | 30    |
 | 11   | Bunny-Apocalypse | 27    |
 | 12   | Arid             | 24    |
-| 13   | Kametsu          | 24    |
+| 13   | Kametsu          | 23    |
 | 14   | CTR              | 21    |
 | 15   | Holomux          | 20    |
 | 16   | Erai-raws        | 20    |

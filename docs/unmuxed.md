@@ -28,7 +28,7 @@
 | 25  | From the New World                                                       | 2012 | 80    | [SeaDex](https://releases.moe/13125/), [AniList](https://anilist.co/anime/13125)   |
 | 26  | Ponyo                                                                    | 2008 | 79    | [SeaDex](https://releases.moe/2890/), [AniList](https://anilist.co/anime/2890)     |
 | 27  | BLEACH: Thousand-Year Blood War                                          | 2022 | 88    | [SeaDex](https://releases.moe/116674/), [AniList](https://anilist.co/anime/116674) |
-| 28  | K                                                                        | 2012 | 70    | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
+| 28  | K                                                                        | 2012 | 71    | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
 | 29  | Sword Art Online Alternative: Gun Gale Online                            | 2018 | 69    | [SeaDex](https://releases.moe/100183/), [AniList](https://anilist.co/anime/100183) |
 | 30  | Akudama Drive                                                            | 2020 | 75    | [SeaDex](https://releases.moe/116566/), [AniList](https://anilist.co/anime/116566) |
 | 31  | In/Spectre                                                               | 2020 | 68    | [SeaDex](https://releases.moe/107201/), [AniList](https://anilist.co/anime/107201) |

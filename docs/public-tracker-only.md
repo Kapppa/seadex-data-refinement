@@ -69,7 +69,7 @@
 | 66  | HINAMATSURI                                                                                                  | 2018 | 80    | [SeaDex](https://releases.moe/100077/), [AniList](https://anilist.co/anime/100077) |
 | 67  | Attack on Titan: No Regrets                                                                                  | 2014 | 82    | [SeaDex](https://releases.moe/20811/), [AniList](https://anilist.co/anime/20811)   |
 | 68  | Gleipnir                                                                                                     | 2020 | 66    | [SeaDex](https://releases.moe/108241/), [AniList](https://anilist.co/anime/108241) |
-| 69  | The Tatami Galaxy                                                                                            | 2010 | 85    | [SeaDex](https://releases.moe/7785/), [AniList](https://anilist.co/anime/7785)     |
+| 69  | The Tatami Galaxy                                                                                            | 2010 | 84    | [SeaDex](https://releases.moe/7785/), [AniList](https://anilist.co/anime/7785)     |
 | 70  | TSUKIMICHI -Moonlit Fantasy-                                                                                 | 2021 | 76    | [SeaDex](https://releases.moe/125206/), [AniList](https://anilist.co/anime/125206) |
 | 71  | Shangri-La Frontier                                                                                          | 2023 | 80    | [SeaDex](https://releases.moe/151970/), [AniList](https://anilist.co/anime/151970) |
 | 72  | Wandering Witch: The Journey of Elaina                                                                       | 2020 | 74    | [SeaDex](https://releases.moe/112609/), [AniList](https://anilist.co/anime/112609) |
@@ -161,8 +161,8 @@
 | 158 | Ghost Stories                                                                                                | 2000 | 74    | [SeaDex](https://releases.moe/1281/), [AniList](https://anilist.co/anime/1281)     |
 | 159 | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells                       | 2024 | 64    | [SeaDex](https://releases.moe/173694/), [AniList](https://anilist.co/anime/173694) |
 | 160 | Urusei Yatsura (2022)                                                                                        | 2022 | 72    | [SeaDex](https://releases.moe/143277/), [AniList](https://anilist.co/anime/143277) |
-| 161 | Silver Spoon                                                                                                 | 2013 | 79    | [SeaDex](https://releases.moe/16918/), [AniList](https://anilist.co/anime/16918)   |
-| 162 | Fate/kaleid liner Prisma☆Illya                                                                               | 2013 | 67    | [SeaDex](https://releases.moe/14829/), [AniList](https://anilist.co/anime/14829)   |
+| 161 | Fate/kaleid liner Prisma☆Illya                                                                               | 2013 | 67    | [SeaDex](https://releases.moe/14829/), [AniList](https://anilist.co/anime/14829)   |
+| 162 | Silver Spoon                                                                                                 | 2013 | 79    | [SeaDex](https://releases.moe/16918/), [AniList](https://anilist.co/anime/16918)   |
 | 163 | My Wife is the Student Council President                                                                     | 2015 | 61    | [SeaDex](https://releases.moe/20984/), [AniList](https://anilist.co/anime/20984)   |
 | 164 | Liz and the Blue Bird                                                                                        | 2018 | 83    | [SeaDex](https://releases.moe/100178/), [AniList](https://anilist.co/anime/100178) |
 | 165 | Fate/Grand Order: First Order                                                                                | 2016 | 65    | [SeaDex](https://releases.moe/97815/), [AniList](https://anilist.co/anime/97815)   |
