@@ -17,7 +17,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 175   |
 | 🥈   | sam              | 132   |
 | 🥉   | MTBB             | 88    |
-| 4    | SubsPlease       | 83    |
+| 4    | SubsPlease       | 84    |
 | 5    | CRUCiBLE         | 80    |
 | 6    | YURI             | 77    |
 | 7    | NAN0             | 70    |
@@ -25,8 +25,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | smol             | 57    |
 | 10   | hchcsen          | 55    |
 | 11   | KH               | 52    |
-| 12   | Moxie            | 51    |
-| 13   | LostYears        | 50    |
+| 12   | LostYears        | 50    |
+| 13   | Moxie            | 50    |
 | 14   | Arid             | 45    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | YURASUKA         | 35    |
@@ -56,7 +56,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Flugel    | 19    |
 | 11   | YURI      | 18    |
 | 12   | KH        | 18    |
-| 13   | Moxie     | 16    |
+| 13   | Moxie     | 15    |
 | 14   | LazyRemux | 15    |
 | 15   | LostYears | 15    |
 | 16   | Arid      | 13    |
@@ -80,7 +80,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | NAN0      | 69    |
 | 5    | MTBB      | 56    |
 | 6    | smol      | 55    |
-| 7    | Moxie     | 51    |
+| 7    | Moxie     | 50    |
 | 8    | YURI      | 39    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 33    |
@@ -97,14 +97,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | LostYears | 15    |
 | 22   | Pog42     | 14    |
 | 23   | Vodes     | 14    |
-| 24   | PMR       | 14    |
-| 25   | koala     | 13    |
+| 24   | koala     | 13    |
+| 25   | Beatrice  | 13    |
 
 ## Top 25 - Alt entries
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 71    |
+| 🥇   | SubsPlease       | 72    |
 | 🥈   | Drag             | 42    |
 | 🥉   | -ZR-             | 41    |
 | 4    | YURI             | 38    |
