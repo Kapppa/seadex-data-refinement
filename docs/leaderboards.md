@@ -29,7 +29,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Moxie            | 50    |
 | 14   | Arid             | 45    |
 | 15   | LYS1TH3A         | 37    |
-| 16   | YURASUKA         | 35    |
+| 16   | YURASUKA         | 36    |
 | 17   | Lulu             | 34    |
 | 18   | TTGA             | 34    |
 | 19   | Bunny-Apocalypse | 34    |
@@ -49,7 +49,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | CRUCiBLE  | 66    |
 | 4    | NAN0      | 58    |
 | 5    | LYS1TH3A  | 34    |
-| 6    | hchcsen   | 30    |
+| 6    | hchcsen   | 29    |
 | 7    | smol      | 22    |
 | 8    | TTGA      | 22    |
 | 9    | Lulu      | 21    |
@@ -84,7 +84,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | YURI      | 39    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 33    |
-| 11   | hchcsen   | 31    |
+| 11   | hchcsen   | 30    |
 | 12   | Okay-Subs | 29    |
 | 13   | Orphan    | 26    |
 | 14   | Lulu      | 24    |
@@ -108,12 +108,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | Drag             | 42    |
 | 🥉   | -ZR-             | 41    |
 | 4    | YURI             | 38    |
-| 5    | LostYears        | 35    |
-| 6    | YURASUKA         | 34    |
+| 5    | YURASUKA         | 35    |
+| 6    | LostYears        | 35    |
 | 7    | KH               | 34    |
-| 8    | Commie           | 33    |
+| 8    | Commie           | 34    |
 | 9    | MTBB             | 32    |
-| 10   | hchcsen          | 30    |
+| 10   | hchcsen          | 31    |
 | 11   | Bunny-Apocalypse | 27    |
 | 12   | Arid             | 24    |
 | 13   | Kametsu          | 23    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | UDF              | 14    |
 | 23   | HorribleSubs     | 14    |
 | 24   | IK               | 13    |
-| 25   | NH               | 12    |
+| 25   | VARYG            | 13    |
