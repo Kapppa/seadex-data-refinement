@@ -22,7 +22,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | YURI             | 77    |
 | 7    | NAN0             | 70    |
 | 8    | Drag             | 58    |
-| 9    | smol             | 57    |
+| 9    | smol             | 58    |
 | 10   | hchcsen          | 55    |
 | 11   | KH               | 52    |
 | 12   | LostYears        | 50    |
@@ -50,7 +50,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | NAN0      | 58    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
-| 7    | smol      | 22    |
+| 7    | smol      | 23    |
 | 8    | TTGA      | 22    |
 | 9    | Lulu      | 21    |
 | 10   | Flugel    | 19    |
@@ -78,8 +78,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam       | 118   |
 | 🥉   | CRUCiBLE  | 80    |
 | 4    | NAN0      | 69    |
-| 5    | MTBB      | 56    |
-| 6    | smol      | 55    |
+| 5    | smol      | 56    |
+| 6    | MTBB      | 56    |
 | 7    | Moxie     | 50    |
 | 8    | YURI      | 39    |
 | 9    | LYS1TH3A  | 35    |
@@ -97,8 +97,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | LostYears | 15    |
 | 22   | Pog42     | 14    |
 | 23   | Vodes     | 14    |
-| 24   | koala     | 13    |
-| 25   | Beatrice  | 13    |
+| 24   | PMR       | 14    |
+| 25   | koala     | 13    |
 
 ## Top 25 - Alt entries
 
@@ -121,11 +121,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | Holomux          | 20    |
 | 16   | Erai-raws        | 20    |
 | 17   | Pog42            | 18    |
-| 18   | SCY              | 16    |
-| 19   | Chihiro          | 16    |
+| 18   | Chihiro          | 18    |
+| 19   | SCY              | 16    |
 | 20   | Reza             | 15    |
 | 21   | sam              | 15    |
 | 22   | UDF              | 14    |
 | 23   | HorribleSubs     | 14    |
-| 24   | IK               | 13    |
-| 25   | VARYG            | 13    |
+| 24   | VARYG            | 14    |
+| 25   | IK               | 13    |

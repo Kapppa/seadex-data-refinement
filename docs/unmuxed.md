@@ -64,8 +64,8 @@
 | 61  | Evangelion: 3.0+1.0 Thrice Upon a Time                                   | 2021 | 85    | [SeaDex](https://releases.moe/3786/), [AniList](https://anilist.co/anime/3786)     |
 | 62  | Seitokai Yakuindomo                                                      | 2010 | 73    | [SeaDex](https://releases.moe/8675/), [AniList](https://anilist.co/anime/8675)     |
 | 63  | Kakushigoto                                                              | 2020 | 78    | [SeaDex](https://releases.moe/113311/), [AniList](https://anilist.co/anime/113311) |
-| 64  | ALDNOAH.ZERO                                                             | 2014 | 70    | [SeaDex](https://releases.moe/20632/), [AniList](https://anilist.co/anime/20632)   |
-| 65  | Keijo!!!!!!!!                                                            | 2016 | 67    | [SeaDex](https://releases.moe/21639/), [AniList](https://anilist.co/anime/21639)   |
+| 64  | Keijo!!!!!!!!                                                            | 2016 | 67    | [SeaDex](https://releases.moe/21639/), [AniList](https://anilist.co/anime/21639)   |
+| 65  | ALDNOAH.ZERO                                                             | 2014 | 70    | [SeaDex](https://releases.moe/20632/), [AniList](https://anilist.co/anime/20632)   |
 | 66  | ReLIFE: Final Arc                                                        | 2018 | 80    | [SeaDex](https://releases.moe/98635/), [AniList](https://anilist.co/anime/98635)   |
 | 67  | Blue Box                                                                 | 2024 | 81    | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
 | 68  | No.6                                                                     | 2011 | 72    | [SeaDex](https://releases.moe/10161/), [AniList](https://anilist.co/anime/10161)   |
@@ -144,8 +144,8 @@
 | 141 | Riddle Story of Devil                                                    | 2014 | 62    | [SeaDex](https://releases.moe/19429/), [AniList](https://anilist.co/anime/19429)   |
 | 142 | Chihayafuru 2                                                            | 2013 | 83    | [SeaDex](https://releases.moe/14397/), [AniList](https://anilist.co/anime/14397)   |
 | 143 | Senryu Girl                                                              | 2019 | 71    | [SeaDex](https://releases.moe/106051/), [AniList](https://anilist.co/anime/106051) |
-| 144 | Flowers of Evil                                                          | 2013 | 67    | [SeaDex](https://releases.moe/16201/), [AniList](https://anilist.co/anime/16201)   |
-| 145 | Free! -Dive to the Future-                                               | 2018 | 75    | [SeaDex](https://releases.moe/101117/), [AniList](https://anilist.co/anime/101117) |
+| 144 | Free! -Dive to the Future-                                               | 2018 | 75    | [SeaDex](https://releases.moe/101117/), [AniList](https://anilist.co/anime/101117) |
+| 145 | Flowers of Evil                                                          | 2013 | 67    | [SeaDex](https://releases.moe/16201/), [AniList](https://anilist.co/anime/16201)   |
 | 146 | The Boy and the Heron                                                    | 2023 | 77    | [SeaDex](https://releases.moe/109979/), [AniList](https://anilist.co/anime/109979) |
 | 147 | Big Order                                                                | 2016 | 48    | [SeaDex](https://releases.moe/21445/), [AniList](https://anilist.co/anime/21445)   |
 | 148 | Rainbow Days                                                             | 2016 | 70    | [SeaDex](https://releases.moe/21292/), [AniList](https://anilist.co/anime/21292)   |
@@ -178,8 +178,8 @@
 | 175 | Ghost in the Shell: Stand Alone Complex 2nd GIG                          | 2004 | 84    | [SeaDex](https://releases.moe/801/), [AniList](https://anilist.co/anime/801)       |
 | 176 | Back Street Girls -GOKUDOLS-                                             | 2018 | 66    | [SeaDex](https://releases.moe/100665/), [AniList](https://anilist.co/anime/100665) |
 | 177 | Seraph of the End: Vampire Reign - Owaranai Seraph                       | 2015 | 72    | [SeaDex](https://releases.moe/21483/), [AniList](https://anilist.co/anime/21483)   |
-| 178 | Backflip!!                                                               | 2021 | 74    | [SeaDex](https://releases.moe/125839/), [AniList](https://anilist.co/anime/125839) |
-| 179 | Princess Lover!                                                          | 2009 | 62    | [SeaDex](https://releases.moe/6201/), [AniList](https://anilist.co/anime/6201)     |
+| 178 | Princess Lover!                                                          | 2009 | 62    | [SeaDex](https://releases.moe/6201/), [AniList](https://anilist.co/anime/6201)     |
+| 179 | Backflip!!                                                               | 2021 | 74    | [SeaDex](https://releases.moe/125839/), [AniList](https://anilist.co/anime/125839) |
 | 180 | Seven Mortal Sins                                                        | 2017 | 52    | [SeaDex](https://releases.moe/20705/), [AniList](https://anilist.co/anime/20705)   |
 | 181 | RWBY: Ice Queendom                                                       | 2022 | 61    | [SeaDex](https://releases.moe/146668/), [AniList](https://anilist.co/anime/146668) |
 | 182 | Cat Planet Cuties                                                        | 2010 | 61    | [SeaDex](https://releases.moe/6166/), [AniList](https://anilist.co/anime/6166)     |
@@ -341,7 +341,7 @@
 | 338 | GARO: THE ANIMATION - HOME                                               | 2015 | 65    | [SeaDex](https://releases.moe/102098/), [AniList](https://anilist.co/anime/102098) |
 | 339 | Armor Shop for Ladies & Gentlemen Flips the Script                       | 2019 | 51    | [SeaDex](https://releases.moe/108355/), [AniList](https://anilist.co/anime/108355) |
 | 340 | Symphogear XV Omake                                                      | 2019 | 70    | [SeaDex](https://releases.moe/113348/), [AniList](https://anilist.co/anime/113348) |
-| 341 | Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete     | 2015 | 63    | [SeaDex](https://releases.moe/21405/), [AniList](https://anilist.co/anime/21405)   |
+| 341 | Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete     | 2015 | 62    | [SeaDex](https://releases.moe/21405/), [AniList](https://anilist.co/anime/21405)   |
 | 342 | Flying Witch Petit Special                                               | 2016 | 55    | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
 | 343 | Katana Maidens ~ Tomoshibi                                               | 2020 | 63    | [SeaDex](https://releases.moe/114030/), [AniList](https://anilist.co/anime/114030) |
 | 344 | El Hazard: The Alternative World                                         | 1998 | 64    | [SeaDex](https://releases.moe/115/), [AniList](https://anilist.co/anime/115)       |

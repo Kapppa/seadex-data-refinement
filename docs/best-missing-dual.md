@@ -32,19 +32,21 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 25  | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout        | 2022 | 70    | [SeaDex](https://releases.moe/134252/), [AniList](https://anilist.co/anime/134252) |
 | 26  | Thus Spoke Rohan Kishibe                                                        | 2017 | 76    | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
 | 27  | Ranma ½                                                                         | 1989 | 75    | [SeaDex](https://releases.moe/210/), [AniList](https://anilist.co/anime/210)       |
-| 28  | Den-noh Coil                                                                    | 2007 | 78    | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
-| 29  | Now and Then, Here and There                                                    | 1999 | 73    | [SeaDex](https://releases.moe/160/), [AniList](https://anilist.co/anime/160)       |
-| 30  | A Certain Magical Index: The Miracle of Endymion                                | 2013 | 72    | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
-| 31  | Assault Lily BOUQUET                                                            | 2020 | 62    | [SeaDex](https://releases.moe/112479/), [AniList](https://anilist.co/anime/112479) |
-| 32  | The Girl from the Other Side                                                    | 2022 | 75    | [SeaDex](https://releases.moe/130550/), [AniList](https://anilist.co/anime/130550) |
-| 33  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                           | 2013 | 69    | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
-| 34  | Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou      | 2012 | 65    | [SeaDex](https://releases.moe/15879/), [AniList](https://anilist.co/anime/15879)   |
-| 35  | Lucifer and the Biscuit Hammer                                                  | 2022 | 50    | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
-| 36  | Love, Chunibyo & Other Delusions - Heart Throb - Specials                       | 2014 | 69    | [SeaDex](https://releases.moe/20777/), [AniList](https://anilist.co/anime/20777)   |
-| 37  | Toward the Terra (TV)                                                           | 2007 | 75    | [SeaDex](https://releases.moe/2158/), [AniList](https://anilist.co/anime/2158)     |
-| 38  | Aesthetica of a Rogue Hero Specials                                             | 2012 | 60    | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
-| 39  | IS: Infinite Stratos 2 - Infinite Wedding                                       | 2016 | 60    | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
-| 40  | Ranma ½ (1989)                                                                  | 1989 | 76    | [SeaDex](https://releases.moe/149939/), [AniList](https://anilist.co/anime/149939) |
-| 41  | Mobile Suit Gundam SEED FREEDOM                                                 | 2024 | 73    | [SeaDex](https://releases.moe/134761/), [AniList](https://anilist.co/anime/134761) |
-| 42  | El Hazard: The Wanderers                                                        | 1995 | 67    | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
-| 43  | Photon: The Idiot Adventures                                                    | 1997 | 65    | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
+| 28  | High School DxD: Fantasy Jiggles Unleashed                                      | 2012 | 68    | [SeaDex](https://releases.moe/13357/), [AniList](https://anilist.co/anime/13357)   |
+| 29  | Den-noh Coil                                                                    | 2007 | 78    | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
+| 30  | Now and Then, Here and There                                                    | 1999 | 73    | [SeaDex](https://releases.moe/160/), [AniList](https://anilist.co/anime/160)       |
+| 31  | A Certain Magical Index: The Miracle of Endymion                                | 2013 | 72    | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
+| 32  | Assault Lily BOUQUET                                                            | 2020 | 62    | [SeaDex](https://releases.moe/112479/), [AniList](https://anilist.co/anime/112479) |
+| 33  | The Girl from the Other Side                                                    | 2022 | 75    | [SeaDex](https://releases.moe/130550/), [AniList](https://anilist.co/anime/130550) |
+| 34  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                           | 2013 | 69    | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
+| 35  | Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou      | 2012 | 65    | [SeaDex](https://releases.moe/15879/), [AniList](https://anilist.co/anime/15879)   |
+| 36  | Lucifer and the Biscuit Hammer                                                  | 2022 | 50    | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
+| 37  | Sasaki and Miyano: Graduation                                                   | 2023 | 82    | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
+| 38  | Love, Chunibyo & Other Delusions - Heart Throb - Specials                       | 2014 | 69    | [SeaDex](https://releases.moe/20777/), [AniList](https://anilist.co/anime/20777)   |
+| 39  | Toward the Terra (TV)                                                           | 2007 | 75    | [SeaDex](https://releases.moe/2158/), [AniList](https://anilist.co/anime/2158)     |
+| 40  | Aesthetica of a Rogue Hero Specials                                             | 2012 | 60    | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
+| 41  | IS: Infinite Stratos 2 - Infinite Wedding                                       | 2016 | 60    | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
+| 42  | Ranma ½ (1989)                                                                  | 1989 | 76    | [SeaDex](https://releases.moe/149939/), [AniList](https://anilist.co/anime/149939) |
+| 43  | Mobile Suit Gundam SEED FREEDOM                                                 | 2024 | 73    | [SeaDex](https://releases.moe/134761/), [AniList](https://anilist.co/anime/134761) |
+| 44  | El Hazard: The Wanderers                                                        | 1995 | 67    | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
+| 45  | Photon: The Idiot Adventures                                                    | 1997 | 65    | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
