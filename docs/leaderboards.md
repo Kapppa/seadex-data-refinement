@@ -14,16 +14,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 174   |
+| 🥇   | -ZR-             | 175   |
 | 🥈   | sam              | 132   |
 | 🥉   | MTBB             | 88    |
-| 4    | SubsPlease       | 84    |
+| 4    | SubsPlease       | 85    |
 | 5    | CRUCiBLE         | 80    |
 | 6    | YURI             | 77    |
 | 7    | NAN0             | 70    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 58    |
-| 10   | hchcsen          | 55    |
+| 10   | hchcsen          | 56    |
 | 11   | KH               | 52    |
 | 12   | LostYears        | 50    |
 | 13   | Moxie            | 50    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 110   |
+| 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
 | 🥉   | CRUCiBLE  | 66    |
 | 4    | NAN0      | 58    |
@@ -72,33 +72,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Best entries
 
-| Rank | Group     | Count |
-| :----| :---------| :-----|
-| 🥇   | -ZR-      | 146   |
-| 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 80    |
-| 4    | NAN0      | 69    |
-| 5    | smol      | 56    |
-| 6    | MTBB      | 56    |
-| 7    | Moxie     | 50    |
-| 8    | YURI      | 39    |
-| 9    | LYS1TH3A  | 35    |
-| 10   | TTGA      | 33    |
-| 11   | hchcsen   | 30    |
-| 12   | Okay-Subs | 29    |
-| 13   | Orphan    | 26    |
-| 14   | Lulu      | 24    |
-| 15   | B00BA     | 23    |
-| 16   | Arid      | 22    |
-| 17   | KH        | 20    |
-| 18   | Flugel    | 19    |
-| 19   | LazyRemux | 19    |
-| 20   | Drag      | 17    |
-| 21   | LostYears | 15    |
-| 22   | Pog42     | 14    |
-| 23   | Vodes     | 14    |
-| 24   | PMR       | 14    |
-| 25   | koala     | 13    |
+| Rank | Group      | Count |
+| :----| :----------| :-----|
+| 🥇   | -ZR-       | 147   |
+| 🥈   | sam        | 118   |
+| 🥉   | CRUCiBLE   | 80    |
+| 4    | NAN0       | 69    |
+| 5    | smol       | 56    |
+| 6    | MTBB       | 56    |
+| 7    | Moxie      | 50    |
+| 8    | YURI       | 39    |
+| 9    | LYS1TH3A   | 35    |
+| 10   | TTGA       | 33    |
+| 11   | hchcsen    | 30    |
+| 12   | Okay-Subs  | 29    |
+| 13   | Orphan     | 26    |
+| 14   | Lulu       | 24    |
+| 15   | B00BA      | 23    |
+| 16   | Arid       | 22    |
+| 17   | KH         | 20    |
+| 18   | Flugel     | 19    |
+| 19   | LazyRemux  | 19    |
+| 20   | Drag       | 17    |
+| 21   | LostYears  | 15    |
+| 22   | Pog42      | 14    |
+| 23   | Vodes      | 14    |
+| 24   | PMR        | 14    |
+| 25   | SubsPlease | 14    |
 
 ## Top 25 - Alt entries
 
@@ -113,7 +113,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | KH               | 34    |
 | 8    | Commie           | 34    |
 | 9    | MTBB             | 32    |
-| 10   | hchcsen          | 31    |
+| 10   | hchcsen          | 32    |
 | 11   | Bunny-Apocalypse | 27    |
 | 12   | Arid             | 24    |
 | 13   | Kametsu          | 23    |

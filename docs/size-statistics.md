@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `102.1 TiB`
-- Best size: `74.8 TiB`
+- Total size: `102.2 TiB`
+- Best size: `74.9 TiB`
 - Alt size: `27.3 TiB`
 - Realistic size: `78.9 TiB`
 
@@ -20,23 +20,23 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.6 TiB   | 12.2 TiB (83.71%)   | 187 (~80.0 GiB each)  |
+| 1    | -ZR-             | 14.6 TiB   | 12.2 TiB (83.72%)   | 188 (~79.7 GiB each)  |
 | 2    | CRUCiBLE         | 6.0 TiB    | 6.0 TiB (100.00%)   | 80 (~77.1 GiB each)   |
 | 3    | NAN0             | 5.0 TiB    | 4.9 TiB (98.48%)    | 70 (~72.6 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.4 TiB (88.71%)    | 133 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (94.85%)    | 34 (~74.6 GiB each)   |
-| 6    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.37%)    | 61 (~40.2 GiB each)   |
+| 6    | hchcsen          | 2.4 TiB    | 1.5 TiB (63.97%)    | 62 (~39.8 GiB each)   |
 | 7    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 50 (~43.7 GiB each)   |
 | 8    | B00BA            | 2.0 TiB    | 2.0 TiB (100.00%)   | 23 (~90.4 GiB each)   |
 | 9    | JySzE            | 1.7 TiB    | 1.7 TiB (100.00%)   | 8 (~221.6 GiB each)   |
 | 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
-| 11   | SubsPlease       | 1.4 TiB    | 206.8 GiB (14.53%)  | 85 (~16.7 GiB each)   |
+| 11   | SubsPlease       | 1.4 TiB    | 223.1 GiB (15.50%)  | 86 (~16.7 GiB each)   |
 | 12   | MTBB             | 1.3 TiB    | 1.1 TiB (81.06%)    | 88 (~15.7 GiB each)   |
 | 13   | NOGRP            | 1.3 TiB    | 849.8 GiB (61.64%)  | 20 (~68.9 GiB each)   |
 | 14   | PMR              | 1.3 TiB    | 1.3 TiB (100.00%)   | 14 (~93.3 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
-| 16   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
-| 17   | RUDY             | 994.3 GiB  | 968.1 GiB (97.37%)  | 13 (~76.5 GiB each)   |
+| 16   | RUDY             | 1.0 TiB    | 1.0 TiB (97.53%)    | 13 (~81.7 GiB each)   |
+| 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 18   | LYS1TH3A         | 938.0 GiB  | 918.5 GiB (97.92%)  | 37 (~25.4 GiB each)   |
 | 19   | YURI             | 903.6 GiB  | 445.7 GiB (49.33%)  | 77 (~11.7 GiB each)   |
 | 20   | KH               | 879.4 GiB  | 322.3 GiB (36.65%)  | 54 (~16.3 GiB each)   |
@@ -60,13 +60,13 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 38   | Reza             | 540.1 GiB  | 193.7 GiB (35.87%)  | 27 (~20.0 GiB each)   |
 | 39   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
 | 40   | CTR              | 507.1 GiB  | 113.6 GiB (22.40%)  | 26 (~19.5 GiB each)   |
-| 41   | Almighty         | 500.9 GiB  | 0 B (0.00%)         | 3 (~167.0 GiB each)   |
-| 42   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 43   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
-| 44   | FLE              | 495.1 GiB  | 475.3 GiB (96.00%)  | 12 (~41.3 GiB each)   |
+| 41   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
+| 42   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
+| 43   | FLE              | 495.1 GiB  | 475.3 GiB (96.00%)  | 12 (~41.3 GiB each)   |
+| 44   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 45   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 46   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 47   | WAP              | 457.9 GiB  | 457.9 GiB (100.00%) | 4 (~114.5 GiB each)   |
 | 48   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 31.9 TiB   | 17.6 TiB (55.20%)   | 1639 (~20.0 GiB each) |
+| 50   | Others           | 32.0 TiB   | 17.6 TiB (55.14%)   | 1641 (~19.9 GiB each) |
