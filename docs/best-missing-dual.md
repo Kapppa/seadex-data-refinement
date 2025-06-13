@@ -11,7 +11,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 4   | Solo Leveling                                                                   | 2024 | 82    | [SeaDex](https://releases.moe/151807/), [AniList](https://anilist.co/anime/151807) |
 | 5   | Toilet-bound Hanako-kun                                                         | 2020 | 77    | [SeaDex](https://releases.moe/108463/), [AniList](https://anilist.co/anime/108463) |
 | 6   | Classroom of the Elite Season 2                                                 | 2022 | 79    | [SeaDex](https://releases.moe/145545/), [AniList](https://anilist.co/anime/145545) |
-| 7   | Great Pretender                                                                 | 2020 | 81    | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
+| 7   | Great Pretender                                                                 | 2020 | 82    | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
 | 8   | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | 2021 | 72    | [SeaDex](https://releases.moe/129898/), [AniList](https://anilist.co/anime/129898) |
 | 9   | A Place Further Than the Universe                                               | 2018 | 84    | [SeaDex](https://releases.moe/99426/), [AniList](https://anilist.co/anime/99426)   |
 | 10  | Laid-Back Camp                                                                  | 2018 | 81    | [SeaDex](https://releases.moe/98444/), [AniList](https://anilist.co/anime/98444)   |
