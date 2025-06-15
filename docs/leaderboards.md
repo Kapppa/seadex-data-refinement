@@ -18,7 +18,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam              | 132   |
 | 🥉   | MTBB             | 88    |
 | 4    | SubsPlease       | 85    |
-| 5    | CRUCiBLE         | 82    |
+| 5    | CRUCiBLE         | 81    |
 | 6    | YURI             | 77    |
 | 7    | NAN0             | 70    |
 | 8    | Drag             | 58    |
@@ -29,7 +29,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 45    |
 | 15   | LYS1TH3A         | 37    |
-| 16   | YURASUKA         | 35    |
+| 16   | YURASUKA         | 36    |
 | 17   | Lulu             | 34    |
 | 18   | TTGA             | 34    |
 | 19   | Bunny-Apocalypse | 34    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
 | 🥈   | sam        | 118   |
-| 🥉   | CRUCiBLE   | 82    |
+| 🥉   | CRUCiBLE   | 81    |
 | 4    | NAN0       | 69    |
 | 5    | smol       | 56    |
 | 6    | MTBB       | 56    |

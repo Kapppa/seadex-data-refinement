@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `102.1 TiB`
-- Best size: `74.8 TiB`
+- Total size: `102.0 TiB`
+- Best size: `74.7 TiB`
 - Alt size: `27.3 TiB`
-- Realistic size: `78.7 TiB`
+- Realistic size: `78.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.6 TiB   | 12.2 TiB (83.72%)   | 188 (~79.7 GiB each)  |
-| 2    | CRUCiBLE         | 6.1 TiB    | 6.1 TiB (100.00%)   | 82 (~76.2 GiB each)   |
+| 2    | CRUCiBLE         | 6.0 TiB    | 6.0 TiB (100.00%)   | 81 (~75.8 GiB each)   |
 | 3    | NAN0             | 5.0 TiB    | 4.9 TiB (98.48%)    | 70 (~72.6 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.4 TiB (88.71%)    | 133 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (94.85%)    | 34 (~74.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | WAP              | 457.9 GiB  | 457.9 GiB (100.00%) | 4 (~114.5 GiB each)   |
 | 48   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 32.0 TiB   | 17.7 TiB (55.08%)   | 1647 (~19.9 GiB each) |
+| 50   | Others           | 32.1 TiB   | 17.7 TiB (55.15%)   | 1649 (~19.9 GiB each) |
