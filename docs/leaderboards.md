@@ -17,7 +17,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 175   |
 | 🥈   | sam              | 132   |
 | 🥉   | MTBB             | 88    |
-| 4    | SubsPlease       | 85    |
+| 4    | SubsPlease       | 86    |
 | 5    | CRUCiBLE         | 81    |
 | 6    | YURI             | 77    |
 | 7    | NAN0             | 70    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 72    |
+| 🥇   | SubsPlease       | 73    |
 | 🥈   | Drag             | 42    |
 | 🥉   | -ZR-             | 41    |
 | 4    | YURI             | 38    |

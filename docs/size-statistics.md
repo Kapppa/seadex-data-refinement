@@ -8,9 +8,9 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `102.0 TiB`
+- Total size: `102.1 TiB`
 - Best size: `74.7 TiB`
-- Alt size: `27.3 TiB`
+- Alt size: `27.4 TiB`
 - Realistic size: `78.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -29,8 +29,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 7    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 50 (~43.7 GiB each)   |
 | 8    | B00BA            | 2.0 TiB    | 2.0 TiB (100.00%)   | 23 (~90.4 GiB each)   |
 | 9    | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
-| 11   | SubsPlease       | 1.4 TiB    | 223.1 GiB (15.50%)  | 86 (~16.7 GiB each)   |
+| 10   | SubsPlease       | 1.4 TiB    | 223.1 GiB (15.33%)  | 87 (~16.7 GiB each)   |
+| 11   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 12   | MTBB             | 1.3 TiB    | 1.1 TiB (81.06%)    | 88 (~15.7 GiB each)   |
 | 13   | NOGRP            | 1.3 TiB    | 849.8 GiB (61.64%)  | 20 (~68.9 GiB each)   |
 | 14   | PMR              | 1.3 TiB    | 1.3 TiB (100.00%)   | 14 (~93.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | WAP              | 457.9 GiB  | 457.9 GiB (100.00%) | 4 (~114.5 GiB each)   |
 | 48   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 32.1 TiB   | 17.7 TiB (55.15%)   | 1649 (~19.9 GiB each) |
+| 50   | Others           | 32.1 TiB   | 17.7 TiB (55.08%)   | 1651 (~19.9 GiB each) |
