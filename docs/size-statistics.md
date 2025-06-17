@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | WAP              | 457.9 GiB  | 457.9 GiB (100.00%) | 4 (~114.5 GiB each)   |
 | 48   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 32.1 TiB   | 17.7 TiB (55.14%)   | 1652 (~19.9 GiB each) |
+| 50   | Others           | 32.1 TiB   | 17.7 TiB (55.15%)   | 1654 (~19.9 GiB each) |
