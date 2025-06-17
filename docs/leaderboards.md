@@ -15,10 +15,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 175   |
-| 🥈   | sam              | 132   |
+| 🥈   | sam              | 131   |
 | 🥉   | MTBB             | 88    |
 | 4    | SubsPlease       | 86    |
-| 5    | CRUCiBLE         | 81    |
+| 5    | CRUCiBLE         | 84    |
 | 6    | YURI             | 77    |
 | 7    | NAN0             | 70    |
 | 8    | Drag             | 58    |
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
-| 🥉   | CRUCiBLE  | 68    |
+| 🥉   | CRUCiBLE  | 71    |
 | 4    | NAN0      | 58    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
@@ -75,8 +75,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
-| 🥈   | sam        | 118   |
-| 🥉   | CRUCiBLE   | 81    |
+| 🥈   | sam        | 117   |
+| 🥉   | CRUCiBLE   | 84    |
 | 4    | NAN0       | 69    |
 | 5    | smol       | 56    |
 | 6    | MTBB       | 56    |
@@ -120,8 +120,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | CTR              | 21    |
 | 15   | Holomux          | 20    |
 | 16   | Erai-raws        | 20    |
-| 17   | Pog42            | 18    |
-| 18   | Chihiro          | 18    |
+| 17   | Chihiro          | 19    |
+| 18   | Pog42            | 18    |
 | 19   | SCY              | 16    |
 | 20   | Reza             | 15    |
 | 21   | sam              | 15    |

@@ -26,7 +26,7 @@
 | 23  | Nichijou - My Ordinary Life                                                                                  | 2011 | 83    | [SeaDex](https://releases.moe/10165/), [AniList](https://anilist.co/anime/10165)   |
 | 24  | KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson                                         | 2019 | 83    | [SeaDex](https://releases.moe/102976/), [AniList](https://anilist.co/anime/102976) |
 | 25  | Orange                                                                                                       | 2016 | 74    | [SeaDex](https://releases.moe/21647/), [AniList](https://anilist.co/anime/21647)   |
-| 26  | Tokyo Ghoul:re 2                                                                                             | 2018 | 62    | [SeaDex](https://releases.moe/102351/), [AniList](https://anilist.co/anime/102351) |
+| 26  | Tokyo Ghoul:re 2                                                                                             | 2018 | 61    | [SeaDex](https://releases.moe/102351/), [AniList](https://anilist.co/anime/102351) |
 | 27  | Great Pretender                                                                                              | 2020 | 82    | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
 | 28  | Mushoku Tensei: Jobless Reincarnation Season 2                                                               | 2023 | 81    | [SeaDex](https://releases.moe/146065/), [AniList](https://anilist.co/anime/146065) |
 | 29  | Steins;Gate 0                                                                                                | 2018 | 84    | [SeaDex](https://releases.moe/21127/), [AniList](https://anilist.co/anime/21127)   |
@@ -53,7 +53,7 @@
 | 50  | Miss Kobayashi's Dragon Maid S                                                                               | 2021 | 81    | [SeaDex](https://releases.moe/107717/), [AniList](https://anilist.co/anime/107717) |
 | 51  | Josee, the Tiger and the Fish                                                                                | 2020 | 82    | [SeaDex](https://releases.moe/113596/), [AniList](https://anilist.co/anime/113596) |
 | 52  | Trigun                                                                                                       | 1998 | 80    | [SeaDex](https://releases.moe/6/), [AniList](https://anilist.co/anime/6)           |
-| 53  | Tsukigakirei                                                                                                 | 2017 | 79    | [SeaDex](https://releases.moe/98202/), [AniList](https://anilist.co/anime/98202)   |
+| 53  | Tsukigakirei                                                                                                 | 2017 | 78    | [SeaDex](https://releases.moe/98202/), [AniList](https://anilist.co/anime/98202)   |
 | 54  | My Love Story!!                                                                                              | 2015 | 77    | [SeaDex](https://releases.moe/20946/), [AniList](https://anilist.co/anime/20946)   |
 | 55  | HINAMATSURI                                                                                                  | 2018 | 80    | [SeaDex](https://releases.moe/100077/), [AniList](https://anilist.co/anime/100077) |
 | 56  | Attack on Titan: No Regrets                                                                                  | 2014 | 82    | [SeaDex](https://releases.moe/20811/), [AniList](https://anilist.co/anime/20811)   |
@@ -77,7 +77,7 @@
 | 74  | We Never Learn: BOKUBEN                                                                                      | 2019 | 71    | [SeaDex](https://releases.moe/103900/), [AniList](https://anilist.co/anime/103900) |
 | 75  | The Dangers in My Heart                                                                                      | 2023 | 81    | [SeaDex](https://releases.moe/153152/), [AniList](https://anilist.co/anime/153152) |
 | 76  | Girls' Last Tour                                                                                             | 2017 | 81    | [SeaDex](https://releases.moe/99420/), [AniList](https://anilist.co/anime/99420)   |
-| 77  | High-Rise Invasion                                                                                           | 2021 | 66    | [SeaDex](https://releases.moe/125428/), [AniList](https://anilist.co/anime/125428) |
+| 77  | High-Rise Invasion                                                                                           | 2021 | 65    | [SeaDex](https://releases.moe/125428/), [AniList](https://anilist.co/anime/125428) |
 | 78  | Tanaka-kun is Always Listless                                                                                | 2016 | 77    | [SeaDex](https://releases.moe/21495/), [AniList](https://anilist.co/anime/21495)   |
 | 79  | NEW GAME!                                                                                                    | 2016 | 74    | [SeaDex](https://releases.moe/21455/), [AniList](https://anilist.co/anime/21455)   |
 | 80  | My Happy Marriage                                                                                            | 2023 | 77    | [SeaDex](https://releases.moe/147103/), [AniList](https://anilist.co/anime/147103) |
@@ -115,7 +115,7 @@
 | 112 | Vermeil in Gold                                                                                              | 2022 | 67    | [SeaDex](https://releases.moe/146210/), [AniList](https://anilist.co/anime/146210) |
 | 113 | My Deer Friend Nokotan                                                                                       | 2024 | 68    | [SeaDex](https://releases.moe/175977/), [AniList](https://anilist.co/anime/175977) |
 | 114 | Princess Connect! Re:Dive                                                                                    | 2020 | 69    | [SeaDex](https://releases.moe/107871/), [AniList](https://anilist.co/anime/107871) |
-| 115 | Noblesse                                                                                                     | 2020 | 66    | [SeaDex](https://releases.moe/116005/), [AniList](https://anilist.co/anime/116005) |
+| 115 | Noblesse                                                                                                     | 2020 | 65    | [SeaDex](https://releases.moe/116005/), [AniList](https://anilist.co/anime/116005) |
 | 116 | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                                              | 2022 | 77    | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
 | 117 | Attack on Titan: Lost Girls                                                                                  | 2017 | 76    | [SeaDex](https://releases.moe/99634/), [AniList](https://anilist.co/anime/99634)   |
 | 118 | I'm Standing on a Million Lives                                                                              | 2020 | 63    | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
@@ -129,7 +129,7 @@
 | 126 | SPY x FAMILY CODE: White                                                                                     | 2023 | 81    | [SeaDex](https://releases.moe/158928/), [AniList](https://anilist.co/anime/158928) |
 | 127 | Life Lessons with Uramichi Oniisan                                                                           | 2021 | 76    | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
 | 128 | Kubo Won't Let Me Be Invisible                                                                               | 2023 | 75    | [SeaDex](https://releases.moe/148969/), [AniList](https://anilist.co/anime/148969) |
-| 129 | The Tunnel to Summer, the Exit of Goodbyes                                                                   | 2022 | 79    | [SeaDex](https://releases.moe/142769/), [AniList](https://anilist.co/anime/142769) |
+| 129 | The Tunnel to Summer, the Exit of Goodbyes                                                                   | 2022 | 78    | [SeaDex](https://releases.moe/142769/), [AniList](https://anilist.co/anime/142769) |
 | 130 | Legend of the Galactic Heroes                                                                                | 1988 | 88    | [SeaDex](https://releases.moe/820/), [AniList](https://anilist.co/anime/820)       |
 | 131 | Love After World Domination                                                                                  | 2022 | 73    | [SeaDex](https://releases.moe/132010/), [AniList](https://anilist.co/anime/132010) |
 | 132 | Lord Marksman and Vanadis                                                                                    | 2014 | 67    | [SeaDex](https://releases.moe/20809/), [AniList](https://anilist.co/anime/20809)   |
@@ -153,8 +153,8 @@
 | 150 | Mobile Suit Gundam: The Witch from Mercury                                                                   | 2022 | 78    | [SeaDex](https://releases.moe/139274/), [AniList](https://anilist.co/anime/139274) |
 | 151 | Rosario + Vampire Capu2                                                                                      | 2008 | 64    | [SeaDex](https://releases.moe/4214/), [AniList](https://anilist.co/anime/4214)     |
 | 152 | The Dungeon of Black Company                                                                                 | 2021 | 70    | [SeaDex](https://releases.moe/120608/), [AniList](https://anilist.co/anime/120608) |
-| 153 | The Dreaming Boy is a Realist                                                                                | 2023 | 65    | [SeaDex](https://releases.moe/157397/), [AniList](https://anilist.co/anime/157397) |
-| 154 | I Parry Everything                                                                                           | 2024 | 68    | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
+| 153 | I Parry Everything                                                                                           | 2024 | 68    | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
+| 154 | The Dreaming Boy is a Realist                                                                                | 2023 | 65    | [SeaDex](https://releases.moe/157397/), [AniList](https://anilist.co/anime/157397) |
 | 155 | WONDER EGG PRIORITY: My Priority                                                                             | 2021 | 49    | [SeaDex](https://releases.moe/131773/), [AniList](https://anilist.co/anime/131773) |
 | 156 | Days with My Stepsister                                                                                      | 2024 | 73    | [SeaDex](https://releases.moe/152681/), [AniList](https://anilist.co/anime/152681) |
 | 157 | Gushing Over Magical Girls                                                                                   | 2024 | 74    | [SeaDex](https://releases.moe/162780/), [AniList](https://anilist.co/anime/162780) |
@@ -249,8 +249,8 @@
 | 246 | Whispered Words                                                                                              | 2009 | 67    | [SeaDex](https://releases.moe/6203/), [AniList](https://anilist.co/anime/6203)     |
 | 247 | Saint Seiya: The Lost Canvas                                                                                 | 2009 | 76    | [SeaDex](https://releases.moe/6171/), [AniList](https://anilist.co/anime/6171)     |
 | 248 | Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!                                                | 2014 | 64    | [SeaDex](https://releases.moe/18851/), [AniList](https://anilist.co/anime/18851)   |
-| 249 | Synduality Noir                                                                                              | 2023 | 66    | [SeaDex](https://releases.moe/154643/), [AniList](https://anilist.co/anime/154643) |
-| 250 | Arifureta Shokugyou de Sekai Saikyou 2nd season Special                                                      | 2022 | 68    | [SeaDex](https://releases.moe/143846/), [AniList](https://anilist.co/anime/143846) |
+| 249 | Arifureta Shokugyou de Sekai Saikyou 2nd season Special                                                      | 2022 | 68    | [SeaDex](https://releases.moe/143846/), [AniList](https://anilist.co/anime/143846) |
+| 250 | Synduality Noir                                                                                              | 2023 | 66    | [SeaDex](https://releases.moe/154643/), [AniList](https://anilist.co/anime/154643) |
 | 251 | Arknights: PERISH IN FROST                                                                                   | 2023 | 74    | [SeaDex](https://releases.moe/158895/), [AniList](https://anilist.co/anime/158895) |
 | 252 | Ao Haru Ride PAGE.13                                                                                         | 2014 | 77    | [SeaDex](https://releases.moe/20900/), [AniList](https://anilist.co/anime/20900)   |
 | 253 | Arifureta - From Commonplace to World's Strongest: The Miraculous Meeting and the Phantasmagorical Adventure | 2022 | 71    | [SeaDex](https://releases.moe/146921/), [AniList](https://anilist.co/anime/146921) |
