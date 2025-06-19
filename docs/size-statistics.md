@@ -8,7 +8,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `102.2 TiB`
+- Total size: `102.3 TiB`
 - Best size: `74.9 TiB`
 - Alt size: `27.4 TiB`
 - Realistic size: `78.8 TiB`
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | WAP              | 457.9 GiB  | 457.9 GiB (100.00%) | 4 (~114.5 GiB each)   |
 | 48   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 32.1 TiB   | 17.7 TiB (55.15%)   | 1654 (~19.9 GiB each) |
+| 50   | Others           | 32.1 TiB   | 17.7 TiB (55.13%)   | 1655 (~19.9 GiB each) |

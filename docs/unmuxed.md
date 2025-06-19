@@ -253,8 +253,8 @@
 | 250 | Shonen Maid                                                              | 2016 | 07 Oct 2024 | [SeaDex](https://releases.moe/21321/), [AniList](https://anilist.co/anime/21321)   |
 | 251 | The Eccentric Family 2                                                   | 2017 | 11 Nov 2023 | [SeaDex](https://releases.moe/97642/), [AniList](https://anilist.co/anime/97642)   |
 | 252 | Saint Seiya: The Lost Canvas                                             | 2009 | 07 Jun 2025 | [SeaDex](https://releases.moe/6171/), [AniList](https://anilist.co/anime/6171)     |
-| 253 | Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!            | 2014 | 10 Oct 2024 | [SeaDex](https://releases.moe/18851/), [AniList](https://anilist.co/anime/18851)   |
-| 254 | Gatchaman Crowds insight                                                 | 2015 | 02 Jul 2024 | [SeaDex](https://releases.moe/20487/), [AniList](https://anilist.co/anime/20487)   |
+| 253 | Gatchaman Crowds insight                                                 | 2015 | 02 Jul 2024 | [SeaDex](https://releases.moe/20487/), [AniList](https://anilist.co/anime/20487)   |
+| 254 | Fate/kaleid liner Prisma☆Illya: Dance at the Sports Festival!            | 2014 | 10 Oct 2024 | [SeaDex](https://releases.moe/18851/), [AniList](https://anilist.co/anime/18851)   |
 | 255 | Lapis Re:LiGHTs                                                          | 2020 | 15 Nov 2024 | [SeaDex](https://releases.moe/104937/), [AniList](https://anilist.co/anime/104937) |
 | 256 | Bakuon!!                                                                 | 2016 | 10 Nov 2024 | [SeaDex](https://releases.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
 | 257 | I don't like my big brother at all!!                                     | 2011 | 11 Jan 2025 | [SeaDex](https://releases.moe/9587/), [AniList](https://anilist.co/anime/9587)     |
