@@ -27,7 +27,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | KH               | 52    |
 | 12   | Moxie            | 50    |
 | 13   | LostYears        | 49    |
-| 14   | Arid             | 45    |
+| 14   | Arid             | 46    |
 | 15   | LYS1TH3A         | 37    |
 | 16   | YURASUKA         | 36    |
 | 17   | Lulu             | 34    |
@@ -59,7 +59,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Moxie     | 15    |
 | 14   | LazyRemux | 15    |
 | 15   | LostYears | 15    |
-| 16   | Arid      | 13    |
+| 16   | Arid      | 14    |
 | 17   | Vodes     | 12    |
 | 18   | ZeroBuild | 12    |
 | 19   | hydes     | 11    |
@@ -89,7 +89,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Orphan     | 26    |
 | 14   | Lulu       | 24    |
 | 15   | B00BA      | 23    |
-| 16   | Arid       | 22    |
+| 16   | Arid       | 23    |
 | 17   | KH         | 20    |
 | 18   | Flugel     | 19    |
 | 19   | LazyRemux  | 19    |
