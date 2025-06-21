@@ -19,8 +19,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | MTBB             | 88    |
 | 4    | SubsPlease       | 86    |
 | 5    | CRUCiBLE         | 84    |
-| 6    | YURI             | 77    |
-| 7    | NAN0             | 70    |
+| 6    | YURI             | 76    |
+| 7    | NAN0             | 71    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 58    |
 | 10   | hchcsen          | 56    |
@@ -47,7 +47,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
 | 🥉   | CRUCiBLE  | 71    |
-| 4    | NAN0      | 58    |
+| 4    | NAN0      | 59    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
 | 7    | smol      | 23    |
@@ -56,9 +56,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Flugel    | 19    |
 | 11   | YURI      | 18    |
 | 12   | KH        | 18    |
-| 13   | Moxie     | 15    |
-| 14   | LazyRemux | 15    |
-| 15   | LostYears | 15    |
+| 13   | LazyRemux | 15    |
+| 14   | LostYears | 15    |
+| 15   | Moxie     | 14    |
 | 16   | Arid      | 14    |
 | 17   | Vodes     | 12    |
 | 18   | ZeroBuild | 12    |
@@ -77,11 +77,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-       | 147   |
 | 🥈   | sam        | 117   |
 | 🥉   | CRUCiBLE   | 84    |
-| 4    | NAN0       | 69    |
+| 4    | NAN0       | 70    |
 | 5    | smol       | 56    |
 | 6    | MTBB       | 56    |
 | 7    | Moxie      | 50    |
-| 8    | YURI       | 39    |
+| 8    | YURI       | 38    |
 | 9    | LYS1TH3A   | 35    |
 | 10   | TTGA       | 33    |
 | 11   | hchcsen    | 30    |

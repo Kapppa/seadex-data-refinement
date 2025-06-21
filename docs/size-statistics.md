@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `102.3 TiB`
+- Total size: `102.4 TiB`
 - Best size: `74.9 TiB`
 - Alt size: `27.4 TiB`
-- Realistic size: `78.8 TiB`
+- Realistic size: `78.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -22,7 +22,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.6 TiB   | 12.2 TiB (83.72%)   | 188 (~79.7 GiB each)  |
 | 2    | CRUCiBLE         | 6.1 TiB    | 6.1 TiB (100.00%)   | 84 (~74.8 GiB each)   |
-| 3    | NAN0             | 5.0 TiB    | 4.9 TiB (98.48%)    | 70 (~72.6 GiB each)   |
+| 3    | NAN0             | 5.0 TiB    | 5.0 TiB (98.50%)    | 71 (~72.8 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.4 TiB (88.62%)    | 132 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (94.85%)    | 34 (~74.6 GiB each)   |
 | 6    | hchcsen          | 2.4 TiB    | 1.5 TiB (63.97%)    | 62 (~39.8 GiB each)   |
@@ -38,7 +38,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 16   | RUDY             | 1.0 TiB    | 1.0 TiB (97.53%)    | 13 (~81.7 GiB each)   |
 | 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 18   | LYS1TH3A         | 938.0 GiB  | 918.5 GiB (97.92%)  | 37 (~25.4 GiB each)   |
-| 19   | YURI             | 903.6 GiB  | 445.7 GiB (49.33%)  | 77 (~11.7 GiB each)   |
+| 19   | YURI             | 898.8 GiB  | 441.0 GiB (49.06%)  | 76 (~11.8 GiB each)   |
 | 20   | KH               | 879.4 GiB  | 322.3 GiB (36.65%)  | 54 (~16.3 GiB each)   |
 | 21   | Vodes            | 853.4 GiB  | 533.6 GiB (62.53%)  | 19 (~44.9 GiB each)   |
 | 22   | LostYears        | 807.3 GiB  | 288.6 GiB (35.75%)  | 49 (~16.5 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | WAP              | 457.9 GiB  | 457.9 GiB (100.00%) | 4 (~114.5 GiB each)   |
 | 48   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 32.1 TiB   | 17.7 TiB (55.08%)   | 1654 (~19.9 GiB each) |
+| 50   | Others           | 32.2 TiB   | 17.7 TiB (55.03%)   | 1656 (~19.9 GiB each) |

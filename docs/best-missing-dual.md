@@ -36,12 +36,12 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 29  | Den-noh Coil                                                                    | 2007 | 25 Jun 2024 | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
 | 30  | Now and Then, Here and There                                                    | 1999 | 30 Dec 2023 | [SeaDex](https://releases.moe/160/), [AniList](https://anilist.co/anime/160)       |
 | 31  | A Certain Magical Index: The Miracle of Endymion                                | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
-| 32  | Assault Lily BOUQUET                                                            | 2020 | 10 Feb 2025 | [SeaDex](https://releases.moe/112479/), [AniList](https://anilist.co/anime/112479) |
+| 32  | Assault Lily BOUQUET                                                            | 2020 | 20 Jun 2025 | [SeaDex](https://releases.moe/112479/), [AniList](https://anilist.co/anime/112479) |
 | 33  | The Girl from the Other Side                                                    | 2022 | 11 Nov 2023 | [SeaDex](https://releases.moe/130550/), [AniList](https://anilist.co/anime/130550) |
 | 34  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                           | 2013 | 17 Feb 2025 | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
 | 35  | Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou      | 2012 | 26 Jan 2025 | [SeaDex](https://releases.moe/15879/), [AniList](https://anilist.co/anime/15879)   |
 | 36  | Lucifer and the Biscuit Hammer                                                  | 2022 | 09 May 2025 | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
-| 37  | Sasaki and Miyano: Graduation                                                   | 2023 | 08 Jun 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
+| 37  | Sasaki and Miyano: Graduation                                                   | 2023 | 20 Jun 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
 | 38  | Love, Chunibyo & Other Delusions - Heart Throb - Specials                       | 2014 | 13 Feb 2025 | [SeaDex](https://releases.moe/20777/), [AniList](https://anilist.co/anime/20777)   |
 | 39  | Toward the Terra (TV)                                                           | 2007 | 14 Nov 2023 | [SeaDex](https://releases.moe/2158/), [AniList](https://anilist.co/anime/2158)     |
 | 40  | Aesthetica of a Rogue Hero Specials                                             | 2012 | 23 Jun 2024 | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
