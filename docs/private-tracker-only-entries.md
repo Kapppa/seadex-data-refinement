@@ -8,4 +8,5 @@
 | 5   | Flower and Asura             | 2025 | 14 Jun 2025 | [SeaDex](https://releases.moe/178022/), [AniList](https://anilist.co/anime/178022) |
 | 6   | 18if                         | 2017 | 20 Jun 2025 | [SeaDex](https://releases.moe/98512/), [AniList](https://anilist.co/anime/98512)   |
 | 7   | The Relative Worlds          | 2019 | 10 Jun 2025 | [SeaDex](https://releases.moe/104562/), [AniList](https://anilist.co/anime/104562) |
-| 8   | Overlord: Ple Ple Pleiades 4 | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 8   | Space Runaway Ideon          | 1980 | 21 Jun 2025 | [SeaDex](https://releases.moe/930/), [AniList](https://anilist.co/anime/930)       |
+| 9   | Overlord: Ple Ple Pleiades 4 | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
