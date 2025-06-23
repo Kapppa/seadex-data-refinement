@@ -56,9 +56,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Flugel    | 19    |
 | 11   | YURI      | 18    |
 | 12   | KH        | 18    |
-| 13   | LazyRemux | 15    |
-| 14   | LostYears | 15    |
-| 15   | Moxie     | 14    |
+| 13   | Moxie     | 15    |
+| 14   | LazyRemux | 15    |
+| 15   | LostYears | 15    |
 | 16   | Arid      | 14    |
 | 17   | Vodes     | 12    |
 | 18   | ZeroBuild | 12    |
