@@ -60,10 +60,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | LazyRemux | 15    |
 | 15   | LostYears | 15    |
 | 16   | Arid      | 14    |
-| 17   | Vodes     | 12    |
-| 18   | ZeroBuild | 12    |
-| 19   | hydes     | 11    |
-| 20   | FLE       | 11    |
+| 17   | FLE       | 13    |
+| 18   | Vodes     | 12    |
+| 19   | ZeroBuild | 12    |
+| 20   | hydes     | 11    |
 | 21   | SCY       | 11    |
 | 22   | koala     | 10    |
 | 23   | FraMeSToR | 10    |
@@ -72,33 +72,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Best entries
 
-| Rank | Group      | Count |
-| :----| :----------| :-----|
-| 🥇   | -ZR-       | 147   |
-| 🥈   | sam        | 117   |
-| 🥉   | CRUCiBLE   | 88    |
-| 4    | NAN0       | 72    |
-| 5    | MTBB       | 58    |
-| 6    | smol       | 56    |
-| 7    | Moxie      | 50    |
-| 8    | YURI       | 38    |
-| 9    | LYS1TH3A   | 35    |
-| 10   | TTGA       | 33    |
-| 11   | hchcsen    | 30    |
-| 12   | Okay-Subs  | 29    |
-| 13   | Orphan     | 26    |
-| 14   | Lulu       | 24    |
-| 15   | B00BA      | 23    |
-| 16   | Arid       | 23    |
-| 17   | KH         | 20    |
-| 18   | Flugel     | 19    |
-| 19   | LazyRemux  | 19    |
-| 20   | Drag       | 17    |
-| 21   | LostYears  | 15    |
-| 22   | Pog42      | 14    |
-| 23   | Vodes      | 14    |
-| 24   | PMR        | 14    |
-| 25   | SubsPlease | 14    |
+| Rank | Group     | Count |
+| :----| :---------| :-----|
+| 🥇   | -ZR-      | 147   |
+| 🥈   | sam       | 117   |
+| 🥉   | CRUCiBLE  | 88    |
+| 4    | NAN0      | 72    |
+| 5    | MTBB      | 58    |
+| 6    | smol      | 56    |
+| 7    | Moxie     | 50    |
+| 8    | YURI      | 38    |
+| 9    | LYS1TH3A  | 35    |
+| 10   | TTGA      | 33    |
+| 11   | hchcsen   | 30    |
+| 12   | Okay-Subs | 29    |
+| 13   | Orphan    | 26    |
+| 14   | Lulu      | 24    |
+| 15   | B00BA     | 24    |
+| 16   | Arid      | 23    |
+| 17   | KH        | 20    |
+| 18   | Flugel    | 19    |
+| 19   | LazyRemux | 19    |
+| 20   | Drag      | 17    |
+| 21   | LostYears | 15    |
+| 22   | Pog42     | 14    |
+| 23   | Vodes     | 14    |
+| 24   | FLE       | 14    |
+| 25   | PMR       | 14    |
 
 ## Top 25 - Alt entries
 
@@ -119,13 +119,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Kametsu          | 23    |
 | 14   | CTR              | 21    |
 | 15   | Holomux          | 20    |
-| 16   | Erai-raws        | 20    |
+| 16   | Erai-raws        | 19    |
 | 17   | Chihiro          | 19    |
 | 18   | Pog42            | 18    |
 | 19   | SCY              | 16    |
 | 20   | Reza             | 15    |
 | 21   | sam              | 15    |
 | 22   | UDF              | 14    |
-| 23   | HorribleSubs     | 14    |
-| 24   | VARYG            | 14    |
-| 25   | IK               | 13    |
+| 23   | VARYG            | 14    |
+| 24   | IK               | 13    |
+| 25   | HorribleSubs     | 13    |
