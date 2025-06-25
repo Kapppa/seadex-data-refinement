@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
-| 🥉   | CRUCiBLE  | 75    |
+| 🥉   | CRUCiBLE  | 74    |
 | 4    | NAN0      | 60    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 117   |
-| 🥉   | CRUCiBLE  | 88    |
+| 🥉   | CRUCiBLE  | 87    |
 | 4    | NAN0      | 72    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 56    |
@@ -95,16 +95,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | LazyRemux | 19    |
 | 20   | Drag      | 17    |
 | 21   | LostYears | 15    |
-| 22   | Pog42     | 14    |
-| 23   | Vodes     | 14    |
-| 24   | FLE       | 14    |
-| 25   | PMR       | 14    |
+| 22   | PMR       | 15    |
+| 23   | Pog42     | 14    |
+| 24   | Vodes     | 14    |
+| 25   | FLE       | 14    |
 
 ## Top 25 - Alt entries
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 73    |
+| 🥇   | SubsPlease       | 74    |
 | 🥈   | Drag             | 42    |
 | 🥉   | -ZR-             | 40    |
 | 4    | YURI             | 38    |
@@ -120,8 +120,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | CTR              | 21    |
 | 15   | Holomux          | 20    |
 | 16   | Erai-raws        | 19    |
-| 17   | Chihiro          | 19    |
-| 18   | Pog42            | 18    |
+| 17   | Pog42            | 18    |
+| 18   | Chihiro          | 18    |
 | 19   | SCY              | 16    |
 | 20   | Reza             | 15    |
 | 21   | sam              | 15    |
