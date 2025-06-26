@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `103.1 TiB`
-- Best size: `75.5 TiB`
-- Alt size: `27.7 TiB`
-- Realistic size: `79.6 TiB`
+- Total size: `103.5 TiB`
+- Best size: `75.9 TiB`
+- Alt size: `27.6 TiB`
+- Realistic size: `79.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,16 +21,16 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.6 TiB   | 12.2 TiB (84.17%)   | 187 (~79.7 GiB each)  |
-| 2    | CRUCiBLE         | 6.5 TiB    | 6.4 TiB (99.20%)    | 88 (~75.3 GiB each)   |
+| 2    | CRUCiBLE         | 6.7 TiB    | 6.6 TiB (99.22%)    | 90 (~75.7 GiB each)   |
 | 3    | NAN0             | 5.3 TiB    | 5.2 TiB (98.57%)    | 73 (~73.9 GiB each)   |
-| 4    | sam              | 3.8 TiB    | 3.4 TiB (88.62%)    | 132 (~29.7 GiB each)  |
+| 4    | sam              | 3.8 TiB    | 3.4 TiB (88.65%)    | 133 (~29.6 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (94.85%)    | 34 (~74.6 GiB each)   |
 | 6    | hchcsen          | 2.4 TiB    | 1.5 TiB (63.97%)    | 62 (~39.8 GiB each)   |
 | 7    | B00BA            | 2.2 TiB    | 2.2 TiB (100.00%)   | 24 (~93.2 GiB each)   |
 | 8    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 50 (~43.7 GiB each)   |
 | 9    | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 10   | SubsPlease       | 1.4 TiB    | 206.9 GiB (14.22%)  | 87 (~16.7 GiB each)   |
-| 11   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
+| 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
+| 11   | SubsPlease       | 1.4 TiB    | 206.9 GiB (14.38%)  | 86 (~16.7 GiB each)   |
 | 12   | MTBB             | 1.4 TiB    | 1.1 TiB (81.31%)    | 90 (~15.5 GiB each)   |
 | 13   | NOGRP            | 1.3 TiB    | 849.8 GiB (61.64%)  | 20 (~68.9 GiB each)   |
 | 14   | PMR              | 1.3 TiB    | 1.3 TiB (100.00%)   | 15 (~88.0 GiB each)   |
@@ -39,11 +39,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 18   | LYS1TH3A         | 938.0 GiB  | 918.5 GiB (97.92%)  | 37 (~25.4 GiB each)   |
 | 19   | YURI             | 898.8 GiB  | 441.0 GiB (49.06%)  | 76 (~11.8 GiB each)   |
-| 20   | KH               | 879.4 GiB  | 322.3 GiB (36.65%)  | 54 (~16.3 GiB each)   |
+| 20   | KH               | 875.3 GiB  | 318.2 GiB (36.36%)  | 53 (~16.5 GiB each)   |
 | 21   | Vodes            | 853.4 GiB  | 533.6 GiB (62.53%)  | 19 (~44.9 GiB each)   |
 | 22   | LostYears        | 807.3 GiB  | 288.6 GiB (35.75%)  | 49 (~16.5 GiB each)   |
 | 23   | Holomux          | 768.0 GiB  | 194.2 GiB (25.29%)  | 30 (~25.6 GiB each)   |
-| 24   | Arid             | 764.0 GiB  | 216.6 GiB (28.34%)  | 47 (~16.3 GiB each)   |
+| 24   | Arid             | 764.0 GiB  | 213.7 GiB (27.97%)  | 47 (~16.3 GiB each)   |
 | 25   | Bunny-Apocalypse | 748.1 GiB  | 173.8 GiB (23.23%)  | 34 (~22.0 GiB each)   |
 | 26   | FraMeSToR        | 745.7 GiB  | 745.7 GiB (100.00%) | 10 (~74.6 GiB each)   |
 | 27   | ZeroBuild        | 743.1 GiB  | 646.3 GiB (86.97%)  | 16 (~46.4 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 48   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
 | 49   | OZR              | 451.8 GiB  | 292.7 GiB (64.78%)  | 15 (~30.1 GiB each)   |
-| 50   | Others           | 32.2 TiB   | 17.5 TiB (54.36%)   | 1654 (~19.9 GiB each) |
+| 50   | Others           | 32.4 TiB   | 17.7 TiB (54.70%)   | 1654 (~20.0 GiB each) |
