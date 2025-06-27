@@ -14,26 +14,26 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 174   |
+| 🥇   | -ZR-             | 173   |
 | 🥈   | sam              | 132   |
-| 🥉   | CRUCiBLE         | 90    |
+| 🥉   | CRUCiBLE         | 91    |
 | 4    | MTBB             | 90    |
-| 5    | SubsPlease       | 85    |
+| 5    | SubsPlease       | 84    |
 | 6    | YURI             | 76    |
-| 7    | NAN0             | 73    |
+| 7    | NAN0             | 72    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 58    |
 | 10   | hchcsen          | 56    |
-| 11   | KH               | 51    |
+| 11   | KH               | 52    |
 | 12   | Moxie            | 50    |
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 46    |
 | 15   | YURASUKA         | 38    |
 | 16   | LYS1TH3A         | 37    |
 | 17   | Lulu             | 34    |
-| 18   | TTGA             | 34    |
-| 19   | Bunny-Apocalypse | 34    |
-| 20   | Commie           | 34    |
+| 18   | Bunny-Apocalypse | 34    |
+| 19   | Commie           | 34    |
+| 20   | TTGA             | 33    |
 | 21   | Okay-Subs        | 33    |
 | 22   | Pog42            | 32    |
 | 23   | Kametsu          | 30    |
@@ -46,15 +46,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 89    |
-| 🥉   | CRUCiBLE  | 76    |
-| 4    | NAN0      | 60    |
+| 🥉   | CRUCiBLE  | 77    |
+| 4    | NAN0      | 59    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
 | 7    | smol      | 23    |
 | 8    | TTGA      | 22    |
 | 9    | Lulu      | 21    |
 | 10   | Flugel    | 19    |
-| 11   | YURI      | 18    |
+| 11   | YURI      | 17    |
 | 12   | KH        | 17    |
 | 13   | Moxie     | 15    |
 | 14   | LazyRemux | 15    |
@@ -76,14 +76,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 89    |
-| 4    | NAN0      | 72    |
+| 🥉   | CRUCiBLE  | 90    |
+| 4    | NAN0      | 71    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 56    |
 | 7    | Moxie     | 50    |
-| 8    | YURI      | 38    |
+| 8    | YURI      | 37    |
 | 9    | LYS1TH3A  | 35    |
-| 10   | TTGA      | 33    |
+| 10   | TTGA      | 32    |
 | 11   | hchcsen   | 30    |
 | 12   | Okay-Subs | 29    |
 | 13   | Orphan    | 26    |
@@ -104,13 +104,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 73    |
+| 🥇   | SubsPlease       | 72    |
 | 🥈   | Drag             | 42    |
-| 🥉   | -ZR-             | 40    |
-| 4    | YURI             | 38    |
+| 🥉   | YURI             | 39    |
+| 4    | -ZR-             | 39    |
 | 5    | YURASUKA         | 36    |
-| 6    | LostYears        | 34    |
-| 7    | KH               | 34    |
+| 6    | KH               | 35    |
+| 7    | LostYears        | 34    |
 | 8    | Commie           | 34    |
 | 9    | MTBB             | 32    |
 | 10   | hchcsen          | 32    |
