@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 173   |
+| 🥇   | -ZR-             | 172   |
 | 🥈   | sam              | 132   |
 | 🥉   | CRUCiBLE         | 91    |
 | 4    | MTBB             | 90    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 111   |
+| 🥇   | -ZR-      | 110   |
 | 🥈   | sam       | 89    |
 | 🥉   | CRUCiBLE  | 77    |
 | 4    | NAN0      | 59    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 147   |
+| 🥇   | -ZR-      | 146   |
 | 🥈   | sam       | 118   |
 | 🥉   | CRUCiBLE  | 90    |
 | 4    | NAN0      | 71    |
@@ -119,13 +119,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Kametsu          | 23    |
 | 14   | CTR              | 21    |
 | 15   | Holomux          | 20    |
-| 16   | Erai-raws        | 19    |
+| 16   | Erai-raws        | 20    |
 | 17   | Pog42            | 18    |
 | 18   | Chihiro          | 18    |
 | 19   | SCY              | 16    |
 | 20   | Reza             | 15    |
 | 21   | sam              | 15    |
-| 22   | UDF              | 14    |
-| 23   | VARYG            | 14    |
+| 22   | VARYG            | 15    |
+| 23   | UDF              | 14    |
 | 24   | IK               | 13    |
 | 25   | HorribleSubs     | 13    |
