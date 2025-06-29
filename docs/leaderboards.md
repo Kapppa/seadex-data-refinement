@@ -18,7 +18,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam              | 132   |
 | 🥉   | CRUCiBLE         | 91    |
 | 4    | MTBB             | 90    |
-| 5    | SubsPlease       | 84    |
+| 5    | SubsPlease       | 85    |
 | 6    | YURI             | 76    |
 | 7    | NAN0             | 72    |
 | 8    | Drag             | 58    |
@@ -31,9 +31,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | YURASUKA         | 38    |
 | 16   | LYS1TH3A         | 37    |
 | 17   | Lulu             | 34    |
-| 18   | Bunny-Apocalypse | 34    |
-| 19   | Commie           | 34    |
-| 20   | TTGA             | 33    |
+| 18   | TTGA             | 34    |
+| 19   | Bunny-Apocalypse | 34    |
+| 20   | Commie           | 34    |
 | 21   | Okay-Subs        | 33    |
 | 22   | Pog42            | 32    |
 | 23   | Kametsu          | 30    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 72    |
+| 🥇   | SubsPlease       | 73    |
 | 🥈   | Drag             | 42    |
 | 🥉   | YURI             | 39    |
 | 4    | -ZR-             | 39    |

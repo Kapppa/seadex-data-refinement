@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `104.1 TiB`
+- Total size: `104.2 TiB`
 - Best size: `76.2 TiB`
-- Alt size: `27.8 TiB`
-- Realistic size: `80.3 TiB`
+- Alt size: `27.9 TiB`
+- Realistic size: `80.4 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -24,13 +24,13 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 6.8 TiB    | 6.7 TiB (99.24%)    | 91 (~76.5 GiB each)   |
 | 3    | NAN0             | 5.2 TiB    | 5.1 TiB (98.54%)    | 72 (~73.8 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.4 TiB (88.65%)    | 133 (~29.6 GiB each)  |
-| 5    | hchcsen          | 2.4 TiB    | 1.5 TiB (63.97%)    | 62 (~39.8 GiB each)   |
-| 6    | TTGA             | 2.4 TiB    | 2.3 TiB (94.67%)    | 33 (~74.2 GiB each)   |
+| 5    | TTGA             | 2.5 TiB    | 2.3 TiB (92.07%)    | 34 (~74.1 GiB each)   |
+| 6    | hchcsen          | 2.4 TiB    | 1.5 TiB (63.97%)    | 62 (~39.8 GiB each)   |
 | 7    | B00BA            | 2.2 TiB    | 2.2 TiB (100.00%)   | 24 (~93.2 GiB each)   |
 | 8    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 50 (~43.7 GiB each)   |
 | 9    | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 10   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
-| 11   | SubsPlease       | 1.4 TiB    | 206.9 GiB (14.42%)  | 85 (~16.9 GiB each)   |
+| 10   | SubsPlease       | 1.4 TiB    | 206.9 GiB (14.12%)  | 86 (~17.0 GiB each)   |
+| 11   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 12   | MTBB             | 1.4 TiB    | 1.1 TiB (81.31%)    | 90 (~15.5 GiB each)   |
 | 13   | NOGRP            | 1.3 TiB    | 849.8 GiB (61.64%)  | 20 (~68.9 GiB each)   |
 | 14   | PMR              | 1.3 TiB    | 1.3 TiB (100.00%)   | 15 (~88.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 48   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 49   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
-| 50   | Others           | 32.8 TiB   | 18.3 TiB (55.83%)   | 1669 (~20.1 GiB each) |
+| 50   | Others           | 32.8 TiB   | 18.3 TiB (55.83%)   | 1670 (~20.1 GiB each) |
