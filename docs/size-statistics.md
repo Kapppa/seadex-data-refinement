@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 48   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 49   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
-| 50   | Others           | 32.8 TiB   | 18.3 TiB (55.83%)   | 1670 (~20.1 GiB each) |
+| 50   | Others           | 32.8 TiB   | 18.3 TiB (55.79%)   | 1669 (~20.1 GiB each) |
