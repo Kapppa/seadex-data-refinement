@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `104.8 TiB`
-- Best size: `76.9 TiB`
+- Total size: `104.4 TiB`
+- Best size: `76.4 TiB`
 - Alt size: `28.0 TiB`
-- Realistic size: `80.9 TiB`
+- Realistic size: `80.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -24,21 +24,21 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 6.8 TiB    | 6.7 TiB (99.24%)    | 91 (~76.5 GiB each)   |
 | 3    | NAN0             | 5.3 TiB    | 5.2 TiB (98.57%)    | 74 (~73.1 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.4 TiB (88.65%)    | 133 (~29.6 GiB each)  |
-| 5    | hchcsen          | 2.8 TiB    | 2.0 TiB (69.42%)    | 63 (~46.2 GiB each)   |
-| 6    | TTGA             | 2.5 TiB    | 2.3 TiB (92.07%)    | 34 (~74.1 GiB each)   |
+| 5    | TTGA             | 2.5 TiB    | 2.3 TiB (92.07%)    | 34 (~74.1 GiB each)   |
+| 6    | hchcsen          | 2.4 TiB    | 1.5 TiB (63.97%)    | 62 (~39.8 GiB each)   |
 | 7    | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 25 (~92.6 GiB each)   |
 | 8    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 50 (~43.7 GiB each)   |
 | 9    | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 10   | SubsPlease       | 1.4 TiB    | 206.9 GiB (14.12%)  | 86 (~17.0 GiB each)   |
 | 11   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
-| 12   | MTBB             | 1.4 TiB    | 1.1 TiB (81.31%)    | 90 (~15.5 GiB each)   |
-| 13   | NOGRP            | 1.3 TiB    | 849.8 GiB (61.64%)  | 20 (~68.9 GiB each)   |
+| 12   | NOGRP            | 1.4 TiB    | 849.8 GiB (60.74%)  | 21 (~66.6 GiB each)   |
+| 13   | MTBB             | 1.4 TiB    | 1.1 TiB (81.31%)    | 90 (~15.5 GiB each)   |
 | 14   | PMR              | 1.3 TiB    | 1.3 TiB (100.00%)   | 15 (~88.0 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 16   | RUDY             | 1.0 TiB    | 1.0 TiB (97.53%)    | 13 (~81.7 GiB each)   |
 | 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 18   | LYS1TH3A         | 938.0 GiB  | 918.5 GiB (97.92%)  | 37 (~25.4 GiB each)   |
-| 19   | KH               | 899.5 GiB  | 318.2 GiB (35.38%)  | 54 (~16.7 GiB each)   |
+| 19   | KH               | 899.5 GiB  | 312.4 GiB (34.73%)  | 55 (~16.4 GiB each)   |
 | 20   | YURI             | 898.8 GiB  | 401.7 GiB (44.70%)  | 76 (~11.8 GiB each)   |
 | 21   | Vodes            | 853.4 GiB  | 533.6 GiB (62.53%)  | 19 (~44.9 GiB each)   |
 | 22   | LostYears        | 807.3 GiB  | 288.6 GiB (35.75%)  | 49 (~16.5 GiB each)   |

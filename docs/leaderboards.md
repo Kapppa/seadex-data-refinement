@@ -23,7 +23,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | NAN0             | 74    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 58    |
-| 10   | hchcsen          | 57    |
+| 10   | hchcsen          | 56    |
 | 11   | KH               | 52    |
 | 12   | Moxie            | 50    |
 | 13   | LostYears        | 49    |
@@ -49,13 +49,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | CRUCiBLE  | 77    |
 | 4    | NAN0      | 61    |
 | 5    | LYS1TH3A  | 34    |
-| 6    | hchcsen   | 30    |
+| 6    | hchcsen   | 29    |
 | 7    | smol      | 23    |
 | 8    | TTGA      | 22    |
 | 9    | Lulu      | 21    |
 | 10   | Flugel    | 19    |
 | 11   | YURI      | 17    |
-| 12   | KH        | 17    |
+| 12   | KH        | 16    |
 | 13   | Moxie     | 15    |
 | 14   | LazyRemux | 15    |
 | 15   | LostYears | 15    |
@@ -84,7 +84,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | YURI      | 37    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 32    |
-| 11   | hchcsen   | 31    |
+| 11   | hchcsen   | 30    |
 | 12   | Okay-Subs | 29    |
 | 13   | Orphan    | 26    |
 | 14   | B00BA     | 25    |
@@ -92,7 +92,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | Arid      | 22    |
 | 17   | Flugel    | 19    |
 | 18   | LazyRemux | 19    |
-| 19   | KH        | 19    |
+| 19   | KH        | 18    |
 | 20   | Drag      | 17    |
 | 21   | LostYears | 15    |
 | 22   | PMR       | 15    |
@@ -108,8 +108,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | Drag             | 42    |
 | 🥉   | YURI             | 39    |
 | 4    | -ZR-             | 39    |
-| 5    | YURASUKA         | 36    |
-| 6    | KH               | 35    |
+| 5    | KH               | 37    |
+| 6    | YURASUKA         | 36    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 34    |
 | 9    | MTBB             | 32    |
