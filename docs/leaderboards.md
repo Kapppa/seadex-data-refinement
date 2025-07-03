@@ -55,9 +55,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Lulu      | 21    |
 | 10   | Flugel    | 19    |
 | 11   | YURI      | 17    |
-| 12   | KH        | 16    |
-| 13   | Moxie     | 15    |
-| 14   | LazyRemux | 15    |
+| 12   | Moxie     | 15    |
+| 13   | LazyRemux | 15    |
+| 14   | KH        | 15    |
 | 15   | LostYears | 15    |
 | 16   | Arid      | 14    |
 | 17   | FLE       | 13    |
@@ -92,7 +92,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | Arid      | 22    |
 | 17   | Flugel    | 19    |
 | 18   | LazyRemux | 19    |
-| 19   | KH        | 18    |
+| 19   | KH        | 17    |
 | 20   | Drag      | 17    |
 | 21   | LostYears | 15    |
 | 22   | PMR       | 15    |

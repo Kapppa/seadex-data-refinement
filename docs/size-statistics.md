@@ -38,7 +38,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 16   | RUDY             | 1.0 TiB    | 1.0 TiB (97.53%)    | 13 (~81.7 GiB each)   |
 | 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 18   | LYS1TH3A         | 938.0 GiB  | 918.5 GiB (97.92%)  | 37 (~25.4 GiB each)   |
-| 19   | KH               | 899.5 GiB  | 312.4 GiB (34.73%)  | 55 (~16.4 GiB each)   |
+| 19   | KH               | 899.5 GiB  | 307.1 GiB (34.14%)  | 54 (~16.7 GiB each)   |
 | 20   | YURI             | 898.8 GiB  | 401.7 GiB (44.70%)  | 76 (~11.8 GiB each)   |
 | 21   | Vodes            | 853.4 GiB  | 533.6 GiB (62.53%)  | 19 (~44.9 GiB each)   |
 | 22   | LostYears        | 807.3 GiB  | 288.6 GiB (35.75%)  | 49 (~16.5 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 48   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 49   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
-| 50   | Others           | 32.9 TiB   | 18.3 TiB (55.76%)   | 1674 (~20.1 GiB each) |
+| 50   | Others           | 32.9 TiB   | 18.3 TiB (55.75%)   | 1674 (~20.1 GiB each) |
