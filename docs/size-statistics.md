@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `104.4 TiB`
+- Total size: `104.5 TiB`
 - Best size: `76.4 TiB`
-- Alt size: `28.0 TiB`
-- Realistic size: `80.6 TiB`
+- Alt size: `28.1 TiB`
+- Realistic size: `80.8 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -33,7 +33,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 11   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 12   | NOGRP            | 1.4 TiB    | 849.8 GiB (60.74%)  | 21 (~66.6 GiB each)   |
 | 13   | MTBB             | 1.4 TiB    | 1.1 TiB (81.31%)    | 90 (~15.5 GiB each)   |
-| 14   | PMR              | 1.3 TiB    | 1.3 TiB (100.00%)   | 15 (~88.0 GiB each)   |
+| 14   | PMR              | 1.3 TiB    | 1.3 TiB (100.00%)   | 16 (~85.2 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 16   | RUDY             | 1.0 TiB    | 1.0 TiB (97.53%)    | 13 (~81.7 GiB each)   |
 | 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
@@ -50,8 +50,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 28   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
 | 29   | A&C              | 726.3 GiB  | 699.8 GiB (96.35%)  | 4 (~181.6 GiB each)   |
 | 30   | WAP              | 692.7 GiB  | 692.7 GiB (100.00%) | 7 (~99.0 GiB each)    |
-| 31   | Lulu             | 678.0 GiB  | 401.0 GiB (59.15%)  | 34 (~19.9 GiB each)   |
-| 32   | Okay-Subs        | 669.6 GiB  | 634.9 GiB (94.81%)  | 33 (~20.3 GiB each)   |
+| 31   | Okay-Subs        | 684.2 GiB  | 649.4 GiB (94.92%)  | 34 (~20.1 GiB each)   |
+| 32   | Lulu             | 678.0 GiB  | 401.0 GiB (59.15%)  | 34 (~19.9 GiB each)   |
 | 33   | Drag             | 655.7 GiB  | 164.5 GiB (25.09%)  | 59 (~11.1 GiB each)   |
 | 34   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
 | 35   | Flugel           | 584.4 GiB  | 584.4 GiB (100.00%) | 19 (~30.8 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 48   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 49   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
-| 50   | Others           | 32.9 TiB   | 18.3 TiB (55.75%)   | 1674 (~20.1 GiB each) |
+| 50   | Others           | 32.9 TiB   | 18.3 TiB (55.47%)   | 1674 (~20.1 GiB each) |

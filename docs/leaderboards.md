@@ -33,8 +33,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Bunny-Apocalypse | 35    |
 | 18   | Lulu             | 34    |
 | 19   | TTGA             | 34    |
-| 20   | Commie           | 34    |
-| 21   | Okay-Subs        | 33    |
+| 20   | Okay-Subs        | 34    |
+| 21   | Commie           | 34    |
 | 22   | Pog42            | 32    |
 | 23   | Kametsu          | 30    |
 | 24   | Holomux          | 28    |
@@ -84,8 +84,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | YURI      | 37    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 32    |
-| 11   | hchcsen   | 30    |
-| 12   | Okay-Subs | 29    |
+| 11   | Okay-Subs | 30    |
+| 12   | hchcsen   | 30    |
 | 13   | Orphan    | 26    |
 | 14   | B00BA     | 25    |
 | 15   | Lulu      | 24    |
@@ -94,8 +94,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | LazyRemux | 19    |
 | 19   | KH        | 17    |
 | 20   | Drag      | 17    |
-| 21   | LostYears | 15    |
-| 22   | PMR       | 15    |
+| 21   | PMR       | 16    |
+| 22   | LostYears | 15    |
 | 23   | Pog42     | 14    |
 | 24   | Vodes     | 14    |
 | 25   | FLE       | 14    |
