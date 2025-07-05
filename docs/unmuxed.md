@@ -65,8 +65,8 @@
 | 62  | Evangelion: 3.0+1.0 Thrice Upon a Time                                        | 2021 | 02 Apr 2025 | [SeaDex](https://releases.moe/3786/), [AniList](https://anilist.co/anime/3786)     |
 | 63  | Seitokai Yakuindomo                                                           | 2010 | 30 Dec 2024 | [SeaDex](https://releases.moe/8675/), [AniList](https://anilist.co/anime/8675)     |
 | 64  | Kakushigoto                                                                   | 2020 | 13 Jul 2024 | [SeaDex](https://releases.moe/113311/), [AniList](https://anilist.co/anime/113311) |
-| 65  | ISEKAI QUARTET                                                                | 2019 | 02 Jul 2025 | [SeaDex](https://releases.moe/104454/), [AniList](https://anilist.co/anime/104454) |
-| 66  | Blue Box                                                                      | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
+| 65  | Blue Box                                                                      | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
+| 66  | ISEKAI QUARTET                                                                | 2019 | 02 Jul 2025 | [SeaDex](https://releases.moe/104454/), [AniList](https://anilist.co/anime/104454) |
 | 67  | Keijo!!!!!!!!                                                                 | 2016 | 11 Jul 2024 | [SeaDex](https://releases.moe/21639/), [AniList](https://anilist.co/anime/21639)   |
 | 68  | ALDNOAH.ZERO                                                                  | 2014 | 18 Jan 2025 | [SeaDex](https://releases.moe/20632/), [AniList](https://anilist.co/anime/20632)   |
 | 69  | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You       | 2023 | 21 Jun 2025 | [SeaDex](https://releases.moe/162694/), [AniList](https://anilist.co/anime/162694) |
@@ -109,8 +109,8 @@
 | 106 | Place to Place                                                                | 2012 | 31 May 2025 | [SeaDex](https://releases.moe/12291/), [AniList](https://anilist.co/anime/12291)   |
 | 107 | Boogiepop and Others                                                          | 2019 | 01 Jun 2025 | [SeaDex](https://releases.moe/101283/), [AniList](https://anilist.co/anime/101283) |
 | 108 | PSYCHO-PASS 3                                                                 | 2019 | 14 Jun 2025 | [SeaDex](https://releases.moe/108307/), [AniList](https://anilist.co/anime/108307) |
-| 109 | Gargantia on the Verdurous Planet                                             | 2013 | 04 Jun 2025 | [SeaDex](https://releases.moe/16524/), [AniList](https://anilist.co/anime/16524)   |
-| 110 | Tokyo Revengers Season 2 Part 2                                               | 2023 | 04 Apr 2025 | [SeaDex](https://releases.moe/163329/), [AniList](https://anilist.co/anime/163329) |
+| 109 | Tokyo Revengers Season 2 Part 2                                               | 2023 | 04 Apr 2025 | [SeaDex](https://releases.moe/163329/), [AniList](https://anilist.co/anime/163329) |
+| 110 | Gargantia on the Verdurous Planet                                             | 2013 | 04 Jun 2025 | [SeaDex](https://releases.moe/16524/), [AniList](https://anilist.co/anime/16524)   |
 | 111 | Tokyo Magnitude 8.0                                                           | 2009 | 05 Nov 2024 | [SeaDex](https://releases.moe/6211/), [AniList](https://anilist.co/anime/6211)     |
 | 112 | Anti-Magic Academy: The 35th Test Platoon                                     | 2015 | 09 Jan 2025 | [SeaDex](https://releases.moe/20704/), [AniList](https://anilist.co/anime/20704)   |
 | 113 | Porco Rosso                                                                   | 1992 | 01 Jan 2025 | [SeaDex](https://releases.moe/416/), [AniList](https://anilist.co/anime/416)       |
