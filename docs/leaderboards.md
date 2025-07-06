@@ -16,7 +16,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 171   |
 | 🥈   | sam              | 132   |
-| 🥉   | CRUCiBLE         | 91    |
+| 🥉   | CRUCiBLE         | 92    |
 | 4    | MTBB             | 90    |
 | 5    | SubsPlease       | 84    |
 | 6    | YURI             | 76    |
@@ -28,13 +28,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Moxie            | 50    |
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 46    |
-| 15   | YURASUKA         | 38    |
+| 15   | YURASUKA         | 40    |
 | 16   | LYS1TH3A         | 37    |
 | 17   | Bunny-Apocalypse | 35    |
 | 18   | Lulu             | 34    |
-| 19   | TTGA             | 34    |
-| 20   | Okay-Subs        | 34    |
-| 21   | Commie           | 34    |
+| 19   | Okay-Subs        | 34    |
+| 20   | Commie           | 34    |
+| 21   | TTGA             | 33    |
 | 22   | Pog42            | 32    |
 | 23   | Kametsu          | 30    |
 | 24   | Holomux          | 28    |
@@ -51,8 +51,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
 | 7    | smol      | 23    |
-| 8    | TTGA      | 22    |
-| 9    | Lulu      | 21    |
+| 8    | Lulu      | 21    |
+| 9    | TTGA      | 21    |
 | 10   | Flugel    | 19    |
 | 11   | YURI      | 17    |
 | 12   | Moxie     | 15    |
@@ -76,14 +76,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 146   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 90    |
+| 🥉   | CRUCiBLE  | 91    |
 | 4    | NAN0      | 74    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 56    |
 | 7    | Moxie     | 50    |
 | 8    | YURI      | 37    |
 | 9    | LYS1TH3A  | 35    |
-| 10   | TTGA      | 32    |
+| 10   | TTGA      | 31    |
 | 11   | Okay-Subs | 30    |
 | 12   | hchcsen   | 30    |
 | 13   | Orphan    | 26    |
@@ -108,8 +108,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | Drag             | 42    |
 | 🥉   | YURI             | 39    |
 | 4    | -ZR-             | 38    |
-| 5    | KH               | 37    |
-| 6    | YURASUKA         | 36    |
+| 5    | YURASUKA         | 37    |
+| 6    | KH               | 37    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 34    |
 | 9    | MTBB             | 32    |
