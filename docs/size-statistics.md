@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `104.7 TiB`
+- Total size: `104.8 TiB`
 - Best size: `76.5 TiB`
 - Alt size: `28.2 TiB`
-- Realistic size: `80.9 TiB`
+- Realistic size: `81.0 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -52,7 +52,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 30   | WAP              | 692.7 GiB  | 692.7 GiB (100.00%) | 7 (~99.0 GiB each)    |
 | 31   | Okay-Subs        | 684.2 GiB  | 649.4 GiB (94.92%)  | 34 (~20.1 GiB each)   |
 | 32   | Lulu             | 678.0 GiB  | 401.0 GiB (59.15%)  | 34 (~19.9 GiB each)   |
-| 33   | Drag             | 655.7 GiB  | 164.5 GiB (25.09%)  | 59 (~11.1 GiB each)   |
+| 33   | Drag             | 655.7 GiB  | 146.0 GiB (22.26%)  | 59 (~11.1 GiB each)   |
 | 34   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
 | 35   | Flugel           | 584.4 GiB  | 584.4 GiB (100.00%) | 19 (~30.8 GiB each)   |
 | 36   | D4C              | 583.2 GiB  | 583.2 GiB (100.00%) | 3 (~194.4 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 48   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
 | 49   | LaCroiX          | 457.7 GiB  | 457.7 GiB (100.00%) | 6 (~76.3 GiB each)    |
-| 50   | Others           | 33.0 TiB   | 18.3 TiB (55.46%)   | 1677 (~20.2 GiB each) |
+| 50   | Others           | 33.1 TiB   | 18.3 TiB (55.41%)   | 1677 (~20.2 GiB each) |

@@ -59,13 +59,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | LazyRemux | 15    |
 | 14   | KH        | 15    |
 | 15   | LostYears | 15    |
-| 16   | Arid      | 14    |
-| 17   | FLE       | 13    |
+| 16   | FLE       | 13    |
+| 17   | Arid      | 13    |
 | 18   | Vodes     | 12    |
 | 19   | ZeroBuild | 12    |
-| 20   | hydes     | 11    |
-| 21   | SCY       | 11    |
-| 22   | koala     | 10    |
+| 20   | SCY       | 11    |
+| 21   | koala     | 10    |
+| 22   | hydes     | 10    |
 | 23   | FraMeSToR | 10    |
 | 24   | DemiHuman | 10    |
 | 25   | UDF       | 8     |
@@ -93,7 +93,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Flugel    | 19    |
 | 18   | LazyRemux | 19    |
 | 19   | KH        | 17    |
-| 20   | Drag      | 17    |
+| 20   | Drag      | 16    |
 | 21   | PMR       | 16    |
 | 22   | LostYears | 15    |
 | 23   | Pog42     | 14    |
@@ -105,7 +105,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 72    |
-| 🥈   | Drag             | 42    |
+| 🥈   | Drag             | 43    |
 | 🥉   | YURI             | 39    |
 | 4    | -ZR-             | 38    |
 | 5    | YURASUKA         | 37    |
