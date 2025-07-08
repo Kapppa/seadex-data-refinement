@@ -16,7 +16,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 171   |
 | 🥈   | sam              | 132   |
-| 🥉   | CRUCiBLE         | 92    |
+| 🥉   | CRUCiBLE         | 93    |
 | 4    | MTBB             | 90    |
 | 5    | SubsPlease       | 84    |
 | 6    | YURI             | 76    |
@@ -45,14 +45,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group     | Count |
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 110   |
-| 🥈   | sam       | 89    |
-| 🥉   | CRUCiBLE  | 77    |
+| 🥈   | sam       | 88    |
+| 🥉   | CRUCiBLE  | 78    |
 | 4    | NAN0      | 62    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
 | 7    | smol      | 23    |
-| 8    | Lulu      | 21    |
-| 9    | TTGA      | 21    |
+| 8    | TTGA      | 21    |
+| 9    | Lulu      | 20    |
 | 10   | Flugel    | 19    |
 | 11   | YURI      | 17    |
 | 12   | Moxie     | 15    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 146   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 91    |
+| 🥉   | CRUCiBLE  | 92    |
 | 4    | NAN0      | 74    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 56    |
@@ -88,7 +88,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | hchcsen   | 30    |
 | 13   | Orphan    | 26    |
 | 14   | B00BA     | 25    |
-| 15   | Lulu      | 24    |
+| 15   | Lulu      | 23    |
 | 16   | Arid      | 22    |
 | 17   | Flugel    | 19    |
 | 18   | LazyRemux | 19    |
