@@ -16,9 +16,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 171   |
 | 🥈   | sam              | 132   |
-| 🥉   | CRUCiBLE         | 93    |
+| 🥉   | CRUCiBLE         | 94    |
 | 4    | MTBB             | 90    |
-| 5    | SubsPlease       | 84    |
+| 5    | SubsPlease       | 85    |
 | 6    | YURI             | 76    |
 | 7    | NAN0             | 75    |
 | 8    | Drag             | 58    |
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 110   |
 | 🥈   | sam       | 88    |
-| 🥉   | CRUCiBLE  | 78    |
+| 🥉   | CRUCiBLE  | 79    |
 | 4    | NAN0      | 62    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 146   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 92    |
+| 🥉   | CRUCiBLE  | 93    |
 | 4    | NAN0      | 74    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 56    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 72    |
+| 🥇   | SubsPlease       | 73    |
 | 🥈   | Drag             | 43    |
 | 🥉   | YURI             | 39    |
 | 4    | -ZR-             | 38    |
@@ -117,9 +117,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | Bunny-Apocalypse | 28    |
 | 12   | Arid             | 25    |
 | 13   | Kametsu          | 23    |
-| 14   | CTR              | 21    |
-| 15   | Holomux          | 20    |
-| 16   | Erai-raws        | 20    |
+| 14   | Erai-raws        | 21    |
+| 15   | CTR              | 21    |
+| 16   | Holomux          | 20    |
 | 17   | Pog42            | 18    |
 | 18   | Chihiro          | 18    |
 | 19   | SCY              | 16    |
