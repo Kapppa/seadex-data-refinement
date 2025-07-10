@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 171   |
+| 🥇   | -ZR-             | 172   |
 | 🥈   | sam              | 132   |
 | 🥉   | CRUCiBLE         | 94    |
 | 4    | MTBB             | 90    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 110   |
+| 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
 | 🥉   | CRUCiBLE  | 79    |
 | 4    | NAN0      | 62    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 146   |
+| 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
 | 🥉   | CRUCiBLE  | 93    |
 | 4    | NAN0      | 74    |
@@ -93,8 +93,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Flugel    | 19    |
 | 18   | LazyRemux | 19    |
 | 19   | KH        | 17    |
-| 20   | Drag      | 16    |
-| 21   | PMR       | 16    |
+| 20   | PMR       | 17    |
+| 21   | Drag      | 16    |
 | 22   | LostYears | 15    |
 | 23   | Pog42     | 14    |
 | 24   | Vodes     | 14    |
@@ -117,15 +117,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | Bunny-Apocalypse | 28    |
 | 12   | Arid             | 25    |
 | 13   | Kametsu          | 23    |
-| 14   | Erai-raws        | 21    |
+| 14   | Erai-raws        | 22    |
 | 15   | CTR              | 21    |
 | 16   | Holomux          | 20    |
 | 17   | Pog42            | 18    |
 | 18   | Chihiro          | 18    |
 | 19   | SCY              | 16    |
-| 20   | Reza             | 15    |
-| 21   | sam              | 15    |
-| 22   | VARYG            | 15    |
+| 20   | VARYG            | 16    |
+| 21   | Reza             | 15    |
+| 22   | sam              | 15    |
 | 23   | UDF              | 14    |
 | 24   | IK               | 13    |
 | 25   | HorribleSubs     | 13    |
