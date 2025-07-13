@@ -16,9 +16,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
 | 🥈   | sam              | 132   |
-| 🥉   | CRUCiBLE         | 94    |
+| 🥉   | CRUCiBLE         | 96    |
 | 4    | MTBB             | 90    |
-| 5    | SubsPlease       | 87    |
+| 5    | SubsPlease       | 86    |
 | 6    | NAN0             | 77    |
 | 7    | YURI             | 76    |
 | 8    | Drag             | 58    |
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 111   |
 | 🥈   | sam       | 88    |
-| 🥉   | CRUCiBLE  | 79    |
+| 🥉   | CRUCiBLE  | 78    |
 | 4    | NAN0      | 62    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 93    |
+| 🥉   | CRUCiBLE  | 95    |
 | 4    | NAN0      | 76    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 56    |
@@ -104,12 +104,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 75    |
+| 🥇   | SubsPlease       | 74    |
 | 🥈   | Drag             | 43    |
 | 🥉   | YURI             | 39    |
 | 4    | -ZR-             | 38    |
-| 5    | YURASUKA         | 37    |
-| 6    | KH               | 37    |
+| 5    | KH               | 37    |
+| 6    | YURASUKA         | 36    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 34    |
 | 9    | MTBB             | 32    |
