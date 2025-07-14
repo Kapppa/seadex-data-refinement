@@ -22,11 +22,11 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 15  | The Case Study of Vanitas                                                                   | 2021 | 14 Nov 2023 | [SeaDex](https://releases.moe/131646/), [AniList](https://anilist.co/anime/131646) |
 | 16  | Sword Art Online: Alicization - War of Underworld Part 2                                    | 2020 | 13 Nov 2023 | [SeaDex](https://releases.moe/114308/), [AniList](https://anilist.co/anime/114308) |
 | 17  | Cautious Hero: The Hero Is Overpowered but Overly Cautious                                  | 2019 | 07 May 2024 | [SeaDex](https://releases.moe/105156/), [AniList](https://anilist.co/anime/105156) |
-| 18  | Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway                  | 2021 | 01 Jun 2025 | [SeaDex](https://releases.moe/114232/), [AniList](https://anilist.co/anime/114232) |
+| 18  | Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway                  | 2021 | 13 Jul 2025 | [SeaDex](https://releases.moe/114232/), [AniList](https://anilist.co/anime/114232) |
 | 19  | Spice and Wolf                                                                              | 2008 | 15 Nov 2023 | [SeaDex](https://releases.moe/2966/), [AniList](https://anilist.co/anime/2966)     |
 | 20  | Welcome to Demon School! Iruma-kun                                                          | 2019 | 28 Jun 2025 | [SeaDex](https://releases.moe/107693/), [AniList](https://anilist.co/anime/107693) |
 | 21  | ODDTAXI                                                                                     | 2021 | 30 Dec 2023 | [SeaDex](https://releases.moe/128547/), [AniList](https://anilist.co/anime/128547) |
-| 22  | Plunderer                                                                                   | 2020 | 05 Apr 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
+| 22  | Plunderer                                                                                   | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
 | 23  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                   | 2023 | 03 Jul 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
 | 24  | Golden Kamuy                                                                                | 2018 | 01 Jun 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
 | 25  | Kemono Jihen                                                                                | 2021 | 16 May 2025 | [SeaDex](https://releases.moe/114085/), [AniList](https://anilist.co/anime/114085) |
@@ -60,8 +60,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 53  | From Up on Poppy Hill                                                                       | 2011 | 14 Nov 2023 | [SeaDex](https://releases.moe/10029/), [AniList](https://anilist.co/anime/10029)   |
 | 54  | Golden Kamuy Season 2                                                                       | 2018 | 01 Jun 2025 | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |
 | 55  | My Instant Death Ability is Overpowered                                                     | 2024 | 06 May 2025 | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
-| 56  | No Guns Life                                                                                | 2019 | 04 Apr 2025 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
-| 57  | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | 2024 | 22 Jan 2025 | [SeaDex](https://releases.moe/163292/), [AniList](https://anilist.co/anime/163292) |
+| 56  | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | 2024 | 22 Jan 2025 | [SeaDex](https://releases.moe/163292/), [AniList](https://anilist.co/anime/163292) |
+| 57  | No Guns Life                                                                                | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
 | 58  | Tokyo Ghoul: [JACK]                                                                         | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21132/), [AniList](https://anilist.co/anime/21132)   |
 | 59  | My Roommate is a Cat                                                                        | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
 | 60  | Infinite Dendrogram                                                                         | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
@@ -89,7 +89,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 82  | Wave, Listen to Me!                                                                         | 2020 | 09 Mar 2025 | [SeaDex](https://releases.moe/112353/), [AniList](https://anilist.co/anime/112353) |
 | 83  | Diary of Our Days at the Breakwater                                                         | 2020 | 13 Nov 2024 | [SeaDex](https://releases.moe/109019/), [AniList](https://anilist.co/anime/109019) |
 | 84  | Hakumei and Mikochi                                                                         | 2018 | 07 Jul 2024 | [SeaDex](https://releases.moe/99748/), [AniList](https://anilist.co/anime/99748)   |
-| 85  | No Guns Life Season 2                                                                       | 2020 | 04 Apr 2025 | [SeaDex](https://releases.moe/112803/), [AniList](https://anilist.co/anime/112803) |
+| 85  | No Guns Life Season 2                                                                       | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/112803/), [AniList](https://anilist.co/anime/112803) |
 | 86  | The Colors Within                                                                           | 2024 | 01 Jun 2025 | [SeaDex](https://releases.moe/158166/), [AniList](https://anilist.co/anime/158166) |
 | 87  | Hi Score Girl: Extra Stage                                                                  | 2019 | 07 Jul 2024 | [SeaDex](https://releases.moe/104307/), [AniList](https://anilist.co/anime/104307) |
 | 88  | number24                                                                                    | 2020 | 27 Jun 2025 | [SeaDex](https://releases.moe/108628/), [AniList](https://anilist.co/anime/108628) |

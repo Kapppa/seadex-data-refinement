@@ -16,15 +16,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
 | 🥈   | sam              | 132   |
-| 🥉   | CRUCiBLE         | 96    |
+| 🥉   | CRUCiBLE         | 97    |
 | 4    | MTBB             | 90    |
-| 5    | SubsPlease       | 86    |
+| 5    | SubsPlease       | 87    |
 | 6    | NAN0             | 77    |
 | 7    | YURI             | 76    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 58    |
 | 10   | hchcsen          | 56    |
-| 11   | KH               | 52    |
+| 11   | KH               | 53    |
 | 12   | Moxie            | 50    |
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 46    |
@@ -44,9 +44,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 111   |
+| 🥇   | -ZR-      | 110   |
 | 🥈   | sam       | 88    |
-| 🥉   | CRUCiBLE  | 78    |
+| 🥉   | CRUCiBLE  | 79    |
 | 4    | NAN0      | 62    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
@@ -74,9 +74,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 147   |
+| 🥇   | -ZR-      | 146   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 95    |
+| 🥉   | CRUCiBLE  | 96    |
 | 4    | NAN0      | 76    |
 | 5    | MTBB      | 58    |
 | 6    | smol      | 56    |
@@ -104,11 +104,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 74    |
+| 🥇   | SubsPlease       | 75    |
 | 🥈   | Drag             | 43    |
 | 🥉   | YURI             | 39    |
-| 4    | -ZR-             | 38    |
-| 5    | KH               | 37    |
+| 4    | -ZR-             | 39    |
+| 5    | KH               | 38    |
 | 6    | YURASUKA         | 36    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 34    |
@@ -122,10 +122,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | Holomux          | 20    |
 | 17   | Pog42            | 18    |
 | 18   | Chihiro          | 18    |
-| 19   | SCY              | 16    |
-| 20   | VARYG            | 16    |
-| 21   | Reza             | 15    |
-| 22   | HorribleSubs     | 15    |
+| 19   | HorribleSubs     | 17    |
+| 20   | SCY              | 16    |
+| 21   | VARYG            | 16    |
+| 22   | Reza             | 15    |
 | 23   | UDF              | 14    |
 | 24   | sam              | 14    |
 | 25   | Lulu             | 13    |

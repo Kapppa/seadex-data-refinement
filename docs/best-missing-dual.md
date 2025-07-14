@@ -35,7 +35,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 28  | Den-noh Coil                                                                    | 2007 | 25 Jun 2024 | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
 | 29  | Now and Then, Here and There                                                    | 1999 | 30 Dec 2023 | [SeaDex](https://releases.moe/160/), [AniList](https://anilist.co/anime/160)       |
 | 30  | A Certain Magical Index: The Miracle of Endymion                                | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
-| 31  | Assault Lily BOUQUET                                                            | 2020 | 20 Jun 2025 | [SeaDex](https://releases.moe/112479/), [AniList](https://anilist.co/anime/112479) |
+| 31  | Assault Lily BOUQUET                                                            | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/112479/), [AniList](https://anilist.co/anime/112479) |
 | 32  | The Girl from the Other Side                                                    | 2022 | 11 Nov 2023 | [SeaDex](https://releases.moe/130550/), [AniList](https://anilist.co/anime/130550) |
 | 33  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                           | 2013 | 17 Feb 2025 | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
 | 34  | Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou      | 2012 | 26 Jan 2025 | [SeaDex](https://releases.moe/15879/), [AniList](https://anilist.co/anime/15879)   |
