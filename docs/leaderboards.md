@@ -14,12 +14,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 173   |
-| 🥈   | sam              | 132   |
-| 🥉   | CRUCiBLE         | 98    |
+| 🥇   | -ZR-             | 174   |
+| 🥈   | sam              | 129   |
+| 🥉   | CRUCiBLE         | 99    |
 | 4    | MTBB             | 93    |
-| 5    | SubsPlease       | 87    |
-| 6    | NAN0             | 77    |
+| 5    | SubsPlease       | 86    |
+| 6    | NAN0             | 78    |
 | 7    | YURI             | 76    |
 | 8    | Drag             | 58    |
 | 9    | smol             | 58    |
@@ -47,7 +47,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-      | 110   |
 | 🥈   | sam       | 88    |
 | 🥉   | CRUCiBLE  | 79    |
-| 4    | NAN0      | 62    |
+| 4    | NAN0      | 63    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
 | 7    | smol      | 23    |
@@ -76,8 +76,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 97    |
-| 4    | NAN0      | 76    |
+| 🥉   | CRUCiBLE  | 98    |
+| 4    | NAN0      | 77    |
 | 5    | MTBB      | 61    |
 | 6    | smol      | 56    |
 | 7    | Moxie     | 50    |
@@ -104,10 +104,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 75    |
+| 🥇   | SubsPlease       | 74    |
 | 🥈   | Drag             | 43    |
-| 🥉   | YURI             | 39    |
-| 4    | -ZR-             | 39    |
+| 🥉   | -ZR-             | 40    |
+| 4    | YURI             | 39    |
 | 5    | KH               | 38    |
 | 6    | YURASUKA         | 37    |
 | 7    | LostYears        | 34    |
@@ -127,5 +127,5 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | VARYG            | 16    |
 | 22   | Reza             | 15    |
 | 23   | UDF              | 14    |
-| 24   | sam              | 14    |
-| 25   | Lulu             | 13    |
+| 24   | Lulu             | 13    |
+| 25   | NH               | 12    |
