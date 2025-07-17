@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `106.5 TiB`
-- Best size: `78.1 TiB`
+- Total size: `106.6 TiB`
+- Best size: `78.0 TiB`
 - Alt size: `28.5 TiB`
-- Realistic size: `82.4 TiB`
+- Realistic size: `82.5 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -30,7 +30,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 8    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 50 (~43.7 GiB each)   |
 | 9    | PMR              | 1.6 TiB    | 1.6 TiB (100.00%)   | 20 (~82.1 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 11   | SubsPlease       | 1.5 TiB    | 206.6 GiB (13.79%)  | 87 (~17.2 GiB each)   |
+| 11   | SubsPlease       | 1.4 TiB    | 206.6 GiB (13.94%)  | 86 (~17.2 GiB each)   |
 | 12   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 13   | MTBB             | 1.4 TiB    | 1.1 TiB (81.85%)    | 93 (~15.5 GiB each)   |
 | 14   | NOGRP            | 1.4 TiB    | 849.8 GiB (60.74%)  | 21 (~66.6 GiB each)   |
@@ -42,8 +42,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 20   | YURI             | 898.8 GiB  | 401.7 GiB (44.70%)  | 76 (~11.8 GiB each)   |
 | 21   | Vodes            | 853.4 GiB  | 533.6 GiB (62.53%)  | 19 (~44.9 GiB each)   |
 | 22   | LostYears        | 807.3 GiB  | 288.6 GiB (35.75%)  | 49 (~16.5 GiB each)   |
-| 23   | Holomux          | 768.0 GiB  | 194.2 GiB (25.29%)  | 30 (~25.6 GiB each)   |
-| 24   | Bunny-Apocalypse | 760.0 GiB  | 173.8 GiB (22.87%)  | 35 (~21.7 GiB each)   |
+| 23   | Bunny-Apocalypse | 776.7 GiB  | 173.8 GiB (22.38%)  | 36 (~21.6 GiB each)   |
+| 24   | Holomux          | 768.0 GiB  | 194.2 GiB (25.29%)  | 30 (~25.6 GiB each)   |
 | 25   | FraMeSToR        | 745.7 GiB  | 745.7 GiB (100.00%) | 10 (~74.6 GiB each)   |
 | 26   | ZeroBuild        | 743.1 GiB  | 646.3 GiB (86.97%)  | 16 (~46.4 GiB each)   |
 | 27   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
@@ -65,8 +65,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 43   | SEV              | 538.2 GiB  | 0 B (0.00%)         | 11 (~48.9 GiB each)   |
 | 44   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
 | 45   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
-| 46   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
-| 47   | Headpatter       | 477.5 GiB  | 315.5 GiB (66.06%)  | 21 (~22.7 GiB each)   |
+| 46   | Headpatter       | 495.1 GiB  | 333.0 GiB (67.26%)  | 22 (~22.5 GiB each)   |
+| 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
-| 50   | Others           | 33.3 TiB   | 18.5 TiB (55.50%)   | 1684 (~20.3 GiB each) |
+| 50   | Others           | 33.4 TiB   | 18.5 TiB (55.31%)   | 1687 (~20.2 GiB each) |

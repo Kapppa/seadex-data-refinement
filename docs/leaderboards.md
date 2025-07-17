@@ -18,7 +18,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam              | 129   |
 | 🥉   | CRUCiBLE         | 101   |
 | 4    | MTBB             | 93    |
-| 5    | SubsPlease       | 87    |
+| 5    | SubsPlease       | 86    |
 | 6    | NAN0             | 78    |
 | 7    | YURI             | 76    |
 | 8    | Drag             | 58    |
@@ -30,7 +30,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | Arid             | 45    |
 | 15   | YURASUKA         | 41    |
 | 16   | LYS1TH3A         | 37    |
-| 17   | Bunny-Apocalypse | 35    |
+| 17   | Bunny-Apocalypse | 36    |
 | 18   | Lulu             | 34    |
 | 19   | TTGA             | 34    |
 | 20   | Okay-Subs        | 34    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 74    |
+| 🥇   | SubsPlease       | 73    |
 | 🥈   | Drag             | 43    |
 | 🥉   | YURI             | 39    |
 | 4    | -ZR-             | 39    |
@@ -114,7 +114,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | Commie           | 34    |
 | 9    | MTBB             | 32    |
 | 10   | hchcsen          | 32    |
-| 11   | Bunny-Apocalypse | 28    |
+| 11   | Bunny-Apocalypse | 29    |
 | 12   | Arid             | 24    |
 | 13   | Kametsu          | 22    |
 | 14   | Erai-raws        | 22    |
