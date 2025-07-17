@@ -26,6 +26,7 @@ public-tracker-only.md
 top-500.md
 best-missing-dual.md
 alt-missing-dual.md
+encode-best-entries
 ```
 
 ## Overview
