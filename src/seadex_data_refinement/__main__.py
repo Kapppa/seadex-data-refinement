@@ -30,6 +30,7 @@ def get_entries(
         "public-tracker-only",
         "best-missing-dual",
         "alt-missing-dual",
+        "encode-best-entries",
     ],
     /,
     *,
@@ -41,7 +42,7 @@ def get_entries(
 
     Parameters
     ----------
-    criteria : Literal["unmuxed", "no-comparisons", "marked-incomplete", "public-non-nyaa", "private-tracker-only-torrents", "private-tracker-only-entries", "public-tracker-only", "best-no-dual"]
+    criteria : Literal[...]
         The criteria to use for retrieving SeaDex entries.
         - "unmuxed": Unmuxed entries.
         - "no-comparisons": Entries without any comparisons.
@@ -153,6 +154,27 @@ def get_entries(
                     elif not alt_has_dual and best_has_dual and has_alt and criteria == "alt-missing-dual":
                         entries[entry.anilist_id] = entry
 
+        case "encode-best-entries":
+            header = "# Encode best entries"
+
+            def predicate(entry: seadex.EntryRecord, /) -> bool:
+                if "remux" in entry.notes.casefold():
+                    return False
+
+                if entry.is_incomplete:
+                    return False
+
+                comparisons = [comp for comp in entry.comparisons if "slow" in comp]
+                if not comparisons:
+                    return False
+
+                return any(torrent.is_best for torrent in entry.torrents)
+
+            with seadex.SeaDexEntry() as seadex_entry:
+                for entry in seadex_entry.iterator():
+                    if predicate(entry):
+                        entries[entry.anilist_id] = entry
+
         case _:  # Won't ever happen because cyclopts already validates the input.
             raise ValueError(criteria)
 
@@ -220,7 +242,9 @@ def top_missing(count: int, outfile: Path | None = None) -> None:
     output = MediaEntryCollection.top_x_anilist_not_on_dex(count)
 
     if outfile:
-        outfile.write_text(output.to_markdown_table(header=f"# Top {len(output.entries)} missing shows"), encoding="utf-8")
+        outfile.write_text(
+            output.to_markdown_table(header=f"# Top {len(output.entries)} missing shows"), encoding="utf-8"
+        )
     else:
         print(output)
 

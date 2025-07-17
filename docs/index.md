@@ -54,6 +54,8 @@ alt-missing-dual.md
 
 * {doc}`alt-missing-dual`: Same as best-missing-dual, but for alt releases instead.
 
+* {doc}`encode-best-entries`: Entries where an encode beats the store.
+
 ## Running locally
 
 If you just want to build the docs:

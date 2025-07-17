@@ -25,7 +25,7 @@ class MarkdownTable:
         table.align = "l"
         table.field_names = self.fieldnames
         for row in self.rows:
-            table.add_row(row) # type: ignore[arg-type]
+            table.add_row(row)  # type: ignore[arg-type]
         out = table.get_formatted_string()
 
         if self.header:
