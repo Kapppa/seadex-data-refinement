@@ -16,9 +16,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 174   |
 | 🥈   | sam              | 129   |
-| 🥉   | CRUCiBLE         | 99    |
+| 🥉   | CRUCiBLE         | 101   |
 | 4    | MTBB             | 93    |
-| 5    | SubsPlease       | 86    |
+| 5    | SubsPlease       | 87    |
 | 6    | NAN0             | 78    |
 | 7    | YURI             | 76    |
 | 8    | Drag             | 58    |
@@ -30,7 +30,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | Arid             | 45    |
 | 15   | YURASUKA         | 41    |
 | 16   | LYS1TH3A         | 37    |
-| 17   | Bunny-Apocalypse | 36    |
+| 17   | Bunny-Apocalypse | 35    |
 | 18   | Lulu             | 34    |
 | 19   | TTGA             | 34    |
 | 20   | Okay-Subs        | 34    |
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 110   |
 | 🥈   | sam       | 88    |
-| 🥉   | CRUCiBLE  | 79    |
+| 🥉   | CRUCiBLE  | 80    |
 | 4    | NAN0      | 63    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 98    |
+| 🥉   | CRUCiBLE  | 100   |
 | 4    | NAN0      | 77    |
 | 5    | MTBB      | 61    |
 | 6    | smol      | 56    |
@@ -106,19 +106,19 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 74    |
 | 🥈   | Drag             | 43    |
-| 🥉   | -ZR-             | 40    |
-| 4    | YURI             | 39    |
+| 🥉   | YURI             | 39    |
+| 4    | -ZR-             | 39    |
 | 5    | KH               | 38    |
 | 6    | YURASUKA         | 37    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 34    |
 | 9    | MTBB             | 32    |
 | 10   | hchcsen          | 32    |
-| 11   | Bunny-Apocalypse | 29    |
+| 11   | Bunny-Apocalypse | 28    |
 | 12   | Arid             | 24    |
 | 13   | Kametsu          | 22    |
 | 14   | Erai-raws        | 22    |
-| 15   | CTR              | 21    |
+| 15   | CTR              | 22    |
 | 16   | Holomux          | 20    |
 | 17   | Pog42            | 18    |
 | 18   | Chihiro          | 18    |
