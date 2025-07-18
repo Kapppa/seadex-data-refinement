@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 from pathlib import Path
 from typing import Literal
 
@@ -158,8 +159,12 @@ def get_entries(
             header = "# Encode best entries"
 
             def predicate(entry: seadex.EntryRecord, /) -> bool:
-                if "remux" in entry.notes.casefold():
-                    return False
+                if notes := entry.notes.casefold():
+                    if "remux" in notes:
+                        return False
+
+                    if re.search(r"web[-\s]?DL", notes.splitlines()[0], re.IGNORECASE):
+                        return False
 
                 if entry.is_incomplete:
                     return False
