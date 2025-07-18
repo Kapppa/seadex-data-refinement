@@ -26,7 +26,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 19  | The Elusive Samurai                                                             | 2024 | 03 Mar 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
 | 20  | Urusei Yatsura (2022)                                                           | 2022 | 11 Jun 2025 | [SeaDex](https://releases.moe/143277/), [AniList](https://anilist.co/anime/143277) |
 | 21  | Our love has always been 10 centimeters apart.                                  | 2017 | 12 Apr 2025 | [SeaDex](https://releases.moe/98977/), [AniList](https://anilist.co/anime/98977)   |
-| 22  | K: RETURN OF KINGS                                                              | 2015 | 13 Jul 2024 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
+| 22  | K: RETURN OF KINGS                                                              | 2015 | 17 Jul 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 23  | High School DxD OVA                                                             | 2012 | 08 Jun 2025 | [SeaDex](https://releases.moe/12729/), [AniList](https://anilist.co/anime/12729)   |
 | 24  | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout        | 2022 | 24 May 2025 | [SeaDex](https://releases.moe/134252/), [AniList](https://anilist.co/anime/134252) |
 | 25  | Thus Spoke Rohan Kishibe                                                        | 2017 | 08 Jun 2025 | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
@@ -45,7 +45,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 38  | Toward the Terra (TV)                                                           | 2007 | 14 Nov 2023 | [SeaDex](https://releases.moe/2158/), [AniList](https://anilist.co/anime/2158)     |
 | 39  | Aesthetica of a Rogue Hero Specials                                             | 2012 | 23 Jun 2024 | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
 | 40  | IS: Infinite Stratos 2 - Infinite Wedding                                       | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
-| 41  | Ranma ½ (1989)                                                                  | 1989 | 27 Nov 2023 | [SeaDex](https://releases.moe/149939/), [AniList](https://anilist.co/anime/149939) |
+| 41  | Ranma ½ (1989)                                                                  | 1989 | 17 Jul 2025 | [SeaDex](https://releases.moe/149939/), [AniList](https://anilist.co/anime/149939) |
 | 42  | Mobile Suit Gundam SEED FREEDOM                                                 | 2024 | 29 Dec 2024 | [SeaDex](https://releases.moe/134761/), [AniList](https://anilist.co/anime/134761) |
 | 43  | El Hazard: The Wanderers                                                        | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
 | 44  | Photon: The Idiot Adventures                                                    | 1997 | 08 Jun 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |

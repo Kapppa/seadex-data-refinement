@@ -9,5 +9,5 @@
 | 6   | Akagi                | 2005 | 14 Nov 2023 | [SeaDex](https://releases.moe/658/), [AniList](https://anilist.co/anime/658)     |
 | 7   | Rumbling Hearts      | 2003 | 07 Jun 2025 | [SeaDex](https://releases.moe/147/), [AniList](https://anilist.co/anime/147)     |
 | 8   | Angel's 3Piece!      | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/97683/), [AniList](https://anilist.co/anime/97683) |
-| 9   | Eiken                | 2003 | 29 Mar 2025 | [SeaDex](https://releases.moe/788/), [AniList](https://anilist.co/anime/788)     |
+| 9   | Eiken                | 2003 | 17 Jul 2025 | [SeaDex](https://releases.moe/788/), [AniList](https://anilist.co/anime/788)     |
 | 10  | The Reflection       | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461) |

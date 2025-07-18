@@ -57,14 +57,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | YURI      | 17    |
 | 12   | Moxie     | 15    |
 | 13   | LazyRemux | 15    |
-| 14   | KH        | 15    |
-| 15   | LostYears | 15    |
+| 14   | LostYears | 15    |
+| 15   | KH        | 13    |
 | 16   | FLE       | 13    |
 | 17   | Arid      | 13    |
 | 18   | Vodes     | 12    |
 | 19   | ZeroBuild | 12    |
-| 20   | SCY       | 11    |
-| 21   | koala     | 10    |
+| 20   | koala     | 11    |
+| 21   | SCY       | 11    |
 | 22   | hydes     | 10    |
 | 23   | FraMeSToR | 10    |
 | 24   | DemiHuman | 10    |
@@ -81,7 +81,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | MTBB      | 61    |
 | 6    | smol      | 56    |
 | 7    | Moxie     | 50    |
-| 8    | YURI      | 37    |
+| 8    | YURI      | 36    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 32    |
 | 11   | Okay-Subs | 30    |
@@ -93,12 +93,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | PMR       | 20    |
 | 18   | Flugel    | 19    |
 | 19   | LazyRemux | 19    |
-| 20   | KH        | 17    |
-| 21   | Drag      | 16    |
+| 20   | Drag      | 16    |
+| 21   | KH        | 15    |
 | 22   | LostYears | 15    |
 | 23   | FLE       | 15    |
-| 24   | Pog42     | 14    |
-| 25   | Vodes     | 14    |
+| 24   | koala     | 14    |
+| 25   | Pog42     | 14    |
 
 ## Top 25 - Alt entries
 
@@ -106,9 +106,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 73    |
 | 🥈   | Drag             | 43    |
-| 🥉   | YURI             | 39    |
-| 4    | -ZR-             | 39    |
-| 5    | KH               | 38    |
+| 🥉   | YURI             | 40    |
+| 4    | KH               | 40    |
+| 5    | -ZR-             | 39    |
 | 6    | YURASUKA         | 37    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 34    |
@@ -118,7 +118,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Arid             | 24    |
 | 13   | Kametsu          | 22    |
 | 14   | Erai-raws        | 22    |
-| 15   | CTR              | 22    |
+| 15   | CTR              | 21    |
 | 16   | Holomux          | 20    |
 | 17   | Pog42            | 18    |
 | 18   | Chihiro          | 18    |

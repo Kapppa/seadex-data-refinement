@@ -83,7 +83,7 @@
 | 80  | A Sign of Affection                                                                                   | 2024 | 16 May 2025 | [SeaDex](https://releases.moe/166794/), [AniList](https://anilist.co/anime/166794) |
 | 81  | KONOSUBA -An Explosion on This Wonderful World!                                                       | 2023 | 27 Apr 2025 | [SeaDex](https://releases.moe/150075/), [AniList](https://anilist.co/anime/150075) |
 | 82  | Buddy Daddies                                                                                         | 2023 | 16 Apr 2025 | [SeaDex](https://releases.moe/155907/), [AniList](https://anilist.co/anime/155907) |
-| 83  | the Garden of sinners Chapter 1: Thanatos. (Overlooking View)                                         | 2007 | 30 Jan 2024 | [SeaDex](https://releases.moe/2593/), [AniList](https://anilist.co/anime/2593)     |
+| 83  | the Garden of sinners Chapter 1: Thanatos. (Overlooking View)                                         | 2007 | 17 Jul 2025 | [SeaDex](https://releases.moe/2593/), [AniList](https://anilist.co/anime/2593)     |
 | 84  | KONOSUBA -God's blessing on this wonderful world! 2: God's Blessings on These Wonderful Works of Art! | 2017 | 05 Mar 2025 | [SeaDex](https://releases.moe/97996/), [AniList](https://anilist.co/anime/97996)   |
 | 85  | ASSASSINS PRIDE                                                                                       | 2019 | 06 May 2024 | [SeaDex](https://releases.moe/104722/), [AniList](https://anilist.co/anime/104722) |
 | 86  | Gintama Season 2                                                                                      | 2011 | 03 Jul 2024 | [SeaDex](https://releases.moe/9969/), [AniList](https://anilist.co/anime/9969)     |
@@ -127,7 +127,7 @@
 | 124 | Miss Kobayashi's Dragon Maid: Valentines and Hot Springs! (Please Don't Get Your Hopes Up)            | 2017 | 15 May 2024 | [SeaDex](https://releases.moe/98580/), [AniList](https://anilist.co/anime/98580)   |
 | 125 | One Week Friends                                                                                      | 2014 | 30 Dec 2023 | [SeaDex](https://releases.moe/20527/), [AniList](https://anilist.co/anime/20527)   |
 | 126 | The Elusive Samurai                                                                                   | 2024 | 03 Mar 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
-| 127 | Parallel World Pharmacy                                                                               | 2022 | 02 Jun 2025 | [SeaDex](https://releases.moe/136707/), [AniList](https://anilist.co/anime/136707) |
+| 127 | Parallel World Pharmacy                                                                               | 2022 | 17 Jul 2025 | [SeaDex](https://releases.moe/136707/), [AniList](https://anilist.co/anime/136707) |
 | 128 | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells                | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/173694/), [AniList](https://anilist.co/anime/173694) |
 | 129 | Ghost Stories                                                                                         | 2000 | 02 Jul 2024 | [SeaDex](https://releases.moe/1281/), [AniList](https://anilist.co/anime/1281)     |
 | 130 | Harem in the Labyrinth of Another World                                                               | 2022 | 08 Jul 2025 | [SeaDex](https://releases.moe/127090/), [AniList](https://anilist.co/anime/127090) |
@@ -214,7 +214,7 @@
 | 211 | Medalist                                                                                              | 2025 | 05 Jun 2025 | [SeaDex](https://releases.moe/165171/), [AniList](https://anilist.co/anime/165171) |
 | 212 | RahXephon                                                                                             | 2002 | 14 Aug 2024 | [SeaDex](https://releases.moe/165/), [AniList](https://anilist.co/anime/165)       |
 | 213 | Fate/Grand Order Absolute Demonic Front: Babylonia - Initium Iter                                     | 2019 | 22 Nov 2024 | [SeaDex](https://releases.moe/110851/), [AniList](https://anilist.co/anime/110851) |
-| 214 | Expelled From Paradise                                                                                | 2014 | 14 Nov 2023 | [SeaDex](https://releases.moe/13391/), [AniList](https://anilist.co/anime/13391)   |
+| 214 | Expelled From Paradise                                                                                | 2014 | 17 Jul 2025 | [SeaDex](https://releases.moe/13391/), [AniList](https://anilist.co/anime/13391)   |
 | 215 | Dead Leaves                                                                                           | 2004 | 08 Jun 2025 | [SeaDex](https://releases.moe/974/), [AniList](https://anilist.co/anime/974)       |
 | 216 | Yamada and the Seven Witches (OVA)                                                                    | 2014 | 07 Nov 2023 | [SeaDex](https://releases.moe/20740/), [AniList](https://anilist.co/anime/20740)   |
 | 217 | IDOLiSH7                                                                                              | 2018 | 24 Jun 2025 | [SeaDex](https://releases.moe/87495/), [AniList](https://anilist.co/anime/87495)   |
@@ -248,7 +248,7 @@
 | 245 | Kimi no Iru Machi: Tasogare Kousaten                                                                  | 2012 | 07 Apr 2024 | [SeaDex](https://releases.moe/11313/), [AniList](https://anilist.co/anime/11313)   |
 | 246 | KINMOZA! Pretty Days                                                                                  | 2016 | 19 Jun 2025 | [SeaDex](https://releases.moe/21753/), [AniList](https://anilist.co/anime/21753)   |
 | 247 | Strike Witches: Road to Berlin                                                                        | 2020 | 07 Jun 2025 | [SeaDex](https://releases.moe/103119/), [AniList](https://anilist.co/anime/103119) |
-| 248 | Eiken                                                                                                 | 2003 | 29 Mar 2025 | [SeaDex](https://releases.moe/788/), [AniList](https://anilist.co/anime/788)       |
+| 248 | Eiken                                                                                                 | 2003 | 17 Jul 2025 | [SeaDex](https://releases.moe/788/), [AniList](https://anilist.co/anime/788)       |
 | 249 | UN-GO MOVIE                                                                                           | 2011 | 21 Feb 2025 | [SeaDex](https://releases.moe/11531/), [AniList](https://anilist.co/anime/11531)   |
 | 250 | The Reflection                                                                                        | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461)   |
 | 251 | Kanokon Specials                                                                                      | 2008 | 16 Jul 2024 | [SeaDex](https://releases.moe/4760/), [AniList](https://anilist.co/anime/4760)     |
