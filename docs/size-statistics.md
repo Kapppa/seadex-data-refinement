@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
-| 50   | Others           | 33.4 TiB   | 18.5 TiB (55.33%)   | 1687 (~20.3 GiB each) |
+| 50   | Others           | 33.4 TiB   | 18.5 TiB (55.32%)   | 1687 (~20.3 GiB each) |

@@ -6,9 +6,8 @@
 | 3   | How a Realist Hero Rebuilt the Kingdom        | 2021 | 18 Jul 2025 | [SeaDex](https://releases.moe/117612/), [AniList](https://anilist.co/anime/117612) |
 | 4   | How a Realist Hero Rebuilt the Kingdom Part 2 | 2022 | 18 Jul 2025 | [SeaDex](https://releases.moe/139648/), [AniList](https://anilist.co/anime/139648) |
 | 5   | Seirei Gensouki: Spirit Chronicles Season 2   | 2024 | 13 Jul 2025 | [SeaDex](https://releases.moe/141182/), [AniList](https://anilist.co/anime/141182) |
-| 6   | Cross Ange: Rondo of Angel and Dragon         | 2014 | 17 Jul 2025 | [SeaDex](https://releases.moe/20806/), [AniList](https://anilist.co/anime/20806)   |
-| 7   | The Ones Within                               | 2019 | 16 Jul 2025 | [SeaDex](https://releases.moe/102926/), [AniList](https://anilist.co/anime/102926) |
-| 8   | My One-Hit Kill Sister                        | 2023 | 17 Jul 2025 | [SeaDex](https://releases.moe/146234/), [AniList](https://anilist.co/anime/146234) |
-| 9   | Scarlet Nexus                                 | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
-| 10  | PSYCHO-PASS 3: First Inspector                | 2020 | 15 Jul 2025 | [SeaDex](https://releases.moe/113917/), [AniList](https://anilist.co/anime/113917) |
-| 11  | Overlord: Ple Ple Pleiades 4                  | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 6   | The Ones Within                               | 2019 | 16 Jul 2025 | [SeaDex](https://releases.moe/102926/), [AniList](https://anilist.co/anime/102926) |
+| 7   | My One-Hit Kill Sister                        | 2023 | 17 Jul 2025 | [SeaDex](https://releases.moe/146234/), [AniList](https://anilist.co/anime/146234) |
+| 8   | Scarlet Nexus                                 | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
+| 9   | PSYCHO-PASS 3: First Inspector                | 2020 | 15 Jul 2025 | [SeaDex](https://releases.moe/113917/), [AniList](https://anilist.co/anime/113917) |
+| 10  | Overlord: Ple Ple Pleiades 4                  | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
