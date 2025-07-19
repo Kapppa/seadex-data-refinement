@@ -18,7 +18,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam              | 129   |
 | 🥉   | CRUCiBLE         | 101   |
 | 4    | MTBB             | 93    |
-| 5    | SubsPlease       | 86    |
+| 5    | SubsPlease       | 85    |
 | 6    | NAN0             | 78    |
 | 7    | YURI             | 76    |
 | 8    | Drag             | 58    |
@@ -28,7 +28,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Moxie            | 50    |
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 45    |
-| 15   | YURASUKA         | 41    |
+| 15   | YURASUKA         | 40    |
 | 16   | LYS1TH3A         | 37    |
 | 17   | Bunny-Apocalypse | 36    |
 | 18   | Lulu             | 34    |
@@ -104,12 +104,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 73    |
+| 🥇   | SubsPlease       | 72    |
 | 🥈   | Drag             | 43    |
 | 🥉   | YURI             | 40    |
 | 4    | KH               | 40    |
 | 5    | -ZR-             | 39    |
-| 6    | YURASUKA         | 37    |
+| 6    | YURASUKA         | 36    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 34    |
 | 9    | MTBB             | 32    |
@@ -127,5 +127,5 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | VARYG            | 16    |
 | 22   | Reza             | 15    |
 | 23   | UDF              | 14    |
-| 24   | Lulu             | 13    |
-| 25   | NH               | 12    |
+| 24   | Headpatter       | 14    |
+| 25   | Lulu             | 13    |

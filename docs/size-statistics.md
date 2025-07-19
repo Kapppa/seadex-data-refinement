@@ -9,7 +9,7 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `106.8 TiB`
-- Best size: `78.2 TiB`
+- Best size: `78.3 TiB`
 - Alt size: `28.6 TiB`
 - Realistic size: `82.7 TiB`
 
@@ -30,7 +30,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 8    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 50 (~43.7 GiB each)   |
 | 9    | PMR              | 1.6 TiB    | 1.6 TiB (100.00%)   | 20 (~82.1 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 11   | SubsPlease       | 1.4 TiB    | 206.6 GiB (13.94%)  | 86 (~17.2 GiB each)   |
+| 11   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.11%)  | 85 (~17.2 GiB each)   |
 | 12   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 13   | MTBB             | 1.4 TiB    | 1.1 TiB (81.85%)    | 93 (~15.5 GiB each)   |
 | 14   | NOGRP            | 1.4 TiB    | 849.8 GiB (60.74%)  | 21 (~66.6 GiB each)   |
@@ -62,11 +62,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 40   | FLE              | 552.9 GiB  | 533.1 GiB (96.42%)  | 16 (~34.6 GiB each)   |
 | 41   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
 | 42   | SEV              | 538.2 GiB  | 0 B (0.00%)         | 11 (~48.9 GiB each)   |
-| 43   | CTR              | 507.1 GiB  | 113.6 GiB (22.40%)  | 26 (~19.5 GiB each)   |
-| 44   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 45   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
-| 46   | Headpatter       | 495.1 GiB  | 333.0 GiB (67.26%)  | 22 (~22.5 GiB each)   |
+| 43   | Headpatter       | 516.8 GiB  | 333.0 GiB (64.43%)  | 24 (~21.5 GiB each)   |
+| 44   | CTR              | 507.1 GiB  | 113.6 GiB (22.40%)  | 26 (~19.5 GiB each)   |
+| 45   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
+| 46   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
-| 50   | Others           | 33.4 TiB   | 18.5 TiB (55.32%)   | 1687 (~20.3 GiB each) |
+| 50   | Others           | 33.4 TiB   | 18.5 TiB (55.36%)   | 1687 (~20.3 GiB each) |
