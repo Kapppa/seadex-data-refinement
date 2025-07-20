@@ -16,7 +16,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 174   |
 | 🥈   | sam              | 129   |
-| 🥉   | CRUCiBLE         | 101   |
+| 🥉   | CRUCiBLE         | 102   |
 | 4    | MTBB             | 93    |
 | 5    | SubsPlease       | 85    |
 | 6    | NAN0             | 78    |
@@ -28,7 +28,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Moxie            | 50    |
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 45    |
-| 15   | YURASUKA         | 40    |
+| 15   | YURASUKA         | 42    |
 | 16   | LYS1TH3A         | 37    |
 | 17   | Bunny-Apocalypse | 36    |
 | 18   | Lulu             | 34    |
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 110   |
 | 🥈   | sam       | 88    |
-| 🥉   | CRUCiBLE  | 80    |
+| 🥉   | CRUCiBLE  | 81    |
 | 4    | NAN0      | 63    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 29    |
@@ -58,12 +58,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Moxie     | 15    |
 | 13   | LazyRemux | 15    |
 | 14   | LostYears | 15    |
-| 15   | KH        | 13    |
-| 16   | FLE       | 13    |
-| 17   | Arid      | 13    |
-| 18   | Vodes     | 12    |
-| 19   | ZeroBuild | 12    |
-| 20   | koala     | 11    |
+| 15   | koala     | 13    |
+| 16   | KH        | 13    |
+| 17   | FLE       | 13    |
+| 18   | Arid      | 13    |
+| 19   | Vodes     | 12    |
+| 20   | ZeroBuild | 12    |
 | 21   | SCY       | 11    |
 | 22   | hydes     | 10    |
 | 23   | FraMeSToR | 10    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 147   |
 | 🥈   | sam       | 118   |
-| 🥉   | CRUCiBLE  | 100   |
+| 🥉   | CRUCiBLE  | 101   |
 | 4    | NAN0      | 77    |
 | 5    | MTBB      | 61    |
 | 6    | smol      | 56    |
@@ -90,14 +90,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | B00BA     | 25    |
 | 15   | Lulu      | 22    |
 | 16   | Arid      | 22    |
-| 17   | PMR       | 20    |
-| 18   | Flugel    | 19    |
-| 19   | LazyRemux | 19    |
-| 20   | Drag      | 16    |
-| 21   | KH        | 15    |
-| 22   | LostYears | 15    |
-| 23   | FLE       | 15    |
-| 24   | koala     | 14    |
+| 17   | Flugel    | 19    |
+| 18   | LazyRemux | 19    |
+| 19   | PMR       | 19    |
+| 20   | koala     | 16    |
+| 21   | Drag      | 16    |
+| 22   | KH        | 15    |
+| 23   | LostYears | 15    |
+| 24   | FLE       | 15    |
 | 25   | Pog42     | 14    |
 
 ## Top 25 - Alt entries
@@ -121,11 +121,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | CTR              | 21    |
 | 16   | Holomux          | 20    |
 | 17   | Pog42            | 18    |
-| 18   | Chihiro          | 18    |
+| 18   | Chihiro          | 17    |
 | 19   | HorribleSubs     | 17    |
 | 20   | SCY              | 16    |
-| 21   | VARYG            | 16    |
-| 22   | Reza             | 15    |
+| 21   | Reza             | 15    |
+| 22   | VARYG            | 15    |
 | 23   | UDF              | 14    |
 | 24   | Headpatter       | 14    |
 | 25   | Lulu             | 13    |
