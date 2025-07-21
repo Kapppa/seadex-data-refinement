@@ -9,8 +9,8 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `107.0 TiB`
-- Best size: `78.4 TiB`
-- Alt size: `28.6 TiB`
+- Best size: `78.6 TiB`
+- Alt size: `28.4 TiB`
 - Realistic size: `82.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -20,17 +20,17 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.6 TiB   | 12.3 TiB (84.23%)   | 186 (~80.5 GiB each)  |
-| 2    | CRUCiBLE         | 7.7 TiB    | 7.6 TiB (99.33%)    | 102 (~77.0 GiB each)  |
+| 1    | -ZR-             | 14.4 TiB   | 12.3 TiB (85.32%)   | 184 (~80.4 GiB each)  |
+| 2    | CRUCiBLE         | 7.6 TiB    | 7.6 TiB (100.00%)   | 101 (~77.2 GiB each)  |
 | 3    | NAN0             | 5.6 TiB    | 5.5 TiB (98.65%)    | 78 (~73.4 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.41%)    | 129 (~29.6 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (92.12%)    | 34 (~74.6 GiB each)   |
-| 6    | hchcsen          | 2.4 TiB    | 1.5 TiB (63.97%)    | 62 (~39.8 GiB each)   |
+| 6    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.53%)    | 62 (~39.5 GiB each)   |
 | 7    | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 25 (~92.6 GiB each)   |
 | 8    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 50 (~43.7 GiB each)   |
 | 9    | PMR              | 1.6 TiB    | 1.6 TiB (100.00%)   | 19 (~85.7 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 11   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.11%)  | 85 (~17.2 GiB each)   |
+| 11   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.28%)  | 84 (~17.2 GiB each)   |
 | 12   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 13   | MTBB             | 1.4 TiB    | 1.1 TiB (81.85%)    | 93 (~15.5 GiB each)   |
 | 14   | NOGRP            | 1.4 TiB    | 849.8 GiB (60.74%)  | 21 (~66.6 GiB each)   |
@@ -55,18 +55,18 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 33   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
 | 34   | Arid             | 656.4 GiB  | 211.8 GiB (32.26%)  | 46 (~14.3 GiB each)   |
 | 35   | Drag             | 655.7 GiB  | 146.0 GiB (22.26%)  | 59 (~11.1 GiB each)   |
-| 36   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 37   | Flugel           | 584.4 GiB  | 584.4 GiB (100.00%) | 19 (~30.8 GiB each)   |
-| 38   | D4C              | 583.2 GiB  | 583.2 GiB (100.00%) | 3 (~194.4 GiB each)   |
-| 39   | UDF              | 579.7 GiB  | 203.8 GiB (35.15%)  | 24 (~24.2 GiB each)   |
-| 40   | FLE              | 552.9 GiB  | 533.1 GiB (96.42%)  | 16 (~34.6 GiB each)   |
-| 41   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
-| 42   | SEV              | 538.2 GiB  | 0 B (0.00%)         | 11 (~48.9 GiB each)   |
-| 43   | Headpatter       | 516.8 GiB  | 333.0 GiB (64.43%)  | 24 (~21.5 GiB each)   |
+| 36   | FLE              | 654.2 GiB  | 634.4 GiB (96.97%)  | 17 (~38.5 GiB each)   |
+| 37   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
+| 38   | Flugel           | 584.4 GiB  | 584.4 GiB (100.00%) | 19 (~30.8 GiB each)   |
+| 39   | Headpatter       | 584.2 GiB  | 389.0 GiB (66.60%)  | 27 (~21.6 GiB each)   |
+| 40   | D4C              | 583.2 GiB  | 583.2 GiB (100.00%) | 3 (~194.4 GiB each)   |
+| 41   | UDF              | 579.7 GiB  | 203.8 GiB (35.15%)  | 24 (~24.2 GiB each)   |
+| 42   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
+| 43   | SEV              | 538.2 GiB  | 0 B (0.00%)         | 11 (~48.9 GiB each)   |
 | 44   | CTR              | 507.1 GiB  | 113.6 GiB (22.40%)  | 26 (~19.5 GiB each)   |
 | 45   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
 | 46   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
-| 50   | Others           | 33.4 TiB   | 18.4 TiB (55.23%)   | 1689 (~20.2 GiB each) |
+| 50   | Others           | 33.5 TiB   | 18.5 TiB (55.25%)   | 1692 (~20.2 GiB each) |

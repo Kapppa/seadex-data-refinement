@@ -14,11 +14,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 174   |
+| 🥇   | -ZR-             | 173   |
 | 🥈   | sam              | 129   |
-| 🥉   | CRUCiBLE         | 102   |
+| 🥉   | CRUCiBLE         | 101   |
 | 4    | MTBB             | 93    |
-| 5    | SubsPlease       | 85    |
+| 5    | SubsPlease       | 84    |
 | 6    | NAN0             | 78    |
 | 7    | YURI             | 76    |
 | 8    | Drag             | 58    |
@@ -58,9 +58,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Moxie     | 15    |
 | 13   | LazyRemux | 15    |
 | 14   | LostYears | 15    |
-| 15   | koala     | 13    |
-| 16   | KH        | 13    |
-| 17   | FLE       | 13    |
+| 15   | FLE       | 14    |
+| 16   | koala     | 13    |
+| 17   | KH        | 13    |
 | 18   | Arid      | 13    |
 | 19   | Vodes     | 12    |
 | 20   | ZeroBuild | 12    |
@@ -95,20 +95,20 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | PMR       | 19    |
 | 20   | koala     | 16    |
 | 21   | Drag      | 16    |
-| 22   | KH        | 15    |
-| 23   | LostYears | 15    |
-| 24   | FLE       | 15    |
+| 22   | FLE       | 16    |
+| 23   | KH        | 15    |
+| 24   | LostYears | 15    |
 | 25   | Pog42     | 14    |
 
 ## Top 25 - Alt entries
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 72    |
+| 🥇   | SubsPlease       | 71    |
 | 🥈   | Drag             | 43    |
 | 🥉   | YURI             | 40    |
 | 4    | KH               | 40    |
-| 5    | -ZR-             | 39    |
+| 5    | -ZR-             | 37    |
 | 6    | YURASUKA         | 36    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 34    |
@@ -124,8 +124,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | Chihiro          | 17    |
 | 19   | HorribleSubs     | 17    |
 | 20   | SCY              | 16    |
-| 21   | Reza             | 15    |
-| 22   | VARYG            | 15    |
-| 23   | UDF              | 14    |
-| 24   | Headpatter       | 14    |
+| 21   | VARYG            | 16    |
+| 22   | Reza             | 15    |
+| 23   | Headpatter       | 15    |
+| 24   | UDF              | 14    |
 | 25   | Lulu             | 13    |
