@@ -17,7 +17,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 173   |
 | 🥈   | sam              | 129   |
 | 🥉   | CRUCiBLE         | 101   |
-| 4    | MTBB             | 93    |
+| 4    | MTBB             | 95    |
 | 5    | SubsPlease       | 84    |
 | 6    | NAN0             | 78    |
 | 7    | YURI             | 76    |
@@ -78,7 +78,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam       | 118   |
 | 🥉   | CRUCiBLE  | 101   |
 | 4    | NAN0      | 77    |
-| 5    | MTBB      | 61    |
+| 5    | MTBB      | 63    |
 | 6    | smol      | 56    |
 | 7    | Moxie     | 50    |
 | 8    | YURI      | 36    |
@@ -90,9 +90,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | B00BA     | 25    |
 | 15   | Lulu      | 22    |
 | 16   | Arid      | 22    |
-| 17   | Flugel    | 19    |
-| 18   | LazyRemux | 19    |
-| 19   | PMR       | 19    |
+| 17   | PMR       | 20    |
+| 18   | Flugel    | 19    |
+| 19   | LazyRemux | 19    |
 | 20   | koala     | 16    |
 | 21   | Drag      | 16    |
 | 22   | FLE       | 16    |
@@ -121,9 +121,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | CTR              | 21    |
 | 16   | Holomux          | 20    |
 | 17   | Pog42            | 18    |
-| 18   | Chihiro          | 17    |
-| 19   | HorribleSubs     | 17    |
-| 20   | SCY              | 16    |
+| 18   | HorribleSubs     | 17    |
+| 19   | SCY              | 16    |
+| 20   | Chihiro          | 16    |
 | 21   | VARYG            | 16    |
 | 22   | Reza             | 15    |
 | 23   | Headpatter       | 15    |

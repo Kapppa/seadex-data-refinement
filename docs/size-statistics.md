@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `107.0 TiB`
-- Best size: `78.6 TiB`
+- Total size: `107.2 TiB`
+- Best size: `78.8 TiB`
 - Alt size: `28.4 TiB`
-- Realistic size: `82.9 TiB`
+- Realistic size: `83.0 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -28,11 +28,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 6    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.53%)    | 62 (~39.5 GiB each)   |
 | 7    | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 25 (~92.6 GiB each)   |
 | 8    | Moxie            | 2.1 TiB    | 2.1 TiB (100.00%)   | 50 (~43.7 GiB each)   |
-| 9    | PMR              | 1.6 TiB    | 1.6 TiB (100.00%)   | 19 (~85.7 GiB each)   |
+| 9    | PMR              | 1.7 TiB    | 1.7 TiB (100.00%)   | 20 (~85.3 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 11   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.28%)  | 84 (~17.2 GiB each)   |
-| 12   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
-| 13   | MTBB             | 1.4 TiB    | 1.1 TiB (81.85%)    | 93 (~15.5 GiB each)   |
+| 11   | MTBB             | 1.4 TiB    | 1.2 TiB (82.17%)    | 95 (~15.4 GiB each)   |
+| 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.28%)  | 84 (~17.2 GiB each)   |
+| 13   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 14   | NOGRP            | 1.4 TiB    | 849.8 GiB (60.74%)  | 21 (~66.6 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 16   | RUDY             | 1.0 TiB    | 1.0 TiB (97.55%)    | 14 (~76.2 GiB each)   |
@@ -57,8 +57,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 35   | Drag             | 655.7 GiB  | 146.0 GiB (22.26%)  | 59 (~11.1 GiB each)   |
 | 36   | FLE              | 654.2 GiB  | 634.4 GiB (96.97%)  | 17 (~38.5 GiB each)   |
 | 37   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 38   | Flugel           | 584.4 GiB  | 584.4 GiB (100.00%) | 19 (~30.8 GiB each)   |
-| 39   | Headpatter       | 584.2 GiB  | 389.0 GiB (66.60%)  | 27 (~21.6 GiB each)   |
+| 38   | Headpatter       | 589.1 GiB  | 393.9 GiB (66.87%)  | 28 (~21.0 GiB each)   |
+| 39   | Flugel           | 584.4 GiB  | 584.4 GiB (100.00%) | 19 (~30.8 GiB each)   |
 | 40   | D4C              | 583.2 GiB  | 583.2 GiB (100.00%) | 3 (~194.4 GiB each)   |
 | 41   | UDF              | 579.7 GiB  | 203.8 GiB (35.15%)  | 24 (~24.2 GiB each)   |
 | 42   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
-| 50   | Others           | 33.5 TiB   | 18.5 TiB (55.25%)   | 1692 (~20.2 GiB each) |
+| 50   | Others           | 33.5 TiB   | 18.6 TiB (55.39%)   | 1692 (~20.3 GiB each) |
