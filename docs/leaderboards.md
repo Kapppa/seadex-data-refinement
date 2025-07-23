@@ -25,10 +25,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | smol             | 58    |
 | 10   | hchcsen          | 56    |
 | 11   | KH               | 53    |
-| 12   | Moxie            | 50    |
+| 12   | Moxie            | 51    |
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 45    |
-| 15   | YURASUKA         | 42    |
+| 15   | YURASUKA         | 41    |
 | 16   | LYS1TH3A         | 37    |
 | 17   | Bunny-Apocalypse | 36    |
 | 18   | Lulu             | 34    |
@@ -37,8 +37,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | Commie           | 34    |
 | 22   | Pog42            | 32    |
 | 23   | Kametsu          | 30    |
-| 24   | Holomux          | 28    |
-| 25   | SCY              | 28    |
+| 24   | Headpatter       | 29    |
+| 25   | Holomux          | 28    |
 
 ## Top 25 - Best dual audio entries
 
@@ -80,17 +80,17 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | NAN0      | 77    |
 | 5    | MTBB      | 63    |
 | 6    | smol      | 56    |
-| 7    | Moxie     | 50    |
+| 7    | Moxie     | 51    |
 | 8    | YURI      | 36    |
 | 9    | LYS1TH3A  | 35    |
 | 10   | TTGA      | 32    |
-| 11   | Okay-Subs | 30    |
+| 11   | Okay-Subs | 32    |
 | 12   | hchcsen   | 30    |
 | 13   | Orphan    | 26    |
-| 14   | B00BA     | 25    |
+| 14   | B00BA     | 23    |
 | 15   | Lulu      | 22    |
 | 16   | Arid      | 22    |
-| 17   | PMR       | 20    |
+| 17   | PMR       | 21    |
 | 18   | Flugel    | 19    |
 | 19   | LazyRemux | 19    |
 | 20   | koala     | 16    |
@@ -109,7 +109,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | YURI             | 40    |
 | 4    | KH               | 40    |
 | 5    | -ZR-             | 37    |
-| 6    | YURASUKA         | 36    |
+| 6    | YURASUKA         | 35    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 34    |
 | 9    | MTBB             | 32    |
@@ -124,8 +124,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | HorribleSubs     | 17    |
 | 19   | SCY              | 16    |
 | 20   | Chihiro          | 16    |
-| 21   | VARYG            | 16    |
-| 22   | Reza             | 15    |
-| 23   | Headpatter       | 15    |
+| 21   | Headpatter       | 16    |
+| 22   | VARYG            | 16    |
+| 23   | Reza             | 15    |
 | 24   | UDF              | 14    |
 | 25   | Lulu             | 13    |
