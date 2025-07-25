@@ -20,25 +20,25 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | MTBB             | 95    |
 | 5    | SubsPlease       | 84    |
 | 6    | NAN0             | 78    |
-| 7    | YURI             | 76    |
-| 8    | Drag             | 58    |
-| 9    | smol             | 58    |
-| 10   | hchcsen          | 56    |
-| 11   | Moxie            | 53    |
+| 7    | YURI             | 75    |
+| 8    | smol             | 58    |
+| 9    | Drag             | 57    |
+| 10   | Moxie            | 56    |
+| 11   | hchcsen          | 56    |
 | 12   | KH               | 53    |
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 45    |
-| 15   | YURASUKA         | 41    |
+| 15   | YURASUKA         | 42    |
 | 16   | LYS1TH3A         | 37    |
 | 17   | Bunny-Apocalypse | 36    |
 | 18   | Lulu             | 34    |
 | 19   | TTGA             | 34    |
 | 20   | Okay-Subs        | 34    |
 | 21   | Commie           | 34    |
-| 22   | Pog42            | 32    |
-| 23   | Headpatter       | 31    |
+| 22   | Headpatter       | 33    |
+| 23   | Pog42            | 32    |
 | 24   | Kametsu          | 30    |
-| 25   | Holomux          | 28    |
+| 25   | SCY              | 28    |
 
 ## Top 25 - Best dual audio entries
 
@@ -80,7 +80,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | NAN0       | 77    |
 | 5    | MTBB       | 63    |
 | 6    | smol       | 56    |
-| 7    | Moxie      | 53    |
+| 7    | Moxie      | 56    |
 | 8    | YURI       | 36    |
 | 9    | LYS1TH3A   | 35    |
 | 10   | TTGA       | 32    |
@@ -94,22 +94,22 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | Flugel     | 19    |
 | 19   | LazyRemux  | 19    |
 | 20   | koala      | 16    |
-| 21   | Drag       | 16    |
-| 22   | FLE        | 16    |
-| 23   | KH         | 15    |
-| 24   | LostYears  | 15    |
-| 25   | Headpatter | 15    |
+| 21   | Headpatter | 16    |
+| 22   | Drag       | 16    |
+| 23   | FLE        | 16    |
+| 24   | KH         | 15    |
+| 25   | LostYears  | 15    |
 
 ## Top 25 - Alt entries
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 71    |
-| 🥈   | Drag             | 43    |
-| 🥉   | YURI             | 40    |
-| 4    | KH               | 40    |
+| 🥈   | Drag             | 42    |
+| 🥉   | KH               | 40    |
+| 4    | YURI             | 39    |
 | 5    | -ZR-             | 37    |
-| 6    | YURASUKA         | 35    |
+| 6    | YURASUKA         | 36    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 34    |
 | 9    | MTBB             | 32    |
@@ -119,12 +119,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Kametsu          | 22    |
 | 14   | Erai-raws        | 22    |
 | 15   | CTR              | 21    |
-| 16   | Holomux          | 20    |
+| 16   | Holomux          | 19    |
 | 17   | Pog42            | 18    |
-| 18   | HorribleSubs     | 17    |
-| 19   | VARYG            | 17    |
-| 20   | SCY              | 16    |
-| 21   | Headpatter       | 16    |
+| 18   | Headpatter       | 17    |
+| 19   | HorribleSubs     | 17    |
+| 20   | VARYG            | 17    |
+| 21   | SCY              | 16    |
 | 22   | Chihiro          | 16    |
 | 23   | Reza             | 15    |
 | 24   | UDF              | 14    |
