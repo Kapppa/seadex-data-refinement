@@ -18,7 +18,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam              | 128   |
 | 🥉   | CRUCiBLE         | 103   |
 | 4    | MTBB             | 95    |
-| 5    | SubsPlease       | 84    |
+| 5    | SubsPlease       | 83    |
 | 6    | NAN0             | 78    |
 | 7    | YURI             | 75    |
 | 8    | smol             | 58    |
@@ -31,11 +31,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | YURASUKA         | 42    |
 | 16   | LYS1TH3A         | 37    |
 | 17   | Bunny-Apocalypse | 36    |
-| 18   | Lulu             | 34    |
-| 19   | TTGA             | 34    |
-| 20   | Okay-Subs        | 34    |
-| 21   | Commie           | 34    |
-| 22   | Headpatter       | 33    |
+| 18   | Okay-Subs        | 35    |
+| 19   | Lulu             | 34    |
+| 20   | TTGA             | 34    |
+| 21   | Headpatter       | 34    |
+| 22   | Commie           | 34    |
 | 23   | Pog42            | 32    |
 | 24   | Kametsu          | 30    |
 | 25   | SCY              | 28    |
@@ -49,7 +49,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | CRUCiBLE   | 82    |
 | 4    | NAN0       | 63    |
 | 5    | LYS1TH3A   | 34    |
-| 6    | hchcsen    | 29    |
+| 6    | hchcsen    | 28    |
 | 7    | smol       | 23    |
 | 8    | TTGA       | 21    |
 | 9    | Lulu       | 19    |
@@ -83,14 +83,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | Moxie      | 56    |
 | 8    | YURI       | 36    |
 | 9    | LYS1TH3A   | 35    |
-| 10   | TTGA       | 32    |
-| 11   | Okay-Subs  | 32    |
-| 12   | hchcsen    | 30    |
+| 10   | Okay-Subs  | 33    |
+| 11   | TTGA       | 32    |
+| 12   | hchcsen    | 29    |
 | 13   | Orphan     | 26    |
 | 14   | B00BA      | 23    |
-| 15   | Lulu       | 22    |
-| 16   | Arid       | 22    |
-| 17   | PMR        | 21    |
+| 15   | PMR        | 23    |
+| 16   | Lulu       | 22    |
+| 17   | Arid       | 22    |
 | 18   | Flugel     | 19    |
 | 19   | LazyRemux  | 19    |
 | 20   | koala      | 16    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 71    |
+| 🥇   | SubsPlease       | 70    |
 | 🥈   | Drag             | 42    |
 | 🥉   | KH               | 40    |
 | 4    | YURI             | 39    |
@@ -118,10 +118,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Arid             | 24    |
 | 13   | Kametsu          | 22    |
 | 14   | Erai-raws        | 22    |
-| 15   | CTR              | 21    |
+| 15   | CTR              | 20    |
 | 16   | Holomux          | 19    |
 | 17   | Pog42            | 18    |
-| 18   | Headpatter       | 17    |
+| 18   | Headpatter       | 18    |
 | 19   | HorribleSubs     | 17    |
 | 20   | VARYG            | 17    |
 | 21   | SCY              | 16    |
