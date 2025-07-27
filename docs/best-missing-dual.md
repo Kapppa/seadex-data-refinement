@@ -39,10 +39,12 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 32  | Lucifer and the Biscuit Hammer                                                  | 2022 | 29 Jun 2025 | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
 | 33  | Sasaki and Miyano: Graduation                                                   | 2023 | 20 Jun 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
 | 34  | Love, Chunibyo & Other Delusions - Heart Throb - Specials                       | 2014 | 13 Feb 2025 | [SeaDex](https://releases.moe/20777/), [AniList](https://anilist.co/anime/20777)   |
-| 35  | Toward the Terra (TV)                                                           | 2007 | 14 Nov 2023 | [SeaDex](https://releases.moe/2158/), [AniList](https://anilist.co/anime/2158)     |
-| 36  | Aesthetica of a Rogue Hero Specials                                             | 2012 | 23 Jun 2024 | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
-| 37  | IS: Infinite Stratos 2 - Infinite Wedding                                       | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
-| 38  | Ranma ½ (1989)                                                                  | 1989 | 17 Jul 2025 | [SeaDex](https://releases.moe/149939/), [AniList](https://anilist.co/anime/149939) |
-| 39  | Mobile Suit Gundam SEED FREEDOM                                                 | 2024 | 29 Dec 2024 | [SeaDex](https://releases.moe/134761/), [AniList](https://anilist.co/anime/134761) |
-| 40  | El Hazard: The Wanderers                                                        | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
-| 41  | Photon: The Idiot Adventures                                                    | 1997 | 08 Jun 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
+| 35  | Synduality Noir                                                                 | 2023 | 26 Jul 2025 | [SeaDex](https://releases.moe/154643/), [AniList](https://anilist.co/anime/154643) |
+| 36  | Toward the Terra (TV)                                                           | 2007 | 14 Nov 2023 | [SeaDex](https://releases.moe/2158/), [AniList](https://anilist.co/anime/2158)     |
+| 37  | Aesthetica of a Rogue Hero Specials                                             | 2012 | 23 Jun 2024 | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
+| 38  | IS: Infinite Stratos 2 - Infinite Wedding                                       | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
+| 39  | Ranma ½ (1989)                                                                  | 1989 | 17 Jul 2025 | [SeaDex](https://releases.moe/149939/), [AniList](https://anilist.co/anime/149939) |
+| 40  | Synduality Noir Part 2                                                          | 2024 | 26 Jul 2025 | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
+| 41  | Mobile Suit Gundam SEED FREEDOM                                                 | 2024 | 29 Dec 2024 | [SeaDex](https://releases.moe/134761/), [AniList](https://anilist.co/anime/134761) |
+| 42  | El Hazard: The Wanderers                                                        | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
+| 43  | Photon: The Idiot Adventures                                                    | 1997 | 08 Jun 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |

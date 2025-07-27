@@ -9,7 +9,7 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `107.6 TiB`
-- Best size: `79.3 TiB`
+- Best size: `79.4 TiB`
 - Alt size: `28.3 TiB`
 - Realistic size: `83.2 TiB`
 
@@ -20,7 +20,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.4 TiB   | 12.3 TiB (85.32%)   | 184 (~80.4 GiB each)  |
+| 1    | -ZR-             | 14.5 TiB   | 12.3 TiB (85.23%)   | 185 (~80.0 GiB each)  |
 | 2    | CRUCiBLE         | 7.8 TiB    | 7.8 TiB (100.00%)   | 103 (~77.5 GiB each)  |
 | 3    | NAN0             | 5.6 TiB    | 5.5 TiB (98.65%)    | 78 (~73.4 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.97%)    | 128 (~29.6 GiB each)  |
@@ -31,8 +31,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 9    | PMR              | 1.9 TiB    | 1.9 TiB (100.00%)   | 23 (~84.0 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 11   | MTBB             | 1.4 TiB    | 1.2 TiB (82.17%)    | 95 (~15.4 GiB each)   |
-| 12   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
-| 13   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.44%)  | 83 (~17.2 GiB each)   |
+| 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.29%)  | 84 (~17.2 GiB each)   |
+| 13   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 14   | NOGRP            | 1.4 TiB    | 849.8 GiB (60.74%)  | 21 (~66.6 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 16   | RUDY             | 1.0 TiB    | 1.0 TiB (97.55%)    | 14 (~76.2 GiB each)   |
@@ -40,7 +40,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 18   | LYS1TH3A         | 938.0 GiB  | 918.5 GiB (97.92%)  | 37 (~25.4 GiB each)   |
 | 19   | KH               | 917.3 GiB  | 239.8 GiB (26.14%)  | 55 (~16.7 GiB each)   |
 | 20   | YURI             | 890.0 GiB  | 393.1 GiB (44.17%)  | 75 (~11.9 GiB each)   |
-| 21   | koala            | 844.1 GiB  | 844.1 GiB (100.00%) | 16 (~52.8 GiB each)   |
+| 21   | koala            | 871.3 GiB  | 871.3 GiB (100.00%) | 17 (~51.3 GiB each)   |
 | 22   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
 | 23   | LostYears        | 807.3 GiB  | 288.6 GiB (35.75%)  | 49 (~16.5 GiB each)   |
 | 24   | Bunny-Apocalypse | 776.7 GiB  | 173.8 GiB (22.38%)  | 36 (~21.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
-| 50   | Others           | 33.5 TiB   | 18.6 TiB (55.54%)   | 1695 (~20.2 GiB each) |
+| 50   | Others           | 33.5 TiB   | 18.6 TiB (55.59%)   | 1694 (~20.3 GiB each) |
