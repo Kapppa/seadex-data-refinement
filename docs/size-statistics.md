@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `107.6 TiB`
-- Best size: `79.4 TiB`
+- Total size: `107.7 TiB`
+- Best size: `79.5 TiB`
 - Alt size: `28.3 TiB`
 - Realistic size: `83.2 TiB`
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.5 TiB   | 12.3 TiB (85.23%)   | 185 (~80.0 GiB each)  |
-| 2    | CRUCiBLE         | 7.8 TiB    | 7.8 TiB (100.00%)   | 103 (~77.5 GiB each)  |
+| 2    | CRUCiBLE         | 7.9 TiB    | 7.9 TiB (100.00%)   | 104 (~77.5 GiB each)  |
 | 3    | NAN0             | 5.6 TiB    | 5.5 TiB (98.65%)    | 78 (~73.4 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.97%)    | 128 (~29.6 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (92.12%)    | 34 (~74.6 GiB each)   |
