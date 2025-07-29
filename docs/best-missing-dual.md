@@ -14,7 +14,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 7   | A Place Further Than the Universe                                               | 2018 | 01 Jun 2025 | [SeaDex](https://releases.moe/99426/), [AniList](https://anilist.co/anime/99426)   |
 | 8   | Laid-Back Camp                                                                  | 2018 | 11 Oct 2024 | [SeaDex](https://releases.moe/98444/), [AniList](https://anilist.co/anime/98444)   |
 | 9   | BEASTARS Season 2                                                               | 2021 | 01 Jun 2025 | [SeaDex](https://releases.moe/114194/), [AniList](https://anilist.co/anime/114194) |
-| 10  | Evangelion: 1.0 You Are (Not) Alone                                             | 2007 | 27 Jan 2025 | [SeaDex](https://releases.moe/2759/), [AniList](https://anilist.co/anime/2759)     |
+| 10  | Evangelion: 1.0 You Are (Not) Alone                                             | 2007 | 28 Jul 2025 | [SeaDex](https://releases.moe/2759/), [AniList](https://anilist.co/anime/2759)     |
 | 11  | March comes in like a lion Season 2                                             | 2017 | 22 Jul 2024 | [SeaDex](https://releases.moe/98478/), [AniList](https://anilist.co/anime/98478)   |
 | 12  | Evangelion: 2.0 You Can (Not) Advance                                           | 2009 | 23 Jun 2025 | [SeaDex](https://releases.moe/3784/), [AniList](https://anilist.co/anime/3784)     |
 | 13  | Gosick                                                                          | 2011 | 17 Nov 2024 | [SeaDex](https://releases.moe/8425/), [AniList](https://anilist.co/anime/8425)     |
@@ -26,7 +26,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 19  | K: RETURN OF KINGS                                                              | 2015 | 17 Jul 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 20  | High School DxD OVA                                                             | 2012 | 08 Jun 2025 | [SeaDex](https://releases.moe/12729/), [AniList](https://anilist.co/anime/12729)   |
 | 21  | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout        | 2022 | 24 May 2025 | [SeaDex](https://releases.moe/134252/), [AniList](https://anilist.co/anime/134252) |
-| 22  | Thus Spoke Rohan Kishibe                                                        | 2017 | 08 Jun 2025 | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
+| 22  | Thus Spoke Rohan Kishibe                                                        | 2017 | 28 Jul 2025 | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
 | 23  | Ranma ½                                                                         | 1989 | 27 Nov 2023 | [SeaDex](https://releases.moe/210/), [AniList](https://anilist.co/anime/210)       |
 | 24  | High School DxD: Fantasy Jiggles Unleashed                                      | 2012 | 08 Jun 2025 | [SeaDex](https://releases.moe/13357/), [AniList](https://anilist.co/anime/13357)   |
 | 25  | Den-noh Coil                                                                    | 2007 | 25 Jun 2024 | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |

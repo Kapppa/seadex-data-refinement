@@ -6,4 +6,5 @@
 | 3   | I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness | 2023 | 25 Jul 2025 | [SeaDex](https://releases.moe/154214/), [AniList](https://anilist.co/anime/154214) |
 | 4   | Scarlet Nexus                                                               | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
 | 5   | PSYCHO-PASS 3: First Inspector                                              | 2020 | 15 Jul 2025 | [SeaDex](https://releases.moe/113917/), [AniList](https://anilist.co/anime/113917) |
-| 6   | Overlord: Ple Ple Pleiades 4                                                | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 6   | Macross                                                                     | 1982 | 29 Jul 2025 | [SeaDex](https://releases.moe/1088/), [AniList](https://anilist.co/anime/1088)     |
+| 7   | Overlord: Ple Ple Pleiades 4                                                | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |

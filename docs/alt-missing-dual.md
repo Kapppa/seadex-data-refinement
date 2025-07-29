@@ -47,8 +47,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 40  | Isekai Cheat Magician                                                                       | 2019 | 09 Jul 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
 | 41  | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                             | 2022 | 19 Mar 2025 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
 | 42  | I'm Standing on a Million Lives                                                             | 2020 | 26 Mar 2025 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
-| 43  | Cells at Work!!                                                                             | 2021 | 10 Feb 2025 | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |
-| 44  | Romantic Killer                                                                             | 2022 | 26 Jul 2025 | [SeaDex](https://releases.moe/153930/), [AniList](https://anilist.co/anime/153930) |
+| 43  | Romantic Killer                                                                             | 2022 | 26 Jul 2025 | [SeaDex](https://releases.moe/153930/), [AniList](https://anilist.co/anime/153930) |
+| 44  | Cells at Work!!                                                                             | 2021 | 10 Feb 2025 | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |
 | 45  | NANBAKA                                                                                     | 2016 | 12 Jul 2025 | [SeaDex](https://releases.moe/21051/), [AniList](https://anilist.co/anime/21051)   |
 | 46  | Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!            | 2021 | 22 Nov 2024 | [SeaDex](https://releases.moe/126791/), [AniList](https://anilist.co/anime/126791) |
 | 47  | Love After World Domination                                                                 | 2022 | 25 Jun 2025 | [SeaDex](https://releases.moe/132010/), [AniList](https://anilist.co/anime/132010) |

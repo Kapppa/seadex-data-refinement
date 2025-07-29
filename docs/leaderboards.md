@@ -16,7 +16,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 174   |
 | 🥈   | sam              | 128   |
-| 🥉   | CRUCiBLE         | 104   |
+| 🥉   | CRUCiBLE         | 105   |
 | 4    | MTBB             | 95    |
 | 5    | SubsPlease       | 84    |
 | 6    | NAN0             | 78    |
@@ -38,7 +38,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | Commie           | 34    |
 | 23   | Pog42            | 32    |
 | 24   | Kametsu          | 30    |
-| 25   | SCY              | 28    |
+| 25   | Holomux          | 28    |
 
 ## Top 25 - Best dual audio entries
 
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 110   |
 | 🥈   | sam        | 88    |
-| 🥉   | CRUCiBLE   | 83    |
+| 🥉   | CRUCiBLE   | 84    |
 | 4    | NAN0       | 63    |
 | 5    | LYS1TH3A   | 34    |
 | 6    | hchcsen    | 28    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
 | 🥈   | sam        | 118   |
-| 🥉   | CRUCiBLE   | 104   |
+| 🥉   | CRUCiBLE   | 105   |
 | 4    | NAN0       | 77    |
 | 5    | MTBB       | 63    |
 | 6    | smol       | 56    |
@@ -118,8 +118,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Arid             | 24    |
 | 13   | Kametsu          | 22    |
 | 14   | Erai-raws        | 22    |
-| 15   | CTR              | 20    |
-| 16   | Holomux          | 19    |
+| 15   | Holomux          | 20    |
+| 16   | CTR              | 20    |
 | 17   | VARYG            | 19    |
 | 18   | Pog42            | 18    |
 | 19   | Headpatter       | 18    |

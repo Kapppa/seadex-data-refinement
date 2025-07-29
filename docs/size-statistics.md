@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `107.7 TiB`
+- Total size: `107.8 TiB`
 - Best size: `79.5 TiB`
 - Alt size: `28.3 TiB`
-- Realistic size: `83.2 TiB`
+- Realistic size: `83.3 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.5 TiB   | 12.3 TiB (85.23%)   | 185 (~80.0 GiB each)  |
-| 2    | CRUCiBLE         | 7.9 TiB    | 7.9 TiB (100.00%)   | 104 (~77.5 GiB each)  |
+| 2    | CRUCiBLE         | 8.0 TiB    | 8.0 TiB (100.00%)   | 105 (~77.6 GiB each)  |
 | 3    | NAN0             | 5.6 TiB    | 5.5 TiB (98.65%)    | 78 (~73.4 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.97%)    | 128 (~29.6 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (92.12%)    | 34 (~74.6 GiB each)   |
@@ -43,8 +43,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 21   | koala            | 871.3 GiB  | 871.3 GiB (100.00%) | 17 (~51.3 GiB each)   |
 | 22   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
 | 23   | LostYears        | 807.3 GiB  | 288.6 GiB (35.75%)  | 49 (~16.5 GiB each)   |
-| 24   | Bunny-Apocalypse | 776.7 GiB  | 173.8 GiB (22.38%)  | 36 (~21.6 GiB each)   |
-| 25   | Holomux          | 758.0 GiB  | 194.2 GiB (25.62%)  | 29 (~26.1 GiB each)   |
+| 24   | Holomux          | 804.4 GiB  | 194.2 GiB (24.15%)  | 30 (~26.8 GiB each)   |
+| 25   | Bunny-Apocalypse | 776.7 GiB  | 173.8 GiB (22.38%)  | 36 (~21.6 GiB each)   |
 | 26   | FraMeSToR        | 745.7 GiB  | 745.7 GiB (100.00%) | 10 (~74.6 GiB each)   |
 | 27   | ZeroBuild        | 743.1 GiB  | 646.3 GiB (86.97%)  | 16 (~46.4 GiB each)   |
 | 28   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
