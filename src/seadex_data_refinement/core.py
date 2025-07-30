@@ -13,6 +13,7 @@ from pydantic import BaseModel, ConfigDict
 
 SEADEX_ANILIST_IDS_URL = "https://releases.moe/api/listIDs"
 
+EXCLUSIVE_GROUPS = ("-ZR-", "FraMeSToR", "NAN0", "KEKKU", "Doc")
 
 class MediaEntry(BaseModel):
     """Represents a single media entry with metadata."""

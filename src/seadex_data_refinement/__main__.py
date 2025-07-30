@@ -7,7 +7,7 @@ from typing import Literal
 import seadex
 from cyclopts import App, Group
 
-from .core import MediaEntryCollection
+from .core import EXCLUSIVE_GROUPS, MediaEntryCollection
 from .leaderboard import SeaDexLeaderboard
 from .size import SeaDexSizeCalculator
 
@@ -100,16 +100,18 @@ def get_entries(
 
             with seadex.SeaDexEntry() as seadex_entry:
                 for entry in seadex_entry.iterator():
+                    groups = []
                     for torrent in entry.torrents:
-                        if torrent.tracker.is_private() and torrent.is_best:
+                        if torrent.tracker.is_private() and torrent.release_group not in EXCLUSIVE_GROUPS:
                             release_group = torrent.release_group.casefold().strip()
+                            if (release_group+str(torrent.is_best)) in groups: continue
                             if not any(
-                                t.tracker.is_public()
+                                t.tracker.is_public() and t.is_best == torrent.is_best and t.release_group not in EXCLUSIVE_GROUPS
                                 for t in entry.torrents
-                                if t.release_group.casefold().strip() == release_group
                             ):
                                 entries[entry.anilist_id] = entry
-                                break
+                                groups.append((release_group+str(torrent.is_best)))
+                                continue
 
         case "private-tracker-only-entries":
             header = "# Private tracker only entries"
