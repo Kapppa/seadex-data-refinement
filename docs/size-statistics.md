@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `107.8 TiB`
-- Best size: `79.5 TiB`
+- Total size: `108.1 TiB`
+- Best size: `79.7 TiB`
 - Alt size: `28.3 TiB`
-- Realistic size: `83.3 TiB`
+- Realistic size: `83.5 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -26,11 +26,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.97%)    | 128 (~29.6 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (92.12%)    | 34 (~74.6 GiB each)   |
 | 6    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.49%)    | 61 (~40.2 GiB each)   |
-| 7    | Moxie            | 2.3 TiB    | 2.3 TiB (100.00%)   | 56 (~41.7 GiB each)   |
+| 7    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 57 (~42.2 GiB each)   |
 | 8    | B00BA            | 2.1 TiB    | 2.1 TiB (100.00%)   | 23 (~92.9 GiB each)   |
 | 9    | PMR              | 1.9 TiB    | 1.9 TiB (100.00%)   | 23 (~84.0 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 11   | MTBB             | 1.4 TiB    | 1.2 TiB (82.17%)    | 95 (~15.4 GiB each)   |
+| 11   | MTBB             | 1.4 TiB    | 1.2 TiB (82.76%)    | 94 (~15.5 GiB each)   |
 | 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.29%)  | 84 (~17.2 GiB each)   |
 | 13   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
 | 14   | NOGRP            | 1.4 TiB    | 849.8 GiB (60.74%)  | 21 (~66.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
-| 50   | Others           | 33.5 TiB   | 18.6 TiB (55.59%)   | 1694 (~20.3 GiB each) |
+| 50   | Others           | 33.7 TiB   | 18.8 TiB (55.71%)   | 1697 (~20.3 GiB each) |
