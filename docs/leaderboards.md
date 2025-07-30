@@ -16,7 +16,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 174   |
 | 🥈   | sam              | 128   |
-| 🥉   | CRUCiBLE         | 105   |
+| 🥉   | CRUCiBLE         | 108   |
 | 4    | MTBB             | 94    |
 | 5    | SubsPlease       | 84    |
 | 6    | NAN0             | 78    |
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
 | 🥈   | sam        | 118   |
-| 🥉   | CRUCiBLE   | 105   |
+| 🥉   | CRUCiBLE   | 108   |
 | 4    | NAN0       | 77    |
 | 5    | MTBB       | 63    |
 | 6    | Moxie      | 57    |
@@ -87,8 +87,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | TTGA       | 32    |
 | 12   | hchcsen    | 29    |
 | 13   | Orphan     | 26    |
-| 14   | B00BA      | 23    |
-| 15   | PMR        | 23    |
+| 14   | PMR        | 24    |
+| 15   | B00BA      | 23    |
 | 16   | Lulu       | 22    |
 | 17   | Arid       | 22    |
 | 18   | Flugel     | 19    |

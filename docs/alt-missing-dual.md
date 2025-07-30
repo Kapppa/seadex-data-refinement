@@ -18,8 +18,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 11  | Sword Art Online: Alicization - War of Underworld                                           | 2019 | 13 Nov 2023 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
 | 12  | Summer Time Rendering                                                                       | 2022 | 26 Oct 2024 | [SeaDex](https://releases.moe/129201/), [AniList](https://anilist.co/anime/129201) |
 | 13  | SPY x FAMILY Season 2                                                                       | 2023 | 28 Jun 2025 | [SeaDex](https://releases.moe/158927/), [AniList](https://anilist.co/anime/158927) |
-| 14  | How NOT to Summon a Demon Lord                                                              | 2018 | 19 Jun 2025 | [SeaDex](https://releases.moe/101004/), [AniList](https://anilist.co/anime/101004) |
-| 15  | The Case Study of Vanitas                                                                   | 2021 | 14 Nov 2023 | [SeaDex](https://releases.moe/131646/), [AniList](https://anilist.co/anime/131646) |
+| 14  | The Case Study of Vanitas                                                                   | 2021 | 14 Nov 2023 | [SeaDex](https://releases.moe/131646/), [AniList](https://anilist.co/anime/131646) |
+| 15  | How NOT to Summon a Demon Lord                                                              | 2018 | 19 Jun 2025 | [SeaDex](https://releases.moe/101004/), [AniList](https://anilist.co/anime/101004) |
 | 16  | Sword Art Online: Alicization - War of Underworld Part 2                                    | 2020 | 13 Nov 2023 | [SeaDex](https://releases.moe/114308/), [AniList](https://anilist.co/anime/114308) |
 | 17  | Cautious Hero: The Hero Is Overpowered but Overly Cautious                                  | 2019 | 29 Jul 2025 | [SeaDex](https://releases.moe/105156/), [AniList](https://anilist.co/anime/105156) |
 | 18  | Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway                  | 2021 | 13 Jul 2025 | [SeaDex](https://releases.moe/114232/), [AniList](https://anilist.co/anime/114232) |
@@ -52,8 +52,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 45  | NANBAKA                                                                                     | 2016 | 12 Jul 2025 | [SeaDex](https://releases.moe/21051/), [AniList](https://anilist.co/anime/21051)   |
 | 46  | Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!            | 2021 | 22 Nov 2024 | [SeaDex](https://releases.moe/126791/), [AniList](https://anilist.co/anime/126791) |
 | 47  | Love After World Domination                                                                 | 2022 | 25 Jun 2025 | [SeaDex](https://releases.moe/132010/), [AniList](https://anilist.co/anime/132010) |
-| 48  | The 8th Son? Are You Kidding Me?                                                            | 2020 | 08 Jun 2025 | [SeaDex](https://releases.moe/106319/), [AniList](https://anilist.co/anime/106319) |
-| 49  | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells      | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/173694/), [AniList](https://anilist.co/anime/173694) |
+| 48  | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells      | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/173694/), [AniList](https://anilist.co/anime/173694) |
+| 49  | The 8th Son? Are You Kidding Me?                                                            | 2020 | 08 Jun 2025 | [SeaDex](https://releases.moe/106319/), [AniList](https://anilist.co/anime/106319) |
 | 50  | Hi Score Girl                                                                               | 2018 | 07 Jul 2024 | [SeaDex](https://releases.moe/20574/), [AniList](https://anilist.co/anime/20574)   |
 | 51  | Motto To Love Ru                                                                            | 2010 | 14 Nov 2023 | [SeaDex](https://releases.moe/9181/), [AniList](https://anilist.co/anime/9181)     |
 | 52  | Taboo Tattoo                                                                                | 2016 | 22 Jun 2025 | [SeaDex](https://releases.moe/21031/), [AniList](https://anilist.co/anime/21031)   |
