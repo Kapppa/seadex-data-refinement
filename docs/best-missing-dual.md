@@ -10,7 +10,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 3   | Solo Leveling                                                                   | 2024 | 06 Jul 2025 | [SeaDex](https://releases.moe/151807/), [AniList](https://anilist.co/anime/151807) |
 | 4   | Classroom of the Elite Season 2                                                 | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/145545/), [AniList](https://anilist.co/anime/145545) |
 | 5   | Great Pretender                                                                 | 2020 | 08 Oct 2024 | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
-| 6   | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | 2021 | 14 Nov 2023 | [SeaDex](https://releases.moe/129898/), [AniList](https://anilist.co/anime/129898) |
+| 6   | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | 2021 | 31 Jul 2025 | [SeaDex](https://releases.moe/129898/), [AniList](https://anilist.co/anime/129898) |
 | 7   | Laid-Back Camp                                                                  | 2018 | 11 Oct 2024 | [SeaDex](https://releases.moe/98444/), [AniList](https://anilist.co/anime/98444)   |
 | 8   | BEASTARS Season 2                                                               | 2021 | 01 Jun 2025 | [SeaDex](https://releases.moe/114194/), [AniList](https://anilist.co/anime/114194) |
 | 9   | Evangelion: 1.0 You Are (Not) Alone                                             | 2007 | 28 Jul 2025 | [SeaDex](https://releases.moe/2759/), [AniList](https://anilist.co/anime/2759)     |

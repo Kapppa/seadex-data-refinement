@@ -13,7 +13,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 6   | Overlord II                                                                                 | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/98437/), [AniList](https://anilist.co/anime/98437)   |
 | 7   | That Time I Got Reincarnated as a Slime Season 2 Part 2                                     | 2021 | 23 Jan 2025 | [SeaDex](https://releases.moe/116742/), [AniList](https://anilist.co/anime/116742) |
 | 8   | The Apothecary Diaries                                                                      | 2023 | 22 Apr 2025 | [SeaDex](https://releases.moe/161645/), [AniList](https://anilist.co/anime/161645) |
-| 9   | Overlord III                                                                                | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/101474/), [AniList](https://anilist.co/anime/101474) |
+| 9   | Overlord III                                                                                | 2018 | 31 Jul 2025 | [SeaDex](https://releases.moe/101474/), [AniList](https://anilist.co/anime/101474) |
 | 10  | SK8 the Infinity                                                                            | 2021 | 15 Nov 2023 | [SeaDex](https://releases.moe/124153/), [AniList](https://anilist.co/anime/124153) |
 | 11  | Sword Art Online: Alicization - War of Underworld                                           | 2019 | 13 Nov 2023 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
 | 12  | Summer Time Rendering                                                                       | 2022 | 26 Oct 2024 | [SeaDex](https://releases.moe/129201/), [AniList](https://anilist.co/anime/129201) |
