@@ -9,7 +9,7 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `108.1 TiB`
-- Best size: `80.3 TiB`
+- Best size: `80.2 TiB`
 - Alt size: `27.9 TiB`
 - Realistic size: `83.8 TiB`
 
@@ -24,7 +24,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 8.2 TiB    | 8.2 TiB (100.00%)   | 108 (~77.6 GiB each)  |
 | 3    | NAN0             | 5.6 TiB    | 5.5 TiB (98.65%)    | 78 (~73.4 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.97%)    | 128 (~29.6 GiB each)  |
-| 5    | TTGA             | 2.5 TiB    | 2.3 TiB (92.12%)    | 34 (~74.6 GiB each)   |
+| 5    | TTGA             | 2.4 TiB    | 2.2 TiB (91.92%)    | 33 (~75.0 GiB each)   |
 | 6    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.49%)    | 61 (~40.2 GiB each)   |
 | 7    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 57 (~42.2 GiB each)   |
 | 8    | B00BA            | 2.2 TiB    | 2.2 TiB (100.00%)   | 24 (~92.2 GiB each)   |
@@ -44,8 +44,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 22   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
 | 23   | LostYears        | 807.3 GiB  | 288.6 GiB (35.75%)  | 49 (~16.5 GiB each)   |
 | 24   | Holomux          | 804.4 GiB  | 194.2 GiB (24.15%)  | 30 (~26.8 GiB each)   |
-| 25   | Bunny-Apocalypse | 776.7 GiB  | 173.8 GiB (22.38%)  | 36 (~21.6 GiB each)   |
-| 26   | Headpatter       | 748.9 GiB  | 513.7 GiB (68.59%)  | 38 (~19.7 GiB each)   |
+| 25   | Headpatter       | 780.0 GiB  | 544.8 GiB (69.84%)  | 40 (~19.5 GiB each)   |
+| 26   | Bunny-Apocalypse | 776.7 GiB  | 173.8 GiB (22.38%)  | 36 (~21.6 GiB each)   |
 | 27   | FraMeSToR        | 745.7 GiB  | 745.7 GiB (100.00%) | 11 (~67.8 GiB each)   |
 | 28   | ZeroBuild        | 743.1 GiB  | 646.3 GiB (86.97%)  | 16 (~46.4 GiB each)   |
 | 29   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |

@@ -9,7 +9,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 2   | Death Parade                                                                    | 2015 | 07 Jun 2025 | [SeaDex](https://releases.moe/20931/), [AniList](https://anilist.co/anime/20931)   |
 | 3   | Solo Leveling                                                                   | 2024 | 31 Jul 2025 | [SeaDex](https://releases.moe/151807/), [AniList](https://anilist.co/anime/151807) |
 | 4   | Classroom of the Elite Season 2                                                 | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/145545/), [AniList](https://anilist.co/anime/145545) |
-| 5   | Great Pretender                                                                 | 2020 | 08 Oct 2024 | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
+| 5   | Great Pretender                                                                 | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
 | 6   | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | 2021 | 31 Jul 2025 | [SeaDex](https://releases.moe/129898/), [AniList](https://anilist.co/anime/129898) |
 | 7   | Laid-Back Camp                                                                  | 2018 | 11 Oct 2024 | [SeaDex](https://releases.moe/98444/), [AniList](https://anilist.co/anime/98444)   |
 | 8   | BEASTARS Season 2                                                               | 2021 | 01 Jun 2025 | [SeaDex](https://releases.moe/114194/), [AniList](https://anilist.co/anime/114194) |
@@ -17,12 +17,12 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 10  | March comes in like a lion Season 2                                             | 2017 | 22 Jul 2024 | [SeaDex](https://releases.moe/98478/), [AniList](https://anilist.co/anime/98478)   |
 | 11  | Evangelion: 2.0 You Can (Not) Advance                                           | 2009 | 23 Jun 2025 | [SeaDex](https://releases.moe/3784/), [AniList](https://anilist.co/anime/3784)     |
 | 12  | Gosick                                                                          | 2011 | 17 Nov 2024 | [SeaDex](https://releases.moe/8425/), [AniList](https://anilist.co/anime/8425)     |
-| 13  | SHIROBAKO                                                                       | 2014 | 15 Nov 2023 | [SeaDex](https://releases.moe/20812/), [AniList](https://anilist.co/anime/20812)   |
-| 14  | Life Lessons with Uramichi Oniisan                                              | 2021 | 04 Mar 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
-| 15  | The Elusive Samurai                                                             | 2024 | 03 Mar 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
+| 13  | SHIROBAKO                                                                       | 2014 | 01 Aug 2025 | [SeaDex](https://releases.moe/20812/), [AniList](https://anilist.co/anime/20812)   |
+| 14  | Life Lessons with Uramichi Oniisan                                              | 2021 | 01 Aug 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
+| 15  | The Elusive Samurai                                                             | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
 | 16  | Urusei Yatsura (2022)                                                           | 2022 | 11 Jun 2025 | [SeaDex](https://releases.moe/143277/), [AniList](https://anilist.co/anime/143277) |
 | 17  | Our love has always been 10 centimeters apart.                                  | 2017 | 12 Apr 2025 | [SeaDex](https://releases.moe/98977/), [AniList](https://anilist.co/anime/98977)   |
-| 18  | K: RETURN OF KINGS                                                              | 2015 | 17 Jul 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
+| 18  | K: RETURN OF KINGS                                                              | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 19  | High School DxD OVA                                                             | 2012 | 08 Jun 2025 | [SeaDex](https://releases.moe/12729/), [AniList](https://anilist.co/anime/12729)   |
 | 20  | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout        | 2022 | 24 May 2025 | [SeaDex](https://releases.moe/134252/), [AniList](https://anilist.co/anime/134252) |
 | 21  | Thus Spoke Rohan Kishibe                                                        | 2017 | 28 Jul 2025 | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
