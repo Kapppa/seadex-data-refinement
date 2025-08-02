@@ -43,4 +43,4 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 36  | Synduality Noir Part 2                                                          | 2024 | 26 Jul 2025 | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
 | 37  | Mobile Suit Gundam SEED FREEDOM                                                 | 2024 | 29 Dec 2024 | [SeaDex](https://releases.moe/134761/), [AniList](https://anilist.co/anime/134761) |
 | 38  | El Hazard: The Wanderers                                                        | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
-| 39  | Photon: The Idiot Adventures                                                    | 1997 | 08 Jun 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
+| 39  | Photon: The Idiot Adventures                                                    | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |

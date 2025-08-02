@@ -16,7 +16,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 174   |
 | 🥈   | sam              | 128   |
-| 🥉   | CRUCiBLE         | 108   |
+| 🥉   | CRUCiBLE         | 109   |
 | 4    | MTBB             | 93    |
 | 5    | SubsPlease       | 84    |
 | 6    | NAN0             | 78    |
@@ -29,7 +29,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 45    |
 | 15   | YURASUKA         | 42    |
-| 16   | Headpatter       | 39    |
+| 16   | Headpatter       | 40    |
 | 17   | LYS1TH3A         | 37    |
 | 18   | Bunny-Apocalypse | 36    |
 | 19   | Okay-Subs        | 35    |
@@ -68,7 +68,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | SCY        | 11    |
 | 23   | hydes      | 10    |
 | 24   | DemiHuman  | 10    |
-| 25   | Headpatter | 9     |
+| 25   | Headpatter | 10    |
 
 ## Top 25 - Best entries
 
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
 | 🥈   | sam        | 118   |
-| 🥉   | CRUCiBLE   | 108   |
+| 🥉   | CRUCiBLE   | 109   |
 | 4    | NAN0       | 77    |
 | 5    | MTBB       | 63    |
 | 6    | Moxie      | 57    |
@@ -90,8 +90,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | B00BA      | 24    |
 | 15   | PMR        | 24    |
 | 16   | Lulu       | 22    |
-| 17   | Arid       | 22    |
-| 18   | Headpatter | 21    |
+| 17   | Headpatter | 22    |
+| 18   | Arid       | 22    |
 | 19   | Flugel     | 19    |
 | 20   | LazyRemux  | 19    |
 | 21   | koala      | 17    |
