@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `108.2 TiB`
+- Total size: `108.3 TiB`
 - Best size: `80.4 TiB`
-- Alt size: `27.9 TiB`
-- Realistic size: `83.9 TiB`
+- Alt size: `27.8 TiB`
+- Realistic size: `84.0 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,7 +20,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.5 TiB   | 12.3 TiB (85.23%)   | 185 (~80.0 GiB each)  |
+| 1    | -ZR-             | 14.4 TiB   | 12.3 TiB (85.32%)   | 184 (~80.4 GiB each)  |
 | 2    | CRUCiBLE         | 8.3 TiB    | 8.3 TiB (100.00%)   | 109 (~77.6 GiB each)  |
 | 3    | NAN0             | 5.6 TiB    | 5.5 TiB (98.65%)    | 78 (~73.4 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.97%)    | 128 (~29.6 GiB each)  |
@@ -31,8 +31,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 9    | PMR              | 2.0 TiB    | 2.0 TiB (100.00%)   | 24 (~85.6 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 11   | MTBB             | 1.4 TiB    | 1.2 TiB (82.80%)    | 93 (~15.6 GiB each)   |
-| 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.29%)  | 84 (~17.2 GiB each)   |
-| 13   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
+| 12   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
+| 13   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.62%)  | 82 (~17.2 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 15   | RUDY             | 1.0 TiB    | 1.0 TiB (97.55%)    | 14 (~76.2 GiB each)   |
 | 16   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
@@ -68,5 +68,5 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 46   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
-| 49   | CBT              | 460.7 GiB  | 379.9 GiB (82.46%)  | 19 (~24.2 GiB each)   |
-| 50   | Others           | 33.7 TiB   | 18.8 TiB (55.75%)   | 1695 (~20.4 GiB each) |
+| 49   | YURASUKA         | 473.3 GiB  | 67.4 GiB (14.23%)   | 44 (~10.8 GiB each)   |
+| 50   | Others           | 33.8 TiB   | 19.2 TiB (56.72%)   | 1673 (~20.7 GiB each) |

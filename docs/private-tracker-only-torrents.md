@@ -32,17 +32,18 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 25  | I Can't Understand What My Husband is Saying 2nd Thread                          | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/21000/), [AniList](https://anilist.co/anime/21000)   |
 | 26  | Sound of the Sky                                                                 | 2010 | 05 Jul 2024 | [SeaDex](https://releases.moe/6802/), [AniList](https://anilist.co/anime/6802)     |
 | 27  | Black Butler: Book of Murder                                                     | 2014 | 04 Apr 2024 | [SeaDex](https://releases.moe/20670/), [AniList](https://anilist.co/anime/20670)   |
-| 28  | Den-noh Coil                                                                     | 2007 | 25 Jun 2024 | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
-| 29  | I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness      | 2023 | 25 Jul 2025 | [SeaDex](https://releases.moe/154214/), [AniList](https://anilist.co/anime/154214) |
-| 30  | Glasslip                                                                         | 2014 | 24 Jul 2025 | [SeaDex](https://releases.moe/20645/), [AniList](https://anilist.co/anime/20645)   |
-| 31  | Macross                                                                          | 1982 | 29 Jul 2025 | [SeaDex](https://releases.moe/1088/), [AniList](https://anilist.co/anime/1088)     |
-| 32  | Onee-chan ga Kita                                                                | 2014 | 24 Jul 2025 | [SeaDex](https://releases.moe/20473/), [AniList](https://anilist.co/anime/20473)   |
-| 33  | Slow Start                                                                       | 2018 | 25 Nov 2024 | [SeaDex](https://releases.moe/98693/), [AniList](https://anilist.co/anime/98693)   |
-| 34  | My First Girlfriend is a Gal OVA                                                 | 2017 | 01 Aug 2025 | [SeaDex](https://releases.moe/98878/), [AniList](https://anilist.co/anime/98878)   |
-| 35  | The Colors Within                                                                | 2024 | 31 Jul 2025 | [SeaDex](https://releases.moe/158166/), [AniList](https://anilist.co/anime/158166) |
-| 36  | Problem Children Are Coming From Another World, Aren't They? OVA                 | 2013 | 15 May 2025 | [SeaDex](https://releases.moe/16444/), [AniList](https://anilist.co/anime/16444)   |
-| 37  | Ms. Koizumi Loves Ramen Noodles                                                  | 2018 | 31 Jul 2025 | [SeaDex](https://releases.moe/98529/), [AniList](https://anilist.co/anime/98529)   |
-| 38  | ODDTAXI In The Woods                                                             | 2022 | 07 Oct 2024 | [SeaDex](https://releases.moe/143080/), [AniList](https://anilist.co/anime/143080) |
-| 39  | Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-      | 2021 | 19 Jul 2024 | [SeaDex](https://releases.moe/136344/), [AniList](https://anilist.co/anime/136344) |
-| 40  | BATTERY the animation                                                            | 2016 | 29 Jul 2025 | [SeaDex](https://releases.moe/21702/), [AniList](https://anilist.co/anime/21702)   |
-| 41  | Onee-chan ga Kita: Hajimete no… Kitaa!                                           | 2014 | 24 Jul 2025 | [SeaDex](https://releases.moe/20682/), [AniList](https://anilist.co/anime/20682)   |
+| 28  | Another: The Other                                                               | 2012 | 03 Aug 2025 | [SeaDex](https://releases.moe/11701/), [AniList](https://anilist.co/anime/11701)   |
+| 29  | Den-noh Coil                                                                     | 2007 | 25 Jun 2024 | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
+| 30  | I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness      | 2023 | 25 Jul 2025 | [SeaDex](https://releases.moe/154214/), [AniList](https://anilist.co/anime/154214) |
+| 31  | Glasslip                                                                         | 2014 | 24 Jul 2025 | [SeaDex](https://releases.moe/20645/), [AniList](https://anilist.co/anime/20645)   |
+| 32  | Macross                                                                          | 1982 | 29 Jul 2025 | [SeaDex](https://releases.moe/1088/), [AniList](https://anilist.co/anime/1088)     |
+| 33  | Onee-chan ga Kita                                                                | 2014 | 24 Jul 2025 | [SeaDex](https://releases.moe/20473/), [AniList](https://anilist.co/anime/20473)   |
+| 34  | Slow Start                                                                       | 2018 | 25 Nov 2024 | [SeaDex](https://releases.moe/98693/), [AniList](https://anilist.co/anime/98693)   |
+| 35  | My First Girlfriend is a Gal OVA                                                 | 2017 | 01 Aug 2025 | [SeaDex](https://releases.moe/98878/), [AniList](https://anilist.co/anime/98878)   |
+| 36  | The Colors Within                                                                | 2024 | 31 Jul 2025 | [SeaDex](https://releases.moe/158166/), [AniList](https://anilist.co/anime/158166) |
+| 37  | Problem Children Are Coming From Another World, Aren't They? OVA                 | 2013 | 15 May 2025 | [SeaDex](https://releases.moe/16444/), [AniList](https://anilist.co/anime/16444)   |
+| 38  | Ms. Koizumi Loves Ramen Noodles                                                  | 2018 | 31 Jul 2025 | [SeaDex](https://releases.moe/98529/), [AniList](https://anilist.co/anime/98529)   |
+| 39  | ODDTAXI In The Woods                                                             | 2022 | 07 Oct 2024 | [SeaDex](https://releases.moe/143080/), [AniList](https://anilist.co/anime/143080) |
+| 40  | Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-      | 2021 | 19 Jul 2024 | [SeaDex](https://releases.moe/136344/), [AniList](https://anilist.co/anime/136344) |
+| 41  | BATTERY the animation                                                            | 2016 | 29 Jul 2025 | [SeaDex](https://releases.moe/21702/), [AniList](https://anilist.co/anime/21702)   |
+| 42  | Onee-chan ga Kita: Hajimete no… Kitaa!                                           | 2014 | 24 Jul 2025 | [SeaDex](https://releases.moe/20682/), [AniList](https://anilist.co/anime/20682)   |

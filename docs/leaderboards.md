@@ -14,11 +14,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 174   |
+| 🥇   | -ZR-             | 173   |
 | 🥈   | sam              | 128   |
 | 🥉   | CRUCiBLE         | 109   |
 | 4    | MTBB             | 93    |
-| 5    | SubsPlease       | 84    |
+| 5    | SubsPlease       | 82    |
 | 6    | NAN0             | 78    |
 | 7    | YURI             | 75    |
 | 8    | smol             | 58    |
@@ -28,14 +28,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | KH               | 53    |
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 45    |
-| 15   | YURASUKA         | 42    |
+| 15   | YURASUKA         | 44    |
 | 16   | Headpatter       | 40    |
 | 17   | LYS1TH3A         | 37    |
 | 18   | Bunny-Apocalypse | 36    |
 | 19   | Okay-Subs        | 35    |
 | 20   | Lulu             | 34    |
-| 21   | Commie           | 34    |
-| 22   | TTGA             | 33    |
+| 21   | TTGA             | 33    |
+| 22   | Commie           | 33    |
 | 23   | Pog42            | 32    |
 | 24   | Kametsu          | 30    |
 | 25   | Holomux          | 28    |
@@ -104,14 +104,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 71    |
+| 🥇   | SubsPlease       | 69    |
 | 🥈   | Drag             | 42    |
 | 🥉   | KH               | 40    |
 | 4    | YURI             | 39    |
-| 5    | -ZR-             | 38    |
-| 6    | YURASUKA         | 36    |
+| 5    | YURASUKA         | 38    |
+| 6    | -ZR-             | 37    |
 | 7    | LostYears        | 34    |
-| 8    | Commie           | 34    |
+| 8    | Commie           | 33    |
 | 9    | hchcsen          | 32    |
 | 10   | MTBB             | 30    |
 | 11   | Bunny-Apocalypse | 29    |
@@ -120,8 +120,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | Kametsu          | 22    |
 | 15   | Holomux          | 20    |
 | 16   | CTR              | 20    |
-| 17   | VARYG            | 20    |
-| 18   | Headpatter       | 19    |
+| 17   | Headpatter       | 19    |
+| 18   | VARYG            | 19    |
 | 19   | Pog42            | 18    |
 | 20   | HorribleSubs     | 17    |
 | 21   | SCY              | 16    |
