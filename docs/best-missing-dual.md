@@ -24,23 +24,24 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 17  | Our love has always been 10 centimeters apart.                                  | 2017 | 12 Apr 2025 | [SeaDex](https://releases.moe/98977/), [AniList](https://anilist.co/anime/98977)   |
 | 18  | K: RETURN OF KINGS                                                              | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 19  | High School DxD OVA                                                             | 2012 | 08 Jun 2025 | [SeaDex](https://releases.moe/12729/), [AniList](https://anilist.co/anime/12729)   |
-| 20  | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout        | 2022 | 24 May 2025 | [SeaDex](https://releases.moe/134252/), [AniList](https://anilist.co/anime/134252) |
+| 20  | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout        | 2022 | 03 Aug 2025 | [SeaDex](https://releases.moe/134252/), [AniList](https://anilist.co/anime/134252) |
 | 21  | Thus Spoke Rohan Kishibe                                                        | 2017 | 28 Jul 2025 | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
 | 22  | High School DxD: Fantasy Jiggles Unleashed                                      | 2012 | 08 Jun 2025 | [SeaDex](https://releases.moe/13357/), [AniList](https://anilist.co/anime/13357)   |
-| 23  | Den-noh Coil                                                                    | 2007 | 25 Jun 2024 | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
+| 23  | Den-noh Coil                                                                    | 2007 | 03 Aug 2025 | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
 | 24  | A Certain Magical Index: The Miracle of Endymion                                | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
 | 25  | Assault Lily BOUQUET                                                            | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/112479/), [AniList](https://anilist.co/anime/112479) |
-| 26  | The Girl from the Other Side                                                    | 2022 | 11 Nov 2023 | [SeaDex](https://releases.moe/130550/), [AniList](https://anilist.co/anime/130550) |
-| 27  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                           | 2013 | 17 Feb 2025 | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
-| 28  | Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou      | 2012 | 26 Jan 2025 | [SeaDex](https://releases.moe/15879/), [AniList](https://anilist.co/anime/15879)   |
-| 29  | Lucifer and the Biscuit Hammer                                                  | 2022 | 29 Jun 2025 | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
-| 30  | Sasaki and Miyano: Graduation                                                   | 2023 | 20 Jun 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
-| 31  | Love, Chunibyo & Other Delusions - Heart Throb - Specials                       | 2014 | 13 Feb 2025 | [SeaDex](https://releases.moe/20777/), [AniList](https://anilist.co/anime/20777)   |
-| 32  | Synduality Noir                                                                 | 2023 | 26 Jul 2025 | [SeaDex](https://releases.moe/154643/), [AniList](https://anilist.co/anime/154643) |
-| 33  | Toward the Terra (TV)                                                           | 2007 | 14 Nov 2023 | [SeaDex](https://releases.moe/2158/), [AniList](https://anilist.co/anime/2158)     |
-| 34  | Aesthetica of a Rogue Hero Specials                                             | 2012 | 23 Jun 2024 | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
-| 35  | IS: Infinite Stratos 2 - Infinite Wedding                                       | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
-| 36  | Synduality Noir Part 2                                                          | 2024 | 26 Jul 2025 | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
-| 37  | Mobile Suit Gundam SEED FREEDOM                                                 | 2024 | 29 Dec 2024 | [SeaDex](https://releases.moe/134761/), [AniList](https://anilist.co/anime/134761) |
-| 38  | El Hazard: The Wanderers                                                        | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
-| 39  | Photon: The Idiot Adventures                                                    | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
+| 26  | NieR:Automata Ver1.1a Cour 2                                                    | 2024 | 03 Aug 2025 | [SeaDex](https://releases.moe/167420/), [AniList](https://anilist.co/anime/167420) |
+| 27  | The Girl from the Other Side                                                    | 2022 | 11 Nov 2023 | [SeaDex](https://releases.moe/130550/), [AniList](https://anilist.co/anime/130550) |
+| 28  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                           | 2013 | 17 Feb 2025 | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
+| 29  | Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou      | 2012 | 26 Jan 2025 | [SeaDex](https://releases.moe/15879/), [AniList](https://anilist.co/anime/15879)   |
+| 30  | Lucifer and the Biscuit Hammer                                                  | 2022 | 29 Jun 2025 | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
+| 31  | Sasaki and Miyano: Graduation                                                   | 2023 | 20 Jun 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
+| 32  | Love, Chunibyo & Other Delusions - Heart Throb - Specials                       | 2014 | 13 Feb 2025 | [SeaDex](https://releases.moe/20777/), [AniList](https://anilist.co/anime/20777)   |
+| 33  | Synduality Noir                                                                 | 2023 | 26 Jul 2025 | [SeaDex](https://releases.moe/154643/), [AniList](https://anilist.co/anime/154643) |
+| 34  | Toward the Terra (TV)                                                           | 2007 | 14 Nov 2023 | [SeaDex](https://releases.moe/2158/), [AniList](https://anilist.co/anime/2158)     |
+| 35  | Aesthetica of a Rogue Hero Specials                                             | 2012 | 23 Jun 2024 | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
+| 36  | IS: Infinite Stratos 2 - Infinite Wedding                                       | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
+| 37  | Synduality Noir Part 2                                                          | 2024 | 26 Jul 2025 | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
+| 38  | Mobile Suit Gundam SEED FREEDOM                                                 | 2024 | 29 Dec 2024 | [SeaDex](https://releases.moe/134761/), [AniList](https://anilist.co/anime/134761) |
+| 39  | El Hazard: The Wanderers                                                        | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
+| 40  | Photon: The Idiot Adventures                                                    | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |

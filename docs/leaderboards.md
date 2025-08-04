@@ -14,8 +14,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 173   |
-| 🥈   | sam              | 128   |
+| 🥇   | -ZR-             | 172   |
+| 🥈   | sam              | 129   |
 | 🥉   | CRUCiBLE         | 109   |
 | 4    | MTBB             | 93    |
 | 5    | SubsPlease       | 82    |
@@ -29,7 +29,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 45    |
 | 15   | YURASUKA         | 44    |
-| 16   | Headpatter       | 40    |
+| 16   | Headpatter       | 41    |
 | 17   | LYS1TH3A         | 37    |
 | 18   | Bunny-Apocalypse | 36    |
 | 19   | Okay-Subs        | 35    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group      | Count |
 | :----| :----------| :-----|
-| 🥇   | -ZR-       | 110   |
+| 🥇   | -ZR-       | 109   |
 | 🥈   | sam        | 88    |
 | 🥉   | CRUCiBLE   | 84    |
 | 4    | NAN0       | 63    |
@@ -74,8 +74,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group      | Count |
 | :----| :----------| :-----|
-| 🥇   | -ZR-       | 147   |
-| 🥈   | sam        | 118   |
+| 🥇   | -ZR-       | 146   |
+| 🥈   | sam        | 119   |
 | 🥉   | CRUCiBLE   | 109   |
 | 4    | NAN0       | 77    |
 | 5    | MTBB       | 63    |
@@ -89,8 +89,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Orphan     | 26    |
 | 14   | B00BA      | 24    |
 | 15   | PMR        | 24    |
-| 16   | Lulu       | 22    |
-| 17   | Headpatter | 22    |
+| 16   | Headpatter | 23    |
+| 17   | Lulu       | 22    |
 | 18   | Arid       | 22    |
 | 19   | Flugel     | 19    |
 | 20   | LazyRemux  | 19    |
@@ -118,14 +118,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Arid             | 24    |
 | 13   | Erai-raws        | 23    |
 | 14   | Kametsu          | 22    |
-| 15   | Holomux          | 20    |
-| 16   | CTR              | 20    |
+| 15   | CTR              | 20    |
+| 16   | Holomux          | 19    |
 | 17   | Headpatter       | 19    |
 | 18   | VARYG            | 19    |
 | 19   | Pog42            | 18    |
 | 20   | HorribleSubs     | 17    |
 | 21   | SCY              | 16    |
 | 22   | Chihiro          | 16    |
-| 23   | Reza             | 15    |
-| 24   | UDF              | 14    |
-| 25   | Lulu             | 13    |
+| 23   | NOGRP            | 16    |
+| 24   | Reza             | 15    |
+| 25   | UDF              | 14    |
