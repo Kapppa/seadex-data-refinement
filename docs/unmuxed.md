@@ -44,7 +44,7 @@
 | 41  | Rokka -Braves of the Six Flowers-                                                             | 2015 | 05 Feb 2025 | [SeaDex](https://releases.moe/20955/), [AniList](https://anilist.co/anime/20955)   |
 | 42  | Castle in the Sky                                                                             | 1986 | 06 Jul 2025 | [SeaDex](https://releases.moe/513/), [AniList](https://anilist.co/anime/513)       |
 | 43  | We Never Learn: BOKUBEN                                                                       | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/103900/), [AniList](https://anilist.co/anime/103900) |
-| 44  | Platinum End                                                                                  | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/127401/), [AniList](https://anilist.co/anime/127401) |
+| 44  | Platinum End                                                                                  | 2021 | 04 Aug 2025 | [SeaDex](https://releases.moe/127401/), [AniList](https://anilist.co/anime/127401) |
 | 45  | Strike the Blood                                                                              | 2013 | 24 Nov 2024 | [SeaDex](https://releases.moe/18277/), [AniList](https://anilist.co/anime/18277)   |
 | 46  | Sankarea: Undying Love                                                                        | 2012 | 29 Dec 2024 | [SeaDex](https://releases.moe/11499/), [AniList](https://anilist.co/anime/11499)   |
 | 47  | Shiki                                                                                         | 2010 | 15 Nov 2023 | [SeaDex](https://releases.moe/7724/), [AniList](https://anilist.co/anime/7724)     |
@@ -80,8 +80,8 @@
 | 77  | Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side                 | 2017 | 23 Jun 2025 | [SeaDex](https://releases.moe/21676/), [AniList](https://anilist.co/anime/21676)   |
 | 78  | Princess Connect! Re:Dive                                                                     | 2020 | 18 Jan 2025 | [SeaDex](https://releases.moe/107871/), [AniList](https://anilist.co/anime/107871) |
 | 79  | HELLO WORLD                                                                                   | 2019 | 27 Apr 2025 | [SeaDex](https://releases.moe/106240/), [AniList](https://anilist.co/anime/106240) |
-| 80  | Free! -Eternal Summer-                                                                        | 2014 | 30 Jun 2024 | [SeaDex](https://releases.moe/20614/), [AniList](https://anilist.co/anime/20614)   |
-| 81  | Love Tyrant                                                                                   | 2017 | 19 May 2025 | [SeaDex](https://releases.moe/21517/), [AniList](https://anilist.co/anime/21517)   |
+| 80  | Love Tyrant                                                                                   | 2017 | 19 May 2025 | [SeaDex](https://releases.moe/21517/), [AniList](https://anilist.co/anime/21517)   |
+| 81  | Free! -Eternal Summer-                                                                        | 2014 | 30 Jun 2024 | [SeaDex](https://releases.moe/20614/), [AniList](https://anilist.co/anime/20614)   |
 | 82  | Rainbow                                                                                       | 2010 | 08 May 2024 | [SeaDex](https://releases.moe/6114/), [AniList](https://anilist.co/anime/6114)     |
 | 83  | Waiting in the Summer                                                                         | 2012 | 07 Jul 2025 | [SeaDex](https://releases.moe/11433/), [AniList](https://anilist.co/anime/11433)   |
 | 84  | Chaika -The Coffin Princess-                                                                  | 2014 | 02 Jul 2024 | [SeaDex](https://releases.moe/20462/), [AniList](https://anilist.co/anime/20462)   |
@@ -120,10 +120,10 @@
 | 117 | Dimension W                                                                                   | 2016 | 11 Jul 2024 | [SeaDex](https://releases.moe/21256/), [AniList](https://anilist.co/anime/21256)   |
 | 118 | ALDNOAH.ZERO Season 2                                                                         | 2015 | 13 Jul 2025 | [SeaDex](https://releases.moe/20853/), [AniList](https://anilist.co/anime/20853)   |
 | 119 | The aquatope on white sand                                                                    | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/128545/), [AniList](https://anilist.co/anime/128545) |
-| 120 | High School of the Dead: Drifters of the Dead                                                 | 2011 | 09 Jul 2024 | [SeaDex](https://releases.moe/9515/), [AniList](https://anilist.co/anime/9515)     |
-| 121 | Spy Classroom                                                                                 | 2023 | 03 Aug 2025 | [SeaDex](https://releases.moe/146323/), [AniList](https://anilist.co/anime/146323) |
+| 120 | Spy Classroom                                                                                 | 2023 | 03 Aug 2025 | [SeaDex](https://releases.moe/146323/), [AniList](https://anilist.co/anime/146323) |
+| 121 | High School of the Dead: Drifters of the Dead                                                 | 2011 | 09 Jul 2024 | [SeaDex](https://releases.moe/9515/), [AniList](https://anilist.co/anime/9515)     |
 | 122 | Darker than Black: Gemini of the Meteor                                                       | 2009 | 13 Jul 2025 | [SeaDex](https://releases.moe/6573/), [AniList](https://anilist.co/anime/6573)     |
-| 123 | RADIANT                                                                                       | 2018 | 28 Nov 2024 | [SeaDex](https://releases.moe/101024/), [AniList](https://anilist.co/anime/101024) |
+| 123 | RADIANT                                                                                       | 2018 | 04 Aug 2025 | [SeaDex](https://releases.moe/101024/), [AniList](https://anilist.co/anime/101024) |
 | 124 | Black Lagoon: Roberta's Blood Trail                                                           | 2010 | 14 Feb 2025 | [SeaDex](https://releases.moe/4901/), [AniList](https://anilist.co/anime/4901)     |
 | 125 | Code:Breaker                                                                                  | 2012 | 28 Nov 2024 | [SeaDex](https://releases.moe/11703/), [AniList](https://anilist.co/anime/11703)   |
 | 126 | Maken-Ki! Battling Venus                                                                      | 2011 | 30 Mar 2025 | [SeaDex](https://releases.moe/9936/), [AniList](https://anilist.co/anime/9936)     |
@@ -155,7 +155,7 @@
 | 152 | Those Snow White Notes                                                                        | 2021 | 01 Aug 2025 | [SeaDex](https://releases.moe/122348/), [AniList](https://anilist.co/anime/122348) |
 | 153 | Occultic;Nine                                                                                 | 2016 | 30 Dec 2023 | [SeaDex](https://releases.moe/21708/), [AniList](https://anilist.co/anime/21708)   |
 | 154 | Sunday Without God                                                                            | 2013 | 26 Jan 2025 | [SeaDex](https://releases.moe/16009/), [AniList](https://anilist.co/anime/16009)   |
-| 155 | Gatchaman Crowds                                                                              | 2013 | 02 Aug 2025 | [SeaDex](https://releases.moe/18229/), [AniList](https://anilist.co/anime/18229)   |
+| 155 | Gatchaman Crowds                                                                              | 2013 | 04 Aug 2025 | [SeaDex](https://releases.moe/18229/), [AniList](https://anilist.co/anime/18229)   |
 | 156 | Joker Game                                                                                    | 2016 | 07 Dec 2024 | [SeaDex](https://releases.moe/21291/), [AniList](https://anilist.co/anime/21291)   |
 | 157 | Ladies Versus Butlers                                                                         | 2010 | 09 Jun 2025 | [SeaDex](https://releases.moe/7148/), [AniList](https://anilist.co/anime/7148)     |
 | 158 | Chaika -The Coffin Princess- AVENGING BATTLE                                                  | 2014 | 02 Aug 2025 | [SeaDex](https://releases.moe/20719/), [AniList](https://anilist.co/anime/20719)   |
@@ -235,8 +235,8 @@
 | 232 | Persona 3 the Movie: #3 Falling Down                                                          | 2015 | 24 Jul 2024 | [SeaDex](https://releases.moe/20737/), [AniList](https://anilist.co/anime/20737)   |
 | 233 | A Ninja and an Assassin Under One Roof                                                        | 2025 | 31 Jul 2025 | [SeaDex](https://releases.moe/177120/), [AniList](https://anilist.co/anime/177120) |
 | 234 | In Search of the Lost Future                                                                  | 2014 | 27 Jul 2024 | [SeaDex](https://releases.moe/20591/), [AniList](https://anilist.co/anime/20591)   |
-| 235 | Sasami-san@Ganbaranai                                                                         | 2013 | 24 Nov 2024 | [SeaDex](https://releases.moe/14515/), [AniList](https://anilist.co/anime/14515)   |
-| 236 | Sankarea: I, Too, Am... A Zombie...                                                           | 2012 | 29 Dec 2024 | [SeaDex](https://releases.moe/16694/), [AniList](https://anilist.co/anime/16694)   |
+| 235 | Sankarea: I, Too, Am... A Zombie...                                                           | 2012 | 29 Dec 2024 | [SeaDex](https://releases.moe/16694/), [AniList](https://anilist.co/anime/16694)   |
+| 236 | Sasami-san@Ganbaranai                                                                         | 2013 | 24 Nov 2024 | [SeaDex](https://releases.moe/14515/), [AniList](https://anilist.co/anime/14515)   |
 | 237 | AFTERLOST                                                                                     | 2019 | 10 Jul 2025 | [SeaDex](https://releases.moe/101814/), [AniList](https://anilist.co/anime/101814) |
 | 238 | Persona 3 the Movie: #4 Winter of Rebirth                                                     | 2016 | 24 Jul 2024 | [SeaDex](https://releases.moe/21248/), [AniList](https://anilist.co/anime/21248)   |
 | 239 | Requiem of the Rose King                                                                      | 2022 | 03 Aug 2025 | [SeaDex](https://releases.moe/124060/), [AniList](https://anilist.co/anime/124060) |

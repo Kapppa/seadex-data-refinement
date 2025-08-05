@@ -20,8 +20,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.4 TiB   | 12.2 TiB (85.24%)   | 183 (~80.3 GiB each)  |
-| 2    | CRUCiBLE         | 8.3 TiB    | 8.3 TiB (100.00%)   | 109 (~77.6 GiB each)  |
+| 1    | -ZR-             | 14.4 TiB   | 12.2 TiB (85.24%)   | 184 (~79.9 GiB each)  |
+| 2    | CRUCiBLE         | 8.3 TiB    | 8.3 TiB (100.00%)   | 111 (~76.2 GiB each)  |
 | 3    | NAN0             | 5.6 TiB    | 5.5 TiB (98.65%)    | 78 (~73.4 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.99%)    | 129 (~29.5 GiB each)  |
 | 5    | TTGA             | 2.4 TiB    | 2.2 TiB (91.92%)    | 33 (~75.0 GiB each)   |
@@ -31,15 +31,15 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 9    | PMR              | 2.0 TiB    | 2.0 TiB (100.00%)   | 24 (~85.6 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 11   | MTBB             | 1.4 TiB    | 1.2 TiB (82.80%)    | 93 (~15.6 GiB each)   |
-| 12   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~76.0 GiB each)   |
-| 13   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.62%)  | 82 (~17.2 GiB each)   |
+| 12   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.2 GiB each)   |
+| 13   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.69%)  | 81 (~17.4 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 15   | RUDY             | 1.0 TiB    | 1.0 TiB (97.55%)    | 14 (~76.2 GiB each)   |
 | 16   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 17   | NOGRP            | 984.9 GiB  | 849.8 GiB (86.28%)  | 26 (~37.9 GiB each)   |
 | 18   | LYS1TH3A         | 938.0 GiB  | 918.5 GiB (97.92%)  | 37 (~25.4 GiB each)   |
 | 19   | KH               | 917.3 GiB  | 239.8 GiB (26.14%)  | 55 (~16.7 GiB each)   |
-| 20   | YURI             | 890.0 GiB  | 393.1 GiB (44.17%)  | 75 (~11.9 GiB each)   |
+| 20   | YURI             | 884.2 GiB  | 387.3 GiB (43.80%)  | 74 (~11.9 GiB each)   |
 | 21   | koala            | 871.3 GiB  | 871.3 GiB (100.00%) | 17 (~51.3 GiB each)   |
 | 22   | Headpatter       | 864.8 GiB  | 629.6 GiB (72.80%)  | 42 (~20.6 GiB each)   |
 | 23   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
@@ -63,10 +63,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 41   | UDF              | 579.7 GiB  | 203.8 GiB (35.15%)  | 24 (~24.2 GiB each)   |
 | 42   | SEV              | 578.6 GiB  | 0 B (0.00%)         | 12 (~48.2 GiB each)   |
 | 43   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 13 (~41.5 GiB each)   |
-| 44   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 45   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 46   | SCY              | 495.6 GiB  | 185.4 GiB (37.42%)  | 28 (~17.7 GiB each)   |
+| 44   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
+| 45   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
+| 46   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | YURASUKA         | 473.3 GiB  | 67.4 GiB (14.23%)   | 44 (~10.8 GiB each)   |
-| 50   | Others           | 33.8 TiB   | 19.2 TiB (56.83%)   | 1664 (~20.8 GiB each) |
+| 50   | Others           | 33.7 TiB   | 19.2 TiB (56.82%)   | 1659 (~20.8 GiB each) |

@@ -14,13 +14,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 172   |
+| 🥇   | -ZR-             | 173   |
 | 🥈   | sam              | 129   |
-| 🥉   | CRUCiBLE         | 109   |
+| 🥉   | CRUCiBLE         | 111   |
 | 4    | MTBB             | 93    |
-| 5    | SubsPlease       | 82    |
+| 5    | SubsPlease       | 81    |
 | 6    | NAN0             | 78    |
-| 7    | YURI             | 75    |
+| 7    | YURI             | 74    |
 | 8    | smol             | 58    |
 | 9    | Drag             | 57    |
 | 10   | Moxie            | 57    |
@@ -38,7 +38,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | Commie           | 33    |
 | 23   | Pog42            | 32    |
 | 24   | Kametsu          | 30    |
-| 25   | Holomux          | 28    |
+| 25   | SCY              | 29    |
 
 ## Top 25 - Best dual audio entries
 
@@ -46,7 +46,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 109   |
 | 🥈   | sam        | 88    |
-| 🥉   | CRUCiBLE   | 84    |
+| 🥉   | CRUCiBLE   | 86    |
 | 4    | NAN0       | 63    |
 | 5    | LYS1TH3A   | 34    |
 | 6    | hchcsen    | 28    |
@@ -54,9 +54,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | TTGA       | 21    |
 | 9    | Lulu       | 19    |
 | 10   | Flugel     | 19    |
-| 11   | YURI       | 17    |
-| 12   | Moxie      | 15    |
-| 13   | LazyRemux  | 15    |
+| 11   | YURI       | 16    |
+| 12   | LazyRemux  | 16    |
+| 13   | Moxie      | 15    |
 | 14   | LostYears  | 15    |
 | 15   | koala      | 14    |
 | 16   | FLE        | 14    |
@@ -76,13 +76,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 146   |
 | 🥈   | sam        | 119   |
-| 🥉   | CRUCiBLE   | 109   |
+| 🥉   | CRUCiBLE   | 111   |
 | 4    | NAN0       | 77    |
 | 5    | MTBB       | 63    |
 | 6    | Moxie      | 57    |
 | 7    | smol       | 56    |
-| 8    | YURI       | 36    |
-| 9    | LYS1TH3A   | 35    |
+| 8    | LYS1TH3A   | 35    |
+| 9    | YURI       | 35    |
 | 10   | Okay-Subs  | 33    |
 | 11   | TTGA       | 31    |
 | 12   | hchcsen    | 29    |
@@ -92,8 +92,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | Headpatter | 23    |
 | 17   | Lulu       | 22    |
 | 18   | Arid       | 22    |
-| 19   | Flugel     | 19    |
-| 20   | LazyRemux  | 19    |
+| 19   | LazyRemux  | 20    |
+| 20   | Flugel     | 19    |
 | 21   | koala      | 17    |
 | 22   | Drag       | 16    |
 | 23   | FLE        | 16    |
@@ -104,12 +104,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 69    |
+| 🥇   | SubsPlease       | 68    |
 | 🥈   | Drag             | 42    |
 | 🥉   | KH               | 40    |
 | 4    | YURI             | 39    |
 | 5    | YURASUKA         | 38    |
-| 6    | -ZR-             | 37    |
+| 6    | -ZR-             | 38    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 33    |
 | 9    | hchcsen          | 32    |
@@ -123,8 +123,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Headpatter       | 19    |
 | 18   | VARYG            | 19    |
 | 19   | Pog42            | 18    |
-| 20   | HorribleSubs     | 17    |
-| 21   | SCY              | 16    |
+| 20   | SCY              | 17    |
+| 21   | HorribleSubs     | 17    |
 | 22   | Chihiro          | 16    |
 | 23   | NOGRP            | 16    |
 | 24   | Reza             | 15    |
