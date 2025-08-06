@@ -196,8 +196,8 @@
 | 193 | The Moment You Fall in Love                                                                   | 2016 | 25 Jun 2025 | [SeaDex](https://releases.moe/21757/), [AniList](https://anilist.co/anime/21757)   |
 | 194 | Samurai Flamenco                                                                              | 2013 | 02 Aug 2025 | [SeaDex](https://releases.moe/19365/), [AniList](https://anilist.co/anime/19365)   |
 | 195 | The Royal Tutor                                                                               | 2017 | 09 Apr 2025 | [SeaDex](https://releases.moe/97932/), [AniList](https://anilist.co/anime/97932)   |
-| 196 | Persona 3 the Movie: #1 Spring of Birth                                                       | 2013 | 24 Jul 2024 | [SeaDex](https://releases.moe/14407/), [AniList](https://anilist.co/anime/14407)   |
-| 197 | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION                                                         | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/177697/), [AniList](https://anilist.co/anime/177697) |
+| 196 | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION                                                         | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/177697/), [AniList](https://anilist.co/anime/177697) |
+| 197 | Persona 3 the Movie: #1 Spring of Birth                                                       | 2013 | 24 Jul 2024 | [SeaDex](https://releases.moe/14407/), [AniList](https://anilist.co/anime/14407)   |
 | 198 | Scarlet Nexus                                                                                 | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
 | 199 | PSYCHO-PASS Sinners of the System: Case.1 Crime and Punishment                                | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/102649/), [AniList](https://anilist.co/anime/102649) |
 | 200 | MUSHI-SHI OVA                                                                                 | 2014 | 15 Jul 2025 | [SeaDex](https://releases.moe/20526/), [AniList](https://anilist.co/anime/20526)   |
@@ -313,8 +313,8 @@
 | 310 | AKB0048: next stage                                                                           | 2013 | 05 Jan 2025 | [SeaDex](https://releases.moe/14941/), [AniList](https://anilist.co/anime/14941)   |
 | 311 | Momo Kyun Sword                                                                               | 2014 | 24 Jul 2024 | [SeaDex](https://releases.moe/20610/), [AniList](https://anilist.co/anime/20610)   |
 | 312 | Kamisama no Inai Nichiyoubi: Kioku                                                            | 2014 | 26 Jan 2025 | [SeaDex](https://releases.moe/20423/), [AniList](https://anilist.co/anime/20423)   |
-| 313 | Gatchaman Crowds insight: Inbound                                                             | 2015 | 02 Jul 2024 | [SeaDex](https://releases.moe/21252/), [AniList](https://anilist.co/anime/21252)   |
-| 314 | given The Movie: To the Sea                                                                   | 2024 | 27 Jun 2025 | [SeaDex](https://releases.moe/175199/), [AniList](https://anilist.co/anime/175199) |
+| 313 | given The Movie: To the Sea                                                                   | 2024 | 27 Jun 2025 | [SeaDex](https://releases.moe/175199/), [AniList](https://anilist.co/anime/175199) |
+| 314 | Gatchaman Crowds insight: Inbound                                                             | 2015 | 02 Jul 2024 | [SeaDex](https://releases.moe/21252/), [AniList](https://anilist.co/anime/21252)   |
 | 315 | PERSONA5 the Animation: Stars and Ours                                                        | 2019 | 03 Aug 2025 | [SeaDex](https://releases.moe/106896/), [AniList](https://anilist.co/anime/106896) |
 | 316 | Gekidol                                                                                       | 2021 | 15 Nov 2024 | [SeaDex](https://releases.moe/124131/), [AniList](https://anilist.co/anime/124131) |
 | 317 | Soaring Sky! Precure                                                                          | 2023 | 22 Jan 2025 | [SeaDex](https://releases.moe/157883/), [AniList](https://anilist.co/anime/157883) |
