@@ -56,8 +56,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 49  | Hi Score Girl                                                                               | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/20574/), [AniList](https://anilist.co/anime/20574)   |
 | 50  | Motto To Love Ru                                                                            | 2010 | 14 Nov 2023 | [SeaDex](https://releases.moe/9181/), [AniList](https://anilist.co/anime/9181)     |
 | 51  | Taboo Tattoo                                                                                | 2016 | 04 Aug 2025 | [SeaDex](https://releases.moe/21031/), [AniList](https://anilist.co/anime/21031)   |
-| 52  | From Up on Poppy Hill                                                                       | 2011 | 14 Nov 2023 | [SeaDex](https://releases.moe/10029/), [AniList](https://anilist.co/anime/10029)   |
-| 53  | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | 2024 | 22 Jan 2025 | [SeaDex](https://releases.moe/163292/), [AniList](https://anilist.co/anime/163292) |
+| 52  | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | 2024 | 22 Jan 2025 | [SeaDex](https://releases.moe/163292/), [AniList](https://anilist.co/anime/163292) |
+| 53  | From Up on Poppy Hill                                                                       | 2011 | 14 Nov 2023 | [SeaDex](https://releases.moe/10029/), [AniList](https://anilist.co/anime/10029)   |
 | 54  | Golden Kamuy Season 2                                                                       | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |
 | 55  | My Instant Death Ability is Overpowered                                                     | 2024 | 03 Aug 2025 | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
 | 56  | No Guns Life                                                                                | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
@@ -70,8 +70,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 63  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                  | 2025 | 01 Aug 2025 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
 | 64  | Sarazanmai                                                                                  | 2019 | 15 Nov 2023 | [SeaDex](https://releases.moe/101261/), [AniList](https://anilist.co/anime/101261) |
 | 65  | Pretty Boy Detective Club                                                                   | 2021 | 07 Jun 2025 | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
-| 66  | Sound of the Sky                                                                            | 2010 | 03 Aug 2025 | [SeaDex](https://releases.moe/6802/), [AniList](https://anilist.co/anime/6802)     |
-| 67  | Super Cub                                                                                   | 2021 | 22 Oct 2024 | [SeaDex](https://releases.moe/113418/), [AniList](https://anilist.co/anime/113418) |
+| 66  | Super Cub                                                                                   | 2021 | 22 Oct 2024 | [SeaDex](https://releases.moe/113418/), [AniList](https://anilist.co/anime/113418) |
+| 67  | Sound of the Sky                                                                            | 2010 | 03 Aug 2025 | [SeaDex](https://releases.moe/6802/), [AniList](https://anilist.co/anime/6802)     |
 | 68  | Chihayafuru 3                                                                               | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/101215/), [AniList](https://anilist.co/anime/101215) |
 | 69  | Ikebukuro West Gate Park                                                                    | 2020 | 12 Jul 2024 | [SeaDex](https://releases.moe/111324/), [AniList](https://anilist.co/anime/111324) |
 | 70  | Spice and Wolf II: Wolf and the Amber Melancholy                                            | 2009 | 19 Jun 2025 | [SeaDex](https://releases.moe/6007/), [AniList](https://anilist.co/anime/6007)     |

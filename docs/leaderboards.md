@@ -16,7 +16,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 173   |
 | 🥈   | sam              | 129   |
-| 🥉   | CRUCiBLE         | 111   |
+| 🥉   | CRUCiBLE         | 113   |
 | 4    | MTBB             | 93    |
 | 5    | SubsPlease       | 81    |
 | 6    | NAN0             | 78    |
@@ -29,9 +29,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 45    |
 | 15   | YURASUKA         | 44    |
-| 16   | Headpatter       | 41    |
-| 17   | LYS1TH3A         | 37    |
-| 18   | Bunny-Apocalypse | 36    |
+| 16   | Headpatter       | 39    |
+| 17   | Bunny-Apocalypse | 38    |
+| 18   | LYS1TH3A         | 37    |
 | 19   | Okay-Subs        | 35    |
 | 20   | Lulu             | 34    |
 | 21   | TTGA             | 33    |
@@ -42,33 +42,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Best dual audio entries
 
-| Rank | Group      | Count |
-| :----| :----------| :-----|
-| 🥇   | -ZR-       | 109   |
-| 🥈   | sam        | 88    |
-| 🥉   | CRUCiBLE   | 86    |
-| 4    | NAN0       | 63    |
-| 5    | LYS1TH3A   | 34    |
-| 6    | hchcsen    | 28    |
-| 7    | smol       | 23    |
-| 8    | TTGA       | 21    |
-| 9    | Lulu       | 19    |
-| 10   | Flugel     | 19    |
-| 11   | YURI       | 16    |
-| 12   | LazyRemux  | 16    |
-| 13   | Moxie      | 15    |
-| 14   | LostYears  | 15    |
-| 15   | koala      | 14    |
-| 16   | FLE        | 14    |
-| 17   | KH         | 13    |
-| 18   | Arid       | 13    |
-| 19   | Vodes      | 12    |
-| 20   | ZeroBuild  | 12    |
-| 21   | FraMeSToR  | 11    |
-| 22   | SCY        | 11    |
-| 23   | hydes      | 10    |
-| 24   | DemiHuman  | 10    |
-| 25   | Headpatter | 10    |
+| Rank | Group     | Count |
+| :----| :---------| :-----|
+| 🥇   | -ZR-      | 109   |
+| 🥈   | sam       | 88    |
+| 🥉   | CRUCiBLE  | 87    |
+| 4    | NAN0      | 63    |
+| 5    | LYS1TH3A  | 34    |
+| 6    | hchcsen   | 28    |
+| 7    | smol      | 23    |
+| 8    | TTGA      | 21    |
+| 9    | Lulu      | 19    |
+| 10   | Flugel    | 19    |
+| 11   | YURI      | 16    |
+| 12   | LazyRemux | 16    |
+| 13   | Moxie     | 15    |
+| 14   | LostYears | 15    |
+| 15   | koala     | 14    |
+| 16   | FLE       | 14    |
+| 17   | KH        | 13    |
+| 18   | Arid      | 13    |
+| 19   | Vodes     | 12    |
+| 20   | ZeroBuild | 12    |
+| 21   | FraMeSToR | 11    |
+| 22   | SCY       | 11    |
+| 23   | hydes     | 10    |
+| 24   | DemiHuman | 10    |
+| 25   | PMR       | 9     |
 
 ## Top 25 - Best entries
 
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 146   |
 | 🥈   | sam        | 119   |
-| 🥉   | CRUCiBLE   | 111   |
+| 🥉   | CRUCiBLE   | 113   |
 | 4    | NAN0       | 77    |
 | 5    | MTBB       | 63    |
 | 6    | Moxie      | 57    |
@@ -89,9 +89,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Orphan     | 26    |
 | 14   | B00BA      | 24    |
 | 15   | PMR        | 24    |
-| 16   | Headpatter | 23    |
-| 17   | Lulu       | 22    |
-| 18   | Arid       | 22    |
+| 16   | Lulu       | 22    |
+| 17   | Arid       | 22    |
+| 18   | Headpatter | 21    |
 | 19   | LazyRemux  | 20    |
 | 20   | Flugel     | 19    |
 | 21   | koala      | 17    |
@@ -113,8 +113,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 33    |
 | 9    | hchcsen          | 32    |
-| 10   | MTBB             | 30    |
-| 11   | Bunny-Apocalypse | 29    |
+| 10   | Bunny-Apocalypse | 31    |
+| 11   | MTBB             | 30    |
 | 12   | Arid             | 24    |
 | 13   | Erai-raws        | 23    |
 | 14   | Kametsu          | 22    |

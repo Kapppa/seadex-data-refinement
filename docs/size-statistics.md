@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `108.3 TiB`
-- Best size: `80.4 TiB`
+- Total size: `108.4 TiB`
+- Best size: `80.5 TiB`
 - Alt size: `27.9 TiB`
-- Realistic size: `84.1 TiB`
+- Realistic size: `84.2 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.4 TiB   | 12.2 TiB (85.24%)   | 184 (~79.9 GiB each)  |
-| 2    | CRUCiBLE         | 8.3 TiB    | 8.3 TiB (100.00%)   | 111 (~76.2 GiB each)  |
+| 2    | CRUCiBLE         | 8.4 TiB    | 8.4 TiB (100.00%)   | 113 (~76.4 GiB each)  |
 | 3    | NAN0             | 5.6 TiB    | 5.5 TiB (98.65%)    | 78 (~73.4 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.99%)    | 129 (~29.5 GiB each)  |
 | 5    | TTGA             | 2.4 TiB    | 2.2 TiB (91.92%)    | 33 (~75.0 GiB each)   |
@@ -41,11 +41,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 19   | KH               | 917.3 GiB  | 239.8 GiB (26.14%)  | 55 (~16.7 GiB each)   |
 | 20   | YURI             | 884.2 GiB  | 387.3 GiB (43.80%)  | 74 (~11.9 GiB each)   |
 | 21   | koala            | 871.3 GiB  | 871.3 GiB (100.00%) | 17 (~51.3 GiB each)   |
-| 22   | Headpatter       | 864.8 GiB  | 629.6 GiB (72.80%)  | 42 (~20.6 GiB each)   |
+| 22   | Headpatter       | 828.2 GiB  | 592.9 GiB (71.60%)  | 40 (~20.7 GiB each)   |
 | 23   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
-| 24   | LostYears        | 807.3 GiB  | 288.6 GiB (35.75%)  | 49 (~16.5 GiB each)   |
-| 25   | Holomux          | 804.4 GiB  | 194.2 GiB (24.15%)  | 29 (~27.7 GiB each)   |
-| 26   | Bunny-Apocalypse | 776.7 GiB  | 173.8 GiB (22.38%)  | 36 (~21.6 GiB each)   |
+| 24   | Bunny-Apocalypse | 809.5 GiB  | 173.8 GiB (21.47%)  | 38 (~21.3 GiB each)   |
+| 25   | LostYears        | 807.3 GiB  | 288.6 GiB (35.75%)  | 49 (~16.5 GiB each)   |
+| 26   | Holomux          | 804.4 GiB  | 194.2 GiB (24.15%)  | 29 (~27.7 GiB each)   |
 | 27   | FraMeSToR        | 745.7 GiB  | 745.7 GiB (100.00%) | 11 (~67.8 GiB each)   |
 | 28   | ZeroBuild        | 743.1 GiB  | 646.3 GiB (86.97%)  | 16 (~46.4 GiB each)   |
 | 29   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | YURASUKA         | 473.3 GiB  | 67.4 GiB (14.23%)   | 44 (~10.8 GiB each)   |
-| 50   | Others           | 33.7 TiB   | 19.2 TiB (56.82%)   | 1659 (~20.8 GiB each) |
+| 50   | Others           | 33.7 TiB   | 19.2 TiB (56.84%)   | 1658 (~20.8 GiB each) |
