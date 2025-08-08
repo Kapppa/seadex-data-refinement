@@ -45,8 +45,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group     | Count |
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 109   |
-| 🥈   | sam       | 88    |
-| 🥉   | CRUCiBLE  | 87    |
+| 🥈   | CRUCiBLE  | 88    |
+| 🥉   | sam       | 88    |
 | 4    | NAN0      | 63    |
 | 5    | LYS1TH3A  | 34    |
 | 6    | hchcsen   | 28    |

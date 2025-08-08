@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `108.4 TiB`
-- Best size: `80.5 TiB`
+- Total size: `108.5 TiB`
+- Best size: `80.6 TiB`
 - Alt size: `27.9 TiB`
-- Realistic size: `84.2 TiB`
+- Realistic size: `84.3 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | YURASUKA         | 473.3 GiB  | 67.4 GiB (14.23%)   | 44 (~10.8 GiB each)   |
-| 50   | Others           | 33.7 TiB   | 19.2 TiB (56.84%)   | 1658 (~20.8 GiB each) |
+| 50   | Others           | 33.8 TiB   | 19.3 TiB (56.94%)   | 1661 (~20.9 GiB each) |
