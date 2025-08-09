@@ -42,8 +42,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 35  | I'm Quitting Heroing                                                                        | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/140457/), [AniList](https://anilist.co/anime/140457) |
 | 36  | Sword Art Online the Movie -Progressive- Aria of a Starless Night                           | 2021 | 30 Jan 2024 | [SeaDex](https://releases.moe/124140/), [AniList](https://anilist.co/anime/124140) |
 | 37  | Somali and the Forest Spirit                                                                | 2020 | 09 Jul 2025 | [SeaDex](https://releases.moe/108617/), [AniList](https://anilist.co/anime/108617) |
-| 38  | Given The Movie                                                                             | 2020 | 20 Jun 2025 | [SeaDex](https://releases.moe/111734/), [AniList](https://anilist.co/anime/111734) |
-| 39  | The Case Study of Vanitas Part 2                                                            | 2022 | 02 Aug 2025 | [SeaDex](https://releases.moe/135136/), [AniList](https://anilist.co/anime/135136) |
+| 38  | The Case Study of Vanitas Part 2                                                            | 2022 | 02 Aug 2025 | [SeaDex](https://releases.moe/135136/), [AniList](https://anilist.co/anime/135136) |
+| 39  | Given The Movie                                                                             | 2020 | 20 Jun 2025 | [SeaDex](https://releases.moe/111734/), [AniList](https://anilist.co/anime/111734) |
 | 40  | Isekai Cheat Magician                                                                       | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
 | 41  | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                             | 2022 | 19 Mar 2025 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
 | 42  | I'm Standing on a Million Lives                                                             | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
@@ -71,8 +71,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 64  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                  | 2025 | 01 Aug 2025 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
 | 65  | Sarazanmai                                                                                  | 2019 | 15 Nov 2023 | [SeaDex](https://releases.moe/101261/), [AniList](https://anilist.co/anime/101261) |
 | 66  | Pretty Boy Detective Club                                                                   | 2021 | 07 Jun 2025 | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
-| 67  | Sound of the Sky                                                                            | 2010 | 03 Aug 2025 | [SeaDex](https://releases.moe/6802/), [AniList](https://anilist.co/anime/6802)     |
-| 68  | Super Cub                                                                                   | 2021 | 22 Oct 2024 | [SeaDex](https://releases.moe/113418/), [AniList](https://anilist.co/anime/113418) |
+| 67  | Super Cub                                                                                   | 2021 | 22 Oct 2024 | [SeaDex](https://releases.moe/113418/), [AniList](https://anilist.co/anime/113418) |
+| 68  | Sound of the Sky                                                                            | 2010 | 03 Aug 2025 | [SeaDex](https://releases.moe/6802/), [AniList](https://anilist.co/anime/6802)     |
 | 69  | Chihayafuru 3                                                                               | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/101215/), [AniList](https://anilist.co/anime/101215) |
 | 70  | Ikebukuro West Gate Park                                                                    | 2020 | 12 Jul 2024 | [SeaDex](https://releases.moe/111324/), [AniList](https://anilist.co/anime/111324) |
 | 71  | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest                      | 2025 | 07 Aug 2025 | [SeaDex](https://releases.moe/178548/), [AniList](https://anilist.co/anime/178548) |

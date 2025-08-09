@@ -87,8 +87,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | TTGA       | 31    |
 | 12   | hchcsen    | 29    |
 | 13   | Orphan     | 26    |
-| 14   | B00BA      | 24    |
-| 15   | PMR        | 24    |
+| 14   | PMR        | 25    |
+| 15   | B00BA      | 24    |
 | 16   | Lulu       | 22    |
 | 17   | Arid       | 22    |
 | 18   | Headpatter | 21    |
