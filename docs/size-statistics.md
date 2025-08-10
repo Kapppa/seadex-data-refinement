@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `108.6 TiB`
-- Best size: `80.7 TiB`
+- Total size: `108.8 TiB`
+- Best size: `80.9 TiB`
 - Alt size: `27.9 TiB`
-- Realistic size: `84.4 TiB`
+- Realistic size: `84.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,12 +21,12 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.4 TiB   | 12.2 TiB (85.24%)   | 184 (~79.9 GiB each)  |
-| 2    | CRUCiBLE         | 8.4 TiB    | 8.4 TiB (100.00%)   | 113 (~76.4 GiB each)  |
-| 3    | NAN0             | 5.6 TiB    | 5.5 TiB (98.65%)    | 78 (~73.4 GiB each)   |
+| 2    | CRUCiBLE         | 8.5 TiB    | 8.5 TiB (100.00%)   | 114 (~76.3 GiB each)  |
+| 3    | NAN0             | 5.6 TiB    | 5.6 TiB (98.66%)    | 79 (~73.2 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.99%)    | 129 (~29.5 GiB each)  |
-| 5    | TTGA             | 2.4 TiB    | 2.2 TiB (91.92%)    | 33 (~75.0 GiB each)   |
-| 6    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.49%)    | 61 (~40.2 GiB each)   |
-| 7    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 57 (~42.2 GiB each)   |
+| 5    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
+| 6    | TTGA             | 2.4 TiB    | 2.2 TiB (91.92%)    | 33 (~75.0 GiB each)   |
+| 7    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.49%)    | 61 (~40.2 GiB each)   |
 | 8    | B00BA            | 2.2 TiB    | 2.2 TiB (100.00%)   | 24 (~92.2 GiB each)   |
 | 9    | PMR              | 2.1 TiB    | 2.1 TiB (100.00%)   | 25 (~85.3 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | YURASUKA         | 473.3 GiB  | 67.4 GiB (14.23%)   | 44 (~10.8 GiB each)   |
-| 50   | Others           | 33.8 TiB   | 19.3 TiB (56.94%)   | 1661 (~20.9 GiB each) |
+| 50   | Others           | 33.8 TiB   | 19.3 TiB (56.92%)   | 1662 (~20.8 GiB each) |

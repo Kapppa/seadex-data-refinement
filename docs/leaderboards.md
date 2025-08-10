@@ -16,14 +16,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 173   |
 | 🥈   | sam              | 129   |
-| 🥉   | CRUCiBLE         | 113   |
+| 🥉   | CRUCiBLE         | 114   |
 | 4    | MTBB             | 93    |
 | 5    | SubsPlease       | 81    |
-| 6    | NAN0             | 78    |
+| 6    | NAN0             | 79    |
 | 7    | YURI             | 74    |
-| 8    | smol             | 58    |
-| 9    | Drag             | 57    |
-| 10   | Moxie            | 57    |
+| 8    | Moxie            | 61    |
+| 9    | smol             | 58    |
+| 10   | Drag             | 57    |
 | 11   | hchcsen          | 56    |
 | 12   | KH               | 53    |
 | 13   | LostYears        | 49    |
@@ -45,7 +45,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group     | Count |
 | :----| :---------| :-----|
 | 🥇   | -ZR-      | 109   |
-| 🥈   | CRUCiBLE  | 88    |
+| 🥈   | CRUCiBLE  | 89    |
 | 🥉   | sam       | 88    |
 | 4    | NAN0      | 63    |
 | 5    | LYS1TH3A  | 34    |
@@ -76,10 +76,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 146   |
 | 🥈   | sam        | 119   |
-| 🥉   | CRUCiBLE   | 113   |
-| 4    | NAN0       | 77    |
+| 🥉   | CRUCiBLE   | 114   |
+| 4    | NAN0       | 78    |
 | 5    | MTBB       | 63    |
-| 6    | Moxie      | 57    |
+| 6    | Moxie      | 61    |
 | 7    | smol       | 56    |
 | 8    | LYS1TH3A   | 35    |
 | 9    | YURI       | 35    |
@@ -124,8 +124,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | VARYG            | 19    |
 | 19   | Pog42            | 18    |
 | 20   | SCY              | 17    |
-| 21   | HorribleSubs     | 17    |
-| 22   | Chihiro          | 16    |
+| 21   | Chihiro          | 17    |
+| 22   | HorribleSubs     | 17    |
 | 23   | NOGRP            | 16    |
 | 24   | Reza             | 15    |
 | 25   | UDF              | 14    |
