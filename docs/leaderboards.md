@@ -14,11 +14,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 173   |
+| 🥇   | -ZR-             | 174   |
 | 🥈   | sam              | 129   |
 | 🥉   | CRUCiBLE         | 114   |
 | 4    | MTBB             | 93    |
-| 5    | SubsPlease       | 81    |
+| 5    | SubsPlease       | 82    |
 | 6    | NAN0             | 79    |
 | 7    | YURI             | 74    |
 | 8    | Moxie            | 61    |
@@ -29,10 +29,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 45    |
 | 15   | YURASUKA         | 44    |
-| 16   | Headpatter       | 39    |
-| 17   | Bunny-Apocalypse | 38    |
+| 16   | Bunny-Apocalypse | 38    |
+| 17   | Headpatter       | 38    |
 | 18   | LYS1TH3A         | 37    |
-| 19   | Okay-Subs        | 35    |
+| 19   | Okay-Subs        | 37    |
 | 20   | Lulu             | 34    |
 | 21   | TTGA             | 33    |
 | 22   | Commie           | 33    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group     | Count |
 | :----| :---------| :-----|
-| 🥇   | -ZR-      | 109   |
+| 🥇   | -ZR-      | 110   |
 | 🥈   | CRUCiBLE  | 89    |
 | 🥉   | sam       | 88    |
 | 4    | NAN0      | 63    |
@@ -74,7 +74,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group      | Count |
 | :----| :----------| :-----|
-| 🥇   | -ZR-       | 146   |
+| 🥇   | -ZR-       | 147   |
 | 🥈   | sam        | 119   |
 | 🥉   | CRUCiBLE   | 114   |
 | 4    | NAN0       | 78    |
@@ -83,7 +83,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | smol       | 56    |
 | 8    | LYS1TH3A   | 35    |
 | 9    | YURI       | 35    |
-| 10   | Okay-Subs  | 33    |
+| 10   | Okay-Subs  | 35    |
 | 11   | TTGA       | 31    |
 | 12   | hchcsen    | 29    |
 | 13   | Orphan     | 26    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 68    |
+| 🥇   | SubsPlease       | 69    |
 | 🥈   | Drag             | 42    |
 | 🥉   | KH               | 40    |
 | 4    | YURI             | 39    |
@@ -120,9 +120,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | Kametsu          | 22    |
 | 15   | CTR              | 20    |
 | 16   | Holomux          | 19    |
-| 17   | Headpatter       | 19    |
-| 18   | VARYG            | 19    |
-| 19   | Pog42            | 18    |
+| 17   | VARYG            | 19    |
+| 18   | Pog42            | 18    |
+| 19   | Headpatter       | 18    |
 | 20   | SCY              | 17    |
 | 21   | Chihiro          | 17    |
 | 22   | HorribleSubs     | 17    |
