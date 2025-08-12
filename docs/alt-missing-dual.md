@@ -6,8 +6,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | Idx | Title                                                                                       | Year | Updated At  | Links                                                                              |
 | :---| :-------------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
 | 1   | Your lie in April                                                                           | 2014 | 22 Jan 2025 | [SeaDex](https://releases.moe/20665/), [AniList](https://anilist.co/anime/20665)   |
-| 2   | Classroom of the Elite                                                                      | 2017 | 10 Jul 2025 | [SeaDex](https://releases.moe/98659/), [AniList](https://anilist.co/anime/98659)   |
-| 3   | JUJUTSU KAISEN Season 2                                                                     | 2023 | 23 May 2025 | [SeaDex](https://releases.moe/145064/), [AniList](https://anilist.co/anime/145064) |
+| 2   | JUJUTSU KAISEN Season 2                                                                     | 2023 | 23 May 2025 | [SeaDex](https://releases.moe/145064/), [AniList](https://anilist.co/anime/145064) |
+| 3   | Classroom of the Elite                                                                      | 2017 | 10 Jul 2025 | [SeaDex](https://releases.moe/98659/), [AniList](https://anilist.co/anime/98659)   |
 | 4   | Gurren Lagann                                                                               | 2007 | 17 May 2025 | [SeaDex](https://releases.moe/2001/), [AniList](https://anilist.co/anime/2001)     |
 | 5   | Sword Art Online: Alicization                                                               | 2018 | 10 Jan 2025 | [SeaDex](https://releases.moe/100182/), [AniList](https://anilist.co/anime/100182) |
 | 6   | Overlord II                                                                                 | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/98437/), [AniList](https://anilist.co/anime/98437)   |
