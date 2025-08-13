@@ -16,9 +16,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 174   |
 | 🥈   | sam              | 129   |
-| 🥉   | CRUCiBLE         | 114   |
+| 🥉   | CRUCiBLE         | 115   |
 | 4    | MTBB             | 93    |
-| 5    | SubsPlease       | 82    |
+| 5    | SubsPlease       | 83    |
 | 6    | NAN0             | 80    |
 | 7    | YURI             | 74    |
 | 8    | Moxie            | 61    |
@@ -29,8 +29,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | LostYears        | 49    |
 | 14   | Arid             | 45    |
 | 15   | YURASUKA         | 44    |
-| 16   | Bunny-Apocalypse | 38    |
-| 17   | Headpatter       | 38    |
+| 16   | Headpatter       | 41    |
+| 17   | Bunny-Apocalypse | 38    |
 | 18   | LYS1TH3A         | 37    |
 | 19   | Okay-Subs        | 37    |
 | 20   | Lulu             | 34    |
@@ -42,33 +42,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Best dual audio entries
 
-| Rank | Group     | Count |
-| :----| :---------| :-----|
-| 🥇   | -ZR-      | 110   |
-| 🥈   | CRUCiBLE  | 89    |
-| 🥉   | sam       | 88    |
-| 4    | NAN0      | 64    |
-| 5    | LYS1TH3A  | 34    |
-| 6    | hchcsen   | 28    |
-| 7    | smol      | 23    |
-| 8    | TTGA      | 21    |
-| 9    | Lulu      | 19    |
-| 10   | Flugel    | 19    |
-| 11   | YURI      | 16    |
-| 12   | LazyRemux | 16    |
-| 13   | Moxie     | 15    |
-| 14   | LostYears | 15    |
-| 15   | koala     | 14    |
-| 16   | FLE       | 14    |
-| 17   | KH        | 13    |
-| 18   | Arid      | 13    |
-| 19   | Vodes     | 12    |
-| 20   | ZeroBuild | 12    |
-| 21   | FraMeSToR | 11    |
-| 22   | SCY       | 11    |
-| 23   | hydes     | 10    |
-| 24   | DemiHuman | 10    |
-| 25   | PMR       | 9     |
+| Rank | Group      | Count |
+| :----| :----------| :-----|
+| 🥇   | -ZR-       | 110   |
+| 🥈   | CRUCiBLE   | 90    |
+| 🥉   | sam        | 88    |
+| 4    | NAN0       | 64    |
+| 5    | LYS1TH3A   | 34    |
+| 6    | hchcsen    | 28    |
+| 7    | smol       | 23    |
+| 8    | TTGA       | 21    |
+| 9    | Lulu       | 19    |
+| 10   | Flugel     | 18    |
+| 11   | YURI       | 16    |
+| 12   | LazyRemux  | 16    |
+| 13   | Moxie      | 15    |
+| 14   | LostYears  | 15    |
+| 15   | koala      | 14    |
+| 16   | FLE        | 14    |
+| 17   | KH         | 13    |
+| 18   | Arid       | 13    |
+| 19   | Vodes      | 12    |
+| 20   | Headpatter | 12    |
+| 21   | ZeroBuild  | 12    |
+| 22   | FraMeSToR  | 11    |
+| 23   | SCY        | 11    |
+| 24   | hydes      | 10    |
+| 25   | DemiHuman  | 10    |
 
 ## Top 25 - Best entries
 
@@ -76,7 +76,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
 | 🥈   | sam        | 119   |
-| 🥉   | CRUCiBLE   | 114   |
+| 🥉   | CRUCiBLE   | 115   |
 | 4    | NAN0       | 79    |
 | 5    | MTBB       | 63    |
 | 6    | Moxie      | 61    |
@@ -88,12 +88,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | hchcsen    | 29    |
 | 13   | Orphan     | 26    |
 | 14   | PMR        | 26    |
-| 15   | B00BA      | 24    |
-| 16   | Lulu       | 22    |
-| 17   | Arid       | 22    |
-| 18   | Headpatter | 21    |
+| 15   | Headpatter | 24    |
+| 16   | B00BA      | 24    |
+| 17   | Lulu       | 22    |
+| 18   | Arid       | 22    |
 | 19   | LazyRemux  | 20    |
-| 20   | Flugel     | 19    |
+| 20   | Flugel     | 18    |
 | 21   | koala      | 17    |
 | 22   | Drag       | 16    |
 | 23   | FLE        | 16    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 69    |
+| 🥇   | SubsPlease       | 70    |
 | 🥈   | Drag             | 42    |
 | 🥉   | KH               | 40    |
 | 4    | YURI             | 39    |
@@ -119,13 +119,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Erai-raws        | 23    |
 | 14   | Kametsu          | 22    |
 | 15   | CTR              | 20    |
-| 16   | Holomux          | 19    |
-| 17   | VARYG            | 19    |
+| 16   | VARYG            | 20    |
+| 17   | Holomux          | 19    |
 | 18   | Pog42            | 18    |
 | 19   | Headpatter       | 18    |
 | 20   | SCY              | 17    |
 | 21   | Chihiro          | 17    |
-| 22   | HorribleSubs     | 17    |
+| 22   | HorribleSubs     | 16    |
 | 23   | NOGRP            | 16    |
 | 24   | Reza             | 15    |
 | 25   | UDF              | 14    |
