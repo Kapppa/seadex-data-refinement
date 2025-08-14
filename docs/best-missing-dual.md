@@ -25,7 +25,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 18  | Our love has always been 10 centimeters apart.                                  | 2017 | 12 Apr 2025 | [SeaDex](https://releases.moe/98977/), [AniList](https://anilist.co/anime/98977)   |
 | 19  | K: RETURN OF KINGS                                                              | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 20  | High School DxD OVA                                                             | 2012 | 08 Jun 2025 | [SeaDex](https://releases.moe/12729/), [AniList](https://anilist.co/anime/12729)   |
-| 21  | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout        | 2022 | 12 Aug 2025 | [SeaDex](https://releases.moe/134252/), [AniList](https://anilist.co/anime/134252) |
+| 21  | Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout        | 2022 | 13 Aug 2025 | [SeaDex](https://releases.moe/134252/), [AniList](https://anilist.co/anime/134252) |
 | 22  | Thus Spoke Rohan Kishibe                                                        | 2017 | 28 Jul 2025 | [SeaDex](https://releases.moe/21778/), [AniList](https://anilist.co/anime/21778)   |
 | 23  | High School DxD: Fantasy Jiggles Unleashed                                      | 2012 | 08 Jun 2025 | [SeaDex](https://releases.moe/13357/), [AniList](https://anilist.co/anime/13357)   |
 | 24  | Den-noh Coil                                                                    | 2007 | 03 Aug 2025 | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |

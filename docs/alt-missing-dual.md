@@ -15,7 +15,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 8   | The Apothecary Diaries                                                                      | 2023 | 22 Apr 2025 | [SeaDex](https://releases.moe/161645/), [AniList](https://anilist.co/anime/161645) |
 | 9   | Overlord III                                                                                | 2018 | 31 Jul 2025 | [SeaDex](https://releases.moe/101474/), [AniList](https://anilist.co/anime/101474) |
 | 10  | SK8 the Infinity                                                                            | 2021 | 02 Aug 2025 | [SeaDex](https://releases.moe/124153/), [AniList](https://anilist.co/anime/124153) |
-| 11  | Angels of Death                                                                             | 2018 | 12 Aug 2025 | [SeaDex](https://releases.moe/99629/), [AniList](https://anilist.co/anime/99629)   |
+| 11  | Angels of Death                                                                             | 2018 | 13 Aug 2025 | [SeaDex](https://releases.moe/99629/), [AniList](https://anilist.co/anime/99629)   |
 | 12  | Sword Art Online: Alicization - War of Underworld                                           | 2019 | 13 Nov 2023 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
 | 13  | Summer Time Rendering                                                                       | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/129201/), [AniList](https://anilist.co/anime/129201) |
 | 14  | SPY x FAMILY Season 2                                                                       | 2023 | 28 Jun 2025 | [SeaDex](https://releases.moe/158927/), [AniList](https://anilist.co/anime/158927) |
@@ -60,8 +60,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 53  | Taboo Tattoo                                                                                | 2016 | 04 Aug 2025 | [SeaDex](https://releases.moe/21031/), [AniList](https://anilist.co/anime/21031)   |
 | 54  | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | 2024 | 22 Jan 2025 | [SeaDex](https://releases.moe/163292/), [AniList](https://anilist.co/anime/163292) |
 | 55  | From Up on Poppy Hill                                                                       | 2011 | 14 Nov 2023 | [SeaDex](https://releases.moe/10029/), [AniList](https://anilist.co/anime/10029)   |
-| 56  | Golden Kamuy Season 2                                                                       | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |
-| 57  | My Instant Death Ability is Overpowered                                                     | 2024 | 12 Aug 2025 | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
+| 56  | My Instant Death Ability is Overpowered                                                     | 2024 | 12 Aug 2025 | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
+| 57  | Golden Kamuy Season 2                                                                       | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |
 | 58  | No Guns Life                                                                                | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
 | 59  | Tokyo Ghoul: [JACK]                                                                         | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21132/), [AniList](https://anilist.co/anime/21132)   |
 | 60  | My Roommate is a Cat                                                                        | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
@@ -81,7 +81,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 74  | Tales of Wedding Rings                                                                      | 2024 | 03 Aug 2025 | [SeaDex](https://releases.moe/160389/), [AniList](https://anilist.co/anime/160389) |
 | 75  | Helck                                                                                       | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/145140/), [AniList](https://anilist.co/anime/145140) |
 | 76  | Tenchi Muyo! War on Geminar                                                                 | 2009 | 12 Nov 2023 | [SeaDex](https://releases.moe/5781/), [AniList](https://anilist.co/anime/5781)     |
-| 77  | Angels of Death (ONA)                                                                       | 2018 | 12 Aug 2025 | [SeaDex](https://releases.moe/104243/), [AniList](https://anilist.co/anime/104243) |
+| 77  | Angels of Death (ONA)                                                                       | 2018 | 13 Aug 2025 | [SeaDex](https://releases.moe/104243/), [AniList](https://anilist.co/anime/104243) |
 | 78  | Hi Score Girl II                                                                            | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/108581/), [AniList](https://anilist.co/anime/108581) |
 | 79  | NANBAKA - Part Two                                                                          | 2017 | 06 Jul 2025 | [SeaDex](https://releases.moe/97875/), [AniList](https://anilist.co/anime/97875)   |
 | 80  | Your lie in April: Moments                                                                  | 2015 | 13 Nov 2023 | [SeaDex](https://releases.moe/21039/), [AniList](https://anilist.co/anime/21039)   |
@@ -89,7 +89,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 82  | Photo Kano                                                                                  | 2013 | 04 Apr 2024 | [SeaDex](https://releases.moe/16397/), [AniList](https://anilist.co/anime/16397)   |
 | 83  | Blue Exorcist: Runaway Kuro                                                                 | 2011 | 22 Jun 2025 | [SeaDex](https://releases.moe/11266/), [AniList](https://anilist.co/anime/11266)   |
 | 84  | Wave, Listen to Me!                                                                         | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/112353/), [AniList](https://anilist.co/anime/112353) |
-| 85  | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!                               | 2024 | 12 Aug 2025 | [SeaDex](https://releases.moe/176158/), [AniList](https://anilist.co/anime/176158) |
+| 85  | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!                               | 2024 | 13 Aug 2025 | [SeaDex](https://releases.moe/176158/), [AniList](https://anilist.co/anime/176158) |
 | 86  | Diary of Our Days at the Breakwater                                                         | 2020 | 13 Nov 2024 | [SeaDex](https://releases.moe/109019/), [AniList](https://anilist.co/anime/109019) |
 | 87  | Bye Bye, Earth                                                                              | 2024 | 10 Aug 2025 | [SeaDex](https://releases.moe/157371/), [AniList](https://anilist.co/anime/157371) |
 | 88  | No Guns Life Season 2                                                                       | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/112803/), [AniList](https://anilist.co/anime/112803) |

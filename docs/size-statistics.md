@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `109.4 TiB`
-- Best size: `81.5 TiB`
+- Total size: `109.7 TiB`
+- Best size: `81.7 TiB`
 - Alt size: `27.9 TiB`
-- Realistic size: `85.1 TiB`
+- Realistic size: `85.2 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.4 TiB   | 12.3 TiB (85.31%)   | 185 (~79.8 GiB each)  |
-| 2    | CRUCiBLE         | 8.5 TiB    | 8.5 TiB (100.00%)   | 115 (~76.1 GiB each)  |
+| 2    | CRUCiBLE         | 8.7 TiB    | 8.7 TiB (100.00%)   | 117 (~76.1 GiB each)  |
 | 3    | NAN0             | 5.7 TiB    | 5.7 TiB (98.68%)    | 80 (~73.3 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.99%)    | 129 (~29.5 GiB each)  |
 | 5    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | YURASUKA         | 468.4 GiB  | 67.4 GiB (14.38%)   | 44 (~10.6 GiB each)   |
-| 50   | Others           | 34.0 TiB   | 19.4 TiB (57.02%)   | 1666 (~20.9 GiB each) |
+| 50   | Others           | 34.1 TiB   | 19.5 TiB (57.13%)   | 1667 (~20.9 GiB each) |
