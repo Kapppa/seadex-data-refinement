@@ -125,7 +125,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | Headpatter       | 18    |
 | 20   | SCY              | 17    |
 | 21   | Chihiro          | 17    |
-| 22   | HorribleSubs     | 16    |
-| 23   | NOGRP            | 16    |
+| 22   | NOGRP            | 17    |
+| 23   | HorribleSubs     | 16    |
 | 24   | Reza             | 15    |
 | 25   | UDF              | 14    |

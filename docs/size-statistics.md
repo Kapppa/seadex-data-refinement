@@ -35,8 +35,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 13   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.39%)  | 83 (~17.3 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 15   | RUDY             | 1.0 TiB    | 1.0 TiB (98.25%)    | 13 (~81.5 GiB each)   |
-| 16   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
-| 17   | NOGRP            | 997.1 GiB  | 862.0 GiB (86.45%)  | 27 (~36.9 GiB each)   |
+| 16   | NOGRP            | 1021.8 GiB | 862.0 GiB (84.37%)  | 28 (~36.5 GiB each)   |
+| 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 18   | Headpatter       | 968.1 GiB  | 756.2 GiB (78.11%)  | 42 (~23.1 GiB each)   |
 | 19   | LYS1TH3A         | 938.0 GiB  | 918.5 GiB (97.92%)  | 37 (~25.4 GiB each)   |
 | 20   | KH               | 917.3 GiB  | 239.8 GiB (26.14%)  | 55 (~16.7 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | YURASUKA         | 468.4 GiB  | 67.4 GiB (14.38%)   | 44 (~10.6 GiB each)   |
-| 50   | Others           | 34.1 TiB   | 19.5 TiB (57.13%)   | 1667 (~20.9 GiB each) |
+| 50   | Others           | 34.1 TiB   | 19.5 TiB (57.17%)   | 1666 (~20.9 GiB each) |

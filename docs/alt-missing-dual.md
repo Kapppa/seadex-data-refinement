@@ -30,7 +30,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 23  | Welcome to Demon School! Iruma-kun                                                          | 2019 | 28 Jun 2025 | [SeaDex](https://releases.moe/107693/), [AniList](https://anilist.co/anime/107693) |
 | 24  | ODDTAXI                                                                                     | 2021 | 30 Dec 2023 | [SeaDex](https://releases.moe/128547/), [AniList](https://anilist.co/anime/128547) |
 | 25  | Plunderer                                                                                   | 2020 | 03 Aug 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
-| 26  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                   | 2023 | 03 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
+| 26  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                   | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
 | 27  | Golden Kamuy                                                                                | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
 | 28  | Kemono Jihen                                                                                | 2021 | 16 May 2025 | [SeaDex](https://releases.moe/114085/), [AniList](https://anilist.co/anime/114085) |
 | 29  | Chihayafuru                                                                                 | 2011 | 02 Aug 2025 | [SeaDex](https://releases.moe/10800/), [AniList](https://anilist.co/anime/10800)   |
@@ -49,7 +49,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 42  | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                             | 2022 | 19 Mar 2025 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
 | 43  | I'm Standing on a Million Lives                                                             | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
 | 44  | Romantic Killer                                                                             | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/153930/), [AniList](https://anilist.co/anime/153930) |
-| 45  | Cells at Work!!                                                                             | 2021 | 10 Feb 2025 | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |
+| 45  | Cells at Work!!                                                                             | 2021 | 14 Aug 2025 | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |
 | 46  | NANBAKA                                                                                     | 2016 | 03 Aug 2025 | [SeaDex](https://releases.moe/21051/), [AniList](https://anilist.co/anime/21051)   |
 | 47  | Love After World Domination                                                                 | 2022 | 25 Jun 2025 | [SeaDex](https://releases.moe/132010/), [AniList](https://anilist.co/anime/132010) |
 | 48  | Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!            | 2021 | 03 Aug 2025 | [SeaDex](https://releases.moe/126791/), [AniList](https://anilist.co/anime/126791) |
@@ -60,13 +60,13 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 53  | Taboo Tattoo                                                                                | 2016 | 04 Aug 2025 | [SeaDex](https://releases.moe/21031/), [AniList](https://anilist.co/anime/21031)   |
 | 54  | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | 2024 | 22 Jan 2025 | [SeaDex](https://releases.moe/163292/), [AniList](https://anilist.co/anime/163292) |
 | 55  | From Up on Poppy Hill                                                                       | 2011 | 14 Nov 2023 | [SeaDex](https://releases.moe/10029/), [AniList](https://anilist.co/anime/10029)   |
-| 56  | My Instant Death Ability is Overpowered                                                     | 2024 | 12 Aug 2025 | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
-| 57  | Golden Kamuy Season 2                                                                       | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |
+| 56  | Golden Kamuy Season 2                                                                       | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |
+| 57  | My Instant Death Ability is Overpowered                                                     | 2024 | 12 Aug 2025 | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
 | 58  | No Guns Life                                                                                | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
 | 59  | Tokyo Ghoul: [JACK]                                                                         | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21132/), [AniList](https://anilist.co/anime/21132)   |
 | 60  | My Roommate is a Cat                                                                        | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
 | 61  | Infinite Dendrogram                                                                         | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
-| 62  | Japan Sinks: 2020                                                                           | 2020 | 03 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
+| 62  | Japan Sinks: 2020                                                                           | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
 | 63  | Children who Chase Lost Voices                                                              | 2011 | 08 Jun 2025 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
 | 64  | Tokyo Ghoul: [PINTO]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
 | 65  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                  | 2025 | 01 Aug 2025 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
