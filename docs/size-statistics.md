@@ -8,9 +8,9 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `110.1 TiB`
+- Total size: `110.2 TiB`
 - Best size: `82.2 TiB`
-- Alt size: `27.9 TiB`
+- Alt size: `28.0 TiB`
 - Realistic size: `85.5 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -25,12 +25,12 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 3    | NAN0             | 5.7 TiB    | 5.7 TiB (98.68%)    | 80 (~73.3 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.99%)    | 129 (~29.5 GiB each)  |
 | 5    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
-| 6    | TTGA             | 2.4 TiB    | 2.2 TiB (91.92%)    | 33 (~75.0 GiB each)   |
+| 6    | TTGA             | 2.4 TiB    | 2.2 TiB (92.00%)    | 34 (~73.5 GiB each)   |
 | 7    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.49%)    | 61 (~40.2 GiB each)   |
 | 8    | B00BA            | 2.2 TiB    | 2.2 TiB (100.00%)   | 25 (~91.5 GiB each)   |
-| 9    | PMR              | 2.1 TiB    | 2.1 TiB (100.00%)   | 26 (~84.3 GiB each)   |
+| 9    | PMR              | 2.2 TiB    | 2.2 TiB (100.00%)   | 27 (~83.9 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 11   | MTBB             | 1.4 TiB    | 1.2 TiB (82.80%)    | 93 (~15.6 GiB each)   |
+| 11   | MTBB             | 1.5 TiB    | 1.2 TiB (83.20%)    | 94 (~15.8 GiB each)   |
 | 12   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.2 GiB each)   |
 | 13   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.39%)  | 83 (~17.3 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 49   | YURASUKA         | 468.4 GiB  | 67.4 GiB (14.38%)   | 44 (~10.6 GiB each)   |
-| 50   | Others           | 34.2 TiB   | 19.6 TiB (57.32%)   | 1668 (~21.0 GiB each) |
+| 50   | Others           | 34.2 TiB   | 19.5 TiB (57.13%)   | 1666 (~21.0 GiB each) |

@@ -17,7 +17,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 174   |
 | 🥈   | sam              | 129   |
 | 🥉   | CRUCiBLE         | 118   |
-| 4    | MTBB             | 93    |
+| 4    | MTBB             | 94    |
 | 5    | SubsPlease       | 83    |
 | 6    | NAN0             | 80    |
 | 7    | YURI             | 74    |
@@ -34,7 +34,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | LYS1TH3A         | 37    |
 | 19   | Okay-Subs        | 37    |
 | 20   | Lulu             | 34    |
-| 21   | TTGA             | 33    |
+| 21   | TTGA             | 34    |
 | 22   | Commie           | 33    |
 | 23   | Pog42            | 32    |
 | 24   | Kametsu          | 30    |
@@ -51,7 +51,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | LYS1TH3A   | 34    |
 | 6    | hchcsen    | 28    |
 | 7    | smol       | 23    |
-| 8    | TTGA       | 21    |
+| 8    | TTGA       | 22    |
 | 9    | Lulu       | 19    |
 | 10   | Flugel     | 18    |
 | 11   | YURI       | 16    |
@@ -78,16 +78,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam        | 119   |
 | 🥉   | CRUCiBLE   | 118   |
 | 4    | NAN0       | 79    |
-| 5    | MTBB       | 63    |
+| 5    | MTBB       | 64    |
 | 6    | Moxie      | 61    |
 | 7    | smol       | 56    |
 | 8    | LYS1TH3A   | 35    |
 | 9    | YURI       | 35    |
 | 10   | Okay-Subs  | 35    |
-| 11   | TTGA       | 31    |
+| 11   | TTGA       | 32    |
 | 12   | hchcsen    | 29    |
-| 13   | Orphan     | 26    |
-| 14   | PMR        | 26    |
+| 13   | PMR        | 27    |
+| 14   | Orphan     | 26    |
 | 15   | Headpatter | 25    |
 | 16   | B00BA      | 25    |
 | 17   | Lulu       | 22    |
