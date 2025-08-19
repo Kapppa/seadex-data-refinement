@@ -84,8 +84,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 77  | Angels of Death (ONA)                                                                       | 2018 | 13 Aug 2025 | [SeaDex](https://releases.moe/104243/), [AniList](https://anilist.co/anime/104243) |
 | 78  | Hi Score Girl II                                                                            | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/108581/), [AniList](https://anilist.co/anime/108581) |
 | 79  | NANBAKA - Part Two                                                                          | 2017 | 06 Jul 2025 | [SeaDex](https://releases.moe/97875/), [AniList](https://anilist.co/anime/97875)   |
-| 80  | Your lie in April: Moments                                                                  | 2015 | 13 Nov 2023 | [SeaDex](https://releases.moe/21039/), [AniList](https://anilist.co/anime/21039)   |
-| 81  | From Bureaucrat to Villainess: Dad's Been Reincarnated!                                     | 2025 | 16 Jul 2025 | [SeaDex](https://releases.moe/172453/), [AniList](https://anilist.co/anime/172453) |
+| 80  | From Bureaucrat to Villainess: Dad's Been Reincarnated!                                     | 2025 | 16 Jul 2025 | [SeaDex](https://releases.moe/172453/), [AniList](https://anilist.co/anime/172453) |
+| 81  | Your lie in April: Moments                                                                  | 2015 | 13 Nov 2023 | [SeaDex](https://releases.moe/21039/), [AniList](https://anilist.co/anime/21039)   |
 | 82  | Photo Kano                                                                                  | 2013 | 04 Apr 2024 | [SeaDex](https://releases.moe/16397/), [AniList](https://anilist.co/anime/16397)   |
 | 83  | Blue Exorcist: Runaway Kuro                                                                 | 2011 | 22 Jun 2025 | [SeaDex](https://releases.moe/11266/), [AniList](https://anilist.co/anime/11266)   |
 | 84  | Wave, Listen to Me!                                                                         | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/112353/), [AniList](https://anilist.co/anime/112353) |
