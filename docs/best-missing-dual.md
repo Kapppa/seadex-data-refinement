@@ -7,7 +7,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | :---| :-------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
 | 1   | Rascal Does Not Dream of Bunny Girl Senpai                                      | 2018 | 04 Mar 2025 | [SeaDex](https://releases.moe/101291/), [AniList](https://anilist.co/anime/101291) |
 | 2   | Death Parade                                                                    | 2015 | 07 Jun 2025 | [SeaDex](https://releases.moe/20931/), [AniList](https://anilist.co/anime/20931)   |
-| 3   | Solo Leveling                                                                   | 2024 | 31 Jul 2025 | [SeaDex](https://releases.moe/151807/), [AniList](https://anilist.co/anime/151807) |
+| 3   | Solo Leveling                                                                   | 2024 | 19 Aug 2025 | [SeaDex](https://releases.moe/151807/), [AniList](https://anilist.co/anime/151807) |
 | 4   | Classroom of the Elite Season 2                                                 | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/145545/), [AniList](https://anilist.co/anime/145545) |
 | 5   | Great Pretender                                                                 | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
 | 6   | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | 2021 | 12 Aug 2025 | [SeaDex](https://releases.moe/129898/), [AniList](https://anilist.co/anime/129898) |

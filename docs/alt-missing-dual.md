@@ -18,7 +18,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 11  | Angels of Death                                                                             | 2018 | 13 Aug 2025 | [SeaDex](https://releases.moe/99629/), [AniList](https://anilist.co/anime/99629)   |
 | 12  | Sword Art Online: Alicization - War of Underworld                                           | 2019 | 13 Nov 2023 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
 | 13  | Summer Time Rendering                                                                       | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/129201/), [AniList](https://anilist.co/anime/129201) |
-| 14  | SPY x FAMILY Season 2                                                                       | 2023 | 28 Jun 2025 | [SeaDex](https://releases.moe/158927/), [AniList](https://anilist.co/anime/158927) |
+| 14  | SPY x FAMILY Season 2                                                                       | 2023 | 19 Aug 2025 | [SeaDex](https://releases.moe/158927/), [AniList](https://anilist.co/anime/158927) |
 | 15  | The Case Study of Vanitas                                                                   | 2021 | 14 Nov 2023 | [SeaDex](https://releases.moe/131646/), [AniList](https://anilist.co/anime/131646) |
 | 16  | How NOT to Summon a Demon Lord                                                              | 2018 | 19 Jun 2025 | [SeaDex](https://releases.moe/101004/), [AniList](https://anilist.co/anime/101004) |
 | 17  | Sword Art Online the Movie: Ordinal Scale                                                   | 2017 | 07 Aug 2025 | [SeaDex](https://releases.moe/21403/), [AniList](https://anilist.co/anime/21403)   |
@@ -39,7 +39,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 32  | Blue Box                                                                                    | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
 | 33  | The Secret World of Arrietty                                                                | 2010 | 30 Jan 2024 | [SeaDex](https://releases.moe/7711/), [AniList](https://anilist.co/anime/7711)     |
 | 34  | Spice and Wolf II                                                                           | 2009 | 01 Aug 2025 | [SeaDex](https://releases.moe/5341/), [AniList](https://anilist.co/anime/5341)     |
-| 35  | IRODUKU: The World in Colors                                                                | 2018 | 25 Nov 2024 | [SeaDex](https://releases.moe/101316/), [AniList](https://anilist.co/anime/101316) |
+| 35  | IRODUKU: The World in Colors                                                                | 2018 | 19 Aug 2025 | [SeaDex](https://releases.moe/101316/), [AniList](https://anilist.co/anime/101316) |
 | 36  | I'm Quitting Heroing                                                                        | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/140457/), [AniList](https://anilist.co/anime/140457) |
 | 37  | Sword Art Online the Movie -Progressive- Aria of a Starless Night                           | 2021 | 30 Jan 2024 | [SeaDex](https://releases.moe/124140/), [AniList](https://anilist.co/anime/124140) |
 | 38  | Somali and the Forest Spirit                                                                | 2020 | 09 Jul 2025 | [SeaDex](https://releases.moe/108617/), [AniList](https://anilist.co/anime/108617) |
