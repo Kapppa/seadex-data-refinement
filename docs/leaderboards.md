@@ -14,19 +14,19 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 174   |
+| 🥇   | -ZR-             | 173   |
 | 🥈   | sam              | 129   |
 | 🥉   | CRUCiBLE         | 119   |
 | 4    | MTBB             | 94    |
 | 5    | SubsPlease       | 83    |
-| 6    | NAN0             | 80    |
+| 6    | NAN0             | 81    |
 | 7    | YURI             | 74    |
 | 8    | Moxie            | 61    |
 | 9    | smol             | 58    |
 | 10   | Drag             | 57    |
 | 11   | hchcsen          | 56    |
 | 12   | KH               | 53    |
-| 13   | LostYears        | 49    |
+| 13   | LostYears        | 50    |
 | 14   | Arid             | 45    |
 | 15   | YURASUKA         | 44    |
 | 16   | Headpatter       | 42    |
@@ -44,10 +44,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group      | Count |
 | :----| :----------| :-----|
-| 🥇   | -ZR-       | 110   |
+| 🥇   | -ZR-       | 109   |
 | 🥈   | CRUCiBLE   | 93    |
 | 🥉   | sam        | 88    |
-| 4    | NAN0       | 64    |
+| 4    | NAN0       | 65    |
 | 5    | LYS1TH3A   | 34    |
 | 6    | hchcsen    | 28    |
 | 7    | smol       | 23    |
@@ -55,8 +55,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Lulu       | 19    |
 | 10   | Flugel     | 18    |
 | 11   | YURI       | 16    |
-| 12   | LazyRemux  | 16    |
-| 13   | Moxie      | 15    |
+| 12   | Moxie      | 15    |
+| 13   | LazyRemux  | 15    |
 | 14   | LostYears  | 15    |
 | 15   | koala      | 14    |
 | 16   | FLE        | 14    |
@@ -74,10 +74,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group      | Count |
 | :----| :----------| :-----|
-| 🥇   | -ZR-       | 147   |
+| 🥇   | -ZR-       | 146   |
 | 🥈   | CRUCiBLE   | 119   |
 | 🥉   | sam        | 119   |
-| 4    | NAN0       | 79    |
+| 4    | NAN0       | 80    |
 | 5    | MTBB       | 64    |
 | 6    | Moxie      | 61    |
 | 7    | smol       | 56    |
@@ -92,7 +92,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | B00BA      | 25    |
 | 17   | Lulu       | 22    |
 | 18   | Arid       | 22    |
-| 19   | LazyRemux  | 20    |
+| 19   | LazyRemux  | 19    |
 | 20   | Flugel     | 18    |
 | 21   | koala      | 17    |
 | 22   | Drag       | 16    |
@@ -110,7 +110,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 4    | YURI             | 39    |
 | 5    | YURASUKA         | 38    |
 | 6    | -ZR-             | 38    |
-| 7    | LostYears        | 34    |
+| 7    | LostYears        | 35    |
 | 8    | Commie           | 33    |
 | 9    | hchcsen          | 32    |
 | 10   | Bunny-Apocalypse | 31    |
