@@ -24,7 +24,7 @@
 | 21  | BLEACH: Thousand-Year Blood War                                                               | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/116674/), [AniList](https://anilist.co/anime/116674) |
 | 22  | Ponyo                                                                                         | 2008 | 01 Jan 2025 | [SeaDex](https://releases.moe/2890/), [AniList](https://anilist.co/anime/2890)     |
 | 23  | K                                                                                             | 2012 | 29 Dec 2024 | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
-| 24  | Link Click                                                                                    | 2021 | 28 Jul 2025 | [SeaDex](https://releases.moe/126403/), [AniList](https://anilist.co/anime/126403) |
+| 24  | Link Click                                                                                    | 2021 | 21 Aug 2025 | [SeaDex](https://releases.moe/126403/), [AniList](https://anilist.co/anime/126403) |
 | 25  | Yu Yu Hakusho: Ghostfiles                                                                     | 1992 | 22 Jun 2025 | [SeaDex](https://releases.moe/392/), [AniList](https://anilist.co/anime/392)       |
 | 26  | Say "I love you".                                                                             | 2012 | 12 Oct 2024 | [SeaDex](https://releases.moe/14289/), [AniList](https://anilist.co/anime/14289)   |
 | 27  | The Asterisk War                                                                              | 2015 | 24 Nov 2024 | [SeaDex](https://releases.moe/21131/), [AniList](https://anilist.co/anime/21131)   |
@@ -51,8 +51,8 @@
 | 48  | Twin Star Exorcists                                                                           | 2016 | 01 Jun 2025 | [SeaDex](https://releases.moe/21499/), [AniList](https://anilist.co/anime/21499)   |
 | 49  | Baka and Test - Summon the Beasts                                                             | 2010 | 04 May 2025 | [SeaDex](https://releases.moe/6347/), [AniList](https://anilist.co/anime/6347)     |
 | 50  | BLEACH: Thousand-Year Blood War - The Separation                                              | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/159322/), [AniList](https://anilist.co/anime/159322) |
-| 51  | LOVE and LIES                                                                                 | 2017 | 30 Dec 2024 | [SeaDex](https://releases.moe/98320/), [AniList](https://anilist.co/anime/98320)   |
-| 52  | World Trigger                                                                                 | 2014 | 02 Jul 2025 | [SeaDex](https://releases.moe/20729/), [AniList](https://anilist.co/anime/20729)   |
+| 51  | World Trigger                                                                                 | 2014 | 02 Jul 2025 | [SeaDex](https://releases.moe/20729/), [AniList](https://anilist.co/anime/20729)   |
+| 52  | LOVE and LIES                                                                                 | 2017 | 30 Dec 2024 | [SeaDex](https://releases.moe/98320/), [AniList](https://anilist.co/anime/98320)   |
 | 53  | Evangelion: 3.0+1.0 Thrice Upon a Time                                                        | 2021 | 02 Apr 2025 | [SeaDex](https://releases.moe/3786/), [AniList](https://anilist.co/anime/3786)     |
 | 54  | Seitokai Yakuindomo                                                                           | 2010 | 30 Dec 2024 | [SeaDex](https://releases.moe/8675/), [AniList](https://anilist.co/anime/8675)     |
 | 55  | Kakushigoto                                                                                   | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/113311/), [AniList](https://anilist.co/anime/113311) |
@@ -98,8 +98,8 @@
 | 95  | Place to Place                                                                                | 2012 | 31 May 2025 | [SeaDex](https://releases.moe/12291/), [AniList](https://anilist.co/anime/12291)   |
 | 96  | Gargantia on the Verdurous Planet                                                             | 2013 | 02 Aug 2025 | [SeaDex](https://releases.moe/16524/), [AniList](https://anilist.co/anime/16524)   |
 | 97  | PSYCHO-PASS 3                                                                                 | 2019 | 14 Jun 2025 | [SeaDex](https://releases.moe/108307/), [AniList](https://anilist.co/anime/108307) |
-| 98  | Tokyo Magnitude 8.0                                                                           | 2009 | 05 Nov 2024 | [SeaDex](https://releases.moe/6211/), [AniList](https://anilist.co/anime/6211)     |
-| 99  | Pseudo Harem                                                                                  | 2024 | 21 Mar 2025 | [SeaDex](https://releases.moe/163623/), [AniList](https://anilist.co/anime/163623) |
+| 98  | Pseudo Harem                                                                                  | 2024 | 21 Mar 2025 | [SeaDex](https://releases.moe/163623/), [AniList](https://anilist.co/anime/163623) |
+| 99  | Tokyo Magnitude 8.0                                                                           | 2009 | 05 Nov 2024 | [SeaDex](https://releases.moe/6211/), [AniList](https://anilist.co/anime/6211)     |
 | 100 | Anti-Magic Academy: The 35th Test Platoon                                                     | 2015 | 09 Jan 2025 | [SeaDex](https://releases.moe/20704/), [AniList](https://anilist.co/anime/20704)   |
 | 101 | Ninja Kamui                                                                                   | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/151639/), [AniList](https://anilist.co/anime/151639) |
 | 102 | By the Grace of the Gods                                                                      | 2020 | 29 Jan 2025 | [SeaDex](https://releases.moe/115740/), [AniList](https://anilist.co/anime/115740) |
