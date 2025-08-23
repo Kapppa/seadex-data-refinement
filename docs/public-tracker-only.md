@@ -2,8 +2,8 @@
 | Idx | Title                                                                                                 | Year | Updated At  | Links                                                                              |
 | :---| :-----------------------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
 | 1   | Hunter x Hunter (2011)                                                                                | 2011 | 01 Aug 2025 | [SeaDex](https://releases.moe/11061/), [AniList](https://anilist.co/anime/11061)   |
-| 2   | Sword Art Online                                                                                      | 2012 | 13 Nov 2023 | [SeaDex](https://releases.moe/11757/), [AniList](https://anilist.co/anime/11757)   |
-| 3   | ONE PIECE                                                                                             | 1999 | 02 Aug 2025 | [SeaDex](https://releases.moe/21/), [AniList](https://anilist.co/anime/21)         |
+| 2   | ONE PIECE                                                                                             | 1999 | 02 Aug 2025 | [SeaDex](https://releases.moe/21/), [AniList](https://anilist.co/anime/21)         |
+| 3   | Sword Art Online                                                                                      | 2012 | 13 Nov 2023 | [SeaDex](https://releases.moe/11757/), [AniList](https://anilist.co/anime/11757)   |
 | 4   | Re:ZERO -Starting Life in Another World-                                                              | 2016 | 11 Aug 2025 | [SeaDex](https://releases.moe/21355/), [AniList](https://anilist.co/anime/21355)   |
 | 5   | Rascal Does Not Dream of Bunny Girl Senpai                                                            | 2018 | 04 Mar 2025 | [SeaDex](https://releases.moe/101291/), [AniList](https://anilist.co/anime/101291) |
 | 6   | My Hero Academia Season 4                                                                             | 2019 | 20 Dec 2024 | [SeaDex](https://releases.moe/104276/), [AniList](https://anilist.co/anime/104276) |
@@ -25,7 +25,7 @@
 | 22  | Durarara!!                                                                                            | 2010 | 27 Jun 2024 | [SeaDex](https://releases.moe/6746/), [AniList](https://anilist.co/anime/6746)     |
 | 23  | Elfen Lied                                                                                            | 2004 | 02 Aug 2025 | [SeaDex](https://releases.moe/226/), [AniList](https://anilist.co/anime/226)       |
 | 24  | MASHLE: MAGIC AND MUSCLES                                                                             | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/151801/), [AniList](https://anilist.co/anime/151801) |
-| 25  | Solo Leveling Season 2 -Arise from the Shadow-                                                        | 2025 | 20 Aug 2025 | [SeaDex](https://releases.moe/176496/), [AniList](https://anilist.co/anime/176496) |
+| 25  | Solo Leveling Season 2 -Arise from the Shadow-                                                        | 2025 | 22 Aug 2025 | [SeaDex](https://releases.moe/176496/), [AniList](https://anilist.co/anime/176496) |
 | 26  | Orange                                                                                                | 2016 | 16 Apr 2025 | [SeaDex](https://releases.moe/21647/), [AniList](https://anilist.co/anime/21647)   |
 | 27  | Tokyo Ghoul:re 2                                                                                      | 2018 | 16 Apr 2025 | [SeaDex](https://releases.moe/102351/), [AniList](https://anilist.co/anime/102351) |
 | 28  | Great Pretender                                                                                       | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
