@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `110.5 TiB`
-- Best size: `82.5 TiB`
+- Total size: `110.4 TiB`
+- Best size: `82.4 TiB`
 - Alt size: `28.0 TiB`
 - Realistic size: `85.7 TiB`
 
@@ -31,11 +31,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 9    | PMR              | 2.2 TiB    | 2.2 TiB (100.00%)   | 27 (~83.9 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 11   | MTBB             | 1.5 TiB    | 1.2 TiB (83.20%)    | 94 (~15.8 GiB each)   |
-| 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.39%)  | 83 (~17.3 GiB each)   |
+| 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.55%)  | 82 (~17.3 GiB each)   |
 | 13   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.7 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 15   | RUDY             | 1.0 TiB    | 1.0 TiB (98.25%)    | 13 (~81.5 GiB each)   |
-| 16   | Headpatter       | 1.0 TiB    | 835.1 GiB (79.76%)  | 43 (~24.3 GiB each)   |
+| 16   | Headpatter       | 1.0 TiB    | 822.1 GiB (79.50%)  | 42 (~24.6 GiB each)   |
 | 17   | NOGRP            | 1021.8 GiB | 862.0 GiB (84.37%)  | 28 (~36.5 GiB each)   |
 | 18   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 19   | LYS1TH3A         | 938.0 GiB  | 918.5 GiB (97.92%)  | 37 (~25.4 GiB each)   |
@@ -66,7 +66,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 44   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 45   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 46   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 47   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
-| 48   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
-| 49   | YURASUKA         | 468.4 GiB  | 67.4 GiB (14.38%)   | 44 (~10.6 GiB each)   |
+| 47   | YURASUKA         | 480.5 GiB  | 67.4 GiB (14.02%)   | 45 (~10.7 GiB each)   |
+| 48   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
+| 49   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
 | 50   | Others           | 34.2 TiB   | 19.6 TiB (57.29%)   | 1670 (~21.0 GiB each) |

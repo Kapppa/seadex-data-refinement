@@ -51,7 +51,7 @@
 | 48  | BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.                                         | 2020 | 19 Aug 2025 | [SeaDex](https://releases.moe/106479/), [AniList](https://anilist.co/anime/106479) |
 | 49  | Wise Man’s Grandchild                                                                                 | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/100112/), [AniList](https://anilist.co/anime/100112) |
 | 50  | Darwin's Game                                                                                         | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/105190/), [AniList](https://anilist.co/anime/105190) |
-| 51  | Sword Art Online Alternative: Gun Gale Online                                                         | 2018 | 20 Aug 2025 | [SeaDex](https://releases.moe/100183/), [AniList](https://anilist.co/anime/100183) |
+| 51  | Sword Art Online Alternative: Gun Gale Online                                                         | 2018 | 23 Aug 2025 | [SeaDex](https://releases.moe/100183/), [AniList](https://anilist.co/anime/100183) |
 | 52  | Miss Kobayashi's Dragon Maid S                                                                        | 2021 | 01 Aug 2025 | [SeaDex](https://releases.moe/107717/), [AniList](https://anilist.co/anime/107717) |
 | 53  | Trigun                                                                                                | 1998 | 01 Jan 2024 | [SeaDex](https://releases.moe/6/), [AniList](https://anilist.co/anime/6)           |
 | 54  | Akudama Drive                                                                                         | 2020 | 21 Jul 2025 | [SeaDex](https://releases.moe/116566/), [AniList](https://anilist.co/anime/116566) |
@@ -81,8 +81,8 @@
 | 78  | The Hidden Dungeon Only I Can Enter                                                                   | 2021 | 19 Aug 2025 | [SeaDex](https://releases.moe/118375/), [AniList](https://anilist.co/anime/118375) |
 | 79  | Dagashi Kashi                                                                                         | 2016 | 23 Jun 2024 | [SeaDex](https://releases.moe/21365/), [AniList](https://anilist.co/anime/21365)   |
 | 80  | Science Fell in Love, So I Tried to Prove It                                                          | 2020 | 29 Dec 2024 | [SeaDex](https://releases.moe/107067/), [AniList](https://anilist.co/anime/107067) |
-| 81  | Love Live! School Idol Project                                                                        | 2013 | 06 Jul 2025 | [SeaDex](https://releases.moe/15051/), [AniList](https://anilist.co/anime/15051)   |
-| 82  | A Sign of Affection                                                                                   | 2024 | 16 May 2025 | [SeaDex](https://releases.moe/166794/), [AniList](https://anilist.co/anime/166794) |
+| 81  | A Sign of Affection                                                                                   | 2024 | 16 May 2025 | [SeaDex](https://releases.moe/166794/), [AniList](https://anilist.co/anime/166794) |
+| 82  | Love Live! School Idol Project                                                                        | 2013 | 06 Jul 2025 | [SeaDex](https://releases.moe/15051/), [AniList](https://anilist.co/anime/15051)   |
 | 83  | NieR:Automata Ver1.1a                                                                                 | 2023 | 12 Jan 2025 | [SeaDex](https://releases.moe/145665/), [AniList](https://anilist.co/anime/145665) |
 | 84  | Claymore                                                                                              | 2007 | 02 Aug 2025 | [SeaDex](https://releases.moe/1818/), [AniList](https://anilist.co/anime/1818)     |
 | 85  | KONOSUBA -An Explosion on This Wonderful World!                                                       | 2023 | 27 Apr 2025 | [SeaDex](https://releases.moe/150075/), [AniList](https://anilist.co/anime/150075) |

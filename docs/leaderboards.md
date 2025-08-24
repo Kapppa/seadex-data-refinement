@@ -18,7 +18,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | sam              | 129   |
 | 🥉   | CRUCiBLE         | 119   |
 | 4    | MTBB             | 94    |
-| 5    | SubsPlease       | 83    |
+| 5    | SubsPlease       | 82    |
 | 6    | NAN0             | 81    |
 | 7    | YURI             | 74    |
 | 8    | Moxie            | 61    |
@@ -28,8 +28,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | KH               | 53    |
 | 13   | LostYears        | 50    |
 | 14   | Arid             | 45    |
-| 15   | YURASUKA         | 44    |
-| 16   | Headpatter       | 42    |
+| 15   | YURASUKA         | 45    |
+| 16   | Headpatter       | 41    |
 | 17   | Bunny-Apocalypse | 38    |
 | 18   | LYS1TH3A         | 37    |
 | 19   | Okay-Subs        | 37    |
@@ -88,8 +88,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | hchcsen    | 29    |
 | 13   | PMR        | 27    |
 | 14   | Orphan     | 26    |
-| 15   | Headpatter | 25    |
-| 16   | B00BA      | 25    |
+| 15   | B00BA      | 25    |
+| 16   | Headpatter | 24    |
 | 17   | Lulu       | 22    |
 | 18   | Arid       | 22    |
 | 19   | LazyRemux  | 19    |
@@ -104,11 +104,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 70    |
+| 🥇   | SubsPlease       | 69    |
 | 🥈   | Drag             | 42    |
 | 🥉   | KH               | 40    |
 | 4    | YURI             | 39    |
-| 5    | YURASUKA         | 38    |
+| 5    | YURASUKA         | 39    |
 | 6    | -ZR-             | 38    |
 | 7    | LostYears        | 35    |
 | 8    | Commie           | 33    |
