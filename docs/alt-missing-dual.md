@@ -59,8 +59,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 52  | Motto To Love Ru                                                                            | 2010 | 14 Nov 2023 | [SeaDex](https://releases.moe/9181/), [AniList](https://anilist.co/anime/9181)     |
 | 53  | Taboo Tattoo                                                                                | 2016 | 04 Aug 2025 | [SeaDex](https://releases.moe/21031/), [AniList](https://anilist.co/anime/21031)   |
 | 54  | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | 2024 | 22 Jan 2025 | [SeaDex](https://releases.moe/163292/), [AniList](https://anilist.co/anime/163292) |
-| 55  | From Up on Poppy Hill                                                                       | 2011 | 14 Nov 2023 | [SeaDex](https://releases.moe/10029/), [AniList](https://anilist.co/anime/10029)   |
-| 56  | My Instant Death Ability is Overpowered                                                     | 2024 | 12 Aug 2025 | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
+| 55  | My Instant Death Ability is Overpowered                                                     | 2024 | 12 Aug 2025 | [SeaDex](https://releases.moe/158028/), [AniList](https://anilist.co/anime/158028) |
+| 56  | From Up on Poppy Hill                                                                       | 2011 | 14 Nov 2023 | [SeaDex](https://releases.moe/10029/), [AniList](https://anilist.co/anime/10029)   |
 | 57  | Golden Kamuy Season 2                                                                       | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/102977/), [AniList](https://anilist.co/anime/102977) |
 | 58  | No Guns Life                                                                                | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
 | 59  | Tokyo Ghoul: [JACK]                                                                         | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21132/), [AniList](https://anilist.co/anime/21132)   |
@@ -100,8 +100,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 93  | FrFr! ~Free! short movie~                                                                   | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/19671/), [AniList](https://anilist.co/anime/19671)   |
 | 94  | 18if                                                                                        | 2017 | 25 Jun 2025 | [SeaDex](https://releases.moe/98512/), [AniList](https://anilist.co/anime/98512)   |
 | 95  | I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity  | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/151126/), [AniList](https://anilist.co/anime/151126) |
-| 96  | Future Boy Conan                                                                            | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
-| 97  | Wanna be the Strongest in the World!                                                        | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
+| 96  | Wanna be the Strongest in the World!                                                        | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
+| 97  | Future Boy Conan                                                                            | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
 | 98  | Nobunagun                                                                                   | 2014 | 07 Jun 2025 | [SeaDex](https://releases.moe/19855/), [AniList](https://anilist.co/anime/19855)   |
 | 99  | Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-                 | 2021 | 12 Aug 2025 | [SeaDex](https://releases.moe/136344/), [AniList](https://anilist.co/anime/136344) |
 | 100 | URAHARA                                                                                     | 2017 | 02 Aug 2025 | [SeaDex](https://releases.moe/98513/), [AniList](https://anilist.co/anime/98513)   |

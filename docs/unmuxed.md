@@ -55,8 +55,8 @@
 | 52  | LOVE and LIES                                                                                 | 2017 | 30 Dec 2024 | [SeaDex](https://releases.moe/98320/), [AniList](https://anilist.co/anime/98320)   |
 | 53  | Evangelion: 3.0+1.0 Thrice Upon a Time                                                        | 2021 | 02 Apr 2025 | [SeaDex](https://releases.moe/3786/), [AniList](https://anilist.co/anime/3786)     |
 | 54  | Seitokai Yakuindomo                                                                           | 2010 | 30 Dec 2024 | [SeaDex](https://releases.moe/8675/), [AniList](https://anilist.co/anime/8675)     |
-| 55  | Kakushigoto                                                                                   | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/113311/), [AniList](https://anilist.co/anime/113311) |
-| 56  | Date A Live III                                                                               | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/100722/), [AniList](https://anilist.co/anime/100722) |
+| 55  | Date A Live III                                                                               | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/100722/), [AniList](https://anilist.co/anime/100722) |
+| 56  | Kakushigoto                                                                                   | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/113311/), [AniList](https://anilist.co/anime/113311) |
 | 57  | ISEKAI QUARTET                                                                                | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/104454/), [AniList](https://anilist.co/anime/104454) |
 | 58  | Keijo!!!!!!!!                                                                                 | 2016 | 01 Aug 2025 | [SeaDex](https://releases.moe/21639/), [AniList](https://anilist.co/anime/21639)   |
 | 59  | ALDNOAH.ZERO                                                                                  | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20632/), [AniList](https://anilist.co/anime/20632)   |
@@ -142,8 +142,8 @@
 | 139 | The Eccentric Family                                                                          | 2013 | 11 Nov 2023 | [SeaDex](https://releases.moe/17909/), [AniList](https://anilist.co/anime/17909)   |
 | 140 | Rewrite                                                                                       | 2016 | 16 Nov 2023 | [SeaDex](https://releases.moe/21382/), [AniList](https://anilist.co/anime/21382)   |
 | 141 | Tiger & Bunny                                                                                 | 2011 | 20 Oct 2024 | [SeaDex](https://releases.moe/9941/), [AniList](https://anilist.co/anime/9941)     |
-| 142 | HIGH CARD                                                                                     | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/135778/), [AniList](https://anilist.co/anime/135778) |
-| 143 | Real Girl 2                                                                                   | 2019 | 28 Apr 2025 | [SeaDex](https://releases.moe/102882/), [AniList](https://anilist.co/anime/102882) |
+| 142 | Real Girl 2                                                                                   | 2019 | 28 Apr 2025 | [SeaDex](https://releases.moe/102882/), [AniList](https://anilist.co/anime/102882) |
+| 143 | HIGH CARD                                                                                     | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/135778/), [AniList](https://anilist.co/anime/135778) |
 | 144 | I Can't Understand What My Husband is Saying 2nd Thread                                       | 2015 | 23 Aug 2025 | [SeaDex](https://releases.moe/21000/), [AniList](https://anilist.co/anime/21000)   |
 | 145 | Those Snow White Notes                                                                        | 2021 | 01 Aug 2025 | [SeaDex](https://releases.moe/122348/), [AniList](https://anilist.co/anime/122348) |
 | 146 | Occultic;Nine                                                                                 | 2016 | 30 Dec 2023 | [SeaDex](https://releases.moe/21708/), [AniList](https://anilist.co/anime/21708)   |
@@ -185,8 +185,8 @@
 | 182 | The Honor at Magic High School                                                                | 2021 | 17 Jul 2025 | [SeaDex](https://releases.moe/127688/), [AniList](https://anilist.co/anime/127688) |
 | 183 | Yashahime: Princess Half-Demon                                                                | 2020 | 14 Nov 2024 | [SeaDex](https://releases.moe/118399/), [AniList](https://anilist.co/anime/118399) |
 | 184 | The Moment You Fall in Love                                                                   | 2016 | 25 Jun 2025 | [SeaDex](https://releases.moe/21757/), [AniList](https://anilist.co/anime/21757)   |
-| 185 | Samurai Flamenco                                                                              | 2013 | 02 Aug 2025 | [SeaDex](https://releases.moe/19365/), [AniList](https://anilist.co/anime/19365)   |
-| 186 | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION                                                         | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/177697/), [AniList](https://anilist.co/anime/177697) |
+| 185 | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION                                                         | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/177697/), [AniList](https://anilist.co/anime/177697) |
+| 186 | Samurai Flamenco                                                                              | 2013 | 02 Aug 2025 | [SeaDex](https://releases.moe/19365/), [AniList](https://anilist.co/anime/19365)   |
 | 187 | The Royal Tutor                                                                               | 2017 | 09 Apr 2025 | [SeaDex](https://releases.moe/97932/), [AniList](https://anilist.co/anime/97932)   |
 | 188 | Scarlet Nexus                                                                                 | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
 | 189 | PSYCHO-PASS Sinners of the System: Case.1 Crime and Punishment                                | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/102649/), [AniList](https://anilist.co/anime/102649) |
@@ -292,8 +292,8 @@
 | 289 | Kick-Heart                                                                                    | 2013 | 24 Jul 2024 | [SeaDex](https://releases.moe/16149/), [AniList](https://anilist.co/anime/16149)   |
 | 290 | The Reflection                                                                                | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461)   |
 | 291 | AKB0048: next stage                                                                           | 2013 | 05 Jan 2025 | [SeaDex](https://releases.moe/14941/), [AniList](https://anilist.co/anime/14941)   |
-| 292 | Momo Kyun Sword                                                                               | 2014 | 24 Jul 2024 | [SeaDex](https://releases.moe/20610/), [AniList](https://anilist.co/anime/20610)   |
-| 293 | given The Movie: To the Sea                                                                   | 2024 | 27 Jun 2025 | [SeaDex](https://releases.moe/175199/), [AniList](https://anilist.co/anime/175199) |
+| 292 | given The Movie: To the Sea                                                                   | 2024 | 27 Jun 2025 | [SeaDex](https://releases.moe/175199/), [AniList](https://anilist.co/anime/175199) |
+| 293 | Momo Kyun Sword                                                                               | 2014 | 24 Jul 2024 | [SeaDex](https://releases.moe/20610/), [AniList](https://anilist.co/anime/20610)   |
 | 294 | Kamisama no Inai Nichiyoubi: Kioku                                                            | 2014 | 26 Jan 2025 | [SeaDex](https://releases.moe/20423/), [AniList](https://anilist.co/anime/20423)   |
 | 295 | Gatchaman Crowds insight: Inbound                                                             | 2015 | 02 Jul 2024 | [SeaDex](https://releases.moe/21252/), [AniList](https://anilist.co/anime/21252)   |
 | 296 | PERSONA5 the Animation: Stars and Ours                                                        | 2019 | 03 Aug 2025 | [SeaDex](https://releases.moe/106896/), [AniList](https://anilist.co/anime/106896) |
@@ -310,8 +310,8 @@
 | 307 | Show by Rock!! Stars!!                                                                        | 2021 | 26 Jul 2025 | [SeaDex](https://releases.moe/113476/), [AniList](https://anilist.co/anime/113476) |
 | 308 | Mahou Shoujo Nante Mouiidesukara Second Season                                                | 2016 | 21 Jul 2024 | [SeaDex](https://releases.moe/21892/), [AniList](https://anilist.co/anime/21892)   |
 | 309 | Flying Witch Petit                                                                            | 2016 | 11 Jan 2025 | [SeaDex](https://releases.moe/21721/), [AniList](https://anilist.co/anime/21721)   |
-| 310 | Gugure! Kokkuri-san Specials                                                                  | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20904/), [AniList](https://anilist.co/anime/20904)   |
-| 311 | Case Closed: The Million-dollar Pentagram                                                     | 2024 | 10 Aug 2025 | [SeaDex](https://releases.moe/169754/), [AniList](https://anilist.co/anime/169754) |
+| 310 | Case Closed: The Million-dollar Pentagram                                                     | 2024 | 10 Aug 2025 | [SeaDex](https://releases.moe/169754/), [AniList](https://anilist.co/anime/169754) |
+| 311 | Gugure! Kokkuri-san Specials                                                                  | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20904/), [AniList](https://anilist.co/anime/20904)   |
 | 312 | Symphogear GX Omake                                                                           | 2015 | 30 Jul 2025 | [SeaDex](https://releases.moe/21508/), [AniList](https://anilist.co/anime/21508)   |
 | 313 | Joker Game: Kuroneko Yoru no Bouken                                                           | 2016 | 07 Dec 2024 | [SeaDex](https://releases.moe/21790/), [AniList](https://anilist.co/anime/21790)   |
 | 314 | Symphogear AXZ Omake                                                                          | 2017 | 08 Jun 2025 | [SeaDex](https://releases.moe/101104/), [AniList](https://anilist.co/anime/101104) |
