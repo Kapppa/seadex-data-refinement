@@ -68,8 +68,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 61  | Infinite Dendrogram                                                                         | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
 | 62  | Japan Sinks: 2020                                                                           | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
 | 63  | Children who Chase Lost Voices                                                              | 2011 | 08 Jun 2025 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
-| 64  | Tokyo Ghoul: [PINTO]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
-| 65  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                  | 2025 | 01 Aug 2025 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 64  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                  | 2025 | 01 Aug 2025 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 65  | Tokyo Ghoul: [PINTO]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
 | 66  | Sarazanmai                                                                                  | 2019 | 15 Nov 2023 | [SeaDex](https://releases.moe/101261/), [AniList](https://anilist.co/anime/101261) |
 | 67  | Pretty Boy Detective Club                                                                   | 2021 | 07 Jun 2025 | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
 | 68  | Super Cub                                                                                   | 2021 | 22 Oct 2024 | [SeaDex](https://releases.moe/113418/), [AniList](https://anilist.co/anime/113418) |

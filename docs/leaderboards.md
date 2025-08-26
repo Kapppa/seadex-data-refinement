@@ -29,7 +29,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | LostYears        | 50    |
 | 14   | Arid             | 45    |
 | 15   | YURASUKA         | 45    |
-| 16   | Headpatter       | 41    |
+| 16   | Headpatter       | 42    |
 | 17   | Bunny-Apocalypse | 38    |
 | 18   | LYS1TH3A         | 37    |
 | 19   | Okay-Subs        | 37    |
@@ -86,10 +86,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Okay-Subs  | 35    |
 | 11   | TTGA       | 32    |
 | 12   | hchcsen    | 29    |
-| 13   | PMR        | 27    |
+| 13   | PMR        | 28    |
 | 14   | Orphan     | 26    |
-| 15   | B00BA      | 25    |
-| 16   | Headpatter | 24    |
+| 15   | Headpatter | 25    |
+| 16   | B00BA      | 25    |
 | 17   | Lulu       | 22    |
 | 18   | Arid       | 22    |
 | 19   | LazyRemux  | 19    |
