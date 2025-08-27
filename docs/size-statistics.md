@@ -8,7 +8,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `110.6 TiB`
+- Total size: `110.7 TiB`
 - Best size: `82.6 TiB`
 - Alt size: `28.0 TiB`
 - Realistic size: `85.9 TiB`
@@ -27,7 +27,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 5    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
 | 6    | TTGA             | 2.4 TiB    | 2.2 TiB (92.00%)    | 34 (~73.5 GiB each)   |
 | 7    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.49%)    | 61 (~40.2 GiB each)   |
-| 8    | PMR              | 2.3 TiB    | 2.3 TiB (100.00%)   | 28 (~83.9 GiB each)   |
+| 8    | PMR              | 2.3 TiB    | 2.3 TiB (100.00%)   | 29 (~81.3 GiB each)   |
 | 9    | B00BA            | 2.2 TiB    | 2.2 TiB (100.00%)   | 25 (~91.5 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 11   | MTBB             | 1.5 TiB    | 1.2 TiB (83.20%)    | 94 (~15.8 GiB each)   |
@@ -66,7 +66,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 44   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 45   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 46   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 47   | YURASUKA         | 480.5 GiB  | 67.4 GiB (14.02%)   | 45 (~10.7 GiB each)   |
+| 47   | YURASUKA         | 489.7 GiB  | 76.6 GiB (15.63%)   | 46 (~10.6 GiB each)   |
 | 48   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 49   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
-| 50   | Others           | 34.4 TiB   | 19.8 TiB (57.44%)   | 1672 (~21.1 GiB each) |
+| 50   | Others           | 34.4 TiB   | 19.8 TiB (57.44%)   | 1673 (~21.1 GiB each) |

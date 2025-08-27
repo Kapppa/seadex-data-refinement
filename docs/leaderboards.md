@@ -27,8 +27,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | hchcsen          | 56    |
 | 12   | KH               | 53    |
 | 13   | LostYears        | 50    |
-| 14   | Arid             | 45    |
-| 15   | YURASUKA         | 45    |
+| 14   | YURASUKA         | 46    |
+| 15   | Arid             | 45    |
 | 16   | Headpatter       | 42    |
 | 17   | Bunny-Apocalypse | 38    |
 | 18   | LYS1TH3A         | 37    |
@@ -67,8 +67,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | ZeroBuild  | 12    |
 | 22   | FraMeSToR  | 11    |
 | 23   | SCY        | 11    |
-| 24   | hydes      | 10    |
-| 25   | DemiHuman  | 10    |
+| 24   | PMR        | 11    |
+| 25   | hydes      | 10    |
 
 ## Top 25 - Best entries
 
@@ -86,7 +86,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Okay-Subs  | 35    |
 | 11   | TTGA       | 32    |
 | 12   | hchcsen    | 29    |
-| 13   | PMR        | 28    |
+| 13   | PMR        | 29    |
 | 14   | Orphan     | 26    |
 | 15   | Headpatter | 25    |
 | 16   | B00BA      | 25    |

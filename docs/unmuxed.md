@@ -232,8 +232,8 @@
 | 229 | Lapis Re:LiGHTs                                                                               | 2020 | 15 Nov 2024 | [SeaDex](https://releases.moe/104937/), [AniList](https://anilist.co/anime/104937) |
 | 230 | Gatchaman Crowds insight                                                                      | 2015 | 02 Jul 2024 | [SeaDex](https://releases.moe/20487/), [AniList](https://anilist.co/anime/20487)   |
 | 231 | Bakuon!!                                                                                      | 2016 | 10 Nov 2024 | [SeaDex](https://releases.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
-| 232 | I don't like my big brother at all!!                                                          | 2011 | 11 Jan 2025 | [SeaDex](https://releases.moe/9587/), [AniList](https://anilist.co/anime/9587)     |
-| 233 | TOKYO MEW MEW NEW                                                                             | 2022 | 03 Aug 2025 | [SeaDex](https://releases.moe/117196/), [AniList](https://anilist.co/anime/117196) |
+| 232 | TOKYO MEW MEW NEW                                                                             | 2022 | 03 Aug 2025 | [SeaDex](https://releases.moe/117196/), [AniList](https://anilist.co/anime/117196) |
+| 233 | I don't like my big brother at all!!                                                          | 2011 | 11 Jan 2025 | [SeaDex](https://releases.moe/9587/), [AniList](https://anilist.co/anime/9587)     |
 | 234 | Bubblegum Crisis                                                                              | 1987 | 17 Jul 2025 | [SeaDex](https://releases.moe/1347/), [AniList](https://anilist.co/anime/1347)     |
 | 235 | The Princess and the Pilot                                                                    | 2011 | 10 Oct 2024 | [SeaDex](https://releases.moe/9000/), [AniList](https://anilist.co/anime/9000)     |
 | 236 | Seraph of the End: Battle in Nagoya - Owaranai Seraph Battle in Nagoya                        | 2015 | 25 Oct 2024 | [SeaDex](https://releases.moe/21765/), [AniList](https://anilist.co/anime/21765)   |
