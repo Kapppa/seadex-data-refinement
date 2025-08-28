@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `110.7 TiB`
-- Best size: `82.6 TiB`
-- Alt size: `28.0 TiB`
-- Realistic size: `85.9 TiB`
+- Total size: `110.8 TiB`
+- Best size: `82.7 TiB`
+- Alt size: `28.1 TiB`
+- Realistic size: `86.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -34,7 +34,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.55%)  | 82 (~17.3 GiB each)   |
 | 13   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.7 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
-| 15   | Headpatter       | 1.0 TiB    | 835.1 GiB (79.76%)  | 43 (~24.3 GiB each)   |
+| 15   | Headpatter       | 1.1 TiB    | 865.7 GiB (80.33%)  | 44 (~24.5 GiB each)   |
 | 16   | NOGRP            | 1021.8 GiB | 862.0 GiB (84.37%)  | 28 (~36.5 GiB each)   |
 | 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 18   | RUDY             | 991.9 GiB  | 973.3 GiB (98.13%)  | 12 (~82.7 GiB each)   |
@@ -43,7 +43,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 21   | YURI             | 884.2 GiB  | 387.3 GiB (43.80%)  | 74 (~11.9 GiB each)   |
 | 22   | koala            | 871.3 GiB  | 871.3 GiB (100.00%) | 17 (~51.3 GiB each)   |
 | 23   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
-| 24   | LostYears        | 824.2 GiB  | 288.6 GiB (35.01%)  | 50 (~16.5 GiB each)   |
+| 24   | LostYears        | 810.6 GiB  | 288.6 GiB (35.60%)  | 49 (~16.5 GiB each)   |
 | 25   | Bunny-Apocalypse | 809.5 GiB  | 173.8 GiB (21.47%)  | 38 (~21.3 GiB each)   |
 | 26   | Holomux          | 804.4 GiB  | 194.2 GiB (24.15%)  | 29 (~27.7 GiB each)   |
 | 27   | WAP              | 776.1 GiB  | 776.1 GiB (100.00%) | 8 (~97.0 GiB each)    |
@@ -63,10 +63,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 41   | UDF              | 579.7 GiB  | 203.8 GiB (35.15%)  | 24 (~24.2 GiB each)   |
 | 42   | Flugel           | 559.0 GiB  | 559.0 GiB (100.00%) | 18 (~31.1 GiB each)   |
 | 43   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
-| 44   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
-| 45   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 46   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 47   | YURASUKA         | 489.7 GiB  | 76.6 GiB (15.63%)   | 46 (~10.6 GiB each)   |
+| 44   | YURASUKA         | 506.3 GiB  | 76.6 GiB (15.12%)   | 47 (~10.8 GiB each)   |
+| 45   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
+| 46   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
+| 47   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
 | 48   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 49   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
-| 50   | Others           | 34.4 TiB   | 19.8 TiB (57.44%)   | 1673 (~21.1 GiB each) |
+| 50   | Others           | 34.5 TiB   | 19.8 TiB (57.37%)   | 1675 (~21.1 GiB each) |

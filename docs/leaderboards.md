@@ -26,10 +26,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Drag             | 57    |
 | 11   | hchcsen          | 56    |
 | 12   | KH               | 53    |
-| 13   | LostYears        | 50    |
-| 14   | YURASUKA         | 46    |
+| 13   | LostYears        | 49    |
+| 14   | YURASUKA         | 47    |
 | 15   | Arid             | 45    |
-| 16   | Headpatter       | 42    |
+| 16   | Headpatter       | 43    |
 | 17   | Bunny-Apocalypse | 38    |
 | 18   | LYS1TH3A         | 37    |
 | 19   | Okay-Subs        | 37    |
@@ -61,9 +61,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | koala      | 14    |
 | 16   | FLE        | 14    |
 | 17   | KH         | 13    |
-| 18   | Arid       | 13    |
-| 19   | Vodes      | 12    |
-| 20   | Headpatter | 12    |
+| 18   | Headpatter | 13    |
+| 19   | Arid       | 13    |
+| 20   | Vodes      | 12    |
 | 21   | ZeroBuild  | 12    |
 | 22   | FraMeSToR  | 11    |
 | 23   | SCY        | 11    |
@@ -87,8 +87,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | TTGA       | 32    |
 | 12   | hchcsen    | 29    |
 | 13   | PMR        | 29    |
-| 14   | Orphan     | 26    |
-| 15   | Headpatter | 25    |
+| 14   | Headpatter | 26    |
+| 15   | Orphan     | 26    |
 | 16   | B00BA      | 25    |
 | 17   | Lulu       | 22    |
 | 18   | Arid       | 22    |
@@ -106,11 +106,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 69    |
 | 🥈   | Drag             | 42    |
-| 🥉   | KH               | 40    |
-| 4    | YURI             | 39    |
-| 5    | YURASUKA         | 39    |
+| 🥉   | YURASUKA         | 40    |
+| 4    | KH               | 40    |
+| 5    | YURI             | 39    |
 | 6    | -ZR-             | 38    |
-| 7    | LostYears        | 35    |
+| 7    | LostYears        | 34    |
 | 8    | Commie           | 33    |
 | 9    | hchcsen          | 32    |
 | 10   | Bunny-Apocalypse | 31    |
