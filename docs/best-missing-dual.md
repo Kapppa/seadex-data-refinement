@@ -13,8 +13,8 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 6   | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat | 2021 | 12 Aug 2025 | [SeaDex](https://releases.moe/129898/), [AniList](https://anilist.co/anime/129898) |
 | 7   | From the New World                                                              | 2012 | 10 Aug 2025 | [SeaDex](https://releases.moe/13125/), [AniList](https://anilist.co/anime/13125)   |
 | 8   | Laid-Back Camp                                                                  | 2018 | 11 Oct 2024 | [SeaDex](https://releases.moe/98444/), [AniList](https://anilist.co/anime/98444)   |
-| 9   | BEASTARS Season 2                                                               | 2021 | 01 Jun 2025 | [SeaDex](https://releases.moe/114194/), [AniList](https://anilist.co/anime/114194) |
-| 10  | Evangelion: 1.0 You Are (Not) Alone                                             | 2007 | 28 Jul 2025 | [SeaDex](https://releases.moe/2759/), [AniList](https://anilist.co/anime/2759)     |
+| 9   | Evangelion: 1.0 You Are (Not) Alone                                             | 2007 | 28 Jul 2025 | [SeaDex](https://releases.moe/2759/), [AniList](https://anilist.co/anime/2759)     |
+| 10  | BEASTARS Season 2                                                               | 2021 | 01 Jun 2025 | [SeaDex](https://releases.moe/114194/), [AniList](https://anilist.co/anime/114194) |
 | 11  | March comes in like a lion Season 2                                             | 2017 | 22 Jul 2024 | [SeaDex](https://releases.moe/98478/), [AniList](https://anilist.co/anime/98478)   |
 | 12  | Evangelion: 2.0 You Can (Not) Advance                                           | 2009 | 23 Jun 2025 | [SeaDex](https://releases.moe/3784/), [AniList](https://anilist.co/anime/3784)     |
 | 13  | SHIROBAKO                                                                       | 2014 | 01 Aug 2025 | [SeaDex](https://releases.moe/20812/), [AniList](https://anilist.co/anime/20812)   |

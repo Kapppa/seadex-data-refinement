@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `110.8 TiB`
-- Best size: `82.7 TiB`
+- Total size: `111.0 TiB`
+- Best size: `82.9 TiB`
 - Alt size: `28.1 TiB`
 - Realistic size: `86.1 TiB`
 
@@ -20,8 +20,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.3 TiB   | 12.2 TiB (85.22%)   | 184 (~79.8 GiB each)  |
-| 2    | CRUCiBLE         | 8.9 TiB    | 8.9 TiB (100.00%)   | 119 (~76.9 GiB each)  |
+| 1    | -ZR-             | 14.3 TiB   | 12.2 TiB (85.45%)   | 183 (~80.0 GiB each)  |
+| 2    | CRUCiBLE         | 9.0 TiB    | 9.0 TiB (100.00%)   | 120 (~77.0 GiB each)  |
 | 3    | NAN0             | 5.9 TiB    | 5.8 TiB (98.72%)    | 81 (~74.5 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.99%)    | 129 (~29.5 GiB each)  |
 | 5    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
@@ -34,7 +34,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.55%)  | 82 (~17.3 GiB each)   |
 | 13   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.7 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
-| 15   | Headpatter       | 1.1 TiB    | 865.7 GiB (80.33%)  | 44 (~24.5 GiB each)   |
+| 15   | Headpatter       | 1.1 TiB    | 904.0 GiB (81.01%)  | 45 (~24.8 GiB each)   |
 | 16   | NOGRP            | 1021.8 GiB | 862.0 GiB (84.37%)  | 28 (~36.5 GiB each)   |
 | 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 18   | RUDY             | 991.9 GiB  | 973.3 GiB (98.13%)  | 12 (~82.7 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
 | 48   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
 | 49   | Doc              | 473.9 GiB  | 473.9 GiB (100.00%) | 5 (~94.8 GiB each)    |
-| 50   | Others           | 34.5 TiB   | 19.8 TiB (57.37%)   | 1675 (~21.1 GiB each) |
+| 50   | Others           | 34.6 TiB   | 19.8 TiB (57.40%)   | 1677 (~21.1 GiB each) |
