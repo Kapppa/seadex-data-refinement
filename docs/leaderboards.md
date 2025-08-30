@@ -29,7 +29,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | LostYears        | 49    |
 | 14   | YURASUKA         | 47    |
 | 15   | Arid             | 45    |
-| 16   | Headpatter       | 44    |
+| 16   | Headpatter       | 43    |
 | 17   | Bunny-Apocalypse | 38    |
 | 18   | LYS1TH3A         | 37    |
 | 19   | Okay-Subs        | 37    |
@@ -61,9 +61,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | koala      | 14    |
 | 16   | FLE        | 14    |
 | 17   | KH         | 13    |
-| 18   | Headpatter | 13    |
-| 19   | Arid       | 13    |
-| 20   | Vodes      | 12    |
+| 18   | Arid       | 13    |
+| 19   | Vodes      | 12    |
+| 20   | Headpatter | 12    |
 | 21   | ZeroBuild  | 12    |
 | 22   | FraMeSToR  | 11    |
 | 23   | SCY        | 11    |
@@ -87,7 +87,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | TTGA       | 32    |
 | 12   | hchcsen    | 29    |
 | 13   | PMR        | 29    |
-| 14   | Headpatter | 27    |
+| 14   | Headpatter | 26    |
 | 15   | Orphan     | 26    |
 | 16   | B00BA      | 25    |
 | 17   | Lulu       | 22    |
@@ -118,9 +118,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Arid             | 24    |
 | 13   | Erai-raws        | 23    |
 | 14   | Kametsu          | 22    |
-| 15   | CTR              | 20    |
-| 16   | VARYG            | 20    |
-| 17   | Holomux          | 19    |
+| 15   | Holomux          | 20    |
+| 16   | CTR              | 20    |
+| 17   | VARYG            | 20    |
 | 18   | Pog42            | 18    |
 | 19   | Headpatter       | 18    |
 | 20   | SCY              | 17    |
