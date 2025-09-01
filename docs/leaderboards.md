@@ -29,16 +29,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | LostYears        | 49    |
 | 14   | YURASUKA         | 47    |
 | 15   | Arid             | 45    |
-| 16   | Headpatter       | 43    |
+| 16   | Headpatter       | 44    |
 | 17   | Bunny-Apocalypse | 38    |
 | 18   | LYS1TH3A         | 37    |
 | 19   | Okay-Subs        | 37    |
 | 20   | Lulu             | 34    |
 | 21   | TTGA             | 34    |
 | 22   | Commie           | 33    |
-| 23   | Pog42            | 32    |
+| 23   | Pog42            | 31    |
 | 24   | Kametsu          | 30    |
-| 25   | SCY              | 29    |
+| 25   | PMR              | 30    |
 
 ## Top 25 - Best dual audio entries
 
@@ -85,9 +85,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | YURI       | 35    |
 | 10   | Okay-Subs  | 35    |
 | 11   | TTGA       | 32    |
-| 12   | hchcsen    | 29    |
-| 13   | PMR        | 29    |
-| 14   | Headpatter | 26    |
+| 12   | PMR        | 30    |
+| 13   | hchcsen    | 29    |
+| 14   | Headpatter | 27    |
 | 15   | Orphan     | 26    |
 | 16   | B00BA      | 25    |
 | 17   | Lulu       | 22    |
@@ -121,9 +121,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | Holomux          | 20    |
 | 16   | CTR              | 20    |
 | 17   | VARYG            | 20    |
-| 18   | Pog42            | 18    |
-| 19   | Headpatter       | 18    |
-| 20   | SCY              | 17    |
+| 18   | Headpatter       | 18    |
+| 19   | SCY              | 17    |
+| 20   | Pog42            | 17    |
 | 21   | Chihiro          | 17    |
 | 22   | NOGRP            | 17    |
 | 23   | HorribleSubs     | 16    |

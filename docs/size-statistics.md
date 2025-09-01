@@ -9,7 +9,7 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `111.2 TiB`
-- Best size: `82.6 TiB`
+- Best size: `82.7 TiB`
 - Alt size: `28.5 TiB`
 - Realistic size: `86.3 TiB`
 
@@ -27,14 +27,14 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 5    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
 | 6    | TTGA             | 2.4 TiB    | 2.2 TiB (92.00%)    | 34 (~73.5 GiB each)   |
 | 7    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.49%)    | 61 (~40.2 GiB each)   |
-| 8    | PMR              | 2.3 TiB    | 2.3 TiB (100.00%)   | 29 (~81.3 GiB each)   |
+| 8    | PMR              | 2.3 TiB    | 2.3 TiB (100.00%)   | 30 (~79.0 GiB each)   |
 | 9    | B00BA            | 2.2 TiB    | 2.2 TiB (100.00%)   | 25 (~91.5 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 11   | MTBB             | 1.5 TiB    | 1.2 TiB (83.20%)    | 94 (~15.8 GiB each)   |
 | 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.55%)  | 82 (~17.3 GiB each)   |
 | 13   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.7 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
-| 15   | Headpatter       | 1.1 TiB    | 878.3 GiB (80.56%)  | 44 (~24.8 GiB each)   |
+| 15   | Headpatter       | 1.1 TiB    | 880.8 GiB (80.60%)  | 45 (~24.3 GiB each)   |
 | 16   | NOGRP            | 1021.8 GiB | 862.0 GiB (84.37%)  | 28 (~36.5 GiB each)   |
 | 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 18   | RUDY             | 991.9 GiB  | 973.3 GiB (98.13%)  | 12 (~82.7 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 48   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
 | 49   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
-| 50   | Others           | 34.8 TiB   | 19.8 TiB (56.87%)   | 1674 (~21.3 GiB each) |
+| 50   | Others           | 34.8 TiB   | 19.8 TiB (56.87%)   | 1673 (~21.3 GiB each) |

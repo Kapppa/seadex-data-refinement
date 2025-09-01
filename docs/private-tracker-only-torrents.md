@@ -10,3 +10,4 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 3   | PSYCHO-PASS 3: First Inspector                          | 2020 | 28 Aug 2025 | [SeaDex](https://releases.moe/113917/), [AniList](https://anilist.co/anime/113917) |
 | 4   | Noir                                                    | 2001 | 27 Aug 2025 | [SeaDex](https://releases.moe/272/), [AniList](https://anilist.co/anime/272)       |
 | 5   | MAKE A GIRL                                             | 2025 | 28 Aug 2025 | [SeaDex](https://releases.moe/154064/), [AniList](https://anilist.co/anime/154064) |
+| 6   | Anime De Training! EX                                   | 2015 | 31 Aug 2025 | [SeaDex](https://releases.moe/21320/), [AniList](https://anilist.co/anime/21320)   |

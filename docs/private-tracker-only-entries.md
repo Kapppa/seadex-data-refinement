@@ -6,4 +6,5 @@
 | 3   | The Ones Within                 | 2019 | 16 Jul 2025 | [SeaDex](https://releases.moe/102926/), [AniList](https://anilist.co/anime/102926) |
 | 4   | Scarlet Nexus                   | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
 | 5   | PSYCHO-PASS 3: First Inspector  | 2020 | 28 Aug 2025 | [SeaDex](https://releases.moe/113917/), [AniList](https://anilist.co/anime/113917) |
-| 6   | Overlord: Ple Ple Pleiades 4    | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 6   | Anime De Training! EX           | 2015 | 31 Aug 2025 | [SeaDex](https://releases.moe/21320/), [AniList](https://anilist.co/anime/21320)   |
+| 7   | Overlord: Ple Ple Pleiades 4    | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
