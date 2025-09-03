@@ -121,10 +121,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | Holomux          | 20    |
 | 16   | CTR              | 20    |
 | 17   | VARYG            | 20    |
-| 18   | Headpatter       | 18    |
-| 19   | SCY              | 17    |
-| 20   | Pog42            | 17    |
-| 21   | Chihiro          | 17    |
+| 18   | Chihiro          | 18    |
+| 19   | Headpatter       | 18    |
+| 20   | SCY              | 17    |
+| 21   | Pog42            | 17    |
 | 22   | NOGRP            | 17    |
 | 23   | HorribleSubs     | 16    |
 | 24   | Reza             | 15    |

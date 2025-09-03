@@ -8,7 +8,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `111.2 TiB`
+- Total size: `111.3 TiB`
 - Best size: `82.7 TiB`
 - Alt size: `28.5 TiB`
 - Realistic size: `86.3 TiB`
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 48   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
 | 49   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
-| 50   | Others           | 34.8 TiB   | 19.8 TiB (56.87%)   | 1673 (~21.3 GiB each) |
+| 50   | Others           | 34.8 TiB   | 19.8 TiB (56.90%)   | 1675 (~21.3 GiB each) |
