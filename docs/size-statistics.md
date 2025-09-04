@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `111.3 TiB`
-- Best size: `82.7 TiB`
-- Alt size: `28.5 TiB`
-- Realistic size: `86.3 TiB`
+- Total size: `111.4 TiB`
+- Best size: `82.8 TiB`
+- Alt size: `28.6 TiB`
+- Realistic size: `86.4 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.3 TiB   | 12.2 TiB (85.45%)   | 183 (~80.0 GiB each)  |
-| 2    | CRUCiBLE         | 9.0 TiB    | 9.0 TiB (100.00%)   | 120 (~77.0 GiB each)  |
+| 2    | CRUCiBLE         | 9.1 TiB    | 9.1 TiB (100.00%)   | 121 (~76.9 GiB each)  |
 | 3    | NAN0             | 5.9 TiB    | 5.8 TiB (98.72%)    | 81 (~74.5 GiB each)   |
 | 4    | sam              | 3.7 TiB    | 3.4 TiB (91.99%)    | 129 (~29.5 GiB each)  |
 | 5    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
@@ -64,9 +64,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 42   | Flugel           | 559.0 GiB  | 559.0 GiB (100.00%) | 18 (~31.1 GiB each)   |
 | 43   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
 | 44   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 45   | YURASUKA         | 506.3 GiB  | 76.6 GiB (15.12%)   | 47 (~10.8 GiB each)   |
-| 46   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
-| 47   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 48   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 49   | Almighty         | 478.9 GiB  | 0 B (0.00%)         | 2 (~239.5 GiB each)   |
-| 50   | Others           | 34.8 TiB   | 19.8 TiB (56.90%)   | 1675 (~21.3 GiB each) |
+| 45   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
+| 46   | YURASUKA         | 506.3 GiB  | 76.6 GiB (15.12%)   | 47 (~10.8 GiB each)   |
+| 47   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
+| 48   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
+| 49   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
+| 50   | Others           | 34.9 TiB   | 19.4 TiB (55.52%)   | 1662 (~21.5 GiB each) |

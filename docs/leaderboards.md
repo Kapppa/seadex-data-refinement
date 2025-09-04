@@ -16,7 +16,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
 | 🥈   | sam              | 129   |
-| 🥉   | CRUCiBLE         | 120   |
+| 🥉   | CRUCiBLE         | 121   |
 | 4    | MTBB             | 94    |
 | 5    | SubsPlease       | 82    |
 | 6    | NAN0             | 81    |
@@ -45,7 +45,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 109   |
-| 🥈   | CRUCiBLE   | 94    |
+| 🥈   | CRUCiBLE   | 95    |
 | 🥉   | sam        | 88    |
 | 4    | NAN0       | 65    |
 | 5    | LYS1TH3A   | 34    |
@@ -75,7 +75,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 146   |
-| 🥈   | CRUCiBLE   | 120   |
+| 🥈   | CRUCiBLE   | 121   |
 | 🥉   | sam        | 119   |
 | 4    | NAN0       | 80    |
 | 5    | MTBB       | 64    |
@@ -121,8 +121,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | Holomux          | 20    |
 | 16   | CTR              | 20    |
 | 17   | VARYG            | 20    |
-| 18   | Chihiro          | 18    |
-| 19   | Headpatter       | 18    |
+| 18   | Headpatter       | 18    |
+| 19   | Chihiro          | 18    |
 | 20   | SCY              | 17    |
 | 21   | Pog42            | 17    |
 | 22   | NOGRP            | 17    |

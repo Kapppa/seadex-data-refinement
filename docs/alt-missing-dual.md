@@ -99,8 +99,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 92  | FrFr! ~Free! short movie~                                                                   | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/19671/), [AniList](https://anilist.co/anime/19671)   |
 | 93  | 18if                                                                                        | 2017 | 25 Jun 2025 | [SeaDex](https://releases.moe/98512/), [AniList](https://anilist.co/anime/98512)   |
 | 94  | I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity  | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/151126/), [AniList](https://anilist.co/anime/151126) |
-| 95  | Wanna be the Strongest in the World!                                                        | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
-| 96  | Future Boy Conan                                                                            | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
+| 95  | Future Boy Conan                                                                            | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
+| 96  | Wanna be the Strongest in the World!                                                        | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
 | 97  | Nobunagun                                                                                   | 2014 | 07 Jun 2025 | [SeaDex](https://releases.moe/19855/), [AniList](https://anilist.co/anime/19855)   |
 | 98  | Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-                 | 2021 | 12 Aug 2025 | [SeaDex](https://releases.moe/136344/), [AniList](https://anilist.co/anime/136344) |
 | 99  | URAHARA                                                                                     | 2017 | 02 Aug 2025 | [SeaDex](https://releases.moe/98513/), [AniList](https://anilist.co/anime/98513)   |
