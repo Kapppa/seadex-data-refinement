@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 48   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 49   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 50   | Others           | 34.9 TiB   | 19.4 TiB (55.52%)   | 1662 (~21.5 GiB each) |
+| 50   | Others           | 34.9 TiB   | 19.4 TiB (55.49%)   | 1663 (~21.5 GiB each) |
