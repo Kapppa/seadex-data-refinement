@@ -16,7 +16,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
 | 🥈   | sam              | 130   |
-| 🥉   | CRUCiBLE         | 121   |
+| 🥉   | CRUCiBLE         | 123   |
 | 4    | MTBB             | 94    |
 | 5    | SubsPlease       | 82    |
 | 6    | NAN0             | 81    |
@@ -27,9 +27,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | hchcsen          | 56    |
 | 12   | KH               | 53    |
 | 13   | LostYears        | 49    |
-| 14   | YURASUKA         | 47    |
+| 14   | YURASUKA         | 48    |
 | 15   | Arid             | 45    |
-| 16   | Headpatter       | 44    |
+| 16   | Headpatter       | 43    |
 | 17   | Bunny-Apocalypse | 38    |
 | 18   | LYS1TH3A         | 37    |
 | 19   | Okay-Subs        | 37    |
@@ -45,7 +45,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 109   |
-| 🥈   | CRUCiBLE   | 95    |
+| 🥈   | CRUCiBLE   | 97    |
 | 🥉   | sam        | 89    |
 | 4    | NAN0       | 65    |
 | 5    | LYS1TH3A   | 34    |
@@ -75,7 +75,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 146   |
-| 🥈   | CRUCiBLE   | 121   |
+| 🥈   | CRUCiBLE   | 123   |
 | 🥉   | sam        | 120   |
 | 4    | NAN0       | 80    |
 | 5    | MTBB       | 64    |
@@ -106,7 +106,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 69    |
 | 🥈   | Drag             | 42    |
-| 🥉   | YURASUKA         | 40    |
+| 🥉   | YURASUKA         | 41    |
 | 4    | KH               | 40    |
 | 5    | YURI             | 39    |
 | 6    | -ZR-             | 37    |
@@ -122,9 +122,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | CTR              | 20    |
 | 17   | VARYG            | 20    |
 | 18   | Chihiro          | 18    |
-| 19   | Headpatter       | 18    |
-| 20   | SCY              | 17    |
-| 21   | Pog42            | 17    |
+| 19   | SCY              | 17    |
+| 20   | Pog42            | 17    |
+| 21   | Headpatter       | 17    |
 | 22   | NOGRP            | 17    |
 | 23   | HorribleSubs     | 16    |
 | 24   | Reza             | 15    |
