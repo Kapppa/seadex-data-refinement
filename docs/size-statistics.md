@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `111.7 TiB`
+- Total size: `111.8 TiB`
 - Best size: `83.1 TiB`
-- Alt size: `28.7 TiB`
-- Realistic size: `86.6 TiB`
+- Alt size: `28.6 TiB`
+- Realistic size: `86.7 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,8 +20,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.3 TiB   | 12.2 TiB (85.45%)   | 183 (~80.0 GiB each)  |
-| 2    | CRUCiBLE         | 9.2 TiB    | 9.2 TiB (100.00%)   | 123 (~76.9 GiB each)  |
+| 1    | -ZR-             | 14.3 TiB   | 12.2 TiB (85.55%)   | 182 (~80.3 GiB each)  |
+| 2    | CRUCiBLE         | 9.3 TiB    | 9.3 TiB (100.00%)   | 124 (~76.6 GiB each)  |
 | 3    | NAN0             | 5.9 TiB    | 5.8 TiB (98.72%)    | 81 (~74.5 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.5 TiB (92.09%)    | 130 (~29.6 GiB each)  |
 | 5    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
@@ -31,7 +31,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 9    | B00BA            | 2.2 TiB    | 2.2 TiB (100.00%)   | 25 (~91.5 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 11   | MTBB             | 1.5 TiB    | 1.2 TiB (83.20%)    | 94 (~15.8 GiB each)   |
-| 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.55%)  | 82 (~17.3 GiB each)   |
+| 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.72%)  | 81 (~17.3 GiB each)   |
 | 13   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.7 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 15   | Headpatter       | 1.1 TiB    | 880.8 GiB (81.58%)  | 44 (~24.5 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 48   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 49   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 50   | Others           | 35.0 TiB   | 19.4 TiB (55.42%)   | 1664 (~21.5 GiB each) |
+| 50   | Others           | 35.0 TiB   | 19.4 TiB (55.46%)   | 1666 (~21.5 GiB each) |

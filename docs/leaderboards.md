@@ -14,12 +14,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 172   |
+| 🥇   | -ZR-             | 171   |
 | 🥈   | sam              | 130   |
-| 🥉   | CRUCiBLE         | 123   |
+| 🥉   | CRUCiBLE         | 124   |
 | 4    | MTBB             | 94    |
-| 5    | SubsPlease       | 82    |
-| 6    | NAN0             | 81    |
+| 5    | NAN0             | 81    |
+| 6    | SubsPlease       | 81    |
 | 7    | YURI             | 74    |
 | 8    | Moxie            | 61    |
 | 9    | smol             | 58    |
@@ -45,7 +45,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 109   |
-| 🥈   | CRUCiBLE   | 97    |
+| 🥈   | CRUCiBLE   | 98    |
 | 🥉   | sam        | 89    |
 | 4    | NAN0       | 65    |
 | 5    | LYS1TH3A   | 34    |
@@ -75,7 +75,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 146   |
-| 🥈   | CRUCiBLE   | 123   |
+| 🥈   | CRUCiBLE   | 124   |
 | 🥉   | sam        | 120   |
 | 4    | NAN0       | 80    |
 | 5    | MTBB       | 64    |
@@ -104,20 +104,20 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 69    |
+| 🥇   | SubsPlease       | 68    |
 | 🥈   | Drag             | 42    |
 | 🥉   | YURASUKA         | 41    |
 | 4    | KH               | 40    |
 | 5    | YURI             | 39    |
-| 6    | -ZR-             | 37    |
+| 6    | -ZR-             | 36    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 33    |
 | 9    | hchcsen          | 32    |
 | 10   | Bunny-Apocalypse | 31    |
 | 11   | MTBB             | 30    |
 | 12   | Arid             | 24    |
-| 13   | Erai-raws        | 23    |
-| 14   | Kametsu          | 22    |
+| 13   | Kametsu          | 22    |
+| 14   | Erai-raws        | 22    |
 | 15   | Holomux          | 20    |
 | 16   | CTR              | 20    |
 | 17   | VARYG            | 20    |
