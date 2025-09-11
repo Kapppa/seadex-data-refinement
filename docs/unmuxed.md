@@ -62,8 +62,8 @@
 | 59  | Kakushigoto                                                                                   | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/113311/), [AniList](https://anilist.co/anime/113311) |
 | 60  | ISEKAI QUARTET                                                                                | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/104454/), [AniList](https://anilist.co/anime/104454) |
 | 61  | Keijo!!!!!!!!                                                                                 | 2016 | 01 Aug 2025 | [SeaDex](https://releases.moe/21639/), [AniList](https://anilist.co/anime/21639)   |
-| 62  | ALDNOAH.ZERO                                                                                  | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20632/), [AniList](https://anilist.co/anime/20632)   |
-| 63  | ReLIFE: Final Arc                                                                             | 2018 | 03 Mar 2025 | [SeaDex](https://releases.moe/98635/), [AniList](https://anilist.co/anime/98635)   |
+| 62  | ReLIFE: Final Arc                                                                             | 2018 | 03 Mar 2025 | [SeaDex](https://releases.moe/98635/), [AniList](https://anilist.co/anime/98635)   |
+| 63  | ALDNOAH.ZERO                                                                                  | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20632/), [AniList](https://anilist.co/anime/20632)   |
 | 64  | No.6                                                                                          | 2011 | 07 Apr 2025 | [SeaDex](https://releases.moe/10161/), [AniList](https://anilist.co/anime/10161)   |
 | 65  | Bunny Drop                                                                                    | 2011 | 16 Aug 2025 | [SeaDex](https://releases.moe/10162/), [AniList](https://anilist.co/anime/10162)   |
 | 66  | Black Lagoon: The Second Barrage                                                              | 2006 | 14 Feb 2025 | [SeaDex](https://releases.moe/1519/), [AniList](https://anilist.co/anime/1519)     |
@@ -168,8 +168,8 @@
 | 165 | RWBY: Ice Queendom                                                                            | 2022 | 10 Oct 2024 | [SeaDex](https://releases.moe/146668/), [AniList](https://anilist.co/anime/146668) |
 | 166 | Cat Planet Cuties                                                                             | 2010 | 11 Nov 2024 | [SeaDex](https://releases.moe/6166/), [AniList](https://anilist.co/anime/6166)     |
 | 167 | Gonna be the Twin-Tail!!                                                                      | 2014 | 12 Aug 2025 | [SeaDex](https://releases.moe/20565/), [AniList](https://anilist.co/anime/20565)   |
-| 168 | Casshern Sins                                                                                 | 2008 | 03 Jun 2025 | [SeaDex](https://releases.moe/4981/), [AniList](https://anilist.co/anime/4981)     |
-| 169 | Listen to Me, Girls. I Am Your Father!                                                        | 2012 | 30 Jul 2025 | [SeaDex](https://releases.moe/11179/), [AniList](https://anilist.co/anime/11179)   |
+| 168 | Listen to Me, Girls. I Am Your Father!                                                        | 2012 | 30 Jul 2025 | [SeaDex](https://releases.moe/11179/), [AniList](https://anilist.co/anime/11179)   |
+| 169 | Casshern Sins                                                                                 | 2008 | 03 Jun 2025 | [SeaDex](https://releases.moe/4981/), [AniList](https://anilist.co/anime/4981)     |
 | 170 | Gugure! Kokkuri-san                                                                           | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20656/), [AniList](https://anilist.co/anime/20656)   |
 | 171 | Tari Tari                                                                                     | 2012 | 27 Aug 2024 | [SeaDex](https://releases.moe/13333/), [AniList](https://anilist.co/anime/13333)   |
 | 172 | She Professed Herself Pupil of the Wise Man                                                   | 2022 | 01 Jun 2025 | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
