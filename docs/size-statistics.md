@@ -9,7 +9,7 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `111.8 TiB`
-- Best size: `83.1 TiB`
+- Best size: `83.3 TiB`
 - Alt size: `28.6 TiB`
 - Realistic size: `86.7 TiB`
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.3 TiB   | 12.2 TiB (85.55%)   | 182 (~80.3 GiB each)  |
-| 2    | CRUCiBLE         | 9.3 TiB    | 9.3 TiB (100.00%)   | 124 (~76.6 GiB each)  |
+| 2    | CRUCiBLE         | 9.4 TiB    | 9.4 TiB (100.00%)   | 125 (~76.6 GiB each)  |
 | 3    | NAN0             | 5.9 TiB    | 5.8 TiB (98.72%)    | 81 (~74.5 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.5 TiB (92.09%)    | 130 (~29.6 GiB each)  |
 | 5    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
@@ -34,7 +34,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.72%)  | 81 (~17.3 GiB each)   |
 | 13   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.7 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
-| 15   | Headpatter       | 1.1 TiB    | 880.8 GiB (81.58%)  | 44 (~24.5 GiB each)   |
+| 15   | Headpatter       | 1.1 TiB    | 908.2 GiB (82.04%)  | 45 (~24.6 GiB each)   |
 | 16   | NOGRP            | 1021.8 GiB | 862.0 GiB (84.37%)  | 28 (~36.5 GiB each)   |
 | 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 18   | RUDY             | 991.9 GiB  | 973.3 GiB (98.13%)  | 12 (~82.7 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 48   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 49   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 50   | Others           | 35.0 TiB   | 19.4 TiB (55.46%)   | 1666 (~21.5 GiB each) |
+| 50   | Others           | 35.0 TiB   | 19.4 TiB (55.57%)   | 1665 (~21.5 GiB each) |

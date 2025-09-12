@@ -16,7 +16,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 171   |
 | 🥈   | sam              | 130   |
-| 🥉   | CRUCiBLE         | 124   |
+| 🥉   | CRUCiBLE         | 125   |
 | 4    | MTBB             | 94    |
 | 5    | NAN0             | 81    |
 | 6    | SubsPlease       | 81    |
@@ -29,7 +29,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | LostYears        | 49    |
 | 14   | YURASUKA         | 48    |
 | 15   | Arid             | 45    |
-| 16   | Headpatter       | 43    |
+| 16   | Headpatter       | 44    |
 | 17   | Bunny-Apocalypse | 38    |
 | 18   | LYS1TH3A         | 37    |
 | 19   | Okay-Subs        | 37    |
@@ -45,7 +45,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 109   |
-| 🥈   | CRUCiBLE   | 98    |
+| 🥈   | CRUCiBLE   | 99    |
 | 🥉   | sam        | 89    |
 | 4    | NAN0       | 65    |
 | 5    | LYS1TH3A   | 34    |
@@ -75,7 +75,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 146   |
-| 🥈   | CRUCiBLE   | 124   |
+| 🥈   | CRUCiBLE   | 125   |
 | 🥉   | sam        | 120   |
 | 4    | NAN0       | 80    |
 | 5    | MTBB       | 64    |
@@ -87,7 +87,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | TTGA       | 32    |
 | 12   | PMR        | 30    |
 | 13   | hchcsen    | 29    |
-| 14   | Headpatter | 27    |
+| 14   | Headpatter | 28    |
 | 15   | Orphan     | 26    |
 | 16   | B00BA      | 25    |
 | 17   | Lulu       | 22    |
