@@ -102,8 +102,8 @@
 | 99  | My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World! | 2022 | 08 Jul 2025 | [SeaDex](https://releases.moe/129192/), [AniList](https://anilist.co/anime/129192) |
 | 100 | Place to Place                                                                                | 2012 | 31 May 2025 | [SeaDex](https://releases.moe/12291/), [AniList](https://anilist.co/anime/12291)   |
 | 101 | Gargantia on the Verdurous Planet                                                             | 2013 | 02 Aug 2025 | [SeaDex](https://releases.moe/16524/), [AniList](https://anilist.co/anime/16524)   |
-| 102 | PSYCHO-PASS 3                                                                                 | 2019 | 14 Jun 2025 | [SeaDex](https://releases.moe/108307/), [AniList](https://anilist.co/anime/108307) |
-| 103 | Pseudo Harem                                                                                  | 2024 | 21 Mar 2025 | [SeaDex](https://releases.moe/163623/), [AniList](https://anilist.co/anime/163623) |
+| 102 | Pseudo Harem                                                                                  | 2024 | 21 Mar 2025 | [SeaDex](https://releases.moe/163623/), [AniList](https://anilist.co/anime/163623) |
+| 103 | PSYCHO-PASS 3                                                                                 | 2019 | 14 Jun 2025 | [SeaDex](https://releases.moe/108307/), [AniList](https://anilist.co/anime/108307) |
 | 104 | Tokyo Magnitude 8.0                                                                           | 2009 | 05 Nov 2024 | [SeaDex](https://releases.moe/6211/), [AniList](https://anilist.co/anime/6211)     |
 | 105 | Anti-Magic Academy: The 35th Test Platoon                                                     | 2015 | 09 Jan 2025 | [SeaDex](https://releases.moe/20704/), [AniList](https://anilist.co/anime/20704)   |
 | 106 | Ninja Kamui                                                                                   | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/151639/), [AniList](https://anilist.co/anime/151639) |
@@ -327,11 +327,12 @@
 | 324 | Symphogear XV Omake                                                                           | 2019 | 15 Nov 2024 | [SeaDex](https://releases.moe/113348/), [AniList](https://anilist.co/anime/113348) |
 | 325 | Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete                          | 2015 | 27 Jul 2024 | [SeaDex](https://releases.moe/21405/), [AniList](https://anilist.co/anime/21405)   |
 | 326 | Flying Witch Petit Special                                                                    | 2016 | 11 Jan 2025 | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
-| 327 | El Hazard: The Alternative World                                                              | 1998 | 27 Jun 2024 | [SeaDex](https://releases.moe/115/), [AniList](https://anilist.co/anime/115)       |
-| 328 | Shonen Maid Special                                                                           | 2016 | 07 Oct 2024 | [SeaDex](https://releases.moe/87538/), [AniList](https://anilist.co/anime/87538)   |
-| 329 | Kikou Kai Galient                                                                             | 1984 | 29 Dec 2023 | [SeaDex](https://releases.moe/5153/), [AniList](https://anilist.co/anime/5153)     |
-| 330 | Campus Special Investigator Hikaruon                                                          | 1987 | 08 Jun 2025 | [SeaDex](https://releases.moe/1927/), [AniList](https://anilist.co/anime/1927)     |
-| 331 | Special Crime Investigation Unit - Special 7 OVA                                              | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/113864/), [AniList](https://anilist.co/anime/113864) |
-| 332 | Rio: Rainbow Gate! Special                                                                    | 2011 | 16 Nov 2023 | [SeaDex](https://releases.moe/10301/), [AniList](https://anilist.co/anime/10301)   |
-| 333 | Moyashimon: Kin Gekijou Deluxe                                                                | 2007 | 24 Jan 2024 | [SeaDex](https://releases.moe/3618/), [AniList](https://anilist.co/anime/3618)     |
-| 334 | Kouya no Kotobuki Hikoutai: Kanzenban                                                         | 2020 | 16 Nov 2024 | [SeaDex](https://releases.moe/115082/), [AniList](https://anilist.co/anime/115082) |
+| 327 | Smart-san                                                                                     | 1978 | 13 Sep 2025 | [SeaDex](https://releases.moe/3335/), [AniList](https://anilist.co/anime/3335)     |
+| 328 | El Hazard: The Alternative World                                                              | 1998 | 27 Jun 2024 | [SeaDex](https://releases.moe/115/), [AniList](https://anilist.co/anime/115)       |
+| 329 | Shonen Maid Special                                                                           | 2016 | 07 Oct 2024 | [SeaDex](https://releases.moe/87538/), [AniList](https://anilist.co/anime/87538)   |
+| 330 | Kikou Kai Galient                                                                             | 1984 | 29 Dec 2023 | [SeaDex](https://releases.moe/5153/), [AniList](https://anilist.co/anime/5153)     |
+| 331 | Campus Special Investigator Hikaruon                                                          | 1987 | 08 Jun 2025 | [SeaDex](https://releases.moe/1927/), [AniList](https://anilist.co/anime/1927)     |
+| 332 | Special Crime Investigation Unit - Special 7 OVA                                              | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/113864/), [AniList](https://anilist.co/anime/113864) |
+| 333 | Rio: Rainbow Gate! Special                                                                    | 2011 | 16 Nov 2023 | [SeaDex](https://releases.moe/10301/), [AniList](https://anilist.co/anime/10301)   |
+| 334 | Moyashimon: Kin Gekijou Deluxe                                                                | 2007 | 24 Jan 2024 | [SeaDex](https://releases.moe/3618/), [AniList](https://anilist.co/anime/3618)     |
+| 335 | Kouya no Kotobuki Hikoutai: Kanzenban                                                         | 2020 | 16 Nov 2024 | [SeaDex](https://releases.moe/115082/), [AniList](https://anilist.co/anime/115082) |

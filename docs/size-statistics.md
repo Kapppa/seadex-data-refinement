@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `111.8 TiB`
+- Total size: `111.9 TiB`
 - Best size: `83.3 TiB`
 - Alt size: `28.6 TiB`
-- Realistic size: `86.7 TiB`
+- Realistic size: `86.8 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 48   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 49   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 50   | Others           | 35.0 TiB   | 19.4 TiB (55.57%)   | 1665 (~21.5 GiB each) |
+| 50   | Others           | 35.0 TiB   | 19.4 TiB (55.44%)   | 1666 (~21.5 GiB each) |
