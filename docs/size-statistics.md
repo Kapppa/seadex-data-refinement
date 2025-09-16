@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `111.9 TiB`
-- Best size: `83.3 TiB`
+- Total size: `112.0 TiB`
+- Best size: `83.4 TiB`
 - Alt size: `28.6 TiB`
-- Realistic size: `86.8 TiB`
+- Realistic size: `86.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -27,7 +27,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 5    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
 | 6    | TTGA             | 2.4 TiB    | 2.2 TiB (92.00%)    | 34 (~73.5 GiB each)   |
 | 7    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.49%)    | 61 (~40.2 GiB each)   |
-| 8    | PMR              | 2.3 TiB    | 2.3 TiB (100.00%)   | 30 (~79.0 GiB each)   |
+| 8    | PMR              | 2.4 TiB    | 2.4 TiB (100.00%)   | 31 (~78.9 GiB each)   |
 | 9    | B00BA            | 2.2 TiB    | 2.2 TiB (100.00%)   | 25 (~91.5 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 11   | MTBB             | 1.5 TiB    | 1.2 TiB (83.20%)    | 94 (~15.8 GiB each)   |
@@ -46,11 +46,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 24   | LostYears        | 810.6 GiB  | 288.6 GiB (35.60%)  | 49 (~16.5 GiB each)   |
 | 25   | Bunny-Apocalypse | 809.5 GiB  | 173.8 GiB (21.47%)  | 38 (~21.3 GiB each)   |
 | 26   | Holomux          | 804.4 GiB  | 163.2 GiB (20.29%)  | 29 (~27.7 GiB each)   |
-| 27   | WAP              | 776.1 GiB  | 776.1 GiB (100.00%) | 8 (~97.0 GiB each)    |
-| 28   | Okay-Subs        | 752.8 GiB  | 735.7 GiB (97.73%)  | 37 (~20.3 GiB each)   |
-| 29   | FraMeSToR        | 745.7 GiB  | 745.7 GiB (100.00%) | 11 (~67.8 GiB each)   |
-| 30   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
-| 31   | A&C              | 726.3 GiB  | 699.8 GiB (96.35%)  | 4 (~181.6 GiB each)   |
+| 27   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
+| 28   | WAP              | 776.1 GiB  | 776.1 GiB (100.00%) | 8 (~97.0 GiB each)    |
+| 29   | Okay-Subs        | 752.8 GiB  | 735.7 GiB (97.73%)  | 37 (~20.3 GiB each)   |
+| 30   | FraMeSToR        | 745.7 GiB  | 745.7 GiB (100.00%) | 11 (~67.8 GiB each)   |
+| 31   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
 | 32   | ZeroBuild        | 726.3 GiB  | 646.3 GiB (89.00%)  | 15 (~48.4 GiB each)   |
 | 33   | Reza             | 723.4 GiB  | 377.0 GiB (52.12%)  | 28 (~25.8 GiB each)   |
 | 34   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
@@ -63,10 +63,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 41   | D4C              | 583.2 GiB  | 583.2 GiB (100.00%) | 3 (~194.4 GiB each)   |
 | 42   | Flugel           | 559.0 GiB  | 559.0 GiB (100.00%) | 18 (~31.1 GiB each)   |
 | 43   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
-| 44   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 45   | YURASUKA         | 514.4 GiB  | 76.6 GiB (14.88%)   | 48 (~10.7 GiB each)   |
+| 44   | YURASUKA         | 527.6 GiB  | 76.6 GiB (14.51%)   | 49 (~10.8 GiB each)   |
+| 45   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 46   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 47   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 48   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 49   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 50   | Others           | 35.0 TiB   | 19.4 TiB (55.44%)   | 1666 (~21.5 GiB each) |
+| 50   | Others           | 35.0 TiB   | 19.4 TiB (55.45%)   | 1665 (~21.5 GiB each) |

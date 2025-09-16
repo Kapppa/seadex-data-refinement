@@ -26,8 +26,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Drag             | 57    |
 | 11   | hchcsen          | 56    |
 | 12   | KH               | 53    |
-| 13   | LostYears        | 49    |
-| 14   | YURASUKA         | 48    |
+| 13   | YURASUKA         | 49    |
+| 14   | LostYears        | 49    |
 | 15   | Arid             | 45    |
 | 16   | Headpatter       | 44    |
 | 17   | Bunny-Apocalypse | 38    |
@@ -37,8 +37,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | TTGA             | 34    |
 | 22   | Commie           | 33    |
 | 23   | Pog42            | 31    |
-| 24   | Kametsu          | 30    |
-| 25   | PMR              | 30    |
+| 24   | PMR              | 31    |
+| 25   | Kametsu          | 30    |
 
 ## Top 25 - Best dual audio entries
 
@@ -65,9 +65,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | Vodes      | 12    |
 | 20   | Headpatter | 12    |
 | 21   | ZeroBuild  | 12    |
-| 22   | FraMeSToR  | 11    |
-| 23   | SCY        | 11    |
-| 24   | PMR        | 11    |
+| 22   | PMR        | 12    |
+| 23   | FraMeSToR  | 11    |
+| 24   | SCY        | 11    |
 | 25   | hydes      | 10    |
 
 ## Top 25 - Best entries
@@ -85,7 +85,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | YURI       | 35    |
 | 10   | Okay-Subs  | 35    |
 | 11   | TTGA       | 32    |
-| 12   | PMR        | 30    |
+| 12   | PMR        | 31    |
 | 13   | hchcsen    | 29    |
 | 14   | Headpatter | 28    |
 | 15   | Orphan     | 26    |
@@ -106,7 +106,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 68    |
 | 🥈   | Drag             | 42    |
-| 🥉   | YURASUKA         | 41    |
+| 🥉   | YURASUKA         | 42    |
 | 4    | KH               | 40    |
 | 5    | YURI             | 39    |
 | 6    | -ZR-             | 36    |
