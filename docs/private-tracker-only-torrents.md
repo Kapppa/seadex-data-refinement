@@ -13,3 +13,4 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 6   | Noir                                                    | 2001 | 27 Aug 2025 | [SeaDex](https://releases.moe/272/), [AniList](https://anilist.co/anime/272)       |
 | 7   | MAKE A GIRL                                             | 2025 | 28 Aug 2025 | [SeaDex](https://releases.moe/154064/), [AniList](https://anilist.co/anime/154064) |
 | 8   | Anime De Training! EX                                   | 2015 | 31 Aug 2025 | [SeaDex](https://releases.moe/21320/), [AniList](https://anilist.co/anime/21320)   |
+| 9   | Mononoke The Movie: Chapter II - The Ashes of Rage      | 2025 | 16 Sep 2025 | [SeaDex](https://releases.moe/179852/), [AniList](https://anilist.co/anime/179852) |
