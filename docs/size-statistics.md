@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `112.2 TiB`
-- Best size: `83.6 TiB`
+- Total size: `112.5 TiB`
+- Best size: `83.9 TiB`
 - Alt size: `28.7 TiB`
-- Realistic size: `87.0 TiB`
+- Realistic size: `87.3 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.3 TiB   | 12.2 TiB (85.55%)   | 182 (~80.3 GiB each)  |
-| 2    | CRUCiBLE         | 9.4 TiB    | 9.4 TiB (100.00%)   | 125 (~76.6 GiB each)  |
+| 2    | CRUCiBLE         | 9.7 TiB    | 9.7 TiB (100.00%)   | 129 (~76.7 GiB each)  |
 | 3    | NAN0             | 6.1 TiB    | 6.0 TiB (98.75%)    | 82 (~75.7 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.5 TiB (92.09%)    | 130 (~29.6 GiB each)  |
 | 5    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |

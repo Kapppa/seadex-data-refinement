@@ -256,7 +256,7 @@
 | 253 | UN-GO MOVIE                                                                                           | 2011 | 21 Feb 2025 | [SeaDex](https://releases.moe/11531/), [AniList](https://anilist.co/anime/11531)   |
 | 254 | The Reflection                                                                                        | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461)   |
 | 255 | Kanokon Specials                                                                                      | 2008 | 16 Jul 2024 | [SeaDex](https://releases.moe/4760/), [AniList](https://anilist.co/anime/4760)     |
-| 256 | Actors: Songs Connection                                                                              | 2019 | 10 Jul 2025 | [SeaDex](https://releases.moe/105246/), [AniList](https://anilist.co/anime/105246) |
+| 256 | Actors: Songs Connection                                                                              | 2019 | 17 Sep 2025 | [SeaDex](https://releases.moe/105246/), [AniList](https://anilist.co/anime/105246) |
 | 257 | Mobile Suit Gundam SEED FREEDOM                                                                       | 2024 | 04 Aug 2025 | [SeaDex](https://releases.moe/134761/), [AniList](https://anilist.co/anime/134761) |
 | 258 | GARO: Divine Flame                                                                                    | 2016 | 15 Feb 2025 | [SeaDex](https://releases.moe/21426/), [AniList](https://anilist.co/anime/21426)   |
 | 259 | My Sister, My Writer (OVA)                                                                            | 2019 | 09 Apr 2025 | [SeaDex](https://releases.moe/108062/), [AniList](https://anilist.co/anime/108062) |
