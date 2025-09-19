@@ -77,8 +77,8 @@
 | 74  | Hensuki: Are you willing to fall in love with a pervert, as long as she’s a cutie?            | 2019 | 10 Aug 2025 | [SeaDex](https://releases.moe/107961/), [AniList](https://anilist.co/anime/107961) |
 | 75  | HELLO WORLD                                                                                   | 2019 | 27 Apr 2025 | [SeaDex](https://releases.moe/106240/), [AniList](https://anilist.co/anime/106240) |
 | 76  | Love Tyrant                                                                                   | 2017 | 19 May 2025 | [SeaDex](https://releases.moe/21517/), [AniList](https://anilist.co/anime/21517)   |
-| 77  | Rainbow                                                                                       | 2010 | 08 May 2024 | [SeaDex](https://releases.moe/6114/), [AniList](https://anilist.co/anime/6114)     |
-| 78  | Free! -Eternal Summer-                                                                        | 2014 | 11 Aug 2025 | [SeaDex](https://releases.moe/20614/), [AniList](https://anilist.co/anime/20614)   |
+| 77  | Free! -Eternal Summer-                                                                        | 2014 | 11 Aug 2025 | [SeaDex](https://releases.moe/20614/), [AniList](https://anilist.co/anime/20614)   |
+| 78  | Rainbow                                                                                       | 2010 | 08 May 2024 | [SeaDex](https://releases.moe/6114/), [AniList](https://anilist.co/anime/6114)     |
 | 79  | Waiting in the Summer                                                                         | 2012 | 07 Jul 2025 | [SeaDex](https://releases.moe/11433/), [AniList](https://anilist.co/anime/11433)   |
 | 80  | Chaika -The Coffin Princess-                                                                  | 2014 | 02 Jul 2024 | [SeaDex](https://releases.moe/20462/), [AniList](https://anilist.co/anime/20462)   |
 | 81  | Gintama Season 3                                                                              | 2012 | 30 Aug 2025 | [SeaDex](https://releases.moe/15417/), [AniList](https://anilist.co/anime/15417)   |
