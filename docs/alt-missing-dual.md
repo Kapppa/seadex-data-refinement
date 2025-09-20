@@ -65,8 +65,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 58  | Tokyo Ghoul: [JACK]                                                                         | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21132/), [AniList](https://anilist.co/anime/21132)   |
 | 59  | My Roommate is a Cat                                                                        | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
 | 60  | Infinite Dendrogram                                                                         | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
-| 61  | Japan Sinks: 2020                                                                           | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
-| 62  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                  | 2025 | 01 Aug 2025 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 61  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                  | 2025 | 01 Aug 2025 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 62  | Japan Sinks: 2020                                                                           | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
 | 63  | Children who Chase Lost Voices                                                              | 2011 | 08 Jun 2025 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
 | 64  | Tokyo Ghoul: [PINTO]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
 | 65  | Sarazanmai                                                                                  | 2019 | 15 Nov 2023 | [SeaDex](https://releases.moe/101261/), [AniList](https://anilist.co/anime/101261) |
