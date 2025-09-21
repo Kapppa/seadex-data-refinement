@@ -29,8 +29,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 22  | Akudama Drive                                                                               | 2020 | 21 Jul 2025 | [SeaDex](https://releases.moe/116566/), [AniList](https://anilist.co/anime/116566) |
 | 23  | Welcome to Demon School! Iruma-kun                                                          | 2019 | 28 Jun 2025 | [SeaDex](https://releases.moe/107693/), [AniList](https://anilist.co/anime/107693) |
 | 24  | ODDTAXI                                                                                     | 2021 | 30 Dec 2023 | [SeaDex](https://releases.moe/128547/), [AniList](https://anilist.co/anime/128547) |
-| 25  | Plunderer                                                                                   | 2020 | 03 Aug 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
-| 26  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                   | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
+| 25  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                   | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
+| 26  | Plunderer                                                                                   | 2020 | 03 Aug 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
 | 27  | Golden Kamuy                                                                                | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
 | 28  | Kemono Jihen                                                                                | 2021 | 16 May 2025 | [SeaDex](https://releases.moe/114085/), [AniList](https://anilist.co/anime/114085) |
 | 29  | Chihayafuru                                                                                 | 2011 | 02 Aug 2025 | [SeaDex](https://releases.moe/10800/), [AniList](https://anilist.co/anime/10800)   |
