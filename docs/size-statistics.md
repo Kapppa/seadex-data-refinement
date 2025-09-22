@@ -22,7 +22,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.3 TiB   | 12.2 TiB (85.55%)   | 182 (~80.3 GiB each)  |
 | 2    | CRUCiBLE         | 9.7 TiB    | 9.7 TiB (100.00%)   | 129 (~76.7 GiB each)  |
-| 3    | NAN0             | 6.0 TiB    | 5.9 TiB (98.74%)    | 82 (~74.7 GiB each)   |
+| 3    | NAN0             | 6.0 TiB    | 6.0 TiB (98.75%)    | 83 (~74.4 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.5 TiB (92.09%)    | 130 (~29.6 GiB each)  |
 | 5    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
 | 6    | TTGA             | 2.4 TiB    | 2.2 TiB (92.00%)    | 34 (~73.5 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 48   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 49   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 50   | Others           | 35.1 TiB   | 19.4 TiB (55.41%)   | 1670 (~21.5 GiB each) |
+| 50   | Others           | 35.1 TiB   | 19.4 TiB (55.39%)   | 1671 (~21.5 GiB each) |
