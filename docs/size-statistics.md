@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `112.5 TiB`
-- Best size: `83.8 TiB`
+- Total size: `112.6 TiB`
+- Best size: `83.9 TiB`
 - Alt size: `28.7 TiB`
-- Realistic size: `87.2 TiB`
+- Realistic size: `87.3 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -34,7 +34,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.72%)  | 81 (~17.3 GiB each)   |
 | 13   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.7 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
-| 15   | Headpatter       | 1.1 TiB    | 908.2 GiB (82.04%)  | 45 (~24.6 GiB each)   |
+| 15   | Headpatter       | 1.1 TiB    | 925.4 GiB (82.31%)  | 46 (~24.4 GiB each)   |
 | 16   | NOGRP            | 1021.8 GiB | 862.0 GiB (84.37%)  | 28 (~36.5 GiB each)   |
 | 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 18   | RUDY             | 991.9 GiB  | 973.3 GiB (98.13%)  | 12 (~82.7 GiB each)   |
@@ -62,8 +62,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 40   | SEV              | 613.8 GiB  | 0 B (0.00%)         | 13 (~47.2 GiB each)   |
 | 41   | D4C              | 583.2 GiB  | 583.2 GiB (100.00%) | 3 (~194.4 GiB each)   |
 | 42   | Flugel           | 559.0 GiB  | 559.0 GiB (100.00%) | 18 (~31.1 GiB each)   |
-| 43   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
-| 44   | YURASUKA         | 527.6 GiB  | 76.6 GiB (14.51%)   | 49 (~10.8 GiB each)   |
+| 43   | YURASUKA         | 543.4 GiB  | 92.3 GiB (16.99%)   | 50 (~10.9 GiB each)   |
+| 44   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
 | 45   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 46   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 47   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |

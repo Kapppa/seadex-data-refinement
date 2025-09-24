@@ -26,10 +26,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Drag             | 57    |
 | 11   | hchcsen          | 56    |
 | 12   | KH               | 53    |
-| 13   | YURASUKA         | 49    |
+| 13   | YURASUKA         | 50    |
 | 14   | LostYears        | 49    |
 | 15   | Arid             | 45    |
-| 16   | Headpatter       | 44    |
+| 16   | Headpatter       | 45    |
 | 17   | Bunny-Apocalypse | 38    |
 | 18   | LYS1TH3A         | 37    |
 | 19   | Okay-Subs        | 37    |
@@ -86,8 +86,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Okay-Subs  | 35    |
 | 11   | TTGA       | 32    |
 | 12   | PMR        | 31    |
-| 13   | hchcsen    | 29    |
-| 14   | Headpatter | 28    |
+| 13   | Headpatter | 29    |
+| 14   | hchcsen    | 29    |
 | 15   | Orphan     | 26    |
 | 16   | B00BA      | 25    |
 | 17   | Lulu       | 22    |
