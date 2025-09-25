@@ -228,8 +228,8 @@
 | 225 | Saint Seiya: The Lost Canvas                                                                  | 2009 | 20 Jul 2025 | [SeaDex](https://releases.moe/6171/), [AniList](https://anilist.co/anime/6171)     |
 | 226 | Lapis Re:LiGHTs                                                                               | 2020 | 15 Nov 2024 | [SeaDex](https://releases.moe/104937/), [AniList](https://anilist.co/anime/104937) |
 | 227 | Gatchaman Crowds insight                                                                      | 2015 | 02 Jul 2024 | [SeaDex](https://releases.moe/20487/), [AniList](https://anilist.co/anime/20487)   |
-| 228 | I don't like my big brother at all!!                                                          | 2011 | 11 Jan 2025 | [SeaDex](https://releases.moe/9587/), [AniList](https://anilist.co/anime/9587)     |
-| 229 | Bakuon!!                                                                                      | 2016 | 10 Nov 2024 | [SeaDex](https://releases.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
+| 228 | Bakuon!!                                                                                      | 2016 | 10 Nov 2024 | [SeaDex](https://releases.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
+| 229 | I don't like my big brother at all!!                                                          | 2011 | 11 Jan 2025 | [SeaDex](https://releases.moe/9587/), [AniList](https://anilist.co/anime/9587)     |
 | 230 | TOKYO MEW MEW NEW                                                                             | 2022 | 03 Aug 2025 | [SeaDex](https://releases.moe/117196/), [AniList](https://anilist.co/anime/117196) |
 | 231 | Bubblegum Crisis                                                                              | 1987 | 17 Jul 2025 | [SeaDex](https://releases.moe/1347/), [AniList](https://anilist.co/anime/1347)     |
 | 232 | The Princess and the Pilot                                                                    | 2011 | 10 Oct 2024 | [SeaDex](https://releases.moe/9000/), [AniList](https://anilist.co/anime/9000)     |

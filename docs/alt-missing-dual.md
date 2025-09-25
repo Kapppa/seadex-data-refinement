@@ -83,8 +83,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 76  | Mysteria Friends                                                                            | 2019 | 09 Sep 2025 | [SeaDex](https://releases.moe/21322/), [AniList](https://anilist.co/anime/21322)   |
 | 77  | Hi Score Girl II                                                                            | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/108581/), [AniList](https://anilist.co/anime/108581) |
 | 78  | NANBAKA - Part Two                                                                          | 2017 | 06 Jul 2025 | [SeaDex](https://releases.moe/97875/), [AniList](https://anilist.co/anime/97875)   |
-| 79  | Love Live! Nijigasaki High School Idol Club                                                 | 2020 | 17 Sep 2025 | [SeaDex](https://releases.moe/113970/), [AniList](https://anilist.co/anime/113970) |
-| 80  | From Bureaucrat to Villainess: Dad's Been Reincarnated!                                     | 2025 | 16 Jul 2025 | [SeaDex](https://releases.moe/172453/), [AniList](https://anilist.co/anime/172453) |
+| 79  | From Bureaucrat to Villainess: Dad's Been Reincarnated!                                     | 2025 | 16 Jul 2025 | [SeaDex](https://releases.moe/172453/), [AniList](https://anilist.co/anime/172453) |
+| 80  | Love Live! Nijigasaki High School Idol Club                                                 | 2020 | 17 Sep 2025 | [SeaDex](https://releases.moe/113970/), [AniList](https://anilist.co/anime/113970) |
 | 81  | Your lie in April: Moments                                                                  | 2015 | 13 Nov 2023 | [SeaDex](https://releases.moe/21039/), [AniList](https://anilist.co/anime/21039)   |
 | 82  | Photo Kano                                                                                  | 2013 | 04 Apr 2024 | [SeaDex](https://releases.moe/16397/), [AniList](https://anilist.co/anime/16397)   |
 | 83  | Blue Exorcist: Runaway Kuro                                                                 | 2011 | 22 Jun 2025 | [SeaDex](https://releases.moe/11266/), [AniList](https://anilist.co/anime/11266)   |
