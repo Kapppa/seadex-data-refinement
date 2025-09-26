@@ -270,8 +270,8 @@
 | 267 | DIVE!!                                                                                        | 2017 | 13 Nov 2024 | [SeaDex](https://releases.moe/97921/), [AniList](https://anilist.co/anime/97921)   |
 | 268 | Natsume's Book of Friends Season 5 Specials                                                   | 2017 | 23 Mar 2025 | [SeaDex](https://releases.moe/99363/), [AniList](https://anilist.co/anime/99363)   |
 | 269 | ARIA The AVVENIRE                                                                             | 2015 | 28 May 2025 | [SeaDex](https://releases.moe/21043/), [AniList](https://anilist.co/anime/21043)   |
-| 270 | Gargantia on the Verdurous Planet OVA                                                         | 2013 | 04 Jun 2025 | [SeaDex](https://releases.moe/19211/), [AniList](https://anilist.co/anime/19211)   |
-| 271 | Kingdom Season 5                                                                              | 2024 | 13 Jul 2025 | [SeaDex](https://releases.moe/155227/), [AniList](https://anilist.co/anime/155227) |
+| 270 | Kingdom Season 5                                                                              | 2024 | 13 Jul 2025 | [SeaDex](https://releases.moe/155227/), [AniList](https://anilist.co/anime/155227) |
+| 271 | Gargantia on the Verdurous Planet OVA                                                         | 2013 | 04 Jun 2025 | [SeaDex](https://releases.moe/19211/), [AniList](https://anilist.co/anime/19211)   |
 | 272 | Amanchu! ~Advance~                                                                            | 2018 | 01 Sep 2025 | [SeaDex](https://releases.moe/100532/), [AniList](https://anilist.co/anime/100532) |
 | 273 | Chaika -The Coffin Princess- OVA                                                              | 2015 | 02 Jul 2024 | [SeaDex](https://releases.moe/20724/), [AniList](https://anilist.co/anime/20724)   |
 | 274 | Cat Planet Cuties: Come Drop By                                                               | 2011 | 11 Nov 2024 | [SeaDex](https://releases.moe/9618/), [AniList](https://anilist.co/anime/9618)     |
@@ -287,8 +287,8 @@
 | 284 | Free! -Dive to the Future-: Build-Up of Early Spring!                                         | 2018 | 01 Jul 2024 | [SeaDex](https://releases.moe/103588/), [AniList](https://anilist.co/anime/103588) |
 | 285 | Mahou Shoujo Nante Mouiidesukara                                                              | 2016 | 21 Jul 2024 | [SeaDex](https://releases.moe/21422/), [AniList](https://anilist.co/anime/21422)   |
 | 286 | Rio: Rainbow Gate!                                                                            | 2011 | 16 Nov 2023 | [SeaDex](https://releases.moe/8241/), [AniList](https://anilist.co/anime/8241)     |
-| 287 | Kick-Heart                                                                                    | 2013 | 24 Jul 2024 | [SeaDex](https://releases.moe/16149/), [AniList](https://anilist.co/anime/16149)   |
-| 288 | given The Movie: To the Sea                                                                   | 2024 | 27 Jun 2025 | [SeaDex](https://releases.moe/175199/), [AniList](https://anilist.co/anime/175199) |
+| 287 | given The Movie: To the Sea                                                                   | 2024 | 27 Jun 2025 | [SeaDex](https://releases.moe/175199/), [AniList](https://anilist.co/anime/175199) |
+| 288 | Kick-Heart                                                                                    | 2013 | 24 Jul 2024 | [SeaDex](https://releases.moe/16149/), [AniList](https://anilist.co/anime/16149)   |
 | 289 | The Reflection                                                                                | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/21461/), [AniList](https://anilist.co/anime/21461)   |
 | 290 | AKB0048: next stage                                                                           | 2013 | 05 Jan 2025 | [SeaDex](https://releases.moe/14941/), [AniList](https://anilist.co/anime/14941)   |
 | 291 | Momo Kyun Sword                                                                               | 2014 | 24 Jul 2024 | [SeaDex](https://releases.moe/20610/), [AniList](https://anilist.co/anime/20610)   |
