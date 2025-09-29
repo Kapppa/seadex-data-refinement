@@ -125,8 +125,8 @@
 | 122 | Michiko & Hatchin                                                                             | 2008 | 22 Jul 2024 | [SeaDex](https://releases.moe/4087/), [AniList](https://anilist.co/anime/4087)     |
 | 123 | Link Click Season 2                                                                           | 2023 | 04 Sep 2025 | [SeaDex](https://releases.moe/136484/), [AniList](https://anilist.co/anime/136484) |
 | 124 | Riddle Story of Devil                                                                         | 2014 | 07 Apr 2025 | [SeaDex](https://releases.moe/19429/), [AniList](https://anilist.co/anime/19429)   |
-| 125 | MUSHI-SHI The Next Passage 2                                                                  | 2014 | 15 Jul 2025 | [SeaDex](https://releases.moe/20751/), [AniList](https://anilist.co/anime/20751)   |
-| 126 | The Boy and the Heron                                                                         | 2023 | 01 Aug 2025 | [SeaDex](https://releases.moe/109979/), [AniList](https://anilist.co/anime/109979) |
+| 125 | The Boy and the Heron                                                                         | 2023 | 01 Aug 2025 | [SeaDex](https://releases.moe/109979/), [AniList](https://anilist.co/anime/109979) |
+| 126 | MUSHI-SHI The Next Passage 2                                                                  | 2014 | 15 Jul 2025 | [SeaDex](https://releases.moe/20751/), [AniList](https://anilist.co/anime/20751)   |
 | 127 | Chihayafuru 2                                                                                 | 2013 | 21 Jun 2024 | [SeaDex](https://releases.moe/14397/), [AniList](https://anilist.co/anime/14397)   |
 | 128 | Free! -Dive to the Future-                                                                    | 2018 | 05 Jan 2025 | [SeaDex](https://releases.moe/101117/), [AniList](https://anilist.co/anime/101117) |
 | 129 | KOKKOKU                                                                                       | 2018 | 13 Jul 2025 | [SeaDex](https://releases.moe/100332/), [AniList](https://anilist.co/anime/100332) |
@@ -154,8 +154,8 @@
 | 151 | Chaika -The Coffin Princess- AVENGING BATTLE                                                  | 2014 | 02 Aug 2025 | [SeaDex](https://releases.moe/20719/), [AniList](https://anilist.co/anime/20719)   |
 | 152 | Terra Formars                                                                                 | 2014 | 23 Dec 2024 | [SeaDex](https://releases.moe/20629/), [AniList](https://anilist.co/anime/20629)   |
 | 153 | Ghost in the Shell: Stand Alone Complex 2nd GIG                                               | 2004 | 01 Aug 2025 | [SeaDex](https://releases.moe/801/), [AniList](https://anilist.co/anime/801)       |
-| 154 | The Perfect Insider                                                                           | 2015 | 27 Nov 2024 | [SeaDex](https://releases.moe/21190/), [AniList](https://anilist.co/anime/21190)   |
-| 155 | Back Street Girls -GOKUDOLS-                                                                  | 2018 | 13 Mar 2025 | [SeaDex](https://releases.moe/100665/), [AniList](https://anilist.co/anime/100665) |
+| 154 | Back Street Girls -GOKUDOLS-                                                                  | 2018 | 13 Mar 2025 | [SeaDex](https://releases.moe/100665/), [AniList](https://anilist.co/anime/100665) |
+| 155 | The Perfect Insider                                                                           | 2015 | 27 Nov 2024 | [SeaDex](https://releases.moe/21190/), [AniList](https://anilist.co/anime/21190)   |
 | 156 | Prison School: Mad Wax                                                                        | 2016 | 03 Sep 2025 | [SeaDex](https://releases.moe/21565/), [AniList](https://anilist.co/anime/21565)   |
 | 157 | Princess Lover!                                                                               | 2009 | 16 Mar 2025 | [SeaDex](https://releases.moe/6201/), [AniList](https://anilist.co/anime/6201)     |
 | 158 | Seraph of the End: Vampire Reign - Owaranai Seraph                                            | 2015 | 25 Oct 2024 | [SeaDex](https://releases.moe/21483/), [AniList](https://anilist.co/anime/21483)   |
@@ -166,8 +166,8 @@
 | 163 | Listen to Me, Girls. I Am Your Father!                                                        | 2012 | 30 Jul 2025 | [SeaDex](https://releases.moe/11179/), [AniList](https://anilist.co/anime/11179)   |
 | 164 | Tari Tari                                                                                     | 2012 | 27 Aug 2024 | [SeaDex](https://releases.moe/13333/), [AniList](https://anilist.co/anime/13333)   |
 | 165 | Gugure! Kokkuri-san                                                                           | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20656/), [AniList](https://anilist.co/anime/20656)   |
-| 166 | She Professed Herself Pupil of the Wise Man                                                   | 2022 | 01 Jun 2025 | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
-| 167 | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!                   | 2025 | 20 Jul 2025 | [SeaDex](https://releases.moe/180812/), [AniList](https://anilist.co/anime/180812) |
+| 166 | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!                   | 2025 | 20 Jul 2025 | [SeaDex](https://releases.moe/180812/), [AniList](https://anilist.co/anime/180812) |
+| 167 | She Professed Herself Pupil of the Wise Man                                                   | 2022 | 01 Jun 2025 | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
 | 168 | Clockwork Planet                                                                              | 2017 | 13 Apr 2025 | [SeaDex](https://releases.moe/21563/), [AniList](https://anilist.co/anime/21563)   |
 | 169 | Natsume's Book of Friends Season 5                                                            | 2016 | 23 Mar 2025 | [SeaDex](https://releases.moe/21710/), [AniList](https://anilist.co/anime/21710)   |
 | 170 | Ace Attorney                                                                                  | 2016 | 03 Aug 2025 | [SeaDex](https://releases.moe/21360/), [AniList](https://anilist.co/anime/21360)   |
@@ -177,8 +177,8 @@
 | 174 | My Wife is the Student Council President+!                                                    | 2016 | 24 Jul 2025 | [SeaDex](https://releases.moe/21610/), [AniList](https://anilist.co/anime/21610)   |
 | 175 | Angels of Death (ONA)                                                                         | 2018 | 29 Aug 2025 | [SeaDex](https://releases.moe/104243/), [AniList](https://anilist.co/anime/104243) |
 | 176 | The Great Passage                                                                             | 2016 | 01 Aug 2025 | [SeaDex](https://releases.moe/21703/), [AniList](https://anilist.co/anime/21703)   |
-| 177 | Forest of Piano                                                                               | 2018 | 30 Jun 2024 | [SeaDex](https://releases.moe/100401/), [AniList](https://anilist.co/anime/100401) |
-| 178 | UzaMaid!                                                                                      | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/101506/), [AniList](https://anilist.co/anime/101506) |
+| 177 | UzaMaid!                                                                                      | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/101506/), [AniList](https://anilist.co/anime/101506) |
+| 178 | Forest of Piano                                                                               | 2018 | 30 Jun 2024 | [SeaDex](https://releases.moe/100401/), [AniList](https://anilist.co/anime/100401) |
 | 179 | Divine Gate                                                                                   | 2016 | 10 Apr 2025 | [SeaDex](https://releases.moe/21380/), [AniList](https://anilist.co/anime/21380)   |
 | 180 | The Honor at Magic High School                                                                | 2021 | 17 Jul 2025 | [SeaDex](https://releases.moe/127688/), [AniList](https://anilist.co/anime/127688) |
 | 181 | Yashahime: Princess Half-Demon                                                                | 2020 | 14 Nov 2024 | [SeaDex](https://releases.moe/118399/), [AniList](https://anilist.co/anime/118399) |
@@ -230,8 +230,8 @@
 | 227 | Gatchaman Crowds insight                                                                      | 2015 | 02 Jul 2024 | [SeaDex](https://releases.moe/20487/), [AniList](https://anilist.co/anime/20487)   |
 | 228 | Bakuon!!                                                                                      | 2016 | 10 Nov 2024 | [SeaDex](https://releases.moe/21197/), [AniList](https://anilist.co/anime/21197)   |
 | 229 | I don't like my big brother at all!!                                                          | 2011 | 11 Jan 2025 | [SeaDex](https://releases.moe/9587/), [AniList](https://anilist.co/anime/9587)     |
-| 230 | TOKYO MEW MEW NEW                                                                             | 2022 | 03 Aug 2025 | [SeaDex](https://releases.moe/117196/), [AniList](https://anilist.co/anime/117196) |
-| 231 | Bubblegum Crisis                                                                              | 1987 | 17 Jul 2025 | [SeaDex](https://releases.moe/1347/), [AniList](https://anilist.co/anime/1347)     |
+| 230 | Bubblegum Crisis                                                                              | 1987 | 17 Jul 2025 | [SeaDex](https://releases.moe/1347/), [AniList](https://anilist.co/anime/1347)     |
+| 231 | TOKYO MEW MEW NEW                                                                             | 2022 | 03 Aug 2025 | [SeaDex](https://releases.moe/117196/), [AniList](https://anilist.co/anime/117196) |
 | 232 | The Princess and the Pilot                                                                    | 2011 | 10 Oct 2024 | [SeaDex](https://releases.moe/9000/), [AniList](https://anilist.co/anime/9000)     |
 | 233 | Seraph of the End: Battle in Nagoya - Owaranai Seraph Battle in Nagoya                        | 2015 | 25 Oct 2024 | [SeaDex](https://releases.moe/21765/), [AniList](https://anilist.co/anime/21765)   |
 | 234 | Tsurune - The Linking Shot -                                                                  | 2023 | 04 Feb 2025 | [SeaDex](https://releases.moe/153841/), [AniList](https://anilist.co/anime/153841) |
