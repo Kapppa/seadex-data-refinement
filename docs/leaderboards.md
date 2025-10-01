@@ -15,7 +15,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
-| 🥈   | CRUCiBLE         | 130   |
+| 🥈   | CRUCiBLE         | 131   |
 | 🥉   | sam              | 130   |
 | 4    | MTBB             | 94    |
 | 5    | NAN0             | 83    |
@@ -45,7 +45,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 110   |
-| 🥈   | CRUCiBLE   | 103   |
+| 🥈   | CRUCiBLE   | 104   |
 | 🥉   | sam        | 89    |
 | 4    | NAN0       | 67    |
 | 5    | LYS1TH3A   | 34    |
@@ -75,7 +75,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
-| 🥈   | CRUCiBLE   | 130   |
+| 🥈   | CRUCiBLE   | 131   |
 | 🥉   | sam        | 120   |
 | 4    | NAN0       | 82    |
 | 5    | MTBB       | 64    |
