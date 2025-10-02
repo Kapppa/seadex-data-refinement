@@ -87,8 +87,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 80  | Love Live! Nijigasaki High School Idol Club                                                 | 2020 | 17 Sep 2025 | [SeaDex](https://releases.moe/113970/), [AniList](https://anilist.co/anime/113970) |
 | 81  | Your lie in April: Moments                                                                  | 2015 | 13 Nov 2023 | [SeaDex](https://releases.moe/21039/), [AniList](https://anilist.co/anime/21039)   |
 | 82  | Photo Kano                                                                                  | 2013 | 04 Apr 2024 | [SeaDex](https://releases.moe/16397/), [AniList](https://anilist.co/anime/16397)   |
-| 83  | Blue Exorcist: Runaway Kuro                                                                 | 2011 | 22 Jun 2025 | [SeaDex](https://releases.moe/11266/), [AniList](https://anilist.co/anime/11266)   |
-| 84  | Wave, Listen to Me!                                                                         | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/112353/), [AniList](https://anilist.co/anime/112353) |
+| 83  | Wave, Listen to Me!                                                                         | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/112353/), [AniList](https://anilist.co/anime/112353) |
+| 84  | Blue Exorcist: Runaway Kuro                                                                 | 2011 | 22 Jun 2025 | [SeaDex](https://releases.moe/11266/), [AniList](https://anilist.co/anime/11266)   |
 | 85  | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!                               | 2024 | 13 Aug 2025 | [SeaDex](https://releases.moe/176158/), [AniList](https://anilist.co/anime/176158) |
 | 86  | Diary of Our Days at the Breakwater                                                         | 2020 | 13 Nov 2024 | [SeaDex](https://releases.moe/109019/), [AniList](https://anilist.co/anime/109019) |
 | 87  | Bye Bye, Earth                                                                              | 2024 | 10 Aug 2025 | [SeaDex](https://releases.moe/157371/), [AniList](https://anilist.co/anime/157371) |
@@ -100,8 +100,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 93  | FrFr! ~Free! short movie~                                                                   | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/19671/), [AniList](https://anilist.co/anime/19671)   |
 | 94  | 18if                                                                                        | 2017 | 25 Jun 2025 | [SeaDex](https://releases.moe/98512/), [AniList](https://anilist.co/anime/98512)   |
 | 95  | I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity  | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/151126/), [AniList](https://anilist.co/anime/151126) |
-| 96  | Future Boy Conan                                                                            | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
-| 97  | Wanna be the Strongest in the World!                                                        | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
+| 96  | Wanna be the Strongest in the World!                                                        | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
+| 97  | Future Boy Conan                                                                            | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
 | 98  | Nobunagun                                                                                   | 2014 | 07 Jun 2025 | [SeaDex](https://releases.moe/19855/), [AniList](https://anilist.co/anime/19855)   |
 | 99  | Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-                 | 2021 | 12 Aug 2025 | [SeaDex](https://releases.moe/136344/), [AniList](https://anilist.co/anime/136344) |
 | 100 | URAHARA                                                                                     | 2017 | 02 Aug 2025 | [SeaDex](https://releases.moe/98513/), [AniList](https://anilist.co/anime/98513)   |
