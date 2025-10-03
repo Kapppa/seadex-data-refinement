@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `113.1 TiB`
-- Best size: `84.4 TiB`
-- Alt size: `28.7 TiB`
-- Realistic size: `87.8 TiB`
+- Total size: `113.4 TiB`
+- Best size: `84.6 TiB`
+- Alt size: `28.8 TiB`
+- Realistic size: `88.0 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -25,16 +25,16 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 3    | NAN0             | 6.1 TiB    | 6.0 TiB (98.76%)    | 84 (~74.5 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.5 TiB (92.09%)    | 130 (~29.6 GiB each)  |
 | 5    | TTGA             | 2.5 TiB    | 2.3 TiB (92.25%)    | 35 (~73.7 GiB each)   |
-| 6    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
-| 7    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.49%)    | 61 (~40.2 GiB each)   |
-| 8    | PMR              | 2.4 TiB    | 2.4 TiB (100.00%)   | 31 (~78.9 GiB each)   |
+| 6    | PMR              | 2.5 TiB    | 2.5 TiB (100.00%)   | 32 (~78.8 GiB each)   |
+| 7    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
+| 8    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.49%)    | 61 (~40.2 GiB each)   |
 | 9    | B00BA            | 2.2 TiB    | 2.2 TiB (100.00%)   | 25 (~91.5 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 11   | MTBB             | 1.5 TiB    | 1.2 TiB (83.20%)    | 94 (~15.8 GiB each)   |
 | 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.55%)  | 82 (~17.3 GiB each)   |
 | 13   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.7 GiB each)   |
 | 14   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
-| 15   | Headpatter       | 1.1 TiB    | 925.4 GiB (82.31%)  | 46 (~24.4 GiB each)   |
+| 15   | Headpatter       | 1.2 TiB    | 1.0 TiB (83.99%)    | 51 (~24.4 GiB each)   |
 | 16   | NOGRP            | 1021.8 GiB | 862.0 GiB (84.37%)  | 28 (~36.5 GiB each)   |
 | 17   | smol             | 1010.8 GiB | 961.3 GiB (95.11%)  | 58 (~17.4 GiB each)   |
 | 18   | RUDY             | 991.9 GiB  | 973.3 GiB (98.13%)  | 12 (~82.7 GiB each)   |
@@ -48,11 +48,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 26   | Holomux          | 804.4 GiB  | 163.2 GiB (20.29%)  | 29 (~27.7 GiB each)   |
 | 27   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
 | 28   | WAP              | 776.1 GiB  | 776.1 GiB (100.00%) | 8 (~97.0 GiB each)    |
-| 29   | Okay-Subs        | 752.8 GiB  | 735.7 GiB (97.73%)  | 37 (~20.3 GiB each)   |
-| 30   | FraMeSToR        | 745.7 GiB  | 745.7 GiB (100.00%) | 11 (~67.8 GiB each)   |
-| 31   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
-| 32   | ZeroBuild        | 726.3 GiB  | 646.3 GiB (89.00%)  | 15 (~48.4 GiB each)   |
-| 33   | Reza             | 723.4 GiB  | 377.0 GiB (52.12%)  | 28 (~25.8 GiB each)   |
+| 29   | Reza             | 757.3 GiB  | 377.0 GiB (49.78%)  | 29 (~26.1 GiB each)   |
+| 30   | Okay-Subs        | 752.8 GiB  | 735.7 GiB (97.73%)  | 37 (~20.3 GiB each)   |
+| 31   | FraMeSToR        | 745.7 GiB  | 745.7 GiB (100.00%) | 11 (~67.8 GiB each)   |
+| 32   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
+| 33   | ZeroBuild        | 726.3 GiB  | 646.3 GiB (89.00%)  | 15 (~48.4 GiB each)   |
 | 34   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
 | 35   | FLE              | 672.5 GiB  | 634.4 GiB (94.33%)  | 18 (~37.4 GiB each)   |
 | 36   | Arid             | 642.0 GiB  | 211.8 GiB (32.99%)  | 45 (~14.3 GiB each)   |
@@ -65,8 +65,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 43   | YURASUKA         | 557.2 GiB  | 92.3 GiB (16.57%)   | 51 (~10.9 GiB each)   |
 | 44   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
 | 45   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 46   | LaCroiX          | 515.6 GiB  | 515.6 GiB (100.00%) | 7 (~73.7 GiB each)    |
-| 47   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
-| 48   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
-| 49   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 35.2 TiB   | 19.6 TiB (55.54%)   | 1673 (~21.6 GiB each) |
+| 46   | Almighty         | 516.0 GiB  | 0 B (0.00%)         | 3 (~172.0 GiB each)   |
+| 47   | LaCroiX          | 515.6 GiB  | 515.6 GiB (100.00%) | 7 (~73.7 GiB each)    |
+| 48   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
+| 49   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
+| 50   | Others           | 35.4 TiB   | 19.8 TiB (55.91%)   | 1701 (~21.3 GiB each) |

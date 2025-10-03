@@ -27,8 +27,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | hchcsen          | 56    |
 | 12   | KH               | 53    |
 | 13   | YURASUKA         | 51    |
-| 14   | LostYears        | 49    |
-| 15   | Headpatter       | 45    |
+| 14   | Headpatter       | 50    |
+| 15   | LostYears        | 49    |
 | 16   | Arid             | 44    |
 | 17   | Bunny-Apocalypse | 38    |
 | 18   | LYS1TH3A         | 37    |
@@ -36,8 +36,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | TTGA             | 35    |
 | 21   | Lulu             | 34    |
 | 22   | Commie           | 33    |
-| 23   | Pog42            | 31    |
-| 24   | PMR              | 31    |
+| 23   | PMR              | 32    |
+| 24   | Pog42            | 31    |
 | 25   | Kametsu          | 30    |
 
 ## Top 25 - Best dual audio entries
@@ -60,10 +60,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | LostYears  | 15    |
 | 15   | koala      | 14    |
 | 16   | FLE        | 14    |
-| 17   | Arid       | 13    |
-| 18   | KH         | 12    |
-| 19   | Vodes      | 12    |
-| 20   | Headpatter | 12    |
+| 17   | Headpatter | 14    |
+| 18   | Arid       | 13    |
+| 19   | KH         | 12    |
+| 20   | Vodes      | 12    |
 | 21   | ZeroBuild  | 12    |
 | 22   | PMR        | 12    |
 | 23   | FraMeSToR  | 11    |
@@ -84,9 +84,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | LYS1TH3A   | 35    |
 | 9    | YURI       | 35    |
 | 10   | Okay-Subs  | 35    |
-| 11   | TTGA       | 33    |
-| 12   | PMR        | 31    |
-| 13   | Headpatter | 29    |
+| 11   | Headpatter | 34    |
+| 12   | TTGA       | 33    |
+| 13   | PMR        | 32    |
 | 14   | hchcsen    | 29    |
 | 15   | Orphan     | 26    |
 | 16   | B00BA      | 25    |
@@ -126,6 +126,6 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | Pog42            | 17    |
 | 21   | Headpatter       | 17    |
 | 22   | NOGRP            | 17    |
-| 23   | HorribleSubs     | 16    |
-| 24   | Reza             | 15    |
+| 23   | Reza             | 16    |
+| 24   | HorribleSubs     | 16    |
 | 25   | UDF              | 14    |
