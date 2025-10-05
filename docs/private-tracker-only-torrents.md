@@ -7,7 +7,7 @@ This list excludes groups that do not want their releases mirrored to public tra
 | :---| :-------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
 | 1   | Angels of Death                                         | 2018 | 02 Oct 2025 | [SeaDex](https://releases.moe/99629/), [AniList](https://anilist.co/anime/99629)   |
 | 2   | Mushoku Tensei: Jobless Reincarnation Season 2 Part 2   | 2024 | 02 Sep 2025 | [SeaDex](https://releases.moe/166873/), [AniList](https://anilist.co/anime/166873) |
-| 3   | kiss×sis (TV)                                           | 2010 | 02 Oct 2025 | [SeaDex](https://releases.moe/7593/), [AniList](https://anilist.co/anime/7593)     |
+| 3   | One Week Friends                                        | 2014 | 03 Oct 2025 | [SeaDex](https://releases.moe/20527/), [AniList](https://anilist.co/anime/20527)   |
 | 4   | Saekano the Movie: Finale                               | 2019 | 11 Sep 2025 | [SeaDex](https://releases.moe/100675/), [AniList](https://anilist.co/anime/100675) |
 | 5   | I Can't Understand What My Husband is Saying 2nd Thread | 2015 | 25 Aug 2025 | [SeaDex](https://releases.moe/21000/), [AniList](https://anilist.co/anime/21000)   |
 | 6   | Granblue Fantasy: The Animation                         | 2017 | 27 Aug 2025 | [SeaDex](https://releases.moe/21361/), [AniList](https://anilist.co/anime/21361)   |
