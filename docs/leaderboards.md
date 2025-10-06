@@ -15,12 +15,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 173   |
-| 🥈   | CRUCiBLE         | 132   |
-| 🥉   | sam              | 130   |
+| 🥈   | CRUCiBLE         | 134   |
+| 🥉   | sam              | 131   |
 | 4    | MTBB             | 94    |
 | 5    | NAN0             | 84    |
-| 6    | SubsPlease       | 82    |
-| 7    | YURI             | 73    |
+| 6    | SubsPlease       | 83    |
+| 7    | YURI             | 72    |
 | 8    | Moxie            | 61    |
 | 9    | smol             | 58    |
 | 10   | Drag             | 57    |
@@ -45,8 +45,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 110   |
-| 🥈   | CRUCiBLE   | 105   |
-| 🥉   | sam        | 89    |
+| 🥈   | CRUCiBLE   | 106   |
+| 🥉   | sam        | 90    |
 | 4    | NAN0       | 67    |
 | 5    | LYS1TH3A   | 34    |
 | 6    | hchcsen    | 28    |
@@ -75,8 +75,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 148   |
-| 🥈   | CRUCiBLE   | 132   |
-| 🥉   | sam        | 120   |
+| 🥈   | CRUCiBLE   | 134   |
+| 🥉   | sam        | 121   |
 | 4    | NAN0       | 83    |
 | 5    | MTBB       | 64    |
 | 6    | Moxie      | 61    |
@@ -104,11 +104,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 69    |
+| 🥇   | SubsPlease       | 70    |
 | 🥈   | YURASUKA         | 43    |
 | 🥉   | Drag             | 42    |
 | 4    | KH               | 41    |
-| 5    | YURI             | 38    |
+| 5    | YURI             | 37    |
 | 6    | -ZR-             | 36    |
 | 7    | LostYears        | 34    |
 | 8    | Commie           | 33    |
@@ -121,8 +121,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | VARYG            | 21    |
 | 16   | Holomux          | 20    |
 | 17   | CTR              | 20    |
-| 18   | Chihiro          | 18    |
-| 19   | Headpatter       | 18    |
+| 18   | Headpatter       | 18    |
+| 19   | Chihiro          | 18    |
 | 20   | SCY              | 17    |
 | 21   | Pog42            | 17    |
 | 22   | NOGRP            | 17    |
