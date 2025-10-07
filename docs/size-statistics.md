@@ -8,9 +8,9 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `114.1 TiB`
+- Total size: `114.0 TiB`
 - Best size: `85.2 TiB`
-- Alt size: `28.9 TiB`
+- Alt size: `28.8 TiB`
 - Realistic size: `88.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -31,7 +31,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 9    | B00BA            | 2.2 TiB    | 2.2 TiB (100.00%)   | 25 (~91.5 GiB each)   |
 | 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 11   | MTBB             | 1.5 TiB    | 1.2 TiB (83.20%)    | 94 (~15.8 GiB each)   |
-| 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.38%)  | 83 (~17.3 GiB each)   |
+| 12   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.70%)  | 82 (~17.1 GiB each)   |
 | 13   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.7 GiB each)   |
 | 14   | Headpatter       | 1.3 TiB    | 1.1 TiB (84.43%)    | 53 (~25.1 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 48   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 49   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
-| 50   | Others           | 35.4 TiB   | 19.8 TiB (55.90%)   | 1702 (~21.3 GiB each) |
+| 50   | Others           | 35.4 TiB   | 19.8 TiB (55.91%)   | 1702 (~21.3 GiB each) |

@@ -19,7 +19,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam              | 131   |
 | 4    | MTBB             | 94    |
 | 5    | NAN0             | 84    |
-| 6    | SubsPlease       | 83    |
+| 6    | SubsPlease       | 82    |
 | 7    | YURI             | 72    |
 | 8    | Moxie            | 61    |
 | 9    | smol             | 58    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 70    |
+| 🥇   | SubsPlease       | 69    |
 | 🥈   | YURASUKA         | 43    |
 | 🥉   | Drag             | 42    |
 | 4    | KH               | 41    |
@@ -118,9 +118,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Arid             | 23    |
 | 13   | Kametsu          | 22    |
 | 14   | Erai-raws        | 22    |
-| 15   | VARYG            | 21    |
-| 16   | Holomux          | 20    |
-| 17   | CTR              | 20    |
+| 15   | Holomux          | 20    |
+| 16   | CTR              | 20    |
+| 17   | VARYG            | 20    |
 | 18   | Headpatter       | 18    |
 | 19   | Chihiro          | 18    |
 | 20   | SCY              | 17    |
