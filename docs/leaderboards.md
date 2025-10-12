@@ -15,7 +15,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
-| 🥈   | CRUCiBLE         | 136   |
+| 🥈   | CRUCiBLE         | 135   |
 | 🥉   | sam              | 131   |
 | 4    | MTBB             | 94    |
 | 5    | NAN0             | 84    |
@@ -25,8 +25,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | smol             | 58    |
 | 10   | Drag             | 57    |
 | 11   | hchcsen          | 56    |
-| 12   | KH               | 53    |
-| 13   | YURASUKA         | 51    |
+| 12   | KH               | 54    |
+| 13   | YURASUKA         | 52    |
 | 14   | Headpatter       | 51    |
 | 15   | LostYears        | 49    |
 | 16   | Arid             | 44    |
@@ -45,7 +45,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 109   |
-| 🥈   | CRUCiBLE   | 108   |
+| 🥈   | CRUCiBLE   | 107   |
 | 🥉   | sam        | 90    |
 | 4    | NAN0       | 67    |
 | 5    | LYS1TH3A   | 33    |
@@ -64,9 +64,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | Arid       | 13    |
 | 19   | KH         | 12    |
 | 20   | Vodes      | 12    |
-| 21   | ZeroBuild  | 12    |
-| 22   | PMR        | 12    |
-| 23   | FraMeSToR  | 11    |
+| 21   | FraMeSToR  | 12    |
+| 22   | ZeroBuild  | 12    |
+| 23   | PMR        | 12    |
 | 24   | SCY        | 11    |
 | 25   | hydes      | 10    |
 
@@ -75,7 +75,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
-| 🥈   | CRUCiBLE   | 136   |
+| 🥈   | CRUCiBLE   | 135   |
 | 🥉   | sam        | 121   |
 | 4    | NAN0       | 83    |
 | 5    | MTBB       | 64    |
@@ -107,7 +107,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | SubsPlease       | 68    |
 | 🥈   | YURASUKA         | 43    |
 | 🥉   | Drag             | 42    |
-| 4    | KH               | 41    |
+| 4    | KH               | 42    |
 | 5    | YURI             | 36    |
 | 6    | -ZR-             | 36    |
 | 7    | LostYears        | 34    |
@@ -120,9 +120,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | Kametsu          | 22    |
 | 15   | Holomux          | 20    |
 | 16   | CTR              | 20    |
-| 17   | VARYG            | 20    |
-| 18   | Headpatter       | 18    |
-| 19   | Chihiro          | 18    |
+| 17   | VARYG            | 19    |
+| 18   | Chihiro          | 18    |
+| 19   | Headpatter       | 18    |
 | 20   | SCY              | 17    |
 | 21   | Pog42            | 17    |
 | 22   | NOGRP            | 17    |

@@ -15,7 +15,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 8   | That Time I Got Reincarnated as a Slime Season 2 Part 2                                     | 2021 | 02 Aug 2025 | [SeaDex](https://releases.moe/116742/), [AniList](https://anilist.co/anime/116742) |
 | 9   | Overlord III                                                                                | 2018 | 31 Jul 2025 | [SeaDex](https://releases.moe/101474/), [AniList](https://anilist.co/anime/101474) |
 | 10  | SK8 the Infinity                                                                            | 2021 | 02 Aug 2025 | [SeaDex](https://releases.moe/124153/), [AniList](https://anilist.co/anime/124153) |
-| 11  | Angels of Death                                                                             | 2018 | 10 Oct 2025 | [SeaDex](https://releases.moe/99629/), [AniList](https://anilist.co/anime/99629)   |
+| 11  | Angels of Death                                                                             | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/99629/), [AniList](https://anilist.co/anime/99629)   |
 | 12  | Sword Art Online: Alicization - War of Underworld                                           | 2019 | 13 Nov 2023 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
 | 13  | SPY x FAMILY Season 2                                                                       | 2023 | 19 Aug 2025 | [SeaDex](https://releases.moe/158927/), [AniList](https://anilist.co/anime/158927) |
 | 14  | Summer Time Rendering                                                                       | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/129201/), [AniList](https://anilist.co/anime/129201) |
@@ -82,7 +82,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 75  | Spice and Wolf II: Wolf and the Amber Melancholy                                            | 2009 | 19 Jun 2025 | [SeaDex](https://releases.moe/6007/), [AniList](https://anilist.co/anime/6007)     |
 | 76  | Helck                                                                                       | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/145140/), [AniList](https://anilist.co/anime/145140) |
 | 77  | Tenchi Muyo! War on Geminar                                                                 | 2009 | 12 Nov 2023 | [SeaDex](https://releases.moe/5781/), [AniList](https://anilist.co/anime/5781)     |
-| 78  | Angels of Death (ONA)                                                                       | 2018 | 10 Oct 2025 | [SeaDex](https://releases.moe/104243/), [AniList](https://anilist.co/anime/104243) |
+| 78  | Angels of Death (ONA)                                                                       | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/104243/), [AniList](https://anilist.co/anime/104243) |
 | 79  | Mysteria Friends                                                                            | 2019 | 09 Sep 2025 | [SeaDex](https://releases.moe/21322/), [AniList](https://anilist.co/anime/21322)   |
 | 80  | Hi Score Girl II                                                                            | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/108581/), [AniList](https://anilist.co/anime/108581) |
 | 81  | NANBAKA - Part Two                                                                          | 2017 | 06 Jul 2025 | [SeaDex](https://releases.moe/97875/), [AniList](https://anilist.co/anime/97875)   |
@@ -104,8 +104,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 97  | FrFr! ~Free! short movie~                                                                   | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/19671/), [AniList](https://anilist.co/anime/19671)   |
 | 98  | 18if                                                                                        | 2017 | 25 Jun 2025 | [SeaDex](https://releases.moe/98512/), [AniList](https://anilist.co/anime/98512)   |
 | 99  | I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity  | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/151126/), [AniList](https://anilist.co/anime/151126) |
-| 100 | Wanna be the Strongest in the World!                                                        | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
-| 101 | Future Boy Conan                                                                            | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
+| 100 | Future Boy Conan                                                                            | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
+| 101 | Wanna be the Strongest in the World!                                                        | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
 | 102 | Nobunagun                                                                                   | 2014 | 07 Jun 2025 | [SeaDex](https://releases.moe/19855/), [AniList](https://anilist.co/anime/19855)   |
 | 103 | Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-                 | 2021 | 12 Aug 2025 | [SeaDex](https://releases.moe/136344/), [AniList](https://anilist.co/anime/136344) |
 | 104 | URAHARA                                                                                     | 2017 | 02 Aug 2025 | [SeaDex](https://releases.moe/98513/), [AniList](https://anilist.co/anime/98513)   |
