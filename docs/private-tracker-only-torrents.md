@@ -3,6 +3,5 @@
 This list excludes groups that do not want their releases mirrored to public trackers.
 
 
-| Idx | Title | Year | Updated At  | Links                                                                        |
-| :---| :-----| :----| :-----------| :----------------------------------------------------------------------------|
-| 1   | Noir  | 2001 | 27 Aug 2025 | [SeaDex](https://releases.moe/272/), [AniList](https://anilist.co/anime/272) |
+| Idx | Title | Year | Updated At | Links |
+| :---| :-----| :----| :----------| :-----|
