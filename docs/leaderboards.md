@@ -38,7 +38,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | Commie           | 33    |
 | 23   | PMR              | 32    |
 | 24   | Pog42            | 31    |
-| 25   | Kametsu          | 30    |
+| 25   | NOGRP            | 30    |
 
 ## Top 25 - Best dual audio entries
 
@@ -61,10 +61,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | Headpatter | 15    |
 | 16   | koala      | 14    |
 | 17   | FLE        | 14    |
-| 18   | Arid       | 13    |
-| 19   | KH         | 12    |
-| 20   | Vodes      | 12    |
-| 21   | FraMeSToR  | 12    |
+| 18   | FraMeSToR  | 13    |
+| 19   | Arid       | 13    |
+| 20   | KH         | 12    |
+| 21   | Vodes      | 12    |
 | 22   | ZeroBuild  | 12    |
 | 23   | PMR        | 12    |
 | 24   | SCY        | 11    |
@@ -120,10 +120,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | Kametsu          | 22    |
 | 15   | Holomux          | 20    |
 | 16   | CTR              | 20    |
-| 17   | VARYG            | 19    |
-| 18   | Chihiro          | 18    |
+| 17   | VARYG            | 20    |
+| 18   | NOGRP            | 19    |
 | 19   | Headpatter       | 18    |
-| 20   | NOGRP            | 18    |
+| 20   | Chihiro          | 18    |
 | 21   | SCY              | 17    |
 | 22   | Pog42            | 17    |
 | 23   | HorribleSubs     | 16    |
