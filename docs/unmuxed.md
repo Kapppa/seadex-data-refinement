@@ -43,8 +43,8 @@
 | 40  | Castle in the Sky                                                                             | 1986 | 06 Jul 2025 | [SeaDex](https://releases.moe/513/), [AniList](https://anilist.co/anime/513)       |
 | 41  | We Never Learn: BOKUBEN                                                                       | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/103900/), [AniList](https://anilist.co/anime/103900) |
 | 42  | Platinum End                                                                                  | 2021 | 04 Aug 2025 | [SeaDex](https://releases.moe/127401/), [AniList](https://anilist.co/anime/127401) |
-| 43  | Strike the Blood                                                                              | 2013 | 24 Nov 2024 | [SeaDex](https://releases.moe/18277/), [AniList](https://anilist.co/anime/18277)   |
-| 44  | Sankarea: Undying Love                                                                        | 2012 | 29 Dec 2024 | [SeaDex](https://releases.moe/11499/), [AniList](https://anilist.co/anime/11499)   |
+| 43  | Sankarea: Undying Love                                                                        | 2012 | 29 Dec 2024 | [SeaDex](https://releases.moe/11499/), [AniList](https://anilist.co/anime/11499)   |
+| 44  | Strike the Blood                                                                              | 2013 | 24 Nov 2024 | [SeaDex](https://releases.moe/18277/), [AniList](https://anilist.co/anime/18277)   |
 | 45  | Shiki                                                                                         | 2010 | 15 Nov 2023 | [SeaDex](https://releases.moe/7724/), [AniList](https://anilist.co/anime/7724)     |
 | 46  | Seirei Gensouki: Spirit Chronicles                                                            | 2021 | 29 Jun 2025 | [SeaDex](https://releases.moe/126546/), [AniList](https://anilist.co/anime/126546) |
 | 47  | How a Realist Hero Rebuilt the Kingdom                                                        | 2021 | 06 Aug 2025 | [SeaDex](https://releases.moe/117612/), [AniList](https://anilist.co/anime/117612) |
@@ -151,8 +151,8 @@
 | 148 | Ladies Versus Butlers                                                                         | 2010 | 09 Jun 2025 | [SeaDex](https://releases.moe/7148/), [AniList](https://anilist.co/anime/7148)     |
 | 149 | Chaika -The Coffin Princess- AVENGING BATTLE                                                  | 2014 | 02 Aug 2025 | [SeaDex](https://releases.moe/20719/), [AniList](https://anilist.co/anime/20719)   |
 | 150 | Terra Formars                                                                                 | 2014 | 23 Dec 2024 | [SeaDex](https://releases.moe/20629/), [AniList](https://anilist.co/anime/20629)   |
-| 151 | Ghost in the Shell: Stand Alone Complex 2nd GIG                                               | 2004 | 01 Aug 2025 | [SeaDex](https://releases.moe/801/), [AniList](https://anilist.co/anime/801)       |
-| 152 | Back Street Girls -GOKUDOLS-                                                                  | 2018 | 13 Mar 2025 | [SeaDex](https://releases.moe/100665/), [AniList](https://anilist.co/anime/100665) |
+| 151 | Back Street Girls -GOKUDOLS-                                                                  | 2018 | 13 Mar 2025 | [SeaDex](https://releases.moe/100665/), [AniList](https://anilist.co/anime/100665) |
+| 152 | Ghost in the Shell: Stand Alone Complex 2nd GIG                                               | 2004 | 01 Aug 2025 | [SeaDex](https://releases.moe/801/), [AniList](https://anilist.co/anime/801)       |
 | 153 | The Perfect Insider                                                                           | 2015 | 27 Nov 2024 | [SeaDex](https://releases.moe/21190/), [AniList](https://anilist.co/anime/21190)   |
 | 154 | Prison School: Mad Wax                                                                        | 2016 | 03 Sep 2025 | [SeaDex](https://releases.moe/21565/), [AniList](https://anilist.co/anime/21565)   |
 | 155 | Princess Lover!                                                                               | 2009 | 16 Mar 2025 | [SeaDex](https://releases.moe/6201/), [AniList](https://anilist.co/anime/6201)     |
@@ -270,8 +270,8 @@
 | 267 | Modest Heroes: Ponoc Short Films Theatre, Volume 1                                            | 2018 | 24 Jul 2024 | [SeaDex](https://releases.moe/103887/), [AniList](https://anilist.co/anime/103887) |
 | 268 | Macross Zero                                                                                  | 2002 | 01 Jun 2025 | [SeaDex](https://releases.moe/194/), [AniList](https://anilist.co/anime/194)       |
 | 269 | Papa no Iukoto wo Kikinasai!: Pokkapoka                                                       | 2012 | 12 Apr 2025 | [SeaDex](https://releases.moe/12673/), [AniList](https://anilist.co/anime/12673)   |
-| 270 | Cinderella Nine                                                                               | 2019 | 04 Apr 2025 | [SeaDex](https://releases.moe/104989/), [AniList](https://anilist.co/anime/104989) |
-| 271 | Shagahai ReLIFE Kenkyuujo Support-ka                                                          | 2018 | 03 Mar 2025 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 270 | Shagahai ReLIFE Kenkyuujo Support-ka                                                          | 2018 | 03 Mar 2025 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 271 | Cinderella Nine                                                                               | 2019 | 04 Apr 2025 | [SeaDex](https://releases.moe/104989/), [AniList](https://anilist.co/anime/104989) |
 | 272 | Riddle Story of Devil Special                                                                 | 2014 | 07 Apr 2025 | [SeaDex](https://releases.moe/20926/), [AniList](https://anilist.co/anime/20926)   |
 | 273 | Strike the Blood: Kieta Seisou-hen                                                            | 2020 | 03 Jan 2025 | [SeaDex](https://releases.moe/112324/), [AniList](https://anilist.co/anime/112324) |
 | 274 | Space Runaway Ideon                                                                           | 1980 | 25 Jun 2025 | [SeaDex](https://releases.moe/930/), [AniList](https://anilist.co/anime/930)       |

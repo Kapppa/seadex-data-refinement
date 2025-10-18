@@ -121,8 +121,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | Holomux          | 20    |
 | 16   | CTR              | 20    |
 | 17   | VARYG            | 20    |
-| 18   | NOGRP            | 19    |
-| 19   | Headpatter       | 18    |
+| 18   | Headpatter       | 19    |
+| 19   | NOGRP            | 19    |
 | 20   | Chihiro          | 18    |
 | 21   | SCY              | 17    |
 | 22   | Pog42            | 17    |
