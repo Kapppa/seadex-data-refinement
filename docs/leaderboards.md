@@ -25,9 +25,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | smol             | 58    |
 | 10   | Drag             | 57    |
 | 11   | hchcsen          | 56    |
-| 12   | YURASUKA         | 54    |
+| 12   | YURASUKA         | 55    |
 | 13   | KH               | 54    |
-| 14   | Headpatter       | 52    |
+| 14   | Headpatter       | 53    |
 | 15   | LostYears        | 49    |
 | 16   | Arid             | 44    |
 | 17   | Bunny-Apocalypse | 38    |
@@ -55,10 +55,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Lulu       | 19    |
 | 10   | Flugel     | 18    |
 | 11   | YURI       | 16    |
-| 12   | Moxie      | 15    |
-| 13   | LazyRemux  | 15    |
-| 14   | LostYears  | 15    |
-| 15   | Headpatter | 15    |
+| 12   | Headpatter | 16    |
+| 13   | Moxie      | 15    |
+| 14   | LazyRemux  | 15    |
+| 15   | LostYears  | 15    |
 | 16   | koala      | 14    |
 | 17   | FLE        | 14    |
 | 18   | FraMeSToR  | 13    |
@@ -81,7 +81,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | MTBB       | 64    |
 | 6    | Moxie      | 61    |
 | 7    | smol       | 56    |
-| 8    | Headpatter | 36    |
+| 8    | Headpatter | 37    |
 | 9    | TTGA       | 35    |
 | 10   | Okay-Subs  | 35    |
 | 11   | LYS1TH3A   | 34    |
@@ -105,7 +105,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 69    |
-| 🥈   | YURASUKA         | 45    |
+| 🥈   | YURASUKA         | 46    |
 | 🥉   | Drag             | 42    |
 | 4    | KH               | 42    |
 | 5    | YURI             | 37    |
@@ -116,8 +116,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Bunny-Apocalypse | 31    |
 | 11   | MTBB             | 30    |
 | 12   | Arid             | 23    |
-| 13   | Erai-raws        | 23    |
-| 14   | Kametsu          | 22    |
+| 13   | Kametsu          | 22    |
+| 14   | Erai-raws        | 22    |
 | 15   | Holomux          | 20    |
 | 16   | CTR              | 20    |
 | 17   | VARYG            | 20    |

@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `116.2 TiB`
-- Best size: `87.0 TiB`
+- Total size: `116.3 TiB`
+- Best size: `87.1 TiB`
 - Alt size: `29.2 TiB`
-- Realistic size: `90.5 TiB`
+- Realistic size: `90.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -29,9 +29,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 7    | PMR              | 2.5 TiB    | 2.5 TiB (100.00%)   | 32 (~78.8 GiB each)   |
 | 8    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
 | 9    | hchcsen          | 2.4 TiB    | 1.5 TiB (64.49%)    | 61 (~40.2 GiB each)   |
-| 10   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 11   | MTBB             | 1.5 TiB    | 1.2 TiB (83.20%)    | 94 (~15.8 GiB each)   |
-| 12   | Headpatter       | 1.4 TiB    | 1.2 TiB (86.02%)    | 55 (~26.9 GiB each)   |
+| 10   | Headpatter       | 1.5 TiB    | 1.3 TiB (86.75%)    | 56 (~27.9 GiB each)   |
+| 11   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
+| 12   | MTBB             | 1.5 TiB    | 1.2 TiB (83.20%)    | 94 (~15.8 GiB each)   |
 | 13   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.70%)  | 82 (~17.1 GiB each)   |
 | 14   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.7 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
@@ -61,7 +61,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 39   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
 | 40   | UDF              | 625.2 GiB  | 249.3 GiB (39.88%)  | 28 (~22.3 GiB each)   |
 | 41   | SEV              | 613.8 GiB  | 0 B (0.00%)         | 13 (~47.2 GiB each)   |
-| 42   | YURASUKA         | 590.8 GiB  | 107.7 GiB (18.23%)  | 54 (~10.9 GiB each)   |
+| 42   | YURASUKA         | 604.7 GiB  | 107.7 GiB (17.81%)  | 55 (~11.0 GiB each)   |
 | 43   | D4C              | 583.2 GiB  | 583.2 GiB (100.00%) | 3 (~194.4 GiB each)   |
 | 44   | Flugel           | 559.0 GiB  | 559.0 GiB (100.00%) | 18 (~31.1 GiB each)   |
 | 45   | Almighty         | 544.3 GiB  | 0 B (0.00%)         | 4 (~136.1 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 48   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 49   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
-| 50   | Others           | 36.0 TiB   | 20.2 TiB (56.03%)   | 1724 (~21.4 GiB each) |
+| 50   | Others           | 36.0 TiB   | 20.2 TiB (56.05%)   | 1724 (~21.4 GiB each) |
