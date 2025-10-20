@@ -160,7 +160,7 @@
 | 157 | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                            | 2025 | 01 Aug 2025 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
 | 158 | Magia Record: Puella Magi Madoka Magica Side Story                                                    | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/104051/), [AniList](https://anilist.co/anime/104051) |
 | 159 | Gintama: The Final Chapter - Be Forever Yorozuya                                                      | 2013 | 20 Jul 2025 | [SeaDex](https://releases.moe/15335/), [AniList](https://anilist.co/anime/15335)   |
-| 160 | KanColle                                                                                              | 2015 | 18 Oct 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
+| 160 | KanColle                                                                                              | 2015 | 20 Oct 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
 | 161 | Date A Live: Date to Date                                                                             | 2013 | 12 Jul 2025 | [SeaDex](https://releases.moe/17641/), [AniList](https://anilist.co/anime/17641)   |
 | 162 | Date A Live Mayuri Judgement                                                                          | 2015 | 13 Nov 2023 | [SeaDex](https://releases.moe/20741/), [AniList](https://anilist.co/anime/20741)   |
 | 163 | Food Wars! The Second Plate OVA                                                                       | 2017 | 30 Jun 2024 | [SeaDex](https://releases.moe/98702/), [AniList](https://anilist.co/anime/98702)   |
