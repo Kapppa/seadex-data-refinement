@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `116.9 TiB`
-- Best size: `87.6 TiB`
+- Total size: `117.3 TiB`
+- Best size: `88.0 TiB`
 - Alt size: `29.3 TiB`
-- Realistic size: `91.1 TiB`
+- Realistic size: `91.5 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,15 +21,15 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.4 TiB   | 12.3 TiB (85.54%)   | 183 (~80.5 GiB each)  |
-| 2    | CRUCiBLE         | 10.4 TiB   | 10.4 TiB (100.00%)  | 138 (~77.1 GiB each)  |
-| 3    | NAN0             | 6.9 TiB    | 6.8 TiB (98.90%)    | 92 (~76.4 GiB each)   |
+| 2    | CRUCiBLE         | 10.5 TiB   | 10.5 TiB (100.00%)  | 139 (~77.0 GiB each)  |
+| 3    | NAN0             | 6.9 TiB    | 6.9 TiB (98.91%)    | 93 (~76.4 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.5 TiB (92.17%)    | 131 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.7 TiB    | 2.5 TiB (92.70%)    | 37 (~74.1 GiB each)   |
-| 6    | B00BA            | 2.5 TiB    | 2.5 TiB (100.00%)   | 27 (~94.1 GiB each)   |
-| 7    | PMR              | 2.5 TiB    | 2.5 TiB (100.00%)   | 32 (~78.8 GiB each)   |
+| 6    | PMR              | 2.5 TiB    | 2.5 TiB (100.00%)   | 34 (~76.4 GiB each)   |
+| 7    | B00BA            | 2.5 TiB    | 2.5 TiB (100.00%)   | 27 (~94.1 GiB each)   |
 | 8    | hchcsen          | 2.5 TiB    | 1.6 TiB (65.35%)    | 63 (~39.9 GiB each)   |
 | 9    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
-| 10   | Headpatter       | 1.6 TiB    | 1.4 TiB (87.41%)    | 57 (~28.8 GiB each)   |
+| 10   | Headpatter       | 1.7 TiB    | 1.5 TiB (88.10%)    | 59 (~29.5 GiB each)   |
 | 11   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 12   | MTBB             | 1.5 TiB    | 1.2 TiB (83.20%)    | 94 (~15.8 GiB each)   |
 | 13   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.53%)  | 83 (~17.1 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 48   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 49   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 36.2 TiB   | 20.7 TiB (57.09%)   | 1720 (~21.6 GiB each) |
+| 50   | Others           | 36.3 TiB   | 20.8 TiB (57.16%)   | 1723 (~21.6 GiB each) |
