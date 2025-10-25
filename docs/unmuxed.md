@@ -101,8 +101,8 @@
 | 98  | PSYCHO-PASS 3                                                                                 | 2019 | 14 Jun 2025 | [SeaDex](https://releases.moe/108307/), [AniList](https://anilist.co/anime/108307) |
 | 99  | Ninja Kamui                                                                                   | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/151639/), [AniList](https://anilist.co/anime/151639) |
 | 100 | Tokyo Magnitude 8.0                                                                           | 2009 | 05 Nov 2024 | [SeaDex](https://releases.moe/6211/), [AniList](https://anilist.co/anime/6211)     |
-| 101 | By the Grace of the Gods                                                                      | 2020 | 29 Jan 2025 | [SeaDex](https://releases.moe/115740/), [AniList](https://anilist.co/anime/115740) |
-| 102 | Anti-Magic Academy: The 35th Test Platoon                                                     | 2015 | 09 Jan 2025 | [SeaDex](https://releases.moe/20704/), [AniList](https://anilist.co/anime/20704)   |
+| 101 | Anti-Magic Academy: The 35th Test Platoon                                                     | 2015 | 09 Jan 2025 | [SeaDex](https://releases.moe/20704/), [AniList](https://anilist.co/anime/20704)   |
+| 102 | By the Grace of the Gods                                                                      | 2020 | 29 Jan 2025 | [SeaDex](https://releases.moe/115740/), [AniList](https://anilist.co/anime/115740) |
 | 103 | Princess Principal                                                                            | 2017 | 16 Dec 2023 | [SeaDex](https://releases.moe/98505/), [AniList](https://anilist.co/anime/98505)   |
 | 104 | Ground Control to Psychoelectric Girl                                                         | 2011 | 28 Oct 2024 | [SeaDex](https://releases.moe/9379/), [AniList](https://anilist.co/anime/9379)     |
 | 105 | Slam Dunk                                                                                     | 1993 | 23 May 2024 | [SeaDex](https://releases.moe/170/), [AniList](https://anilist.co/anime/170)       |
@@ -234,8 +234,8 @@
 | 231 | Free! -Eternal Summer-: Forbidden All-Hard!                                                   | 2015 | 01 Jul 2024 | [SeaDex](https://releases.moe/21091/), [AniList](https://anilist.co/anime/21091)   |
 | 232 | Bunny Drop Specials                                                                           | 2011 | 16 Aug 2025 | [SeaDex](https://releases.moe/11113/), [AniList](https://anilist.co/anime/11113)   |
 | 233 | Moriarty the Patriot OVA                                                                      | 2022 | 07 Feb 2025 | [SeaDex](https://releases.moe/138700/), [AniList](https://anilist.co/anime/138700) |
-| 234 | Ground Control to Psychoelectric Girl: The Nighttime Sun                                      | 2012 | 28 Oct 2024 | [SeaDex](https://releases.moe/10638/), [AniList](https://anilist.co/anime/10638)   |
-| 235 | Shiki Specials                                                                                | 2011 | 15 Nov 2023 | [SeaDex](https://releases.moe/10083/), [AniList](https://anilist.co/anime/10083)   |
+| 234 | Shiki Specials                                                                                | 2011 | 15 Nov 2023 | [SeaDex](https://releases.moe/10083/), [AniList](https://anilist.co/anime/10083)   |
+| 235 | Ground Control to Psychoelectric Girl: The Nighttime Sun                                      | 2012 | 28 Oct 2024 | [SeaDex](https://releases.moe/10638/), [AniList](https://anilist.co/anime/10638)   |
 | 236 | Asobi Asobase Specials                                                                        | 2018 | 08 May 2024 | [SeaDex](https://releases.moe/104368/), [AniList](https://anilist.co/anime/104368) |
 | 237 | The Sky Crawlers                                                                              | 2008 | 31 Jan 2024 | [SeaDex](https://releases.moe/3089/), [AniList](https://anilist.co/anime/3089)     |
 | 238 | Kingdom Season 4                                                                              | 2022 | 12 Apr 2025 | [SeaDex](https://releases.moe/140350/), [AniList](https://anilist.co/anime/140350) |

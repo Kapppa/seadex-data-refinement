@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 48   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 49   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 36.3 TiB   | 20.8 TiB (57.16%)   | 1723 (~21.6 GiB each) |
+| 50   | Others           | 36.3 TiB   | 20.8 TiB (57.16%)   | 1724 (~21.6 GiB each) |
