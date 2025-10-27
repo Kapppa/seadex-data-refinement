@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `117.3 TiB`
-- Best size: `88.0 TiB`
-- Alt size: `29.3 TiB`
-- Realistic size: `91.5 TiB`
+- Total size: `117.5 TiB`
+- Best size: `88.1 TiB`
+- Alt size: `29.4 TiB`
+- Realistic size: `91.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,9 +20,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.4 TiB   | 12.3 TiB (85.54%)   | 183 (~80.5 GiB each)  |
-| 2    | CRUCiBLE         | 10.5 TiB   | 10.5 TiB (100.00%)  | 139 (~77.0 GiB each)  |
-| 3    | NAN0             | 6.9 TiB    | 6.9 TiB (98.91%)    | 93 (~76.4 GiB each)   |
+| 1    | -ZR-             | 14.5 TiB   | 12.4 TiB (85.62%)   | 184 (~80.5 GiB each)  |
+| 2    | CRUCiBLE         | 10.4 TiB   | 10.4 TiB (100.00%)  | 138 (~77.0 GiB each)  |
+| 3    | NAN0             | 7.1 TiB    | 7.0 TiB (98.93%)    | 94 (~77.1 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.5 TiB (92.17%)    | 131 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.7 TiB    | 2.5 TiB (92.70%)    | 37 (~74.1 GiB each)   |
 | 6    | PMR              | 2.5 TiB    | 2.5 TiB (100.00%)   | 34 (~76.4 GiB each)   |
@@ -52,7 +52,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 30   | Okay-Subs        | 752.8 GiB  | 735.7 GiB (97.73%)  | 37 (~20.3 GiB each)   |
 | 31   | ZeroBuild        | 741.0 GiB  | 661.0 GiB (89.21%)  | 16 (~46.3 GiB each)   |
 | 32   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
-| 33   | Reza             | 723.4 GiB  | 377.0 GiB (52.12%)  | 28 (~25.8 GiB each)   |
+| 33   | Reza             | 703.9 GiB  | 357.5 GiB (50.79%)  | 27 (~26.1 GiB each)   |
 | 34   | LaCroiX          | 691.7 GiB  | 691.7 GiB (100.00%) | 11 (~62.9 GiB each)   |
 | 35   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
 | 36   | FLE              | 672.5 GiB  | 634.4 GiB (94.33%)  | 18 (~37.4 GiB each)   |
@@ -60,8 +60,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 38   | Drag             | 639.7 GiB  | 146.0 GiB (22.81%)  | 58 (~11.0 GiB each)   |
 | 39   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
 | 40   | UDF              | 625.2 GiB  | 249.3 GiB (39.88%)  | 28 (~22.3 GiB each)   |
-| 41   | SEV              | 613.8 GiB  | 0 B (0.00%)         | 13 (~47.2 GiB each)   |
-| 42   | YURASUKA         | 604.7 GiB  | 107.7 GiB (17.81%)  | 55 (~11.0 GiB each)   |
+| 41   | YURASUKA         | 617.7 GiB  | 120.7 GiB (19.54%)  | 56 (~11.0 GiB each)   |
+| 42   | SEV              | 613.8 GiB  | 0 B (0.00%)         | 13 (~47.2 GiB each)   |
 | 43   | D4C              | 583.2 GiB  | 583.2 GiB (100.00%) | 3 (~194.4 GiB each)   |
 | 44   | Almighty         | 544.3 GiB  | 0 B (0.00%)         | 4 (~136.1 GiB each)   |
 | 45   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 48   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 49   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 36.3 TiB   | 20.8 TiB (57.16%)   | 1724 (~21.6 GiB each) |
+| 50   | Others           | 36.5 TiB   | 20.8 TiB (57.06%)   | 1727 (~21.6 GiB each) |
