@@ -98,9 +98,7 @@ def get_entries(
         case "private-tracker-only-torrents":
             header = "# Private tracker only torrents\n\n"
 
-            header += (
-                "This list excludes groups that do not want their releases mirrored to public trackers.\n\n"
-            )
+            header += "This list excludes groups that do not want their releases mirrored to public trackers.\n\n"
 
             with seadex.SeaDexEntry() as seadex_entry:
                 for entry in seadex_entry.iterator():
@@ -108,14 +106,15 @@ def get_entries(
                     for torrent in entry.torrents:
                         if torrent.tracker.is_private() and torrent.release_group not in EXCLUSIVE_GROUPS:
                             release_group = torrent.release_group.casefold().strip()
-                            if (release_group+str(torrent.is_best)) in groups: continue
+                            if (release_group + str(torrent.is_best)) in groups:
+                                continue
                             if not any(
                                 (t.tracker.is_public() and t.is_best == torrent.is_best)
                                 or (t.release_group == torrent.release_group and t.is_best != torrent.is_best)
                                 for t in entry.torrents
                             ):
                                 entries[entry.anilist_id] = entry
-                                groups.append((release_group+str(torrent.is_best)))
+                                groups.append(release_group + str(torrent.is_best))
                                 continue
 
         case "private-tracker-only-entries":
