@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import datetime as dt
 import re
 from pathlib import Path
 from typing import Literal
@@ -127,9 +128,14 @@ def get_entries(
 
         case "public-tracker-only":
             header = "# Public tracker only"
+            header += "\n\nThis list excludes torrents that have been manually verified to break AB rules.\n\n"
+            cutoff_date = dt.datetime(2025, 6, 30, tzinfo=dt.UTC)
 
             with seadex.SeaDexEntry() as seadex_entry:
                 for entry in seadex_entry.iterator():
+                    # Skip entries older than the cutoff date
+                    if entry.updated_at < cutoff_date:
+                        continue
                     for torrent in entry.torrents:
                         if torrent.tracker.is_public():
                             release_group = torrent.release_group.casefold().strip()
@@ -140,6 +146,7 @@ def get_entries(
                             ):
                                 entries[entry.anilist_id] = entry
                                 break
+
         case "best-missing-dual" | "alt-missing-dual":
             header = f"# {(criteria.startswith('best') and 'Best') or 'Alt'} missing dual-audio\n\n"
 
