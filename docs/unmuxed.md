@@ -35,8 +35,8 @@
 | 32  | Date A Live II                                                                                | 2014 | 12 Jul 2025 | [SeaDex](https://releases.moe/19163/), [AniList](https://anilist.co/anime/19163)   |
 | 33  | Redo of Healer                                                                                | 2021 | 25 Jul 2025 | [SeaDex](https://releases.moe/113425/), [AniList](https://anilist.co/anime/113425) |
 | 34  | Hellsing                                                                                      | 2001 | 07 Jul 2024 | [SeaDex](https://releases.moe/270/), [AniList](https://anilist.co/anime/270)       |
-| 35  | Bottom-Tier Character Tomozaki                                                                | 2021 | 15 Oct 2024 | [SeaDex](https://releases.moe/112443/), [AniList](https://anilist.co/anime/112443) |
-| 36  | Re:CREATORS                                                                                   | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/97980/), [AniList](https://anilist.co/anime/97980)   |
+| 35  | Re:CREATORS                                                                                   | 2017 | 13 Jul 2025 | [SeaDex](https://releases.moe/97980/), [AniList](https://anilist.co/anime/97980)   |
+| 36  | Bottom-Tier Character Tomozaki                                                                | 2021 | 15 Oct 2024 | [SeaDex](https://releases.moe/112443/), [AniList](https://anilist.co/anime/112443) |
 | 37  | The World God Only Knows                                                                      | 2010 | 14 Oct 2025 | [SeaDex](https://releases.moe/8525/), [AniList](https://anilist.co/anime/8525)     |
 | 38  | Castle in the Sky                                                                             | 1986 | 06 Jul 2025 | [SeaDex](https://releases.moe/513/), [AniList](https://anilist.co/anime/513)       |
 | 39  | We Never Learn: BOKUBEN                                                                       | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/103900/), [AniList](https://anilist.co/anime/103900) |
@@ -299,8 +299,8 @@
 | 296 | Joker Game: Kuroneko Yoru no Bouken                                                           | 2016 | 07 Dec 2024 | [SeaDex](https://releases.moe/21790/), [AniList](https://anilist.co/anime/21790)   |
 | 297 | Symphogear AXZ Omake                                                                          | 2017 | 08 Jun 2025 | [SeaDex](https://releases.moe/101104/), [AniList](https://anilist.co/anime/101104) |
 | 298 | Needless: The Secret of Saint Lily Academy                                                    | 2009 | 04 Jun 2025 | [SeaDex](https://releases.moe/7322/), [AniList](https://anilist.co/anime/7322)     |
-| 299 | Neo Heroic Fantasia Arion                                                                     | 1986 | 14 Aug 2024 | [SeaDex](https://releases.moe/791/), [AniList](https://anilist.co/anime/791)       |
-| 300 | Princess Principal Picture Drama                                                              | 2017 | 16 Dec 2023 | [SeaDex](https://releases.moe/100519/), [AniList](https://anilist.co/anime/100519) |
+| 299 | Princess Principal Picture Drama                                                              | 2017 | 16 Dec 2023 | [SeaDex](https://releases.moe/100519/), [AniList](https://anilist.co/anime/100519) |
+| 300 | Neo Heroic Fantasia Arion                                                                     | 1986 | 14 Aug 2024 | [SeaDex](https://releases.moe/791/), [AniList](https://anilist.co/anime/791)       |
 | 301 | GARO: THE ANIMATION - HOME                                                                    | 2015 | 06 Feb 2025 | [SeaDex](https://releases.moe/102098/), [AniList](https://anilist.co/anime/102098) |
 | 302 | Armor Shop for Ladies & Gentlemen Flips the Script                                            | 2019 | 09 Mar 2025 | [SeaDex](https://releases.moe/108355/), [AniList](https://anilist.co/anime/108355) |
 | 303 | Symphogear XV Omake                                                                           | 2019 | 15 Nov 2024 | [SeaDex](https://releases.moe/113348/), [AniList](https://anilist.co/anime/113348) |
