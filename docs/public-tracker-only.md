@@ -72,8 +72,8 @@ This list excludes torrents that have been manually verified to break AB rules.
 | 65  | Legend of the Galactic Heroes                                                            | 1988 | 02 Aug 2025 | [SeaDex](https://releases.moe/820/), [AniList](https://anilist.co/anime/820)       |
 | 66  | Fate/Grand Order Absolute Demonic Front: Babylonia                                       | 2019 | 25 Jul 2025 | [SeaDex](https://releases.moe/103275/), [AniList](https://anilist.co/anime/103275) |
 | 67  | Hanasaku Iroha ~Blossoms for Tomorrow~                                                   | 2011 | 15 Aug 2025 | [SeaDex](https://releases.moe/9289/), [AniList](https://anilist.co/anime/9289)     |
-| 68  | This Art Club Has a Problem!                                                             | 2016 | 12 Jul 2025 | [SeaDex](https://releases.moe/21457/), [AniList](https://anilist.co/anime/21457)   |
-| 69  | TRIGUN STAMPEDE                                                                          | 2023 | 02 Aug 2025 | [SeaDex](https://releases.moe/151040/), [AniList](https://anilist.co/anime/151040) |
+| 68  | TRIGUN STAMPEDE                                                                          | 2023 | 02 Aug 2025 | [SeaDex](https://releases.moe/151040/), [AniList](https://anilist.co/anime/151040) |
+| 69  | This Art Club Has a Problem!                                                             | 2016 | 12 Jul 2025 | [SeaDex](https://releases.moe/21457/), [AniList](https://anilist.co/anime/21457)   |
 | 70  | Patema Inverted                                                                          | 2013 | 10 Oct 2025 | [SeaDex](https://releases.moe/12477/), [AniList](https://anilist.co/anime/12477)   |
 | 71  | Chillin' in Another World with Level 2 Super Cheat Powers                                | 2024 | 11 Oct 2025 | [SeaDex](https://releases.moe/170130/), [AniList](https://anilist.co/anime/170130) |
 | 72  | The Elusive Samurai                                                                      | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
