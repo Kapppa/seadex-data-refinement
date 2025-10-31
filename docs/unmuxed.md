@@ -206,8 +206,8 @@
 | 203 | Girly Air Force                                                                               | 2019 | 26 Dec 2024 | [SeaDex](https://releases.moe/101930/), [AniList](https://anilist.co/anime/101930) |
 | 204 | Knights of Sidonia: Battle for Planet Nine                                                    | 2015 | 17 Jul 2024 | [SeaDex](https://releases.moe/20762/), [AniList](https://anilist.co/anime/20762)   |
 | 205 | Aria the Scarlet Ammo AA                                                                      | 2015 | 07 May 2024 | [SeaDex](https://releases.moe/20991/), [AniList](https://anilist.co/anime/20991)   |
-| 206 | In Search of the Lost Future                                                                  | 2014 | 12 Aug 2025 | [SeaDex](https://releases.moe/20591/), [AniList](https://anilist.co/anime/20591)   |
-| 207 | Sankarea: I, Too, Am... A Zombie...                                                           | 2012 | 29 Dec 2024 | [SeaDex](https://releases.moe/16694/), [AniList](https://anilist.co/anime/16694)   |
+| 206 | Sankarea: I, Too, Am... A Zombie...                                                           | 2012 | 29 Dec 2024 | [SeaDex](https://releases.moe/16694/), [AniList](https://anilist.co/anime/16694)   |
+| 207 | In Search of the Lost Future                                                                  | 2014 | 12 Aug 2025 | [SeaDex](https://releases.moe/20591/), [AniList](https://anilist.co/anime/20591)   |
 | 208 | Sasami-san@Ganbaranai                                                                         | 2013 | 24 Nov 2024 | [SeaDex](https://releases.moe/14515/), [AniList](https://anilist.co/anime/14515)   |
 | 209 | AFTERLOST                                                                                     | 2019 | 10 Jul 2025 | [SeaDex](https://releases.moe/101814/), [AniList](https://anilist.co/anime/101814) |
 | 210 | LINK CLICK Episode 5.5                                                                        | 2021 | 15 Jan 2025 | [SeaDex](https://releases.moe/136145/), [AniList](https://anilist.co/anime/136145) |

@@ -15,7 +15,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
-| 🥈   | CRUCiBLE         | 138   |
+| 🥈   | CRUCiBLE         | 139   |
 | 🥉   | sam              | 131   |
 | 4    | MTBB             | 94    |
 | 5    | NAN0             | 94    |
@@ -75,7 +75,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
-| 🥈   | CRUCiBLE   | 138   |
+| 🥈   | CRUCiBLE   | 139   |
 | 🥉   | sam        | 121   |
 | 4    | NAN0       | 93    |
 | 5    | MTBB       | 64    |
@@ -115,8 +115,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | LostYears        | 31    |
 | 10   | Bunny-Apocalypse | 31    |
 | 11   | MTBB             | 30    |
-| 12   | Arid             | 23    |
-| 13   | Erai-raws        | 23    |
+| 12   | Erai-raws        | 24    |
+| 13   | Arid             | 23    |
 | 14   | Kametsu          | 22    |
 | 15   | NOGRP            | 22    |
 | 16   | VARYG            | 21    |
