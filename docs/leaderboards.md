@@ -25,7 +25,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | smol             | 58    |
 | 10   | hchcsen          | 58    |
 | 11   | Drag             | 57    |
-| 12   | YURASUKA         | 56    |
+| 12   | YURASUKA         | 57    |
 | 13   | Headpatter       | 56    |
 | 14   | KH               | 54    |
 | 15   | LostYears        | 46    |
@@ -105,7 +105,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 70    |
-| 🥈   | YURASUKA         | 46    |
+| 🥈   | YURASUKA         | 47    |
 | 🥉   | Drag             | 42    |
 | 4    | KH               | 42    |
 | 5    | YURI             | 37    |
@@ -119,9 +119,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Arid             | 23    |
 | 14   | Kametsu          | 22    |
 | 15   | NOGRP            | 22    |
-| 16   | VARYG            | 21    |
-| 17   | Holomux          | 20    |
-| 18   | CTR              | 20    |
+| 16   | Holomux          | 20    |
+| 17   | CTR              | 20    |
+| 18   | VARYG            | 20    |
 | 19   | Headpatter       | 19    |
 | 20   | Chihiro          | 18    |
 | 21   | SCY              | 17    |

@@ -8,7 +8,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `117.7 TiB`
+- Total size: `117.6 TiB`
 - Best size: `88.3 TiB`
 - Alt size: `29.4 TiB`
 - Realistic size: `91.7 TiB`
@@ -59,8 +59,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 37   | Arid             | 642.0 GiB  | 211.8 GiB (32.99%)  | 45 (~14.3 GiB each)   |
 | 38   | Drag             | 639.7 GiB  | 146.0 GiB (22.81%)  | 58 (~11.0 GiB each)   |
 | 39   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 40   | UDF              | 625.2 GiB  | 249.3 GiB (39.88%)  | 28 (~22.3 GiB each)   |
-| 41   | YURASUKA         | 617.7 GiB  | 120.7 GiB (19.54%)  | 56 (~11.0 GiB each)   |
+| 40   | YURASUKA         | 631.6 GiB  | 120.7 GiB (19.11%)  | 57 (~11.1 GiB each)   |
+| 41   | UDF              | 625.2 GiB  | 249.3 GiB (39.88%)  | 28 (~22.3 GiB each)   |
 | 42   | SEV              | 613.8 GiB  | 0 B (0.00%)         | 13 (~47.2 GiB each)   |
 | 43   | D4C              | 583.2 GiB  | 583.2 GiB (100.00%) | 3 (~194.4 GiB each)   |
 | 44   | Almighty         | 544.3 GiB  | 0 B (0.00%)         | 4 (~136.1 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 48   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 49   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 36.5 TiB   | 20.8 TiB (57.02%)   | 1730 (~21.6 GiB each) |
+| 50   | Others           | 36.5 TiB   | 20.8 TiB (57.05%)   | 1729 (~21.6 GiB each) |
