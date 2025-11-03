@@ -29,8 +29,8 @@ This list excludes torrents that have been manually verified to break AB rules.
 | 22  | From the New World                                                                       | 2012 | 10 Aug 2025 | [SeaDex](https://releases.moe/13125/), [AniList](https://anilist.co/anime/13125)   |
 | 23  | My Love Story with Yamada-kun at Lv999                                                   | 2023 | 19 Aug 2025 | [SeaDex](https://releases.moe/154965/), [AniList](https://anilist.co/anime/154965) |
 | 24  | Food Wars! The Fourth Plate                                                              | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/109963/), [AniList](https://anilist.co/anime/109963) |
-| 25  | BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.                            | 2020 | 19 Aug 2025 | [SeaDex](https://releases.moe/106479/), [AniList](https://anilist.co/anime/106479) |
-| 26  | DAN DA DAN Season 2                                                                      | 2025 | 10 Oct 2025 | [SeaDex](https://releases.moe/185660/), [AniList](https://anilist.co/anime/185660) |
+| 25  | DAN DA DAN Season 2                                                                      | 2025 | 10 Oct 2025 | [SeaDex](https://releases.moe/185660/), [AniList](https://anilist.co/anime/185660) |
+| 26  | BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.                            | 2020 | 19 Aug 2025 | [SeaDex](https://releases.moe/106479/), [AniList](https://anilist.co/anime/106479) |
 | 27  | Darwin's Game                                                                            | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/105190/), [AniList](https://anilist.co/anime/105190) |
 | 28  | Miss Kobayashi's Dragon Maid S                                                           | 2021 | 01 Aug 2025 | [SeaDex](https://releases.moe/107717/), [AniList](https://anilist.co/anime/107717) |
 | 29  | Akudama Drive                                                                            | 2020 | 21 Jul 2025 | [SeaDex](https://releases.moe/116566/), [AniList](https://anilist.co/anime/116566) |
@@ -46,8 +46,8 @@ This list excludes torrents that have been manually verified to break AB rules.
 | 39  | Arifureta: From Commonplace to World's Strongest Season 2                                | 2022 | 11 Oct 2025 | [SeaDex](https://releases.moe/112323/), [AniList](https://anilist.co/anime/112323) |
 | 40  | The Hidden Dungeon Only I Can Enter                                                      | 2021 | 19 Aug 2025 | [SeaDex](https://releases.moe/118375/), [AniList](https://anilist.co/anime/118375) |
 | 41  | Love Live! School Idol Project                                                           | 2013 | 06 Jul 2025 | [SeaDex](https://releases.moe/15051/), [AniList](https://anilist.co/anime/15051)   |
-| 42  | Claymore                                                                                 | 2007 | 02 Aug 2025 | [SeaDex](https://releases.moe/1818/), [AniList](https://anilist.co/anime/1818)     |
-| 43  | Blue Box                                                                                 | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
+| 42  | Blue Box                                                                                 | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
+| 43  | Claymore                                                                                 | 2007 | 02 Aug 2025 | [SeaDex](https://releases.moe/1818/), [AniList](https://anilist.co/anime/1818)     |
 | 44  | the Garden of sinners Chapter 1: Thanatos. (Overlooking View)                            | 2007 | 17 Jul 2025 | [SeaDex](https://releases.moe/2593/), [AniList](https://anilist.co/anime/2593)     |
 | 45  | GOBLIN SLAYER II                                                                         | 2023 | 03 Aug 2025 | [SeaDex](https://releases.moe/129188/), [AniList](https://anilist.co/anime/129188) |
 | 46  | Gintama Season 2                                                                         | 2011 | 30 Aug 2025 | [SeaDex](https://releases.moe/9969/), [AniList](https://anilist.co/anime/9969)     |
