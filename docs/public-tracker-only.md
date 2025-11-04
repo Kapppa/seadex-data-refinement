@@ -61,8 +61,8 @@ This list excludes torrents that have been manually verified to break AB rules.
 | 54  | Princess Connect! Re:Dive                                                                | 2020 | 06 Aug 2025 | [SeaDex](https://releases.moe/107871/), [AniList](https://anilist.co/anime/107871) |
 | 55  | Noblesse                                                                                 | 2020 | 11 Aug 2025 | [SeaDex](https://releases.moe/116005/), [AniList](https://anilist.co/anime/116005) |
 | 56  | I'm Standing on a Million Lives                                                          | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
-| 57  | Black Clover: Sword of the Wizard King                                                   | 2023 | 01 Aug 2025 | [SeaDex](https://releases.moe/131680/), [AniList](https://anilist.co/anime/131680) |
-| 58  | SPY x FAMILY CODE: White                                                                 | 2023 | 01 Aug 2025 | [SeaDex](https://releases.moe/158928/), [AniList](https://anilist.co/anime/158928) |
+| 57  | SPY x FAMILY CODE: White                                                                 | 2023 | 01 Aug 2025 | [SeaDex](https://releases.moe/158928/), [AniList](https://anilist.co/anime/158928) |
+| 58  | Black Clover: Sword of the Wizard King                                                   | 2023 | 01 Aug 2025 | [SeaDex](https://releases.moe/131680/), [AniList](https://anilist.co/anime/131680) |
 | 59  | The Tunnel to Summer, the Exit of Goodbyes                                               | 2022 | 19 Aug 2025 | [SeaDex](https://releases.moe/142769/), [AniList](https://anilist.co/anime/142769) |
 | 60  | Eureka Seven                                                                             | 2005 | 13 Jul 2025 | [SeaDex](https://releases.moe/237/), [AniList](https://anilist.co/anime/237)       |
 | 61  | Kubo Won't Let Me Be Invisible                                                           | 2023 | 01 Aug 2025 | [SeaDex](https://releases.moe/148969/), [AniList](https://anilist.co/anime/148969) |

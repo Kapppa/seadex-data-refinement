@@ -117,8 +117,8 @@
 | 114 | Spy Classroom                                                                                 | 2023 | 03 Aug 2025 | [SeaDex](https://releases.moe/146323/), [AniList](https://anilist.co/anime/146323) |
 | 115 | Black Lagoon: Roberta's Blood Trail                                                           | 2010 | 14 Feb 2025 | [SeaDex](https://releases.moe/4901/), [AniList](https://anilist.co/anime/4901)     |
 | 116 | RADIANT                                                                                       | 2018 | 04 Aug 2025 | [SeaDex](https://releases.moe/101024/), [AniList](https://anilist.co/anime/101024) |
-| 117 | Darker than Black: Gemini of the Meteor                                                       | 2009 | 13 Jul 2025 | [SeaDex](https://releases.moe/6573/), [AniList](https://anilist.co/anime/6573)     |
-| 118 | Secrets of the Silent Witch                                                                   | 2025 | 18 Oct 2025 | [SeaDex](https://releases.moe/179966/), [AniList](https://anilist.co/anime/179966) |
+| 117 | Secrets of the Silent Witch                                                                   | 2025 | 18 Oct 2025 | [SeaDex](https://releases.moe/179966/), [AniList](https://anilist.co/anime/179966) |
+| 118 | Darker than Black: Gemini of the Meteor                                                       | 2009 | 13 Jul 2025 | [SeaDex](https://releases.moe/6573/), [AniList](https://anilist.co/anime/6573)     |
 | 119 | Code:Breaker                                                                                  | 2012 | 28 Nov 2024 | [SeaDex](https://releases.moe/11703/), [AniList](https://anilist.co/anime/11703)   |
 | 120 | Maken-Ki! Battling Venus                                                                      | 2011 | 30 Mar 2025 | [SeaDex](https://releases.moe/9936/), [AniList](https://anilist.co/anime/9936)     |
 | 121 | Link Click Season 2                                                                           | 2023 | 04 Sep 2025 | [SeaDex](https://releases.moe/136484/), [AniList](https://anilist.co/anime/136484) |
@@ -286,8 +286,8 @@
 | 283 | Shomin Sample: Kujou-san no Doesu Soudan-Shitsu Anime-ban                                     | 2016 | 30 Mar 2025 | [SeaDex](https://releases.moe/21492/), [AniList](https://anilist.co/anime/21492)   |
 | 284 | My Sister, My Writer (OVA)                                                                    | 2019 | 09 Apr 2025 | [SeaDex](https://releases.moe/108062/), [AniList](https://anilist.co/anime/108062) |
 | 285 | Sengoku Collection                                                                            | 2012 | 13 Oct 2025 | [SeaDex](https://releases.moe/12611/), [AniList](https://anilist.co/anime/12611)   |
-| 286 | Amanchu!: The Story of the Promised Summer and New Memories                                   | 2017 | 06 Feb 2025 | [SeaDex](https://releases.moe/98536/), [AniList](https://anilist.co/anime/98536)   |
-| 287 | Moyashimon Returns                                                                            | 2012 | 24 Jan 2024 | [SeaDex](https://releases.moe/13409/), [AniList](https://anilist.co/anime/13409)   |
+| 286 | Moyashimon Returns                                                                            | 2012 | 24 Jan 2024 | [SeaDex](https://releases.moe/13409/), [AniList](https://anilist.co/anime/13409)   |
+| 287 | Amanchu!: The Story of the Promised Summer and New Memories                                   | 2017 | 06 Feb 2025 | [SeaDex](https://releases.moe/98536/), [AniList](https://anilist.co/anime/98536)   |
 | 288 | Gatchaman Crowds: Embrace                                                                     | 2014 | 02 Jul 2024 | [SeaDex](https://releases.moe/20759/), [AniList](https://anilist.co/anime/20759)   |
 | 289 | Symphogear G: Non-Songs of the Valkyries                                                      | 2014 | 30 Jul 2025 | [SeaDex](https://releases.moe/20452/), [AniList](https://anilist.co/anime/20452)   |
 | 290 | Armor Shop for Ladies & Gentlemen II                                                          | 2021 | 09 Mar 2025 | [SeaDex](https://releases.moe/124136/), [AniList](https://anilist.co/anime/124136) |

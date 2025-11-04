@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `117.9 TiB`
-- Best size: `88.3 TiB`
-- Alt size: `29.5 TiB`
-- Realistic size: `91.9 TiB`
+- Total size: `118.0 TiB`
+- Best size: `88.4 TiB`
+- Alt size: `29.6 TiB`
+- Realistic size: `92.0 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -22,7 +22,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.5 TiB   | 12.4 TiB (85.62%)   | 184 (~80.5 GiB each)  |
 | 2    | CRUCiBLE         | 10.4 TiB   | 10.4 TiB (100.00%)  | 139 (~76.7 GiB each)  |
-| 3    | NAN0             | 7.2 TiB    | 7.1 TiB (98.95%)    | 95 (~77.1 GiB each)   |
+| 3    | NAN0             | 7.2 TiB    | 7.2 TiB (98.96%)    | 96 (~77.2 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.5 TiB (92.17%)    | 131 (~29.7 GiB each)  |
 | 5    | TTGA             | 2.7 TiB    | 2.5 TiB (92.70%)    | 37 (~74.1 GiB each)   |
 | 6    | PMR              | 2.5 TiB    | 2.5 TiB (100.00%)   | 34 (~76.4 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 48   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 49   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 36.6 TiB   | 20.8 TiB (56.86%)   | 1732 (~21.6 GiB each) |
+| 50   | Others           | 36.6 TiB   | 20.8 TiB (56.84%)   | 1733 (~21.6 GiB each) |

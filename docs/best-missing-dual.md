@@ -38,8 +38,8 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 31  | The Girl from the Other Side                                                    | 2022 | 11 Nov 2023 | [SeaDex](https://releases.moe/130550/), [AniList](https://anilist.co/anime/130550) |
 | 32  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                           | 2013 | 17 Feb 2025 | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
 | 33  | Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou      | 2012 | 26 Jan 2025 | [SeaDex](https://releases.moe/15879/), [AniList](https://anilist.co/anime/15879)   |
-| 34  | Sasami-san@Ganbaranai                                                           | 2013 | 02 Nov 2025 | [SeaDex](https://releases.moe/14515/), [AniList](https://anilist.co/anime/14515)   |
-| 35  | Sasaki and Miyano: Graduation                                                   | 2023 | 20 Jun 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
+| 34  | Sasaki and Miyano: Graduation                                                   | 2023 | 20 Jun 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
+| 35  | Sasami-san@Ganbaranai                                                           | 2013 | 02 Nov 2025 | [SeaDex](https://releases.moe/14515/), [AniList](https://anilist.co/anime/14515)   |
 | 36  | Lucifer and the Biscuit Hammer                                                  | 2022 | 29 Jun 2025 | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
 | 37  | Love, Chunibyo & Other Delusions - Heart Throb - Specials                       | 2014 | 13 Feb 2025 | [SeaDex](https://releases.moe/20777/), [AniList](https://anilist.co/anime/20777)   |
 | 38  | Synduality Noir                                                                 | 2023 | 26 Jul 2025 | [SeaDex](https://releases.moe/154643/), [AniList](https://anilist.co/anime/154643) |
