@@ -122,8 +122,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | VARYG            | 21    |
 | 17   | Holomux          | 20    |
 | 18   | CTR              | 20    |
-| 19   | Headpatter       | 19    |
-| 20   | Chihiro          | 19    |
+| 19   | Chihiro          | 19    |
+| 20   | Headpatter       | 19    |
 | 21   | SCY              | 17    |
 | 22   | Pog42            | 17    |
 | 23   | HorribleSubs     | 16    |

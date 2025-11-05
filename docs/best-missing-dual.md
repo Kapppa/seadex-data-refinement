@@ -22,8 +22,8 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 15  | SHIROBAKO                                                                       | 2014 | 01 Aug 2025 | [SeaDex](https://releases.moe/20812/), [AniList](https://anilist.co/anime/20812)   |
 | 16  | Life Lessons with Uramichi Oniisan                                              | 2021 | 01 Aug 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
 | 17  | The Elusive Samurai                                                             | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
-| 18  | Urusei Yatsura (2022)                                                           | 2022 | 11 Jun 2025 | [SeaDex](https://releases.moe/143277/), [AniList](https://anilist.co/anime/143277) |
-| 19  | I Parry Everything                                                              | 2024 | 15 Sep 2025 | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
+| 18  | I Parry Everything                                                              | 2024 | 15 Sep 2025 | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
+| 19  | Urusei Yatsura (2022)                                                           | 2022 | 11 Jun 2025 | [SeaDex](https://releases.moe/143277/), [AniList](https://anilist.co/anime/143277) |
 | 20  | K: RETURN OF KINGS                                                              | 2015 | 01 Aug 2025 | [SeaDex](https://releases.moe/20913/), [AniList](https://anilist.co/anime/20913)   |
 | 21  | Clannad: Another World, Tomoyo Chapter                                          | 2008 | 07 Sep 2025 | [SeaDex](https://releases.moe/4059/), [AniList](https://anilist.co/anime/4059)     |
 | 22  | High School DxD OVA                                                             | 2012 | 08 Jun 2025 | [SeaDex](https://releases.moe/12729/), [AniList](https://anilist.co/anime/12729)   |
