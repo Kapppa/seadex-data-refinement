@@ -98,8 +98,8 @@ This list excludes torrents that have been manually verified to break AB rules.
 | 91  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time               | 2025 | 01 Aug 2025 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
 | 92  | Magia Record: Puella Magi Madoka Magica Side Story                                       | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/104051/), [AniList](https://anilist.co/anime/104051) |
 | 93  | Gintama: The Final Chapter - Be Forever Yorozuya                                         | 2013 | 20 Jul 2025 | [SeaDex](https://releases.moe/15335/), [AniList](https://anilist.co/anime/15335)   |
-| 94  | KanColle                                                                                 | 2015 | 20 Oct 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
-| 95  | The Brilliant Healer's New Life in the Shadows                                           | 2025 | 08 Oct 2025 | [SeaDex](https://releases.moe/175872/), [AniList](https://anilist.co/anime/175872) |
+| 94  | The Brilliant Healer's New Life in the Shadows                                           | 2025 | 08 Oct 2025 | [SeaDex](https://releases.moe/175872/), [AniList](https://anilist.co/anime/175872) |
+| 95  | KanColle                                                                                 | 2015 | 20 Oct 2025 | [SeaDex](https://releases.moe/20553/), [AniList](https://anilist.co/anime/20553)   |
 | 96  | Date A Live: Date to Date                                                                | 2013 | 12 Jul 2025 | [SeaDex](https://releases.moe/17641/), [AniList](https://anilist.co/anime/17641)   |
 | 97  | The Demon Sword Master of Excalibur Academy                                              | 2023 | 19 Aug 2025 | [SeaDex](https://releases.moe/140501/), [AniList](https://anilist.co/anime/140501) |
 | 98  | Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note                                | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/106918/), [AniList](https://anilist.co/anime/106918) |

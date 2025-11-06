@@ -10,8 +10,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 3   | Classroom of the Elite                                                                      | 2017 | 10 Jul 2025 | [SeaDex](https://releases.moe/98659/), [AniList](https://anilist.co/anime/98659)   |
 | 4   | Gurren Lagann                                                                               | 2007 | 17 May 2025 | [SeaDex](https://releases.moe/2001/), [AniList](https://anilist.co/anime/2001)     |
 | 5   | Sword Art Online: Alicization                                                               | 2018 | 10 Jan 2025 | [SeaDex](https://releases.moe/100182/), [AniList](https://anilist.co/anime/100182) |
-| 6   | Overlord II                                                                                 | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/98437/), [AniList](https://anilist.co/anime/98437)   |
-| 7   | The Apothecary Diaries                                                                      | 2023 | 22 Apr 2025 | [SeaDex](https://releases.moe/161645/), [AniList](https://anilist.co/anime/161645) |
+| 6   | The Apothecary Diaries                                                                      | 2023 | 22 Apr 2025 | [SeaDex](https://releases.moe/161645/), [AniList](https://anilist.co/anime/161645) |
+| 7   | Overlord II                                                                                 | 2018 | 29 Dec 2023 | [SeaDex](https://releases.moe/98437/), [AniList](https://anilist.co/anime/98437)   |
 | 8   | That Time I Got Reincarnated as a Slime Season 2 Part 2                                     | 2021 | 02 Aug 2025 | [SeaDex](https://releases.moe/116742/), [AniList](https://anilist.co/anime/116742) |
 | 9   | Overlord III                                                                                | 2018 | 31 Jul 2025 | [SeaDex](https://releases.moe/101474/), [AniList](https://anilist.co/anime/101474) |
 | 10  | SK8 the Infinity                                                                            | 2021 | 02 Aug 2025 | [SeaDex](https://releases.moe/124153/), [AniList](https://anilist.co/anime/124153) |
