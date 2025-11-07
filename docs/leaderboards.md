@@ -16,7 +16,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
 | 🥈   | CRUCiBLE         | 139   |
-| 🥉   | sam              | 131   |
+| 🥉   | sam              | 132   |
 | 4    | NAN0             | 96    |
 | 5    | MTBB             | 94    |
 | 6    | SubsPlease       | 83    |
@@ -115,11 +115,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | LostYears        | 31    |
 | 10   | Bunny-Apocalypse | 31    |
 | 11   | MTBB             | 30    |
-| 12   | Erai-raws        | 24    |
+| 12   | Erai-raws        | 25    |
 | 13   | Arid             | 23    |
 | 14   | Kametsu          | 22    |
 | 15   | NOGRP            | 22    |
-| 16   | VARYG            | 21    |
+| 16   | VARYG            | 22    |
 | 17   | Holomux          | 20    |
 | 18   | CTR              | 20    |
 | 19   | Headpatter       | 19    |
