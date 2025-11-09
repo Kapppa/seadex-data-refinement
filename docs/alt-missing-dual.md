@@ -32,7 +32,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 25  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                   | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
 | 26  | Plunderer                                                                                   | 2020 | 03 Aug 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
 | 27  | Golden Kamuy                                                                                | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
-| 28  | Kemono Jihen                                                                                | 2021 | 16 May 2025 | [SeaDex](https://releases.moe/114085/), [AniList](https://anilist.co/anime/114085) |
+| 28  | Kemono Jihen                                                                                | 2021 | 09 Nov 2025 | [SeaDex](https://releases.moe/114085/), [AniList](https://anilist.co/anime/114085) |
 | 29  | Chihayafuru                                                                                 | 2011 | 02 Aug 2025 | [SeaDex](https://releases.moe/10800/), [AniList](https://anilist.co/anime/10800)   |
 | 30  | Science Fell in Love, So I Tried to Prove It                                                | 2020 | 29 Dec 2024 | [SeaDex](https://releases.moe/107067/), [AniList](https://anilist.co/anime/107067) |
 | 31  | Blue Box                                                                                    | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
@@ -106,8 +106,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 99  | FrFr! ~Free! short movie~                                                                   | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/19671/), [AniList](https://anilist.co/anime/19671)   |
 | 100 | 18if                                                                                        | 2017 | 25 Jun 2025 | [SeaDex](https://releases.moe/98512/), [AniList](https://anilist.co/anime/98512)   |
 | 101 | I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity  | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/151126/), [AniList](https://anilist.co/anime/151126) |
-| 102 | Wanna be the Strongest in the World!                                                        | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
-| 103 | Future Boy Conan                                                                            | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
+| 102 | Future Boy Conan                                                                            | 1978 | 16 May 2025 | [SeaDex](https://releases.moe/302/), [AniList](https://anilist.co/anime/302)       |
+| 103 | Wanna be the Strongest in the World!                                                        | 2013 | 26 Oct 2024 | [SeaDex](https://releases.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
 | 104 | Nobunagun                                                                                   | 2014 | 07 Jun 2025 | [SeaDex](https://releases.moe/19855/), [AniList](https://anilist.co/anime/19855)   |
 | 105 | Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-                 | 2021 | 12 Aug 2025 | [SeaDex](https://releases.moe/136344/), [AniList](https://anilist.co/anime/136344) |
 | 106 | URAHARA                                                                                     | 2017 | 02 Aug 2025 | [SeaDex](https://releases.moe/98513/), [AniList](https://anilist.co/anime/98513)   |
