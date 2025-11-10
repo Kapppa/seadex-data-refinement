@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `118.1 TiB`
-- Best size: `88.6 TiB`
+- Total size: `118.0 TiB`
+- Best size: `88.5 TiB`
 - Alt size: `29.5 TiB`
 - Realistic size: `92.1 TiB`
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.5 TiB   | 12.4 TiB (85.62%)   | 184 (~80.5 GiB each)  |
-| 2    | CRUCiBLE         | 10.4 TiB   | 10.4 TiB (100.00%)  | 139 (~76.7 GiB each)  |
+| 2    | CRUCiBLE         | 10.3 TiB   | 10.3 TiB (100.00%)  | 138 (~76.8 GiB each)  |
 | 3    | NAN0             | 7.2 TiB    | 7.2 TiB (98.96%)    | 96 (~77.2 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.5 TiB (91.83%)    | 133 (~29.4 GiB each)  |
 | 5    | TTGA             | 2.7 TiB    | 2.5 TiB (92.70%)    | 37 (~74.1 GiB each)   |
@@ -56,10 +56,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 34   | Reza             | 703.9 GiB  | 357.5 GiB (50.79%)  | 27 (~26.1 GiB each)   |
 | 35   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
 | 36   | FLE              | 672.5 GiB  | 634.4 GiB (94.33%)  | 18 (~37.4 GiB each)   |
-| 37   | Arid             | 642.0 GiB  | 211.8 GiB (32.99%)  | 45 (~14.3 GiB each)   |
-| 38   | Drag             | 639.7 GiB  | 146.0 GiB (22.81%)  | 58 (~11.0 GiB each)   |
-| 39   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 40   | YURASUKA         | 631.6 GiB  | 120.7 GiB (19.11%)  | 57 (~11.1 GiB each)   |
+| 37   | YURASUKA         | 651.3 GiB  | 140.4 GiB (21.55%)  | 58 (~11.2 GiB each)   |
+| 38   | Arid             | 642.0 GiB  | 211.8 GiB (32.99%)  | 45 (~14.3 GiB each)   |
+| 39   | Drag             | 639.7 GiB  | 146.0 GiB (22.81%)  | 58 (~11.0 GiB each)   |
+| 40   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
 | 41   | UDF              | 625.2 GiB  | 249.3 GiB (39.88%)  | 28 (~22.3 GiB each)   |
 | 42   | SEV              | 613.8 GiB  | 0 B (0.00%)         | 13 (~47.2 GiB each)   |
 | 43   | D4C              | 583.2 GiB  | 583.2 GiB (100.00%) | 3 (~194.4 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 48   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 49   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 36.7 TiB   | 21.0 TiB (57.16%)   | 1732 (~21.7 GiB each) |
+| 50   | Others           | 36.7 TiB   | 21.0 TiB (57.17%)   | 1732 (~21.7 GiB each) |

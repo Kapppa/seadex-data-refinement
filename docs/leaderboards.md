@@ -15,7 +15,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
-| 🥈   | CRUCiBLE         | 139   |
+| 🥈   | CRUCiBLE         | 138   |
 | 🥉   | sam              | 132   |
 | 4    | NAN0             | 96    |
 | 5    | MTBB             | 94    |
@@ -23,9 +23,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | YURI             | 71    |
 | 8    | Moxie            | 61    |
 | 9    | hchcsen          | 59    |
-| 10   | smol             | 58    |
-| 11   | Drag             | 57    |
-| 12   | YURASUKA         | 57    |
+| 10   | YURASUKA         | 58    |
+| 11   | smol             | 58    |
+| 12   | Drag             | 57    |
 | 13   | Headpatter       | 56    |
 | 14   | KH               | 54    |
 | 15   | LostYears        | 46    |
@@ -44,8 +44,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group      | Count |
 | :----| :----------| :-----|
-| 🥇   | CRUCiBLE   | 109   |
-| 🥈   | -ZR-       | 109   |
+| 🥇   | -ZR-       | 109   |
+| 🥈   | CRUCiBLE   | 108   |
 | 🥉   | sam        | 90    |
 | 4    | NAN0       | 76    |
 | 5    | LYS1TH3A   | 33    |
@@ -68,14 +68,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | Vodes      | 12    |
 | 23   | PMR        | 12    |
 | 24   | SCY        | 11    |
-| 25   | hydes      | 10    |
+| 25   | YURASUKA   | 10    |
 
 ## Top 25 - Best entries
 
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
-| 🥈   | CRUCiBLE   | 139   |
+| 🥈   | CRUCiBLE   | 138   |
 | 🥉   | sam        | 121   |
 | 4    | NAN0       | 95    |
 | 5    | MTBB       | 64    |
@@ -122,8 +122,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | VARYG            | 22    |
 | 17   | Holomux          | 20    |
 | 18   | CTR              | 20    |
-| 19   | Chihiro          | 19    |
-| 20   | Headpatter       | 19    |
+| 19   | Headpatter       | 19    |
+| 20   | Chihiro          | 19    |
 | 21   | SCY              | 17    |
 | 22   | Pog42            | 17    |
 | 23   | HorribleSubs     | 16    |
