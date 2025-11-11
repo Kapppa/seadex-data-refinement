@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `118.0 TiB`
-- Best size: `88.5 TiB`
+- Total size: `118.1 TiB`
+- Best size: `88.7 TiB`
 - Alt size: `29.5 TiB`
 - Realistic size: `92.1 TiB`
 
@@ -43,13 +43,13 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 21   | koala            | 871.3 GiB  | 871.3 GiB (100.00%) | 17 (~51.3 GiB each)   |
 | 22   | YURI             | 868.7 GiB  | 385.1 GiB (44.33%)  | 71 (~12.2 GiB each)   |
 | 23   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
-| 24   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
-| 25   | Bunny-Apocalypse | 809.5 GiB  | 173.8 GiB (21.47%)  | 38 (~21.3 GiB each)   |
-| 26   | Holomux          | 804.4 GiB  | 163.2 GiB (20.29%)  | 29 (~27.7 GiB each)   |
-| 27   | LostYears        | 780.1 GiB  | 288.6 GiB (36.99%)  | 46 (~17.0 GiB each)   |
-| 28   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
-| 29   | WAP              | 776.1 GiB  | 776.1 GiB (100.00%) | 8 (~97.0 GiB each)    |
-| 30   | LaCroiX          | 767.9 GiB  | 767.9 GiB (100.00%) | 12 (~64.0 GiB each)   |
+| 24   | LaCroiX          | 838.5 GiB  | 838.5 GiB (100.00%) | 13 (~64.5 GiB each)   |
+| 25   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
+| 26   | Bunny-Apocalypse | 809.5 GiB  | 173.8 GiB (21.47%)  | 38 (~21.3 GiB each)   |
+| 27   | Holomux          | 804.4 GiB  | 163.2 GiB (20.29%)  | 29 (~27.7 GiB each)   |
+| 28   | LostYears        | 780.1 GiB  | 288.6 GiB (36.99%)  | 46 (~17.0 GiB each)   |
+| 29   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
+| 30   | WAP              | 776.1 GiB  | 776.1 GiB (100.00%) | 8 (~97.0 GiB each)    |
 | 31   | Okay-Subs        | 752.8 GiB  | 735.7 GiB (97.73%)  | 37 (~20.3 GiB each)   |
 | 32   | ZeroBuild        | 741.0 GiB  | 661.0 GiB (89.21%)  | 16 (~46.3 GiB each)   |
 | 33   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 48   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 49   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 36.7 TiB   | 21.0 TiB (57.17%)   | 1732 (~21.7 GiB each) |
+| 50   | Others           | 36.8 TiB   | 21.0 TiB (57.24%)   | 1735 (~21.7 GiB each) |
