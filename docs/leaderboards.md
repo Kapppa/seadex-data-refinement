@@ -15,7 +15,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
-| 🥈   | CRUCiBLE         | 138   |
+| 🥈   | CRUCiBLE         | 140   |
 | 🥉   | sam              | 132   |
 | 4    | NAN0             | 96    |
 | 5    | MTBB             | 94    |
@@ -44,8 +44,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group      | Count |
 | :----| :----------| :-----|
-| 🥇   | -ZR-       | 109   |
-| 🥈   | CRUCiBLE   | 108   |
+| 🥇   | CRUCiBLE   | 110   |
+| 🥈   | -ZR-       | 109   |
 | 🥉   | sam        | 90    |
 | 4    | NAN0       | 76    |
 | 5    | LYS1TH3A   | 33    |
@@ -75,7 +75,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
-| 🥈   | CRUCiBLE   | 138   |
+| 🥈   | CRUCiBLE   | 140   |
 | 🥉   | sam        | 121   |
 | 4    | NAN0       | 95    |
 | 5    | MTBB       | 64    |
@@ -115,15 +115,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | LostYears        | 31    |
 | 10   | Bunny-Apocalypse | 31    |
 | 11   | MTBB             | 30    |
-| 12   | Erai-raws        | 25    |
+| 12   | Erai-raws        | 26    |
 | 13   | Arid             | 23    |
 | 14   | Kametsu          | 22    |
 | 15   | NOGRP            | 22    |
 | 16   | VARYG            | 22    |
 | 17   | Holomux          | 20    |
 | 18   | CTR              | 20    |
-| 19   | Chihiro          | 19    |
-| 20   | Headpatter       | 19    |
+| 19   | Headpatter       | 19    |
+| 20   | Chihiro          | 19    |
 | 21   | SCY              | 17    |
 | 22   | Pog42            | 17    |
 | 23   | HorribleSubs     | 16    |

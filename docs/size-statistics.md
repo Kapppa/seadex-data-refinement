@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `118.1 TiB`
+- Total size: `118.2 TiB`
 - Best size: `88.7 TiB`
 - Alt size: `29.5 TiB`
-- Realistic size: `92.1 TiB`
+- Realistic size: `92.2 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.5 TiB   | 12.4 TiB (85.62%)   | 184 (~80.5 GiB each)  |
-| 2    | CRUCiBLE         | 10.3 TiB   | 10.3 TiB (100.00%)  | 138 (~76.8 GiB each)  |
+| 2    | CRUCiBLE         | 10.5 TiB   | 10.5 TiB (100.00%)  | 140 (~77.2 GiB each)  |
 | 3    | NAN0             | 7.2 TiB    | 7.2 TiB (98.96%)    | 96 (~77.2 GiB each)   |
 | 4    | sam              | 3.8 TiB    | 3.5 TiB (91.83%)    | 133 (~29.4 GiB each)  |
 | 5    | TTGA             | 2.7 TiB    | 2.5 TiB (92.70%)    | 37 (~74.1 GiB each)   |
@@ -32,7 +32,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 10   | Headpatter       | 1.7 TiB    | 1.5 TiB (88.10%)    | 59 (~29.5 GiB each)   |
 | 11   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 12   | MTBB             | 1.5 TiB    | 1.2 TiB (83.20%)    | 94 (~15.8 GiB each)   |
-| 13   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.53%)  | 83 (~17.1 GiB each)   |
+| 13   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.72%)  | 83 (~16.9 GiB each)   |
 | 14   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.7 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 16   | NOGRP            | 1.1 TiB    | 862.0 GiB (79.62%)  | 33 (~32.8 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 48   | SCY              | 503.5 GiB  | 185.4 GiB (36.83%)  | 29 (~17.4 GiB each)   |
 | 49   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 36.8 TiB   | 21.0 TiB (57.24%)   | 1735 (~21.7 GiB each) |
+| 50   | Others           | 36.6 TiB   | 20.8 TiB (56.98%)   | 1735 (~21.6 GiB each) |
