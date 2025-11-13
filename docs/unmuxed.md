@@ -97,8 +97,8 @@
 | 94  | Sword of the Stranger                                                                         | 2007 | 14 Feb 2025 | [SeaDex](https://releases.moe/2418/), [AniList](https://anilist.co/anime/2418)     |
 | 95  | My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World! | 2022 | 08 Jul 2025 | [SeaDex](https://releases.moe/129192/), [AniList](https://anilist.co/anime/129192) |
 | 96  | Brynhildr in the Darkness                                                                     | 2014 | 02 Nov 2025 | [SeaDex](https://releases.moe/20534/), [AniList](https://anilist.co/anime/20534)   |
-| 97  | Flying Witch                                                                                  | 2016 | 01 Jun 2025 | [SeaDex](https://releases.moe/21284/), [AniList](https://anilist.co/anime/21284)   |
-| 98  | Pseudo Harem                                                                                  | 2024 | 21 Mar 2025 | [SeaDex](https://releases.moe/163623/), [AniList](https://anilist.co/anime/163623) |
+| 97  | Pseudo Harem                                                                                  | 2024 | 21 Mar 2025 | [SeaDex](https://releases.moe/163623/), [AniList](https://anilist.co/anime/163623) |
+| 98  | Flying Witch                                                                                  | 2016 | 01 Jun 2025 | [SeaDex](https://releases.moe/21284/), [AniList](https://anilist.co/anime/21284)   |
 | 99  | Place to Place                                                                                | 2012 | 31 May 2025 | [SeaDex](https://releases.moe/12291/), [AniList](https://anilist.co/anime/12291)   |
 | 100 | Gargantia on the Verdurous Planet                                                             | 2013 | 02 Aug 2025 | [SeaDex](https://releases.moe/16524/), [AniList](https://anilist.co/anime/16524)   |
 | 101 | PSYCHO-PASS 3                                                                                 | 2019 | 14 Jun 2025 | [SeaDex](https://releases.moe/108307/), [AniList](https://anilist.co/anime/108307) |
