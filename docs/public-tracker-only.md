@@ -49,8 +49,8 @@ This list excludes torrents that have been manually verified to break AB rules.
 | 42  | Arifureta: From Commonplace to World's Strongest Season 2                                | 2022 | 11 Oct 2025 | [SeaDex](https://releases.moe/112323/), [AniList](https://anilist.co/anime/112323) |
 | 43  | The Hidden Dungeon Only I Can Enter                                                      | 2021 | 19 Aug 2025 | [SeaDex](https://releases.moe/118375/), [AniList](https://anilist.co/anime/118375) |
 | 44  | Blue Box                                                                                 | 2024 | 08 Jul 2025 | [SeaDex](https://releases.moe/170942/), [AniList](https://anilist.co/anime/170942) |
-| 45  | Love Live! School Idol Project                                                           | 2013 | 06 Jul 2025 | [SeaDex](https://releases.moe/15051/), [AniList](https://anilist.co/anime/15051)   |
-| 46  | Claymore                                                                                 | 2007 | 02 Aug 2025 | [SeaDex](https://releases.moe/1818/), [AniList](https://anilist.co/anime/1818)     |
+| 45  | Claymore                                                                                 | 2007 | 02 Aug 2025 | [SeaDex](https://releases.moe/1818/), [AniList](https://anilist.co/anime/1818)     |
+| 46  | Love Live! School Idol Project                                                           | 2013 | 06 Jul 2025 | [SeaDex](https://releases.moe/15051/), [AniList](https://anilist.co/anime/15051)   |
 | 47  | Steins;Gate: Egoistic Poriomania                                                         | 2012 | 09 Nov 2025 | [SeaDex](https://releases.moe/10863/), [AniList](https://anilist.co/anime/10863)   |
 | 48  | the Garden of sinners Chapter 1: Thanatos. (Overlooking View)                            | 2007 | 17 Jul 2025 | [SeaDex](https://releases.moe/2593/), [AniList](https://anilist.co/anime/2593)     |
 | 49  | GOBLIN SLAYER II                                                                         | 2023 | 03 Aug 2025 | [SeaDex](https://releases.moe/129188/), [AniList](https://anilist.co/anime/129188) |
