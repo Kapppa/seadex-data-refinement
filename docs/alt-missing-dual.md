@@ -48,7 +48,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 41  | Romantic Killer                                                                             | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/153930/), [AniList](https://anilist.co/anime/153930) |
 | 42  | I'm Standing on a Million Lives                                                             | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
 | 43  | Cells at Work!!                                                                             | 2021 | 14 Aug 2025 | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |
-| 44  | Love Tyrant                                                                                 | 2017 | 13 Oct 2025 | [SeaDex](https://releases.moe/21517/), [AniList](https://anilist.co/anime/21517)   |
+| 44  | Love Tyrant                                                                                 | 2017 | 15 Nov 2025 | [SeaDex](https://releases.moe/21517/), [AniList](https://anilist.co/anime/21517)   |
 | 45  | NANBAKA                                                                                     | 2016 | 03 Aug 2025 | [SeaDex](https://releases.moe/21051/), [AniList](https://anilist.co/anime/21051)   |
 | 46  | Love After World Domination                                                                 | 2022 | 25 Jun 2025 | [SeaDex](https://releases.moe/132010/), [AniList](https://anilist.co/anime/132010) |
 | 47  | Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!            | 2021 | 03 Aug 2025 | [SeaDex](https://releases.moe/126791/), [AniList](https://anilist.co/anime/126791) |
@@ -67,8 +67,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 60  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                  | 2025 | 01 Aug 2025 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
 | 61  | Infinite Dendrogram                                                                         | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
 | 62  | Children who Chase Lost Voices                                                              | 2011 | 08 Jun 2025 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
-| 63  | Japan Sinks: 2020                                                                           | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
-| 64  | The Brilliant Healer's New Life in the Shadows                                              | 2025 | 08 Oct 2025 | [SeaDex](https://releases.moe/175872/), [AniList](https://anilist.co/anime/175872) |
+| 63  | The Brilliant Healer's New Life in the Shadows                                              | 2025 | 08 Oct 2025 | [SeaDex](https://releases.moe/175872/), [AniList](https://anilist.co/anime/175872) |
+| 64  | Japan Sinks: 2020                                                                           | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
 | 65  | Tokyo Ghoul: [PINTO]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
 | 66  | Sarazanmai                                                                                  | 2019 | 15 Nov 2023 | [SeaDex](https://releases.moe/101261/), [AniList](https://anilist.co/anime/101261) |
 | 67  | Pretty Boy Detective Club                                                                   | 2021 | 07 Jun 2025 | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |

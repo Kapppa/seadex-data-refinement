@@ -22,13 +22,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | SubsPlease       | 83    |
 | 7    | YURI             | 71    |
 | 8    | Moxie            | 61    |
-| 9    | hchcsen          | 59    |
-| 10   | YURASUKA         | 58    |
+| 9    | YURASUKA         | 59    |
+| 10   | hchcsen          | 59    |
 | 11   | smol             | 58    |
 | 12   | Drag             | 57    |
-| 13   | Headpatter       | 56    |
+| 13   | Headpatter       | 57    |
 | 14   | KH               | 54    |
-| 15   | LostYears        | 46    |
+| 15   | LostYears        | 45    |
 | 16   | Arid             | 44    |
 | 17   | Bunny-Apocalypse | 38    |
 | 18   | LYS1TH3A         | 37    |
@@ -54,21 +54,21 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | smol       | 23    |
 | 9    | Lulu       | 19    |
 | 10   | Headpatter | 18    |
-| 11   | Flugel     | 17    |
+| 11   | FLE        | 17    |
 | 12   | YURI       | 16    |
-| 13   | Moxie      | 15    |
-| 14   | LazyRemux  | 15    |
-| 15   | LostYears  | 15    |
-| 16   | koala      | 14    |
-| 17   | FLE        | 14    |
+| 13   | Flugel     | 16    |
+| 14   | Moxie      | 15    |
+| 15   | LazyRemux  | 15    |
+| 16   | LostYears  | 15    |
+| 17   | koala      | 14    |
 | 18   | FraMeSToR  | 13    |
 | 19   | Arid       | 13    |
 | 20   | ZeroBuild  | 13    |
 | 21   | KH         | 12    |
 | 22   | Vodes      | 12    |
 | 23   | PMR        | 12    |
-| 24   | SCY        | 11    |
-| 25   | YURASUKA   | 10    |
+| 24   | YURASUKA   | 10    |
+| 25   | hydes      | 10    |
 
 ## Top 25 - Best entries
 
@@ -81,7 +81,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | MTBB       | 64    |
 | 6    | Moxie      | 61    |
 | 7    | smol       | 56    |
-| 8    | Headpatter | 40    |
+| 8    | Headpatter | 41    |
 | 9    | TTGA       | 35    |
 | 10   | Okay-Subs  | 35    |
 | 11   | LYS1TH3A   | 34    |
@@ -93,10 +93,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Lulu       | 22    |
 | 18   | Arid       | 22    |
 | 19   | LazyRemux  | 19    |
-| 20   | koala      | 17    |
-| 21   | Flugel     | 17    |
-| 22   | Drag       | 16    |
-| 23   | FLE        | 16    |
+| 20   | FLE        | 19    |
+| 21   | koala      | 17    |
+| 22   | Flugel     | 16    |
+| 23   | Drag       | 16    |
 | 24   | LostYears  | 15    |
 | 25   | UDF        | 14    |
 
@@ -105,15 +105,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 70    |
-| 🥈   | YURASUKA         | 47    |
+| 🥈   | YURASUKA         | 48    |
 | 🥉   | Drag             | 42    |
 | 4    | KH               | 42    |
 | 5    | YURI             | 37    |
 | 6    | -ZR-             | 37    |
 | 7    | hchcsen          | 33    |
 | 8    | Commie           | 33    |
-| 9    | LostYears        | 31    |
-| 10   | Bunny-Apocalypse | 31    |
+| 9    | Bunny-Apocalypse | 31    |
+| 10   | LostYears        | 30    |
 | 11   | MTBB             | 30    |
 | 12   | Erai-raws        | 26    |
 | 13   | Arid             | 23    |
@@ -122,8 +122,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | VARYG            | 22    |
 | 17   | Holomux          | 20    |
 | 18   | CTR              | 20    |
-| 19   | Chihiro          | 19    |
-| 20   | Headpatter       | 19    |
+| 19   | Headpatter       | 19    |
+| 20   | Chihiro          | 19    |
 | 21   | SCY              | 17    |
 | 22   | Pog42            | 17    |
 | 23   | HorribleSubs     | 16    |
