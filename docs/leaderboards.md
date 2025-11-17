@@ -38,7 +38,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | PMR              | 34    |
 | 23   | NOGRP            | 33    |
 | 24   | Commie           | 33    |
-| 25   | Pog42            | 31    |
+| 25   | Kametsu          | 30    |
 
 ## Top 25 - Best dual audio entries
 
@@ -125,7 +125,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | Headpatter       | 19    |
 | 20   | Chihiro          | 19    |
 | 21   | SCY              | 17    |
-| 22   | Pog42            | 17    |
+| 22   | Pog42            | 16    |
 | 23   | HorribleSubs     | 16    |
 | 24   | Reza             | 15    |
 | 25   | UDF              | 13    |

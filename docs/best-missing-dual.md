@@ -15,7 +15,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 8   | From the New World                                                              | 2012 | 10 Aug 2025 | [SeaDex](https://releases.moe/13125/), [AniList](https://anilist.co/anime/13125)   |
 | 9   | Laid-Back Camp                                                                  | 2018 | 11 Oct 2024 | [SeaDex](https://releases.moe/98444/), [AniList](https://anilist.co/anime/98444)   |
 | 10  | Evangelion: 1.0 You Are (Not) Alone                                             | 2007 | 28 Jul 2025 | [SeaDex](https://releases.moe/2759/), [AniList](https://anilist.co/anime/2759)     |
-| 11  | BEASTARS Season 2                                                               | 2021 | 01 Jun 2025 | [SeaDex](https://releases.moe/114194/), [AniList](https://anilist.co/anime/114194) |
+| 11  | BEASTARS Season 2                                                               | 2021 | 17 Nov 2025 | [SeaDex](https://releases.moe/114194/), [AniList](https://anilist.co/anime/114194) |
 | 12  | March comes in like a lion Season 2                                             | 2017 | 22 Jul 2024 | [SeaDex](https://releases.moe/98478/), [AniList](https://anilist.co/anime/98478)   |
 | 13  | Evangelion: 2.0 You Can (Not) Advance                                           | 2009 | 23 Jun 2025 | [SeaDex](https://releases.moe/3784/), [AniList](https://anilist.co/anime/3784)     |
 | 14  | SHIROBAKO                                                                       | 2014 | 01 Aug 2025 | [SeaDex](https://releases.moe/20812/), [AniList](https://anilist.co/anime/20812)   |

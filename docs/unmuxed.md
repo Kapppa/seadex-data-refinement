@@ -50,7 +50,7 @@
 | 47  | Strike the Blood                                                                              | 2013 | 24 Nov 2024 | [SeaDex](https://releases.moe/18277/), [AniList](https://anilist.co/anime/18277)   |
 | 48  | Seirei Gensouki: Spirit Chronicles                                                            | 2021 | 29 Jun 2025 | [SeaDex](https://releases.moe/126546/), [AniList](https://anilist.co/anime/126546) |
 | 49  | How a Realist Hero Rebuilt the Kingdom                                                        | 2021 | 06 Aug 2025 | [SeaDex](https://releases.moe/117612/), [AniList](https://anilist.co/anime/117612) |
-| 50  | NEW GAME!                                                                                     | 2016 | 06 May 2025 | [SeaDex](https://releases.moe/21455/), [AniList](https://anilist.co/anime/21455)   |
+| 50  | NEW GAME!                                                                                     | 2016 | 17 Nov 2025 | [SeaDex](https://releases.moe/21455/), [AniList](https://anilist.co/anime/21455)   |
 | 51  | AJIN: Demi-Human                                                                              | 2016 | 31 May 2025 | [SeaDex](https://releases.moe/21341/), [AniList](https://anilist.co/anime/21341)   |
 | 52  | Twin Star Exorcists                                                                           | 2016 | 01 Jun 2025 | [SeaDex](https://releases.moe/21499/), [AniList](https://anilist.co/anime/21499)   |
 | 53  | BLEACH: Thousand-Year Blood War - The Separation                                              | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/159322/), [AniList](https://anilist.co/anime/159322) |
@@ -169,7 +169,7 @@
 | 166 | Ace Attorney                                                                                  | 2016 | 03 Aug 2025 | [SeaDex](https://releases.moe/21360/), [AniList](https://anilist.co/anime/21360)   |
 | 167 | Horizon in the Middle of Nowhere                                                              | 2011 | 10 Jul 2024 | [SeaDex](https://releases.moe/10456/), [AniList](https://anilist.co/anime/10456)   |
 | 168 | Cop Craft                                                                                     | 2019 | 07 Nov 2024 | [SeaDex](https://releases.moe/106893/), [AniList](https://anilist.co/anime/106893) |
-| 169 | My Sister, My Writer                                                                          | 2018 | 09 Apr 2025 | [SeaDex](https://releases.moe/100382/), [AniList](https://anilist.co/anime/100382) |
+| 169 | My Sister, My Writer                                                                          | 2018 | 17 Nov 2025 | [SeaDex](https://releases.moe/100382/), [AniList](https://anilist.co/anime/100382) |
 | 170 | My Wife is the Student Council President+!                                                    | 2016 | 24 Jul 2025 | [SeaDex](https://releases.moe/21610/), [AniList](https://anilist.co/anime/21610)   |
 | 171 | The Great Passage                                                                             | 2016 | 01 Aug 2025 | [SeaDex](https://releases.moe/21703/), [AniList](https://anilist.co/anime/21703)   |
 | 172 | UzaMaid!                                                                                      | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/101506/), [AniList](https://anilist.co/anime/101506) |
@@ -189,7 +189,7 @@
 | 186 | DRAMAtical Murder                                                                             | 2014 | 16 Oct 2025 | [SeaDex](https://releases.moe/20677/), [AniList](https://anilist.co/anime/20677)   |
 | 187 | Chaos;Child                                                                                   | 2017 | 07 Apr 2025 | [SeaDex](https://releases.moe/21126/), [AniList](https://anilist.co/anime/21126)   |
 | 188 | MUSHI-SHI Special: Bell Droplets                                                              | 2015 | 15 Jul 2025 | [SeaDex](https://releases.moe/21008/), [AniList](https://anilist.co/anime/21008)   |
-| 189 | Strawberry Panic                                                                              | 2006 | 29 Dec 2024 | [SeaDex](https://releases.moe/855/), [AniList](https://anilist.co/anime/855)       |
+| 189 | Strawberry Panic                                                                              | 2006 | 17 Nov 2025 | [SeaDex](https://releases.moe/855/), [AniList](https://anilist.co/anime/855)       |
 | 190 | Macross                                                                                       | 1982 | 03 Aug 2025 | [SeaDex](https://releases.moe/1088/), [AniList](https://anilist.co/anime/1088)     |
 | 191 | Garo: The Animation                                                                           | 2014 | 06 Feb 2025 | [SeaDex](https://releases.moe/20753/), [AniList](https://anilist.co/anime/20753)   |
 | 192 | Momokuri                                                                                      | 2015 | 24 Jul 2024 | [SeaDex](https://releases.moe/21050/), [AniList](https://anilist.co/anime/21050)   |
