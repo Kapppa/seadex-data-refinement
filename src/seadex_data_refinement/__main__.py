@@ -129,7 +129,7 @@ def get_entries(
         case "public-tracker-only":
             header = "# Public tracker only"
             header += "\n\nThis list excludes torrents that have been manually verified to break AB rules.\n\n"
-            cutoff_date = dt.datetime(2025, 6, 30, tzinfo=dt.UTC)
+            cutoff_date = dt.datetime(2025, 10, 27, tzinfo=dt.UTC)
 
             with seadex.SeaDexEntry() as seadex_entry:
                 for entry in seadex_entry.iterator():
