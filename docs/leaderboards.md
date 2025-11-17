@@ -27,7 +27,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | smol             | 58    |
 | 12   | Drag             | 57    |
 | 13   | Headpatter       | 57    |
-| 14   | KH               | 54    |
+| 14   | KH               | 53    |
 | 15   | LostYears        | 45    |
 | 16   | Arid             | 44    |
 | 17   | Bunny-Apocalypse | 38    |
@@ -54,9 +54,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | smol       | 23    |
 | 9    | Lulu       | 19    |
 | 10   | Headpatter | 18    |
-| 11   | FLE        | 17    |
-| 12   | YURI       | 16    |
-| 13   | Flugel     | 16    |
+| 11   | Flugel     | 17    |
+| 12   | FLE        | 17    |
+| 13   | YURI       | 16    |
 | 14   | Moxie      | 15    |
 | 15   | LazyRemux  | 15    |
 | 16   | LostYears  | 15    |
@@ -95,7 +95,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | LazyRemux  | 19    |
 | 20   | FLE        | 19    |
 | 21   | koala      | 17    |
-| 22   | Flugel     | 16    |
+| 22   | Flugel     | 17    |
 | 23   | Drag       | 16    |
 | 24   | LostYears  | 15    |
 | 25   | UDF        | 14    |
@@ -107,7 +107,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | SubsPlease       | 70    |
 | 🥈   | YURASUKA         | 48    |
 | 🥉   | Drag             | 42    |
-| 4    | KH               | 42    |
+| 4    | KH               | 41    |
 | 5    | YURI             | 37    |
 | 6    | -ZR-             | 37    |
 | 7    | hchcsen          | 33    |
@@ -128,4 +128,4 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 22   | Pog42            | 17    |
 | 23   | HorribleSubs     | 16    |
 | 24   | Reza             | 15    |
-| 25   | UDF              | 14    |
+| 25   | UDF              | 13    |

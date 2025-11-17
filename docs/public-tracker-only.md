@@ -18,7 +18,7 @@ This list excludes torrents that have been manually verified to break AB rules.
 | 11  | Solo Leveling Season 2 -Arise from the Shadow-                                           | 2025 | 22 Aug 2025 | [SeaDex](https://releases.moe/176496/), [AniList](https://anilist.co/anime/176496) |
 | 12  | Serial Experiments Lain                                                                  | 1998 | 25 Oct 2025 | [SeaDex](https://releases.moe/339/), [AniList](https://anilist.co/anime/339)       |
 | 13  | Great Pretender                                                                          | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
-| 14  | Mushoku Tensei: Jobless Reincarnation Season 2                                           | 2023 | 10 Oct 2025 | [SeaDex](https://releases.moe/146065/), [AniList](https://anilist.co/anime/146065) |
+| 14  | Mushoku Tensei: Jobless Reincarnation Season 2                                           | 2023 | 16 Nov 2025 | [SeaDex](https://releases.moe/146065/), [AniList](https://anilist.co/anime/146065) |
 | 15  | Grand Blue Dreaming                                                                      | 2018 | 16 Nov 2025 | [SeaDex](https://releases.moe/100922/), [AniList](https://anilist.co/anime/100922) |
 | 16  | Steins;Gate 0                                                                            | 2018 | 10 Nov 2025 | [SeaDex](https://releases.moe/21127/), [AniList](https://anilist.co/anime/21127)   |
 | 17  | SPY x FAMILY Season 2                                                                    | 2023 | 19 Aug 2025 | [SeaDex](https://releases.moe/158927/), [AniList](https://anilist.co/anime/158927) |
