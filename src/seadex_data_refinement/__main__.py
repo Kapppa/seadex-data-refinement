@@ -3,7 +3,7 @@ from __future__ import annotations
 import datetime as dt
 import re
 from pathlib import Path
-from typing import Literal
+from typing import Final, Literal
 
 import seadex
 from cyclopts import App, Group
@@ -60,6 +60,7 @@ def get_entries(
     """
     entries: dict[int, seadex.EntryRecord] = {}
     header: str | None = None
+    sort_by: Literal["popularity", "updated_at"] = "popularity"
 
     match criteria:
         case "unmuxed":
@@ -129,7 +130,8 @@ def get_entries(
         case "public-tracker-only":
             header = "# Public tracker only"
             header += "\n\nThis list excludes torrents that have been manually verified to break AB rules.\n\n"
-            cutoff_date = dt.datetime(2025, 11, 16, tzinfo=dt.UTC)
+            cutoff_date: Final = dt.datetime(2025, 11, 16, tzinfo=dt.UTC)  # 16th November, 2025
+            sort_by = "updated_at"
 
             with seadex.SeaDexEntry() as seadex_entry:
                 for entry in seadex_entry.iterator():
@@ -137,7 +139,7 @@ def get_entries(
                     if entry.updated_at < cutoff_date:
                         continue
                     for torrent in entry.torrents:
-                        if torrent.tracker.is_public():
+                        if torrent.tracker.is_public() and seadex.Tag.INCOMPLETE not in torrent.tags:
                             release_group = torrent.release_group.casefold().strip()
                             if not any(
                                 t.tracker.is_private()
@@ -196,7 +198,7 @@ def get_entries(
         case _:  # Won't ever happen because cyclopts already validates the input.
             raise ValueError(criteria)
 
-    collection = MediaEntryCollection.from_entry_records(entries)
+    collection = MediaEntryCollection.from_entry_records(entries, sort_by)
 
     if json:
         output = collection.to_json()

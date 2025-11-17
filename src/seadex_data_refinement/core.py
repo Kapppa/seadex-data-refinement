@@ -3,7 +3,7 @@ from __future__ import annotations
 import itertools
 import time
 from datetime import datetime
-from typing import Self
+from typing import Literal, Self
 
 import httpx
 import pyanilist
@@ -38,13 +38,17 @@ class MediaEntryCollection(BaseModel):
     entries: tuple[MediaEntry, ...]
 
     @classmethod
-    def from_entry_records(cls, entries: dict[int, seadex.EntryRecord]) -> Self:
+    def from_entry_records(
+        cls,
+        entries: dict[int, seadex.EntryRecord],
+        sort_by: Literal["popularity", "updated_at"] = "popularity",
+    ) -> Self:
         """Fetches and creates an MediaEntryCollection from AniList IDs."""
         results: list[MediaEntry] = []
 
         with pyanilist.AniList() as anilist:
             for ids in itertools.batched(entries, 200):
-                for media in anilist.get_all_media(id_in=ids):
+                for media in anilist.get_media_many(id_in=ids):
                     results.append(
                         MediaEntry(
                             id=media.id,
@@ -59,10 +63,14 @@ class MediaEntryCollection(BaseModel):
 
                 time.sleep(1)
 
-        results.sort(
-            key=lambda x: x.popularity if x.popularity is not None else -1,
-            reverse=True,
-        )
+        match sort_by:
+            case "popularity":
+                results.sort(
+                    key=lambda x: x.popularity if x.popularity is not None else -1,
+                    reverse=True,
+                )
+            case "updated_at":
+                results.sort(key=lambda x: x.updated_at or datetime.min, reverse=True)
 
         return cls(entries=tuple(results))
 
@@ -79,7 +87,7 @@ class MediaEntryCollection(BaseModel):
         ids = [int(id) for id in httpx.get(SEADEX_ANILIST_IDS_URL).raise_for_status().text.split(",")]
 
         with pyanilist.AniList() as anilist:
-            media_iter = itertools.islice(anilist.get_all_media(id_not_in=ids), count)
+            media_iter = itertools.islice(anilist.get_media_many(id_not_in=ids), count)
             for media in media_iter:
                 results.append(
                     MediaEntry(

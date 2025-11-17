@@ -23,7 +23,7 @@ class MarkdownTable:
         table = PrettyTable()
         table.set_style(TableStyle.MARKDOWN)
         table.align = "l"
-        table.field_names = self.fieldnames
+        table.field_names = self.fieldnames  # type: ignore[assignment]
         for row in self.rows:
             table.add_row(row)  # type: ignore[arg-type]
         out = table.get_formatted_string()
