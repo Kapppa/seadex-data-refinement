@@ -78,7 +78,7 @@
 | 75  | Hensuki: Are you willing to fall in love with a pervert, as long as she’s a cutie?            | 2019 | 10 Aug 2025 | [SeaDex](https://releases.moe/107961/), [AniList](https://anilist.co/anime/107961) |
 | 76  | Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side                 | 2017 | 23 Jun 2025 | [SeaDex](https://releases.moe/21676/), [AniList](https://anilist.co/anime/21676)   |
 | 77  | HELLO WORLD                                                                                   | 2019 | 27 Apr 2025 | [SeaDex](https://releases.moe/106240/), [AniList](https://anilist.co/anime/106240) |
-| 78  | Rainbow                                                                                       | 2010 | 08 May 2024 | [SeaDex](https://releases.moe/6114/), [AniList](https://anilist.co/anime/6114)     |
+| 78  | Rainbow                                                                                       | 2010 | 19 Nov 2025 | [SeaDex](https://releases.moe/6114/), [AniList](https://anilist.co/anime/6114)     |
 | 79  | Free! -Eternal Summer-                                                                        | 2014 | 11 Aug 2025 | [SeaDex](https://releases.moe/20614/), [AniList](https://anilist.co/anime/20614)   |
 | 80  | EDENS ZERO                                                                                    | 2021 | 02 Oct 2025 | [SeaDex](https://releases.moe/119683/), [AniList](https://anilist.co/anime/119683) |
 | 81  | Waiting in the Summer                                                                         | 2012 | 07 Jul 2025 | [SeaDex](https://releases.moe/11433/), [AniList](https://anilist.co/anime/11433)   |
@@ -97,7 +97,7 @@
 | 94  | Blade Dance of the Elementalers                                                               | 2014 | 04 Nov 2024 | [SeaDex](https://releases.moe/20663/), [AniList](https://anilist.co/anime/20663)   |
 | 95  | Sword of the Stranger                                                                         | 2007 | 14 Feb 2025 | [SeaDex](https://releases.moe/2418/), [AniList](https://anilist.co/anime/2418)     |
 | 96  | My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World! | 2022 | 08 Jul 2025 | [SeaDex](https://releases.moe/129192/), [AniList](https://anilist.co/anime/129192) |
-| 97  | Brynhildr in the Darkness                                                                     | 2014 | 02 Nov 2025 | [SeaDex](https://releases.moe/20534/), [AniList](https://anilist.co/anime/20534)   |
+| 97  | Brynhildr in the Darkness                                                                     | 2014 | 18 Nov 2025 | [SeaDex](https://releases.moe/20534/), [AniList](https://anilist.co/anime/20534)   |
 | 98  | Pseudo Harem                                                                                  | 2024 | 21 Mar 2025 | [SeaDex](https://releases.moe/163623/), [AniList](https://anilist.co/anime/163623) |
 | 99  | Flying Witch                                                                                  | 2016 | 01 Jun 2025 | [SeaDex](https://releases.moe/21284/), [AniList](https://anilist.co/anime/21284)   |
 | 100 | Place to Place                                                                                | 2012 | 31 May 2025 | [SeaDex](https://releases.moe/12291/), [AniList](https://anilist.co/anime/12291)   |
@@ -105,7 +105,7 @@
 | 102 | PSYCHO-PASS 3                                                                                 | 2019 | 14 Jun 2025 | [SeaDex](https://releases.moe/108307/), [AniList](https://anilist.co/anime/108307) |
 | 103 | Ninja Kamui                                                                                   | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/151639/), [AniList](https://anilist.co/anime/151639) |
 | 104 | By the Grace of the Gods                                                                      | 2020 | 29 Jan 2025 | [SeaDex](https://releases.moe/115740/), [AniList](https://anilist.co/anime/115740) |
-| 105 | Tokyo Magnitude 8.0                                                                           | 2009 | 15 Nov 2025 | [SeaDex](https://releases.moe/6211/), [AniList](https://anilist.co/anime/6211)     |
+| 105 | Tokyo Magnitude 8.0                                                                           | 2009 | 18 Nov 2025 | [SeaDex](https://releases.moe/6211/), [AniList](https://anilist.co/anime/6211)     |
 | 106 | Anti-Magic Academy: The 35th Test Platoon                                                     | 2015 | 09 Jan 2025 | [SeaDex](https://releases.moe/20704/), [AniList](https://anilist.co/anime/20704)   |
 | 107 | Princess Principal                                                                            | 2017 | 16 Dec 2023 | [SeaDex](https://releases.moe/98505/), [AniList](https://anilist.co/anime/98505)   |
 | 108 | Ground Control to Psychoelectric Girl                                                         | 2011 | 28 Oct 2024 | [SeaDex](https://releases.moe/9379/), [AniList](https://anilist.co/anime/9379)     |
@@ -116,8 +116,8 @@
 | 113 | Secrets of the Silent Witch                                                                   | 2025 | 18 Oct 2025 | [SeaDex](https://releases.moe/179966/), [AniList](https://anilist.co/anime/179966) |
 | 114 | Dimension W                                                                                   | 2016 | 11 Jul 2024 | [SeaDex](https://releases.moe/21256/), [AniList](https://anilist.co/anime/21256)   |
 | 115 | ALDNOAH.ZERO Season 2                                                                         | 2015 | 13 Jul 2025 | [SeaDex](https://releases.moe/20853/), [AniList](https://anilist.co/anime/20853)   |
-| 116 | The aquatope on white sand                                                                    | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/128545/), [AniList](https://anilist.co/anime/128545) |
-| 117 | High School of the Dead: Drifters of the Dead                                                 | 2011 | 09 Jul 2024 | [SeaDex](https://releases.moe/9515/), [AniList](https://anilist.co/anime/9515)     |
+| 116 | High School of the Dead: Drifters of the Dead                                                 | 2011 | 09 Jul 2024 | [SeaDex](https://releases.moe/9515/), [AniList](https://anilist.co/anime/9515)     |
+| 117 | The aquatope on white sand                                                                    | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/128545/), [AniList](https://anilist.co/anime/128545) |
 | 118 | Spy Classroom                                                                                 | 2023 | 03 Aug 2025 | [SeaDex](https://releases.moe/146323/), [AniList](https://anilist.co/anime/146323) |
 | 119 | Black Lagoon: Roberta's Blood Trail                                                           | 2010 | 14 Feb 2025 | [SeaDex](https://releases.moe/4901/), [AniList](https://anilist.co/anime/4901)     |
 | 120 | RADIANT                                                                                       | 2018 | 04 Aug 2025 | [SeaDex](https://releases.moe/101024/), [AniList](https://anilist.co/anime/101024) |
@@ -169,7 +169,7 @@
 | 166 | Ace Attorney                                                                                  | 2016 | 03 Aug 2025 | [SeaDex](https://releases.moe/21360/), [AniList](https://anilist.co/anime/21360)   |
 | 167 | Horizon in the Middle of Nowhere                                                              | 2011 | 10 Jul 2024 | [SeaDex](https://releases.moe/10456/), [AniList](https://anilist.co/anime/10456)   |
 | 168 | Cop Craft                                                                                     | 2019 | 07 Nov 2024 | [SeaDex](https://releases.moe/106893/), [AniList](https://anilist.co/anime/106893) |
-| 169 | My Sister, My Writer                                                                          | 2018 | 17 Nov 2025 | [SeaDex](https://releases.moe/100382/), [AniList](https://anilist.co/anime/100382) |
+| 169 | My Sister, My Writer                                                                          | 2018 | 18 Nov 2025 | [SeaDex](https://releases.moe/100382/), [AniList](https://anilist.co/anime/100382) |
 | 170 | My Wife is the Student Council President+!                                                    | 2016 | 24 Jul 2025 | [SeaDex](https://releases.moe/21610/), [AniList](https://anilist.co/anime/21610)   |
 | 171 | The Great Passage                                                                             | 2016 | 01 Aug 2025 | [SeaDex](https://releases.moe/21703/), [AniList](https://anilist.co/anime/21703)   |
 | 172 | UzaMaid!                                                                                      | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/101506/), [AniList](https://anilist.co/anime/101506) |

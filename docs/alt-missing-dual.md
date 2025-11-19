@@ -30,7 +30,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 23  | Welcome to Demon School! Iruma-kun                                                          | 2019 | 28 Jun 2025 | [SeaDex](https://releases.moe/107693/), [AniList](https://anilist.co/anime/107693) |
 | 24  | ODDTAXI                                                                                     | 2021 | 17 Nov 2025 | [SeaDex](https://releases.moe/128547/), [AniList](https://anilist.co/anime/128547) |
 | 25  | Kaguya-sama: Love is War -The First Kiss That Never Ends-                                   | 2023 | 14 Aug 2025 | [SeaDex](https://releases.moe/151384/), [AniList](https://anilist.co/anime/151384) |
-| 26  | Plunderer                                                                                   | 2020 | 03 Aug 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
+| 26  | Plunderer                                                                                   | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/101168/), [AniList](https://anilist.co/anime/101168) |
 | 27  | Golden Kamuy                                                                                | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/99699/), [AniList](https://anilist.co/anime/99699)   |
 | 28  | Kemono Jihen                                                                                | 2021 | 09 Nov 2025 | [SeaDex](https://releases.moe/114085/), [AniList](https://anilist.co/anime/114085) |
 | 29  | Chihayafuru                                                                                 | 2011 | 02 Aug 2025 | [SeaDex](https://releases.moe/10800/), [AniList](https://anilist.co/anime/10800)   |
@@ -66,8 +66,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 59  | My Roommate is a Cat                                                                        | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
 | 60  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                  | 2025 | 01 Aug 2025 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
 | 61  | Infinite Dendrogram                                                                         | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
-| 62  | Children who Chase Lost Voices                                                              | 2011 | 08 Jun 2025 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
-| 63  | The Brilliant Healer's New Life in the Shadows                                              | 2025 | 08 Oct 2025 | [SeaDex](https://releases.moe/175872/), [AniList](https://anilist.co/anime/175872) |
+| 62  | The Brilliant Healer's New Life in the Shadows                                              | 2025 | 08 Oct 2025 | [SeaDex](https://releases.moe/175872/), [AniList](https://anilist.co/anime/175872) |
+| 63  | Children who Chase Lost Voices                                                              | 2011 | 08 Jun 2025 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
 | 64  | Japan Sinks: 2020                                                                           | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
 | 65  | Tokyo Ghoul: [PINTO]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
 | 66  | Sarazanmai                                                                                  | 2019 | 15 Nov 2023 | [SeaDex](https://releases.moe/101261/), [AniList](https://anilist.co/anime/101261) |
@@ -99,7 +99,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 92  | No Guns Life Season 2                                                                       | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/112803/), [AniList](https://anilist.co/anime/112803) |
 | 93  | Hi Score Girl: Extra Stage                                                                  | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/104307/), [AniList](https://anilist.co/anime/104307) |
 | 94  | Once Upon a Witch's Death                                                                   | 2025 | 07 Oct 2025 | [SeaDex](https://releases.moe/178701/), [AniList](https://anilist.co/anime/178701) |
-| 95  | number24                                                                                    | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/108628/), [AniList](https://anilist.co/anime/108628) |
+| 95  | number24                                                                                    | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/108628/), [AniList](https://anilist.co/anime/108628) |
 | 96  | Revue Starlight: The Movie                                                                  | 2021 | 09 Jul 2025 | [SeaDex](https://releases.moe/113024/), [AniList](https://anilist.co/anime/113024) |
 | 97  | After School Dice Club                                                                      | 2019 | 27 May 2025 | [SeaDex](https://releases.moe/104115/), [AniList](https://anilist.co/anime/104115) |
 | 98  | Dungeon People                                                                              | 2024 | 02 Nov 2025 | [SeaDex](https://releases.moe/168345/), [AniList](https://anilist.co/anime/168345) |
