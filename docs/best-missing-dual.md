@@ -32,11 +32,11 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 25  | High School DxD: Fantasy Jiggles Unleashed                                      | 2012 | 08 Jun 2025 | [SeaDex](https://releases.moe/13357/), [AniList](https://anilist.co/anime/13357)   |
 | 26  | Den-noh Coil                                                                    | 2007 | 03 Aug 2025 | [SeaDex](https://releases.moe/2164/), [AniList](https://anilist.co/anime/2164)     |
 | 27  | A Certain Magical Index: The Miracle of Endymion                                | 2013 | 08 Jun 2025 | [SeaDex](https://releases.moe/11743/), [AniList](https://anilist.co/anime/11743)   |
-| 28  | NieR:Automata Ver1.1a Cour 2                                                    | 2024 | 04 Aug 2025 | [SeaDex](https://releases.moe/167420/), [AniList](https://anilist.co/anime/167420) |
+| 28  | NieR:Automata Ver1.1a Cour 2                                                    | 2024 | 19 Nov 2025 | [SeaDex](https://releases.moe/167420/), [AniList](https://anilist.co/anime/167420) |
 | 29  | The Girl from the Other Side                                                    | 2022 | 11 Nov 2023 | [SeaDex](https://releases.moe/130550/), [AniList](https://anilist.co/anime/130550) |
 | 30  | Love, Chunibyo & Other Delusions - Heart Throb - Lite                           | 2013 | 17 Feb 2025 | [SeaDex](https://releases.moe/20582/), [AniList](https://anilist.co/anime/20582)   |
 | 31  | Love, Chunibyo & Other Delusions: Depth of Field - Ai to Nikushimi Gekijou      | 2012 | 26 Jan 2025 | [SeaDex](https://releases.moe/15879/), [AniList](https://anilist.co/anime/15879)   |
-| 32  | Sasaki and Miyano: Graduation                                                   | 2023 | 20 Jun 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
+| 32  | Sasaki and Miyano: Graduation                                                   | 2023 | 19 Nov 2025 | [SeaDex](https://releases.moe/146743/), [AniList](https://anilist.co/anime/146743) |
 | 33  | Sasami-san@Ganbaranai                                                           | 2013 | 02 Nov 2025 | [SeaDex](https://releases.moe/14515/), [AniList](https://anilist.co/anime/14515)   |
 | 34  | Lucifer and the Biscuit Hammer                                                  | 2022 | 29 Jun 2025 | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
 | 35  | Love, Chunibyo & Other Delusions - Heart Throb - Specials                       | 2014 | 13 Feb 2025 | [SeaDex](https://releases.moe/20777/), [AniList](https://anilist.co/anime/20777)   |
