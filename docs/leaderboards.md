@@ -57,8 +57,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | Flugel     | 17    |
 | 12   | FLE        | 17    |
 | 13   | YURI       | 16    |
-| 14   | Moxie      | 15    |
-| 15   | LazyRemux  | 15    |
+| 14   | LazyRemux  | 16    |
+| 15   | Moxie      | 15    |
 | 16   | LostYears  | 15    |
 | 17   | koala      | 14    |
 | 18   | FraMeSToR  | 13    |
@@ -92,7 +92,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | Orphan     | 26    |
 | 17   | Lulu       | 22    |
 | 18   | Arid       | 22    |
-| 19   | LazyRemux  | 19    |
+| 19   | LazyRemux  | 20    |
 | 20   | FLE        | 19    |
 | 21   | koala      | 17    |
 | 22   | Flugel     | 17    |

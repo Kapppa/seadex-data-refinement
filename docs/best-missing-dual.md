@@ -19,7 +19,7 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 12  | March comes in like a lion Season 2                                             | 2017 | 22 Jul 2024 | [SeaDex](https://releases.moe/98478/), [AniList](https://anilist.co/anime/98478)   |
 | 13  | Evangelion: 2.0 You Can (Not) Advance                                           | 2009 | 23 Jun 2025 | [SeaDex](https://releases.moe/3784/), [AniList](https://anilist.co/anime/3784)     |
 | 14  | SHIROBAKO                                                                       | 2014 | 01 Aug 2025 | [SeaDex](https://releases.moe/20812/), [AniList](https://anilist.co/anime/20812)   |
-| 15  | Life Lessons with Uramichi Oniisan                                              | 2021 | 01 Aug 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
+| 15  | Life Lessons with Uramichi Oniisan                                              | 2021 | 20 Nov 2025 | [SeaDex](https://releases.moe/112802/), [AniList](https://anilist.co/anime/112802) |
 | 16  | The Elusive Samurai                                                             | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/162896/), [AniList](https://anilist.co/anime/162896) |
 | 17  | I Parry Everything                                                              | 2024 | 15 Sep 2025 | [SeaDex](https://releases.moe/170695/), [AniList](https://anilist.co/anime/170695) |
 | 18  | Urusei Yatsura (2022)                                                           | 2022 | 11 Jun 2025 | [SeaDex](https://releases.moe/143277/), [AniList](https://anilist.co/anime/143277) |
