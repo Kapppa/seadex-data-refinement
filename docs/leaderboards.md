@@ -17,7 +17,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 172   |
 | 🥈   | CRUCiBLE         | 140   |
 | 🥉   | sam              | 132   |
-| 4    | NAN0             | 96    |
+| 4    | NAN0             | 95    |
 | 5    | MTBB             | 94    |
 | 6    | SubsPlease       | 83    |
 | 7    | YURI             | 71    |
@@ -25,8 +25,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | YURASUKA         | 59    |
 | 10   | hchcsen          | 59    |
 | 11   | smol             | 58    |
-| 12   | Drag             | 57    |
-| 13   | Headpatter       | 57    |
+| 12   | Headpatter       | 58    |
+| 13   | Drag             | 57    |
 | 14   | KH               | 53    |
 | 15   | LostYears        | 45    |
 | 16   | Arid             | 44    |
@@ -47,15 +47,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | CRUCiBLE   | 110   |
 | 🥈   | -ZR-       | 109   |
 | 🥉   | sam        | 90    |
-| 4    | NAN0       | 76    |
+| 4    | NAN0       | 75    |
 | 5    | LYS1TH3A   | 33    |
 | 6    | hchcsen    | 28    |
 | 7    | TTGA       | 25    |
 | 8    | smol       | 23    |
 | 9    | Lulu       | 19    |
-| 10   | Headpatter | 18    |
-| 11   | Flugel     | 17    |
-| 12   | FLE        | 17    |
+| 10   | FLE        | 18    |
+| 11   | Headpatter | 18    |
+| 12   | Flugel     | 17    |
 | 13   | YURI       | 16    |
 | 14   | LazyRemux  | 16    |
 | 15   | Moxie      | 15    |
@@ -77,7 +77,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-       | 147   |
 | 🥈   | CRUCiBLE   | 140   |
 | 🥉   | sam        | 121   |
-| 4    | NAN0       | 95    |
+| 4    | NAN0       | 94    |
 | 5    | MTBB       | 64    |
 | 6    | Moxie      | 61    |
 | 7    | smol       | 56    |
@@ -93,7 +93,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Lulu       | 22    |
 | 18   | Arid       | 22    |
 | 19   | LazyRemux  | 20    |
-| 20   | FLE        | 19    |
+| 20   | FLE        | 20    |
 | 21   | koala      | 17    |
 | 22   | Flugel     | 17    |
 | 23   | Drag       | 16    |
@@ -122,7 +122,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | VARYG            | 22    |
 | 17   | Holomux          | 20    |
 | 18   | CTR              | 20    |
-| 19   | Headpatter       | 19    |
+| 19   | Headpatter       | 20    |
 | 20   | Chihiro          | 19    |
 | 21   | SCY              | 17    |
 | 22   | Pog42            | 16    |
