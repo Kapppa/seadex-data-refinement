@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.5 TiB   | 12.4 TiB (85.62%)   | 184 (~80.5 GiB each)  |
-| 2    | CRUCiBLE         | 10.4 TiB   | 10.4 TiB (100.00%)  | 140 (~76.0 GiB each)  |
+| 2    | CRUCiBLE         | 10.4 TiB   | 10.4 TiB (100.00%)  | 141 (~75.8 GiB each)  |
 | 3    | NAN0             | 7.1 TiB    | 7.0 TiB (98.94%)    | 95 (~76.4 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (91.97%)    | 133 (~29.9 GiB each)  |
 | 5    | TTGA             | 2.7 TiB    | 2.5 TiB (92.70%)    | 37 (~74.1 GiB each)   |
