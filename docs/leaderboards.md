@@ -15,17 +15,17 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
-| 🥈   | CRUCiBLE         | 141   |
+| 🥈   | CRUCiBLE         | 140   |
 | 🥉   | sam              | 132   |
 | 4    | NAN0             | 95    |
 | 5    | MTBB             | 94    |
 | 6    | SubsPlease       | 83    |
 | 7    | YURI             | 71    |
 | 8    | Moxie            | 61    |
-| 9    | YURASUKA         | 59    |
-| 10   | hchcsen          | 59    |
-| 11   | smol             | 58    |
-| 12   | Headpatter       | 58    |
+| 9    | YURASUKA         | 60    |
+| 10   | Headpatter       | 59    |
+| 11   | hchcsen          | 59    |
+| 12   | smol             | 58    |
 | 13   | Drag             | 57    |
 | 14   | KH               | 53    |
 | 15   | LostYears        | 45    |
@@ -75,13 +75,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
-| 🥈   | CRUCiBLE   | 141   |
+| 🥈   | CRUCiBLE   | 140   |
 | 🥉   | sam        | 121   |
 | 4    | NAN0       | 94    |
 | 5    | MTBB       | 64    |
 | 6    | Moxie      | 61    |
 | 7    | smol       | 56    |
-| 8    | Headpatter | 41    |
+| 8    | Headpatter | 42    |
 | 9    | TTGA       | 35    |
 | 10   | Okay-Subs  | 35    |
 | 11   | LYS1TH3A   | 34    |
@@ -115,14 +115,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Bunny-Apocalypse | 31    |
 | 10   | LostYears        | 30    |
 | 11   | MTBB             | 30    |
-| 12   | Erai-raws        | 26    |
+| 12   | Erai-raws        | 25    |
 | 13   | Arid             | 23    |
 | 14   | Kametsu          | 22    |
 | 15   | NOGRP            | 22    |
 | 16   | VARYG            | 22    |
-| 17   | Holomux          | 20    |
-| 18   | CTR              | 20    |
-| 19   | Headpatter       | 20    |
+| 17   | Headpatter       | 21    |
+| 18   | Holomux          | 20    |
+| 19   | CTR              | 20    |
 | 20   | Chihiro          | 19    |
 | 21   | SCY              | 17    |
 | 22   | Pog42            | 16    |

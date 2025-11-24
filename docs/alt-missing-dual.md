@@ -44,8 +44,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 37  | The Case Study of Vanitas Part 2                                                            | 2022 | 02 Aug 2025 | [SeaDex](https://releases.moe/135136/), [AniList](https://anilist.co/anime/135136) |
 | 38  | Somali and the Forest Spirit                                                                | 2020 | 09 Jul 2025 | [SeaDex](https://releases.moe/108617/), [AniList](https://anilist.co/anime/108617) |
 | 39  | Given The Movie                                                                             | 2020 | 20 Jun 2025 | [SeaDex](https://releases.moe/111734/), [AniList](https://anilist.co/anime/111734) |
-| 40  | Isekai Cheat Magician                                                                       | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
-| 41  | Romantic Killer                                                                             | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/153930/), [AniList](https://anilist.co/anime/153930) |
+| 40  | Romantic Killer                                                                             | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/153930/), [AniList](https://anilist.co/anime/153930) |
+| 41  | Isekai Cheat Magician                                                                       | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
 | 42  | I'm Standing on a Million Lives                                                             | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
 | 43  | Cells at Work!!                                                                             | 2021 | 14 Aug 2025 | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |
 | 44  | Love Tyrant                                                                                 | 2017 | 15 Nov 2025 | [SeaDex](https://releases.moe/21517/), [AniList](https://anilist.co/anime/21517)   |
