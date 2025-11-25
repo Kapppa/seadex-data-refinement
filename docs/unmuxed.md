@@ -238,8 +238,8 @@
 | 235 | Moriarty the Patriot OVA                                                                      | 2022 | 07 Feb 2025 | [SeaDex](https://releases.moe/138700/), [AniList](https://anilist.co/anime/138700) |
 | 236 | Bunny Drop Specials                                                                           | 2011 | 16 Aug 2025 | [SeaDex](https://releases.moe/11113/), [AniList](https://anilist.co/anime/11113)   |
 | 237 | Shiki Specials                                                                                | 2011 | 15 Nov 2023 | [SeaDex](https://releases.moe/10083/), [AniList](https://anilist.co/anime/10083)   |
-| 238 | Ground Control to Psychoelectric Girl: The Nighttime Sun                                      | 2012 | 28 Oct 2024 | [SeaDex](https://releases.moe/10638/), [AniList](https://anilist.co/anime/10638)   |
-| 239 | Kingdom Season 4                                                                              | 2022 | 12 Apr 2025 | [SeaDex](https://releases.moe/140350/), [AniList](https://anilist.co/anime/140350) |
+| 238 | Kingdom Season 4                                                                              | 2022 | 12 Apr 2025 | [SeaDex](https://releases.moe/140350/), [AniList](https://anilist.co/anime/140350) |
+| 239 | Ground Control to Psychoelectric Girl: The Nighttime Sun                                      | 2012 | 28 Oct 2024 | [SeaDex](https://releases.moe/10638/), [AniList](https://anilist.co/anime/10638)   |
 | 240 | Asobi Asobase Specials                                                                        | 2018 | 08 May 2024 | [SeaDex](https://releases.moe/104368/), [AniList](https://anilist.co/anime/104368) |
 | 241 | The Sky Crawlers                                                                              | 2008 | 31 Jan 2024 | [SeaDex](https://releases.moe/3089/), [AniList](https://anilist.co/anime/3089)     |
 | 242 | Place to Place OVA                                                                            | 2012 | 01 Jun 2025 | [SeaDex](https://releases.moe/16273/), [AniList](https://anilist.co/anime/16273)   |
