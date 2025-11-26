@@ -19,7 +19,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam              | 132   |
 | 4    | NAN0             | 95    |
 | 5    | MTBB             | 94    |
-| 6    | SubsPlease       | 83    |
+| 6    | SubsPlease       | 84    |
 | 7    | YURI             | 71    |
 | 8    | Moxie            | 61    |
 | 9    | YURASUKA         | 60    |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | SubsPlease       | 70    |
+| 🥇   | SubsPlease       | 71    |
 | 🥈   | YURASUKA         | 48    |
 | 🥉   | Drag             | 42    |
 | 4    | KH               | 41    |
