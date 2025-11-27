@@ -115,7 +115,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Bunny-Apocalypse | 31    |
 | 10   | LostYears        | 30    |
 | 11   | MTBB             | 30    |
-| 12   | Erai-raws        | 25    |
+| 12   | Erai-raws        | 24    |
 | 13   | Arid             | 23    |
 | 14   | Kametsu          | 22    |
 | 15   | NOGRP            | 22    |
