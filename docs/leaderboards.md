@@ -17,7 +17,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 172   |
 | 🥈   | CRUCiBLE         | 140   |
 | 🥉   | sam              | 132   |
-| 4    | NAN0             | 95    |
+| 4    | NAN0             | 97    |
 | 5    | MTBB             | 94    |
 | 6    | SubsPlease       | 84    |
 | 7    | YURI             | 71    |
@@ -77,7 +77,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-       | 147   |
 | 🥈   | CRUCiBLE   | 140   |
 | 🥉   | sam        | 121   |
-| 4    | NAN0       | 94    |
+| 4    | NAN0       | 96    |
 | 5    | MTBB       | 64    |
 | 6    | Moxie      | 61    |
 | 7    | smol       | 56    |

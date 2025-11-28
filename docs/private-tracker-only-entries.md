@@ -7,5 +7,7 @@
 | 4   | Level 1 Demon Lord and One Room Hero                            | 2023 | 12 Oct 2025 | [SeaDex](https://releases.moe/146836/), [AniList](https://anilist.co/anime/146836) |
 | 5   | Scar on the Praeter                                             | 2021 | 22 Oct 2025 | [SeaDex](https://releases.moe/123785/), [AniList](https://anilist.co/anime/123785) |
 | 6   | TIGER & BUNNY 2                                                 | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/117197/), [AniList](https://anilist.co/anime/117197) |
-| 7   | Overlord: Ple Ple Pleiades 4                                    | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 8   | TIGER & BUNNY 2 Part 2                                          | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/151803/), [AniList](https://anilist.co/anime/151803) |
+| 7   | W'z                                                             | 2019 | 27 Nov 2025 | [SeaDex](https://releases.moe/101337/), [AniList](https://anilist.co/anime/101337) |
+| 8   | Overlord: Ple Ple Pleiades 4                                    | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 9   | TIGER & BUNNY 2 Part 2                                          | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/151803/), [AniList](https://anilist.co/anime/151803) |
+| 10  | W'z OVA                                                         | 2019 | 27 Nov 2025 | [SeaDex](https://releases.moe/105245/), [AniList](https://anilist.co/anime/105245) |
