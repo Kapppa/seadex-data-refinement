@@ -97,8 +97,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 90  | Diary of Our Days at the Breakwater                                                         | 2020 | 13 Nov 2024 | [SeaDex](https://releases.moe/109019/), [AniList](https://anilist.co/anime/109019) |
 | 91  | Bye Bye, Earth                                                                              | 2024 | 10 Aug 2025 | [SeaDex](https://releases.moe/157371/), [AniList](https://anilist.co/anime/157371) |
 | 92  | No Guns Life Season 2                                                                       | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/112803/), [AniList](https://anilist.co/anime/112803) |
-| 93  | Hi Score Girl: Extra Stage                                                                  | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/104307/), [AniList](https://anilist.co/anime/104307) |
-| 94  | Once Upon a Witch's Death                                                                   | 2025 | 07 Oct 2025 | [SeaDex](https://releases.moe/178701/), [AniList](https://anilist.co/anime/178701) |
+| 93  | Once Upon a Witch's Death                                                                   | 2025 | 07 Oct 2025 | [SeaDex](https://releases.moe/178701/), [AniList](https://anilist.co/anime/178701) |
+| 94  | Hi Score Girl: Extra Stage                                                                  | 2019 | 02 Aug 2025 | [SeaDex](https://releases.moe/104307/), [AniList](https://anilist.co/anime/104307) |
 | 95  | number24                                                                                    | 2020 | 18 Nov 2025 | [SeaDex](https://releases.moe/108628/), [AniList](https://anilist.co/anime/108628) |
 | 96  | Revue Starlight: The Movie                                                                  | 2021 | 09 Jul 2025 | [SeaDex](https://releases.moe/113024/), [AniList](https://anilist.co/anime/113024) |
 | 97  | After School Dice Club                                                                      | 2019 | 27 May 2025 | [SeaDex](https://releases.moe/104115/), [AniList](https://anilist.co/anime/104115) |
