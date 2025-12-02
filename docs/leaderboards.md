@@ -15,7 +15,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
-| 🥈   | CRUCiBLE         | 140   |
+| 🥈   | CRUCiBLE         | 141   |
 | 🥉   | sam              | 132   |
 | 4    | NAN0             | 97    |
 | 5    | MTBB             | 94    |
@@ -23,7 +23,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | YURI             | 71    |
 | 8    | Moxie            | 61    |
 | 9    | YURASUKA         | 60    |
-| 10   | Headpatter       | 59    |
+| 10   | Headpatter       | 60    |
 | 11   | hchcsen          | 59    |
 | 12   | smol             | 58    |
 | 13   | Drag             | 57    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group      | Count |
 | :----| :----------| :-----|
-| 🥇   | CRUCiBLE   | 111   |
+| 🥇   | CRUCiBLE   | 112   |
 | 🥈   | -ZR-       | 109   |
 | 🥉   | sam        | 90    |
 | 4    | NAN0       | 75    |
@@ -75,13 +75,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
-| 🥈   | CRUCiBLE   | 140   |
+| 🥈   | CRUCiBLE   | 141   |
 | 🥉   | sam        | 121   |
 | 4    | NAN0       | 96    |
 | 5    | MTBB       | 64    |
 | 6    | Moxie      | 61    |
 | 7    | smol       | 56    |
-| 8    | Headpatter | 42    |
+| 8    | Headpatter | 43    |
 | 9    | TTGA       | 35    |
 | 10   | Okay-Subs  | 35    |
 | 11   | LYS1TH3A   | 34    |
