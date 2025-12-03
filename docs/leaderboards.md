@@ -15,15 +15,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 172   |
-| 🥈   | CRUCiBLE         | 141   |
+| 🥈   | CRUCiBLE         | 142   |
 | 🥉   | sam              | 132   |
 | 4    | NAN0             | 97    |
 | 5    | MTBB             | 94    |
 | 6    | SubsPlease       | 84    |
 | 7    | YURI             | 71    |
-| 8    | Moxie            | 61    |
-| 9    | YURASUKA         | 60    |
-| 10   | Headpatter       | 60    |
+| 8    | YURASUKA         | 61    |
+| 9    | Moxie            | 61    |
+| 10   | Headpatter       | 61    |
 | 11   | hchcsen          | 59    |
 | 12   | smol             | 58    |
 | 13   | Drag             | 57    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group      | Count |
 | :----| :----------| :-----|
-| 🥇   | CRUCiBLE   | 112   |
+| 🥇   | CRUCiBLE   | 113   |
 | 🥈   | -ZR-       | 109   |
 | 🥉   | sam        | 90    |
 | 4    | NAN0       | 75    |
@@ -53,8 +53,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | TTGA       | 25    |
 | 8    | smol       | 23    |
 | 9    | Lulu       | 19    |
-| 10   | FLE        | 18    |
-| 11   | Headpatter | 18    |
+| 10   | Headpatter | 19    |
+| 11   | FLE        | 18    |
 | 12   | Flugel     | 17    |
 | 13   | YURI       | 16    |
 | 14   | LazyRemux  | 16    |
@@ -75,13 +75,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 147   |
-| 🥈   | CRUCiBLE   | 141   |
+| 🥈   | CRUCiBLE   | 142   |
 | 🥉   | sam        | 121   |
 | 4    | NAN0       | 96    |
 | 5    | MTBB       | 64    |
 | 6    | Moxie      | 61    |
 | 7    | smol       | 56    |
-| 8    | Headpatter | 43    |
+| 8    | Headpatter | 44    |
 | 9    | TTGA       | 35    |
 | 10   | Okay-Subs  | 35    |
 | 11   | LYS1TH3A   | 34    |
@@ -105,7 +105,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 71    |
-| 🥈   | YURASUKA         | 48    |
+| 🥈   | YURASUKA         | 49    |
 | 🥉   | Drag             | 42    |
 | 4    | KH               | 41    |
 | 5    | YURI             | 37    |
@@ -115,8 +115,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Bunny-Apocalypse | 31    |
 | 10   | LostYears        | 30    |
 | 11   | MTBB             | 30    |
-| 12   | Erai-raws        | 24    |
-| 13   | Arid             | 23    |
+| 12   | Arid             | 23    |
+| 13   | Erai-raws        | 23    |
 | 14   | Kametsu          | 22    |
 | 15   | NOGRP            | 22    |
 | 16   | VARYG            | 22    |
