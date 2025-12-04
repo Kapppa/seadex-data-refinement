@@ -31,7 +31,7 @@
 | 28  | That Time I Got Reincarnated as a Slime Season 3                                              | 2024 | 22 Nov 2025 | [SeaDex](https://releases.moe/156822/), [AniList](https://anilist.co/anime/156822) |
 | 29  | Say "I love you".                                                                             | 2012 | 12 Oct 2024 | [SeaDex](https://releases.moe/14289/), [AniList](https://anilist.co/anime/14289)   |
 | 30  | The Asterisk War                                                                              | 2015 | 24 Nov 2024 | [SeaDex](https://releases.moe/21131/), [AniList](https://anilist.co/anime/21131)   |
-| 31  | My Hero Academia Season 7                                                                     | 2024 | 24 Nov 2025 | [SeaDex](https://releases.moe/163139/), [AniList](https://anilist.co/anime/163139) |
+| 31  | My Hero Academia Season 7                                                                     | 2024 | 03 Dec 2025 | [SeaDex](https://releases.moe/163139/), [AniList](https://anilist.co/anime/163139) |
 | 32  | Date A Live II                                                                                | 2014 | 12 Jul 2025 | [SeaDex](https://releases.moe/19163/), [AniList](https://anilist.co/anime/19163)   |
 | 33  | Redo of Healer                                                                                | 2021 | 25 Jul 2025 | [SeaDex](https://releases.moe/113425/), [AniList](https://anilist.co/anime/113425) |
 | 34  | My Dress-Up Darling Season 2                                                                  | 2025 | 16 Nov 2025 | [SeaDex](https://releases.moe/154768/), [AniList](https://anilist.co/anime/154768) |
@@ -168,8 +168,8 @@
 | 165 | My Sister, My Writer                                                                          | 2018 | 18 Nov 2025 | [SeaDex](https://releases.moe/100382/), [AniList](https://anilist.co/anime/100382) |
 | 166 | My Wife is the Student Council President+!                                                    | 2016 | 24 Jul 2025 | [SeaDex](https://releases.moe/21610/), [AniList](https://anilist.co/anime/21610)   |
 | 167 | The Great Passage                                                                             | 2016 | 22 Nov 2025 | [SeaDex](https://releases.moe/21703/), [AniList](https://anilist.co/anime/21703)   |
-| 168 | UzaMaid!                                                                                      | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/101506/), [AniList](https://anilist.co/anime/101506) |
-| 169 | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION                                                         | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/177697/), [AniList](https://anilist.co/anime/177697) |
+| 168 | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION                                                         | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/177697/), [AniList](https://anilist.co/anime/177697) |
+| 169 | UzaMaid!                                                                                      | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/101506/), [AniList](https://anilist.co/anime/101506) |
 | 170 | Forest of Piano                                                                               | 2018 | 30 Jun 2024 | [SeaDex](https://releases.moe/100401/), [AniList](https://anilist.co/anime/100401) |
 | 171 | Divine Gate                                                                                   | 2016 | 10 Apr 2025 | [SeaDex](https://releases.moe/21380/), [AniList](https://anilist.co/anime/21380)   |
 | 172 | The Honor at Magic High School                                                                | 2021 | 17 Jul 2025 | [SeaDex](https://releases.moe/127688/), [AniList](https://anilist.co/anime/127688) |

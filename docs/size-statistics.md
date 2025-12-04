@@ -29,11 +29,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 7    | B00BA            | 2.5 TiB    | 2.5 TiB (100.00%)   | 27 (~94.1 GiB each)   |
 | 8    | hchcsen          | 2.5 TiB    | 1.6 TiB (64.78%)    | 64 (~39.6 GiB each)   |
 | 9    | Moxie            | 2.4 TiB    | 2.4 TiB (100.00%)   | 61 (~41.1 GiB each)   |
-| 10   | Headpatter       | 1.9 TiB    | 1.7 TiB (88.23%)    | 65 (~30.2 GiB each)   |
+| 10   | Headpatter       | 1.9 TiB    | 1.7 TiB (87.59%)    | 66 (~29.9 GiB each)   |
 | 11   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 12   | MTBB             | 1.5 TiB    | 1.2 TiB (83.03%)    | 94 (~15.9 GiB each)   |
 | 13   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
-| 14   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.39%)  | 84 (~17.1 GiB each)   |
+| 14   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.55%)  | 83 (~17.1 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 16   | NOGRP            | 1.1 TiB    | 862.0 GiB (79.62%)  | 33 (~32.8 GiB each)   |
 | 17   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
