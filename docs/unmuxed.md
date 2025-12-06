@@ -130,8 +130,8 @@
 | 127 | Chihayafuru 2                                                                                 | 2013 | 21 Jun 2024 | [SeaDex](https://releases.moe/14397/), [AniList](https://anilist.co/anime/14397)   |
 | 128 | Free! -Dive to the Future-                                                                    | 2018 | 05 Jan 2025 | [SeaDex](https://releases.moe/101117/), [AniList](https://anilist.co/anime/101117) |
 | 129 | KOKKOKU                                                                                       | 2018 | 13 Jul 2025 | [SeaDex](https://releases.moe/100332/), [AniList](https://anilist.co/anime/100332) |
-| 130 | Heaven's Memo Pad                                                                             | 2011 | 04 Jun 2025 | [SeaDex](https://releases.moe/10568/), [AniList](https://anilist.co/anime/10568)   |
-| 131 | Rainbow Days                                                                                  | 2016 | 09 Jun 2025 | [SeaDex](https://releases.moe/21292/), [AniList](https://anilist.co/anime/21292)   |
+| 130 | Rainbow Days                                                                                  | 2016 | 09 Jun 2025 | [SeaDex](https://releases.moe/21292/), [AniList](https://anilist.co/anime/21292)   |
+| 131 | Heaven's Memo Pad                                                                             | 2011 | 04 Jun 2025 | [SeaDex](https://releases.moe/10568/), [AniList](https://anilist.co/anime/10568)   |
 | 132 | The Master of Ragnarök & Blesser of Einherjar                                                 | 2018 | 13 Jul 2025 | [SeaDex](https://releases.moe/101289/), [AniList](https://anilist.co/anime/101289) |
 | 133 | Baki: The Great Raitai Tournament Saga                                                        | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/108522/), [AniList](https://anilist.co/anime/108522) |
 | 134 | Yowamushi Pedal                                                                               | 2013 | 13 Jul 2025 | [SeaDex](https://releases.moe/18179/), [AniList](https://anilist.co/anime/18179)   |
@@ -155,8 +155,8 @@
 | 152 | Prison School: Mad Wax                                                                        | 2016 | 03 Sep 2025 | [SeaDex](https://releases.moe/21565/), [AniList](https://anilist.co/anime/21565)   |
 | 153 | Princess Lover!                                                                               | 2009 | 16 Mar 2025 | [SeaDex](https://releases.moe/6201/), [AniList](https://anilist.co/anime/6201)     |
 | 154 | Seraph of the End: Vampire Reign - Owaranai Seraph                                            | 2015 | 25 Oct 2024 | [SeaDex](https://releases.moe/21483/), [AniList](https://anilist.co/anime/21483)   |
-| 155 | Gonna be the Twin-Tail!!                                                                      | 2014 | 12 Aug 2025 | [SeaDex](https://releases.moe/20565/), [AniList](https://anilist.co/anime/20565)   |
-| 156 | Tari Tari                                                                                     | 2012 | 27 Aug 2024 | [SeaDex](https://releases.moe/13333/), [AniList](https://anilist.co/anime/13333)   |
+| 155 | Tari Tari                                                                                     | 2012 | 27 Aug 2024 | [SeaDex](https://releases.moe/13333/), [AniList](https://anilist.co/anime/13333)   |
+| 156 | Gonna be the Twin-Tail!!                                                                      | 2014 | 12 Aug 2025 | [SeaDex](https://releases.moe/20565/), [AniList](https://anilist.co/anime/20565)   |
 | 157 | Listen to Me, Girls. I Am Your Father!                                                        | 2012 | 30 Jul 2025 | [SeaDex](https://releases.moe/11179/), [AniList](https://anilist.co/anime/11179)   |
 | 158 | Gugure! Kokkuri-san                                                                           | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20656/), [AniList](https://anilist.co/anime/20656)   |
 | 159 | She Professed Herself Pupil of the Wise Man                                                   | 2022 | 01 Jun 2025 | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
@@ -230,8 +230,8 @@
 | 227 | Seraph of the End: Battle in Nagoya - Owaranai Seraph Battle in Nagoya                        | 2015 | 25 Oct 2024 | [SeaDex](https://releases.moe/21765/), [AniList](https://anilist.co/anime/21765)   |
 | 228 | Seiyu's Life!                                                                                 | 2015 | 17 Jul 2025 | [SeaDex](https://releases.moe/21009/), [AniList](https://anilist.co/anime/21009)   |
 | 229 | Fractale                                                                                      | 2011 | 17 Nov 2024 | [SeaDex](https://releases.moe/9314/), [AniList](https://anilist.co/anime/9314)     |
-| 230 | Horizon in the Middle of Nowhere II                                                           | 2012 | 10 Jul 2024 | [SeaDex](https://releases.moe/12487/), [AniList](https://anilist.co/anime/12487)   |
-| 231 | Berserk: The Golden Age Arc - Memorial Edition                                                | 2022 | 09 Jan 2025 | [SeaDex](https://releases.moe/155011/), [AniList](https://anilist.co/anime/155011) |
+| 230 | Berserk: The Golden Age Arc - Memorial Edition                                                | 2022 | 09 Jan 2025 | [SeaDex](https://releases.moe/155011/), [AniList](https://anilist.co/anime/155011) |
+| 231 | Horizon in the Middle of Nowhere II                                                           | 2012 | 10 Jul 2024 | [SeaDex](https://releases.moe/12487/), [AniList](https://anilist.co/anime/12487)   |
 | 232 | Free! -Eternal Summer-: Forbidden All-Hard!                                                   | 2015 | 01 Jul 2024 | [SeaDex](https://releases.moe/21091/), [AniList](https://anilist.co/anime/21091)   |
 | 233 | Moriarty the Patriot OVA                                                                      | 2022 | 07 Feb 2025 | [SeaDex](https://releases.moe/138700/), [AniList](https://anilist.co/anime/138700) |
 | 234 | Bunny Drop Specials                                                                           | 2011 | 16 Aug 2025 | [SeaDex](https://releases.moe/11113/), [AniList](https://anilist.co/anime/11113)   |

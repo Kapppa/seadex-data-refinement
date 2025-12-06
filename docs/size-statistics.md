@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `118.5 TiB`
-- Best size: `89.1 TiB`
+- Total size: `118.6 TiB`
+- Best size: `89.2 TiB`
 - Alt size: `29.4 TiB`
 - Realistic size: `92.5 TiB`
 
@@ -22,7 +22,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.5 TiB   | 12.4 TiB (85.62%)   | 184 (~80.5 GiB each)  |
 | 2    | CRUCiBLE         | 10.5 TiB   | 10.5 TiB (100.00%)  | 142 (~75.8 GiB each)  |
-| 3    | NAN0             | 7.2 TiB    | 7.1 TiB (98.95%)    | 97 (~75.8 GiB each)   |
+| 3    | NAN0             | 7.3 TiB    | 7.2 TiB (98.96%)    | 98 (~75.8 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (91.97%)    | 133 (~29.9 GiB each)  |
 | 5    | TTGA             | 2.7 TiB    | 2.5 TiB (92.70%)    | 37 (~74.1 GiB each)   |
 | 6    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 514.3 GiB  | 514.3 GiB (100.00%) | 14 (~36.7 GiB each)   |
 | 48   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 49   | SCY              | 497.2 GiB  | 179.1 GiB (36.02%)  | 28 (~17.8 GiB each)   |
-| 50   | Others           | 36.4 TiB   | 20.6 TiB (56.70%)   | 1737 (~21.4 GiB each) |
+| 50   | Others           | 36.4 TiB   | 20.6 TiB (56.67%)   | 1738 (~21.4 GiB each) |

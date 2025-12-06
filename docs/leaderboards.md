@@ -17,7 +17,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-             | 172   |
 | 🥈   | CRUCiBLE         | 142   |
 | 🥉   | sam              | 132   |
-| 4    | NAN0             | 97    |
+| 4    | NAN0             | 98    |
 | 5    | MTBB             | 94    |
 | 6    | SubsPlease       | 83    |
 | 7    | YURI             | 71    |
@@ -77,7 +77,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-       | 147   |
 | 🥈   | CRUCiBLE   | 142   |
 | 🥉   | sam        | 121   |
-| 4    | NAN0       | 96    |
+| 4    | NAN0       | 97    |
 | 5    | MTBB       | 64    |
 | 6    | Moxie      | 61    |
 | 7    | smol       | 56    |
@@ -115,8 +115,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Bunny-Apocalypse | 31    |
 | 10   | LostYears        | 30    |
 | 11   | MTBB             | 30    |
-| 12   | Arid             | 23    |
-| 13   | Erai-raws        | 23    |
+| 12   | Erai-raws        | 24    |
+| 13   | Arid             | 23    |
 | 14   | Kametsu          | 22    |
 | 15   | Headpatter       | 22    |
 | 16   | NOGRP            | 22    |
