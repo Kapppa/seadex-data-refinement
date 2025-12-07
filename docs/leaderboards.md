@@ -21,8 +21,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | MTBB             | 94    |
 | 6    | SubsPlease       | 83    |
 | 7    | YURI             | 71    |
-| 8    | Headpatter       | 62    |
-| 9    | YURASUKA         | 61    |
+| 8    | Headpatter       | 63    |
+| 9    | YURASUKA         | 62    |
 | 10   | Moxie            | 61    |
 | 11   | hchcsen          | 59    |
 | 12   | smol             | 58    |
@@ -52,8 +52,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | hchcsen    | 28    |
 | 7    | TTGA       | 25    |
 | 8    | smol       | 23    |
-| 9    | Lulu       | 19    |
-| 10   | Headpatter | 19    |
+| 9    | Headpatter | 20    |
+| 10   | Lulu       | 19    |
 | 11   | FLE        | 18    |
 | 12   | Flugel     | 17    |
 | 13   | YURI       | 16    |
@@ -81,7 +81,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | MTBB       | 64    |
 | 6    | Moxie      | 61    |
 | 7    | smol       | 56    |
-| 8    | Headpatter | 44    |
+| 8    | Headpatter | 45    |
 | 9    | TTGA       | 35    |
 | 10   | Okay-Subs  | 35    |
 | 11   | LYS1TH3A   | 34    |
@@ -105,7 +105,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 70    |
-| 🥈   | YURASUKA         | 49    |
+| 🥈   | YURASUKA         | 50    |
 | 🥉   | Drag             | 42    |
 | 4    | KH               | 41    |
 | 5    | YURI             | 37    |
@@ -115,8 +115,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Bunny-Apocalypse | 31    |
 | 10   | LostYears        | 30    |
 | 11   | MTBB             | 30    |
-| 12   | Erai-raws        | 24    |
-| 13   | Arid             | 23    |
+| 12   | Arid             | 23    |
+| 13   | Erai-raws        | 23    |
 | 14   | Kametsu          | 22    |
 | 15   | Headpatter       | 22    |
 | 16   | NOGRP            | 22    |
