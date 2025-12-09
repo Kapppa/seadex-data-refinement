@@ -113,8 +113,8 @@
 | 110 | Baka and Test - Summon the Beasts 2                                                           | 2011 | 11 Oct 2025 | [SeaDex](https://releases.moe/8516/), [AniList](https://anilist.co/anime/8516)     |
 | 111 | Dimension W                                                                                   | 2016 | 11 Jul 2024 | [SeaDex](https://releases.moe/21256/), [AniList](https://anilist.co/anime/21256)   |
 | 112 | ALDNOAH.ZERO Season 2                                                                         | 2015 | 13 Jul 2025 | [SeaDex](https://releases.moe/20853/), [AniList](https://anilist.co/anime/20853)   |
-| 113 | The aquatope on white sand                                                                    | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/128545/), [AniList](https://anilist.co/anime/128545) |
-| 114 | High School of the Dead: Drifters of the Dead                                                 | 2011 | 09 Jul 2024 | [SeaDex](https://releases.moe/9515/), [AniList](https://anilist.co/anime/9515)     |
+| 113 | High School of the Dead: Drifters of the Dead                                                 | 2011 | 09 Jul 2024 | [SeaDex](https://releases.moe/9515/), [AniList](https://anilist.co/anime/9515)     |
+| 114 | The aquatope on white sand                                                                    | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/128545/), [AniList](https://anilist.co/anime/128545) |
 | 115 | Spy Classroom                                                                                 | 2023 | 03 Aug 2025 | [SeaDex](https://releases.moe/146323/), [AniList](https://anilist.co/anime/146323) |
 | 116 | Black Lagoon: Roberta's Blood Trail                                                           | 2010 | 14 Feb 2025 | [SeaDex](https://releases.moe/4901/), [AniList](https://anilist.co/anime/4901)     |
 | 117 | RADIANT                                                                                       | 2018 | 04 Aug 2025 | [SeaDex](https://releases.moe/101024/), [AniList](https://anilist.co/anime/101024) |
@@ -158,8 +158,8 @@
 | 155 | Tari Tari                                                                                     | 2012 | 27 Aug 2024 | [SeaDex](https://releases.moe/13333/), [AniList](https://anilist.co/anime/13333)   |
 | 156 | Gonna be the Twin-Tail!!                                                                      | 2014 | 12 Aug 2025 | [SeaDex](https://releases.moe/20565/), [AniList](https://anilist.co/anime/20565)   |
 | 157 | Listen to Me, Girls. I Am Your Father!                                                        | 2012 | 30 Jul 2025 | [SeaDex](https://releases.moe/11179/), [AniList](https://anilist.co/anime/11179)   |
-| 158 | Gugure! Kokkuri-san                                                                           | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20656/), [AniList](https://anilist.co/anime/20656)   |
-| 159 | She Professed Herself Pupil of the Wise Man                                                   | 2022 | 01 Jun 2025 | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
+| 158 | She Professed Herself Pupil of the Wise Man                                                   | 2022 | 01 Jun 2025 | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
+| 159 | Gugure! Kokkuri-san                                                                           | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20656/), [AniList](https://anilist.co/anime/20656)   |
 | 160 | Clockwork Planet                                                                              | 2017 | 13 Apr 2025 | [SeaDex](https://releases.moe/21563/), [AniList](https://anilist.co/anime/21563)   |
 | 161 | Natsume's Book of Friends Season 5                                                            | 2016 | 23 Mar 2025 | [SeaDex](https://releases.moe/21710/), [AniList](https://anilist.co/anime/21710)   |
 | 162 | Ace Attorney                                                                                  | 2016 | 03 Aug 2025 | [SeaDex](https://releases.moe/21360/), [AniList](https://anilist.co/anime/21360)   |
