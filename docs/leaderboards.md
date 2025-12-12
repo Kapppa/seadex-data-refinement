@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 171   |
+| 🥇   | -ZR-             | 172   |
 | 🥈   | CRUCiBLE         | 142   |
 | 🥉   | sam              | 132   |
 | 4    | NAN0             | 98    |
@@ -24,15 +24,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | YURASUKA         | 63    |
 | 9    | Headpatter       | 63    |
 | 10   | Moxie            | 61    |
-| 11   | hchcsen          | 59    |
+| 11   | hchcsen          | 60    |
 | 12   | smol             | 58    |
 | 13   | Drag             | 57    |
 | 14   | KH               | 53    |
 | 15   | LostYears        | 45    |
 | 16   | Arid             | 44    |
-| 17   | Bunny-Apocalypse | 38    |
-| 18   | LYS1TH3A         | 37    |
-| 19   | TTGA             | 37    |
+| 17   | LYS1TH3A         | 37    |
+| 18   | TTGA             | 37    |
+| 19   | Bunny-Apocalypse | 37    |
 | 20   | Okay-Subs        | 37    |
 | 21   | Lulu             | 34    |
 | 22   | PMR              | 34    |
@@ -49,7 +49,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam        | 90    |
 | 4    | NAN0       | 75    |
 | 5    | LYS1TH3A   | 33    |
-| 6    | hchcsen    | 28    |
+| 6    | hchcsen    | 29    |
 | 7    | TTGA       | 25    |
 | 8    | smol       | 23    |
 | 9    | Headpatter | 20    |
@@ -61,9 +61,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | Moxie      | 15    |
 | 16   | LostYears  | 15    |
 | 17   | koala      | 14    |
-| 18   | FraMeSToR  | 13    |
-| 19   | Arid       | 13    |
-| 20   | ZeroBuild  | 13    |
+| 18   | ZeroBuild  | 14    |
+| 19   | FraMeSToR  | 13    |
+| 20   | Arid       | 13    |
 | 21   | KH         | 12    |
 | 22   | Vodes      | 12    |
 | 23   | PMR        | 12    |
@@ -87,7 +87,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | LYS1TH3A   | 34    |
 | 12   | YURI       | 34    |
 | 13   | PMR        | 34    |
-| 14   | hchcsen    | 31    |
+| 14   | hchcsen    | 32    |
 | 15   | B00BA      | 27    |
 | 16   | Orphan     | 26    |
 | 17   | Lulu       | 22    |
@@ -108,15 +108,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | YURASUKA         | 50    |
 | 🥉   | Drag             | 42    |
 | 4    | KH               | 41    |
-| 5    | YURI             | 37    |
-| 6    | -ZR-             | 37    |
+| 5    | -ZR-             | 38    |
+| 6    | YURI             | 37    |
 | 7    | hchcsen          | 33    |
 | 8    | Commie           | 33    |
-| 9    | Bunny-Apocalypse | 31    |
-| 10   | LostYears        | 30    |
+| 9    | LostYears        | 30    |
+| 10   | Bunny-Apocalypse | 30    |
 | 11   | MTBB             | 30    |
-| 12   | Arid             | 23    |
-| 13   | Erai-raws        | 23    |
+| 12   | Erai-raws        | 24    |
+| 13   | Arid             | 23    |
 | 14   | Kametsu          | 22    |
 | 15   | Headpatter       | 22    |
 | 16   | NOGRP            | 22    |
