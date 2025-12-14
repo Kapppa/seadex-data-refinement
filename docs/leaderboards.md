@@ -21,9 +21,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | MTBB             | 94    |
 | 6    | SubsPlease       | 82    |
 | 7    | YURI             | 71    |
-| 8    | YURASUKA         | 63    |
-| 9    | Headpatter       | 63    |
-| 10   | Moxie            | 61    |
+| 8    | Headpatter       | 65    |
+| 9    | YURASUKA         | 63    |
+| 10   | Moxie            | 63    |
 | 11   | hchcsen          | 60    |
 | 12   | smol             | 58    |
 | 13   | Drag             | 57    |
@@ -79,9 +79,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam        | 121   |
 | 4    | NAN0       | 97    |
 | 5    | MTBB       | 64    |
-| 6    | Moxie      | 61    |
+| 6    | Moxie      | 63    |
 | 7    | smol       | 56    |
-| 8    | Headpatter | 45    |
+| 8    | Headpatter | 47    |
 | 9    | TTGA       | 35    |
 | 10   | Okay-Subs  | 35    |
 | 11   | LYS1TH3A   | 34    |
@@ -124,8 +124,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | Holomux          | 20    |
 | 19   | CTR              | 20    |
 | 20   | Chihiro          | 19    |
-| 21   | SCY              | 17    |
-| 22   | Pog42            | 16    |
+| 21   | Pog42            | 16    |
+| 22   | SCY              | 16    |
 | 23   | HorribleSubs     | 16    |
 | 24   | Reza             | 15    |
 | 25   | UDF              | 13    |
