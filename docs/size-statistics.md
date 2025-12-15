@@ -9,8 +9,8 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `118.7 TiB`
-- Best size: `89.3 TiB`
-- Alt size: `29.4 TiB`
+- Best size: `89.2 TiB`
+- Alt size: `29.5 TiB`
 - Realistic size: `92.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -20,15 +20,15 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.4 TiB   | 12.3 TiB (85.45%)   | 184 (~80.2 GiB each)  |
+| 1    | -ZR-             | 14.4 TiB   | 12.3 TiB (85.35%)   | 185 (~79.8 GiB each)  |
 | 2    | CRUCiBLE         | 10.5 TiB   | 10.5 TiB (100.00%)  | 142 (~75.8 GiB each)  |
 | 3    | NAN0             | 7.3 TiB    | 7.2 TiB (98.96%)    | 98 (~75.8 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (91.97%)    | 133 (~29.9 GiB each)  |
 | 5    | TTGA             | 2.7 TiB    | 2.5 TiB (92.70%)    | 37 (~74.1 GiB each)   |
 | 6    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
 | 7    | hchcsen          | 2.5 TiB    | 1.7 TiB (65.82%)    | 65 (~40.2 GiB each)   |
-| 8    | B00BA            | 2.5 TiB    | 2.5 TiB (100.00%)   | 27 (~94.1 GiB each)   |
-| 9    | Moxie            | 2.5 TiB    | 2.5 TiB (100.00%)   | 63 (~40.3 GiB each)   |
+| 8    | Moxie            | 2.5 TiB    | 2.5 TiB (100.00%)   | 64 (~39.9 GiB each)   |
+| 9    | B00BA            | 2.5 TiB    | 2.5 TiB (100.00%)   | 27 (~94.1 GiB each)   |
 | 10   | Headpatter       | 2.0 TiB    | 1.8 TiB (88.28%)    | 69 (~30.3 GiB each)   |
 | 11   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 12   | MTBB             | 1.5 TiB    | 1.2 TiB (83.03%)    | 94 (~15.9 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 48   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
 | 49   | Flugel           | 489.6 GiB  | 489.6 GiB (100.00%) | 17 (~28.8 GiB each)   |
-| 50   | Others           | 36.3 TiB   | 20.3 TiB (55.80%)   | 1755 (~21.2 GiB each) |
+| 50   | Others           | 36.3 TiB   | 20.1 TiB (55.48%)   | 1755 (~21.2 GiB each) |

@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 172   |
+| 🥇   | -ZR-             | 173   |
 | 🥈   | CRUCiBLE         | 142   |
 | 🥉   | sam              | 132   |
 | 4    | NAN0             | 98    |
@@ -22,8 +22,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | SubsPlease       | 82    |
 | 7    | YURI             | 71    |
 | 8    | Headpatter       | 65    |
-| 9    | YURASUKA         | 63    |
-| 10   | Moxie            | 63    |
+| 9    | Moxie            | 64    |
+| 10   | YURASUKA         | 63    |
 | 11   | hchcsen          | 60    |
 | 12   | smol             | 58    |
 | 13   | Drag             | 57    |
@@ -57,8 +57,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | FLE        | 18    |
 | 12   | Flugel     | 17    |
 | 13   | YURI       | 16    |
-| 14   | LazyRemux  | 16    |
-| 15   | Moxie      | 15    |
+| 14   | Moxie      | 16    |
+| 15   | LazyRemux  | 16    |
 | 16   | LostYears  | 15    |
 | 17   | koala      | 14    |
 | 18   | ZeroBuild  | 14    |
@@ -79,7 +79,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam        | 121   |
 | 4    | NAN0       | 97    |
 | 5    | MTBB       | 64    |
-| 6    | Moxie      | 63    |
+| 6    | Moxie      | 64    |
 | 7    | smol       | 56    |
 | 8    | Headpatter | 47    |
 | 9    | TTGA       | 35    |
@@ -108,14 +108,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | YURASUKA         | 50    |
 | 🥉   | Drag             | 42    |
 | 4    | KH               | 41    |
-| 5    | -ZR-             | 38    |
+| 5    | -ZR-             | 39    |
 | 6    | YURI             | 37    |
 | 7    | hchcsen          | 33    |
 | 8    | Commie           | 33    |
 | 9    | LostYears        | 30    |
 | 10   | Bunny-Apocalypse | 30    |
 | 11   | MTBB             | 30    |
-| 12   | Erai-raws        | 24    |
+| 12   | Erai-raws        | 25    |
 | 13   | Arid             | 23    |
 | 14   | Kametsu          | 22    |
 | 15   | Headpatter       | 22    |
