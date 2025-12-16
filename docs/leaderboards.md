@@ -21,15 +21,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | MTBB             | 94    |
 | 6    | SubsPlease       | 82    |
 | 7    | YURI             | 71    |
-| 8    | Headpatter       | 65    |
-| 9    | Moxie            | 64    |
+| 8    | Headpatter       | 66    |
+| 9    | Moxie            | 65    |
 | 10   | YURASUKA         | 63    |
 | 11   | hchcsen          | 60    |
 | 12   | smol             | 58    |
 | 13   | Drag             | 57    |
 | 14   | KH               | 53    |
-| 15   | LostYears        | 45    |
-| 16   | Arid             | 44    |
+| 15   | Arid             | 44    |
+| 16   | LostYears        | 44    |
 | 17   | LYS1TH3A         | 37    |
 | 18   | TTGA             | 37    |
 | 19   | Bunny-Apocalypse | 37    |
@@ -59,8 +59,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | YURI       | 16    |
 | 14   | Moxie      | 16    |
 | 15   | LazyRemux  | 16    |
-| 16   | LostYears  | 15    |
-| 17   | koala      | 14    |
+| 16   | koala      | 14    |
+| 17   | LostYears  | 14    |
 | 18   | ZeroBuild  | 14    |
 | 19   | FraMeSToR  | 13    |
 | 20   | Arid       | 13    |
@@ -78,10 +78,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE   | 142   |
 | 🥉   | sam        | 121   |
 | 4    | NAN0       | 97    |
-| 5    | MTBB       | 64    |
-| 6    | Moxie      | 64    |
+| 5    | Moxie      | 65    |
+| 6    | MTBB       | 64    |
 | 7    | smol       | 56    |
-| 8    | Headpatter | 47    |
+| 8    | Headpatter | 48    |
 | 9    | TTGA       | 35    |
 | 10   | Okay-Subs  | 35    |
 | 11   | LYS1TH3A   | 34    |
@@ -97,8 +97,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | koala      | 17    |
 | 22   | Flugel     | 17    |
 | 23   | Drag       | 16    |
-| 24   | LostYears  | 15    |
-| 25   | UDF        | 14    |
+| 24   | UDF        | 14    |
+| 25   | LaCroiX    | 14    |
 
 ## Top 25 - Alt entries
 

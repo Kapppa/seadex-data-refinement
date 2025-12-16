@@ -27,9 +27,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 5    | TTGA             | 2.7 TiB    | 2.5 TiB (92.70%)    | 37 (~74.1 GiB each)   |
 | 6    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
 | 7    | hchcsen          | 2.5 TiB    | 1.7 TiB (65.82%)    | 65 (~40.2 GiB each)   |
-| 8    | Moxie            | 2.5 TiB    | 2.5 TiB (100.00%)   | 64 (~39.9 GiB each)   |
+| 8    | Moxie            | 2.5 TiB    | 2.5 TiB (100.00%)   | 65 (~39.4 GiB each)   |
 | 9    | B00BA            | 2.5 TiB    | 2.5 TiB (100.00%)   | 27 (~94.1 GiB each)   |
-| 10   | Headpatter       | 2.0 TiB    | 1.8 TiB (88.28%)    | 69 (~30.3 GiB each)   |
+| 10   | Headpatter       | 2.1 TiB    | 1.8 TiB (88.36%)    | 70 (~30.1 GiB each)   |
 | 11   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 12   | MTBB             | 1.5 TiB    | 1.2 TiB (83.03%)    | 94 (~15.9 GiB each)   |
 | 13   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
@@ -49,9 +49,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 27   | Holomux          | 804.4 GiB  | 163.2 GiB (20.29%)  | 29 (~27.7 GiB each)   |
 | 28   | Bunny-Apocalypse | 796.4 GiB  | 173.8 GiB (21.82%)  | 37 (~21.5 GiB each)   |
 | 29   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
-| 30   | LostYears        | 763.4 GiB  | 288.6 GiB (37.80%)  | 45 (~17.0 GiB each)   |
-| 31   | ZeroBuild        | 761.4 GiB  | 681.4 GiB (89.50%)  | 17 (~44.8 GiB each)   |
-| 32   | Okay-Subs        | 752.8 GiB  | 735.7 GiB (97.73%)  | 37 (~20.3 GiB each)   |
+| 30   | ZeroBuild        | 761.4 GiB  | 681.4 GiB (89.50%)  | 17 (~44.8 GiB each)   |
+| 31   | Okay-Subs        | 752.8 GiB  | 735.7 GiB (97.73%)  | 37 (~20.3 GiB each)   |
+| 32   | LostYears        | 736.8 GiB  | 261.9 GiB (35.55%)  | 44 (~16.7 GiB each)   |
 | 33   | SoM              | 732.1 GiB  | 732.1 GiB (100.00%) | 2 (~366.1 GiB each)   |
 | 34   | YURASUKA         | 721.1 GiB  | 165.0 GiB (22.88%)  | 63 (~11.4 GiB each)   |
 | 35   | WAP              | 699.2 GiB  | 699.2 GiB (100.00%) | 7 (~99.9 GiB each)    |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 48   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
 | 49   | Flugel           | 489.6 GiB  | 489.6 GiB (100.00%) | 17 (~28.8 GiB each)   |
-| 50   | Others           | 36.3 TiB   | 20.1 TiB (55.48%)   | 1755 (~21.2 GiB each) |
+| 50   | Others           | 36.3 TiB   | 20.2 TiB (55.49%)   | 1755 (~21.2 GiB each) |
