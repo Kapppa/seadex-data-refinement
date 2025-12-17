@@ -15,36 +15,36 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | -ZR-             | 173   |
-| 🥈   | CRUCiBLE         | 142   |
+| 🥈   | CRUCiBLE         | 141   |
 | 🥉   | sam              | 132   |
 | 4    | NAN0             | 98    |
 | 5    | MTBB             | 94    |
 | 6    | SubsPlease       | 82    |
 | 7    | YURI             | 71    |
-| 8    | Headpatter       | 66    |
+| 8    | Headpatter       | 67    |
 | 9    | Moxie            | 65    |
-| 10   | YURASUKA         | 63    |
+| 10   | YURASUKA         | 64    |
 | 11   | hchcsen          | 60    |
 | 12   | smol             | 58    |
 | 13   | Drag             | 57    |
 | 14   | KH               | 53    |
 | 15   | Arid             | 44    |
 | 16   | LostYears        | 44    |
-| 17   | LYS1TH3A         | 37    |
-| 18   | TTGA             | 37    |
-| 19   | Bunny-Apocalypse | 37    |
-| 20   | Okay-Subs        | 37    |
+| 17   | Okay-Subs        | 38    |
+| 18   | LYS1TH3A         | 37    |
+| 19   | TTGA             | 37    |
+| 20   | Bunny-Apocalypse | 37    |
 | 21   | Lulu             | 34    |
 | 22   | PMR              | 34    |
-| 23   | NOGRP            | 33    |
-| 24   | Commie           | 33    |
+| 23   | Commie           | 33    |
+| 24   | NOGRP            | 32    |
 | 25   | Kametsu          | 30    |
 
 ## Top 25 - Best dual audio entries
 
 | Rank | Group      | Count |
 | :----| :----------| :-----|
-| 🥇   | CRUCiBLE   | 113   |
+| 🥇   | CRUCiBLE   | 112   |
 | 🥈   | -ZR-       | 109   |
 | 🥉   | sam        | 90    |
 | 4    | NAN0       | 75    |
@@ -75,15 +75,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | -ZR-       | 146   |
-| 🥈   | CRUCiBLE   | 142   |
+| 🥈   | CRUCiBLE   | 141   |
 | 🥉   | sam        | 121   |
 | 4    | NAN0       | 97    |
 | 5    | Moxie      | 65    |
 | 6    | MTBB       | 64    |
 | 7    | smol       | 56    |
-| 8    | Headpatter | 48    |
-| 9    | TTGA       | 35    |
-| 10   | Okay-Subs  | 35    |
+| 8    | Headpatter | 49    |
+| 9    | Okay-Subs  | 36    |
+| 10   | TTGA       | 35    |
 | 11   | LYS1TH3A   | 34    |
 | 12   | YURI       | 34    |
 | 13   | PMR        | 34    |
@@ -105,7 +105,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
 | 🥇   | SubsPlease       | 69    |
-| 🥈   | YURASUKA         | 50    |
+| 🥈   | YURASUKA         | 51    |
 | 🥉   | Drag             | 42    |
 | 4    | KH               | 41    |
 | 5    | -ZR-             | 39    |
@@ -117,10 +117,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | MTBB             | 30    |
 | 12   | Erai-raws        | 25    |
 | 13   | Arid             | 23    |
-| 14   | Kametsu          | 22    |
-| 15   | Headpatter       | 22    |
-| 16   | NOGRP            | 22    |
-| 17   | VARYG            | 22    |
+| 14   | VARYG            | 23    |
+| 15   | Kametsu          | 22    |
+| 16   | Headpatter       | 22    |
+| 17   | NOGRP            | 22    |
 | 18   | Holomux          | 20    |
 | 19   | CTR              | 20    |
 | 20   | Chihiro          | 19    |
