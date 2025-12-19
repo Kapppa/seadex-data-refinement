@@ -24,8 +24,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 10.5 TiB   | 10.5 TiB (100.00%)  | 141 (~76.1 GiB each)  |
 | 3    | NAN0             | 7.3 TiB    | 7.2 TiB (98.96%)    | 98 (~75.8 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (91.97%)    | 133 (~29.9 GiB each)  |
-| 5    | TTGA             | 2.7 TiB    | 2.5 TiB (92.70%)    | 37 (~74.1 GiB each)   |
-| 6    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
+| 5    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
+| 6    | TTGA             | 2.6 TiB    | 2.4 TiB (92.47%)    | 36 (~73.8 GiB each)   |
 | 7    | Moxie            | 2.6 TiB    | 2.6 TiB (100.00%)   | 67 (~39.0 GiB each)   |
 | 8    | hchcsen          | 2.5 TiB    | 1.7 TiB (65.82%)    | 65 (~40.2 GiB each)   |
 | 9    | B00BA            | 2.5 TiB    | 2.5 TiB (100.00%)   | 27 (~94.1 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 48   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
 | 49   | Flugel           | 489.6 GiB  | 489.6 GiB (100.00%) | 17 (~28.8 GiB each)   |
-| 50   | Others           | 36.5 TiB   | 20.3 TiB (55.66%)   | 1757 (~21.3 GiB each) |
+| 50   | Others           | 36.6 TiB   | 20.4 TiB (55.76%)   | 1757 (~21.3 GiB each) |

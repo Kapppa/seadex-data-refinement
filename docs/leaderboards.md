@@ -32,8 +32,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | LostYears        | 44    |
 | 17   | Okay-Subs        | 38    |
 | 18   | LYS1TH3A         | 37    |
-| 19   | TTGA             | 37    |
-| 20   | Bunny-Apocalypse | 37    |
+| 19   | Bunny-Apocalypse | 37    |
+| 20   | TTGA             | 36    |
 | 21   | Lulu             | 34    |
 | 22   | PMR              | 34    |
 | 23   | Commie           | 33    |
@@ -83,9 +83,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | smol       | 56    |
 | 8    | Headpatter | 50    |
 | 9    | Okay-Subs  | 36    |
-| 10   | TTGA       | 35    |
-| 11   | LYS1TH3A   | 34    |
-| 12   | YURI       | 34    |
+| 10   | LYS1TH3A   | 34    |
+| 11   | YURI       | 34    |
+| 12   | TTGA       | 34    |
 | 13   | PMR        | 34    |
 | 14   | hchcsen    | 32    |
 | 15   | B00BA      | 27    |
