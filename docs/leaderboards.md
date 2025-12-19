@@ -97,8 +97,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | koala      | 17    |
 | 22   | Flugel     | 17    |
 | 23   | Drag       | 16    |
-| 24   | UDF        | 14    |
-| 25   | LaCroiX    | 14    |
+| 24   | LaCroiX    | 15    |
+| 25   | UDF        | 14    |
 
 ## Top 25 - Alt entries
 

@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `118.9 TiB`
-- Best size: `89.4 TiB`
+- Total size: `119.0 TiB`
+- Best size: `89.5 TiB`
 - Alt size: `29.5 TiB`
-- Realistic size: `92.9 TiB`
+- Realistic size: `93.0 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -35,9 +35,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 13   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 14   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.72%)  | 82 (~17.1 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
-| 16   | NOGRP            | 1.0 TiB    | 848.3 GiB (79.36%)  | 32 (~33.4 GiB each)   |
-| 17   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
-| 18   | LaCroiX          | 990.6 GiB  | 990.6 GiB (100.00%) | 14 (~70.8 GiB each)   |
+| 16   | LaCroiX          | 1.1 TiB    | 1.1 TiB (100.00%)   | 15 (~71.8 GiB each)   |
+| 17   | NOGRP            | 1.0 TiB    | 848.3 GiB (79.36%)  | 32 (~33.4 GiB each)   |
+| 18   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 19   | LYS1TH3A         | 938.0 GiB  | 909.6 GiB (96.98%)  | 37 (~25.4 GiB each)   |
 | 20   | FLE              | 934.0 GiB  | 895.9 GiB (95.92%)  | 22 (~42.5 GiB each)   |
 | 21   | FraMeSToR        | 903.8 GiB  | 903.8 GiB (100.00%) | 13 (~69.5 GiB each)   |
