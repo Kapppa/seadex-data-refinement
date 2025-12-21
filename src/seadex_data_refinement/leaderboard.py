@@ -22,7 +22,7 @@ class SeaDexLeaderboard:
             for group in unique_groups:
                 data[group] += 1
 
-        return dict(sorted(data.items(), key=lambda x: x[1], reverse=True)[:25])
+        return self.do_groupping(data)
 
     def by_best_dual_count(self) -> dict[str, int]:
         data: dict[str, int] = defaultdict(lambda: 0)
@@ -32,7 +32,7 @@ class SeaDexLeaderboard:
             for group in unique_groups:
                 data[group] += 1
 
-        return dict(sorted(data.items(), key=lambda x: x[1], reverse=True)[:25])
+        return self.do_groupping(data)
 
     def by_best_count(self) -> dict[str, int]:
         data: dict[str, int] = defaultdict(lambda: 0)
@@ -42,7 +42,7 @@ class SeaDexLeaderboard:
             for group in unique_groups:
                 data[group] += 1
 
-        return dict(sorted(data.items(), key=lambda x: x[1], reverse=True)[:25])
+        return self.do_groupping(data)
 
     def by_alt_count(self) -> dict[str, int]:
         data: dict[str, int] = defaultdict(lambda: 0)
@@ -52,7 +52,37 @@ class SeaDexLeaderboard:
             for group in unique_groups:
                 data[group] += 1
 
-        return dict(sorted(data.items(), key=lambda x: x[1], reverse=True)[:25])
+        return self.do_groupping(data)
+    
+    def do_groupping(self, dict:dict[str, int]) -> dict[int, list[str]]:
+        grouped = defaultdict(list)
+    
+        for k, v in dict.items():
+            grouped[v].append(k)
+        
+        sorted_dict = {k: sorted(grouped[k]) for k in sorted(grouped, reverse=True)}
+        
+        return sorted_dict
+    
+    def do_group_format(self, groups:list[str]) -> str:
+        amount = 5 if len(groups)<= 5 else 4
+
+        joined = " / ".join(groups[:amount])
+
+        if amount == 4:
+            joined += " & Others"
+
+        return joined
+
+    def get_medal(self, count:int) -> str:
+        match count:
+            case 1:
+                return "🥇"
+            case 2:
+                return "🥈"
+            case 3:
+                return "🥉"
+        return count
 
     def generate_markdown_report(self) -> str:
         header = "# Leaderboards\n\n"
@@ -85,15 +115,9 @@ class SeaDexLeaderboard:
             table.align = "l"
             table.field_names = ["Rank", "Group", "Count"]
 
-            for rank, (name, count) in enumerate(data.items(), start=1):
-                if rank == 1:
-                    table.add_row(["🥇", name, count])
-                elif rank == 2:
-                    table.add_row(["🥈", name, count])
-                elif rank == 3:
-                    table.add_row(["🥉", name, count])
-                else:
-                    table.add_row([rank, name, count])
+            for rank, (count, names) in enumerate(data.items(), start=1):
+                if rank > 25: break
+                table.add_row([self.get_medal(rank), self.do_group_format(names), count])
 
             report.append(f"## {title}\n")
             report.append(table.get_formatted_string())

@@ -87,7 +87,7 @@ class MediaEntryCollection(BaseModel):
         ids = [int(id) for id in httpx.get(SEADEX_ANILIST_IDS_URL).raise_for_status().text.split(",")]
 
         with pyanilist.AniList() as anilist:
-            media_iter = itertools.islice(anilist.get_media_many(id_not_in=ids), count)
+            media_iter = itertools.islice(anilist.get_media_many(id_not_in=ids, sort=pyanilist.MediaSort.POPULARITY_DESC, type=pyanilist.MediaType.ANIME), count)
             for media in media_iter:
                 results.append(
                     MediaEntry(
