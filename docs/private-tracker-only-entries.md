@@ -6,7 +6,7 @@
 | 3   | PUNCH LINE                                                      | 2015 | 16 Dec 2025 | [SeaDex](https://releases.moe/20964/), [AniList](https://anilist.co/anime/20964)   |
 | 4   | Immoral Guild                                                   | 2022 | 18 Dec 2025 | [SeaDex](https://releases.moe/146233/), [AniList](https://anilist.co/anime/146233) |
 | 5   | Scarlet Nexus                                                   | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
-| 6   | Hozuki's Coolheadedness                                         | 2014 | 20 Dec 2025 | [SeaDex](https://releases.moe/20431/), [AniList](https://anilist.co/anime/20431)   |
+| 6   | Hozuki's Coolheadedness                                         | 2014 | 21 Dec 2025 | [SeaDex](https://releases.moe/20431/), [AniList](https://anilist.co/anime/20431)   |
 | 7   | Level 1 Demon Lord and One Room Hero                            | 2023 | 12 Oct 2025 | [SeaDex](https://releases.moe/146836/), [AniList](https://anilist.co/anime/146836) |
 | 8   | Scar on the Praeter                                             | 2021 | 22 Oct 2025 | [SeaDex](https://releases.moe/123785/), [AniList](https://anilist.co/anime/123785) |
 | 9   | TIGER & BUNNY 2                                                 | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/117197/), [AniList](https://anilist.co/anime/117197) |

@@ -21,8 +21,8 @@
 | 18  | Food Wars! The Third Plate                                                                    | 2017 | 05 Sep 2025 | [SeaDex](https://releases.moe/99255/), [AniList](https://anilist.co/anime/99255)   |
 | 19  | The Seven Deadly Sins: Imperial Wrath of the Gods                                             | 2019 | 28 Jan 2024 | [SeaDex](https://releases.moe/108928/), [AniList](https://anilist.co/anime/108928) |
 | 20  | MUSHI-SHI                                                                                     | 2005 | 02 Aug 2025 | [SeaDex](https://releases.moe/457/), [AniList](https://anilist.co/anime/457)       |
-| 21  | The Disastrous Life of Saiki K. Season 2                                                      | 2018 | 08 Nov 2025 | [SeaDex](https://releases.moe/98034/), [AniList](https://anilist.co/anime/98034)   |
-| 22  | BLEACH: Thousand-Year Blood War                                                               | 2022 | 22 Nov 2025 | [SeaDex](https://releases.moe/116674/), [AniList](https://anilist.co/anime/116674) |
+| 21  | BLEACH: Thousand-Year Blood War                                                               | 2022 | 22 Nov 2025 | [SeaDex](https://releases.moe/116674/), [AniList](https://anilist.co/anime/116674) |
+| 22  | The Disastrous Life of Saiki K. Season 2                                                      | 2018 | 08 Nov 2025 | [SeaDex](https://releases.moe/98034/), [AniList](https://anilist.co/anime/98034)   |
 | 23  | Ponyo                                                                                         | 2008 | 01 Jan 2025 | [SeaDex](https://releases.moe/2890/), [AniList](https://anilist.co/anime/2890)     |
 | 24  | DAN DA DAN Season 2                                                                           | 2025 | 10 Oct 2025 | [SeaDex](https://releases.moe/185660/), [AniList](https://anilist.co/anime/185660) |
 | 25  | K                                                                                             | 2012 | 29 Dec 2024 | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
@@ -188,7 +188,7 @@
 | 185 | DRAMAtical Murder                                                                             | 2014 | 16 Oct 2025 | [SeaDex](https://releases.moe/20677/), [AniList](https://anilist.co/anime/20677)   |
 | 186 | Chaos;Child                                                                                   | 2017 | 07 Apr 2025 | [SeaDex](https://releases.moe/21126/), [AniList](https://anilist.co/anime/21126)   |
 | 187 | MUSHI-SHI Special: Bell Droplets                                                              | 2015 | 15 Jul 2025 | [SeaDex](https://releases.moe/21008/), [AniList](https://anilist.co/anime/21008)   |
-| 188 | Hozuki's Coolheadedness                                                                       | 2014 | 20 Dec 2025 | [SeaDex](https://releases.moe/20431/), [AniList](https://anilist.co/anime/20431)   |
+| 188 | Hozuki's Coolheadedness                                                                       | 2014 | 21 Dec 2025 | [SeaDex](https://releases.moe/20431/), [AniList](https://anilist.co/anime/20431)   |
 | 189 | Strawberry Panic                                                                              | 2006 | 17 Nov 2025 | [SeaDex](https://releases.moe/855/), [AniList](https://anilist.co/anime/855)       |
 | 190 | Macross                                                                                       | 1982 | 03 Aug 2025 | [SeaDex](https://releases.moe/1088/), [AniList](https://anilist.co/anime/1088)     |
 | 191 | Magic Kaito 1412                                                                              | 2014 | 25 Nov 2025 | [SeaDex](https://releases.moe/20790/), [AniList](https://anilist.co/anime/20790)   |
