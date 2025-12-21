@@ -104,9 +104,10 @@ def build_docs(session: nox.Session) -> None:
         "sdr", "get-entries", "encode-best-entries", "--outfile", src / "encode-best-entries.md", *session.posargs
     )
     sleep()
-    session.run("sdr", "top-missing", "--count", "500", "--outfile", src / "top-500.md", *session.posargs)
+    session.run("sdr", "get-entries", "patch-required", "--outfile", src / "patch-required.md", *session.posargs)
     sleep()
-    session.run("sdr", "top-missing", "--count", "500", "--outfile", src / "patch-required.md", *session.posargs)
+    session.run("sdr", "top-missing", "--count", "500", "--outfile", src / "top-500.md", *session.posargs)
+
 
     # No sleep here because these do not hit AniList.
     session.run("sdr", "size-stats", "--outfile", src / "size-statistics.md", *session.posargs)
