@@ -14,16 +14,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group            | Count |
 | :----| :----------------| :-----|
-| 🥇   | -ZR-             | 173   |
+| 🥇   | -ZR-             | 174   |
 | 🥈   | CRUCiBLE         | 141   |
-| 🥉   | sam              | 132   |
-| 4    | NAN0             | 98    |
+| 🥉   | sam              | 133   |
+| 4    | NAN0             | 99    |
 | 5    | MTBB             | 94    |
 | 6    | SubsPlease       | 82    |
 | 7    | YURI             | 71    |
-| 8    | Headpatter       | 68    |
-| 9    | Moxie            | 67    |
-| 10   | YURASUKA         | 64    |
+| 8    | Headpatter       | 69    |
+| 9    | Moxie            | 68    |
+| 10   | YURASUKA         | 65    |
 | 11   | hchcsen          | 60    |
 | 12   | smol             | 58    |
 | 13   | Drag             | 57    |
@@ -37,7 +37,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | Lulu             | 34    |
 | 22   | PMR              | 34    |
 | 23   | Commie           | 33    |
-| 24   | NOGRP            | 32    |
+| 24   | NOGRP            | 31    |
 | 25   | Kametsu          | 30    |
 
 ## Top 25 - Best dual audio entries
@@ -45,9 +45,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group      | Count |
 | :----| :----------| :-----|
 | 🥇   | CRUCiBLE   | 112   |
-| 🥈   | -ZR-       | 109   |
-| 🥉   | sam        | 90    |
-| 4    | NAN0       | 75    |
+| 🥈   | -ZR-       | 110   |
+| 🥉   | sam        | 91    |
+| 4    | NAN0       | 76    |
 | 5    | LYS1TH3A   | 33    |
 | 6    | hchcsen    | 29    |
 | 7    | TTGA       | 25    |
@@ -67,29 +67,29 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | KH         | 12    |
 | 22   | Vodes      | 12    |
 | 23   | PMR        | 12    |
-| 24   | YURASUKA   | 10    |
+| 24   | YURASUKA   | 11    |
 | 25   | hydes      | 10    |
 
 ## Top 25 - Best entries
 
 | Rank | Group      | Count |
 | :----| :----------| :-----|
-| 🥇   | -ZR-       | 146   |
+| 🥇   | -ZR-       | 147   |
 | 🥈   | CRUCiBLE   | 141   |
-| 🥉   | sam        | 121   |
-| 4    | NAN0       | 97    |
-| 5    | Moxie      | 67    |
+| 🥉   | sam        | 122   |
+| 4    | NAN0       | 98    |
+| 5    | Moxie      | 68    |
 | 6    | MTBB       | 64    |
 | 7    | smol       | 56    |
-| 8    | Headpatter | 50    |
+| 8    | Headpatter | 51    |
 | 9    | Okay-Subs  | 36    |
 | 10   | LYS1TH3A   | 34    |
 | 11   | YURI       | 34    |
 | 12   | TTGA       | 34    |
 | 13   | PMR        | 34    |
 | 14   | hchcsen    | 32    |
-| 15   | B00BA      | 27    |
-| 16   | Orphan     | 26    |
+| 15   | Orphan     | 26    |
+| 16   | B00BA      | 26    |
 | 17   | Lulu       | 22    |
 | 18   | Arid       | 22    |
 | 19   | LazyRemux  | 20    |
@@ -117,10 +117,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | MTBB             | 30    |
 | 12   | Erai-raws        | 25    |
 | 13   | Arid             | 24    |
-| 14   | VARYG            | 23    |
-| 15   | Kametsu          | 22    |
-| 16   | Headpatter       | 22    |
-| 17   | NOGRP            | 22    |
+| 14   | VARYG            | 24    |
+| 15   | Headpatter       | 23    |
+| 16   | Kametsu          | 22    |
+| 17   | NOGRP            | 21    |
 | 18   | Holomux          | 20    |
 | 19   | CTR              | 20    |
 | 20   | Chihiro          | 19    |

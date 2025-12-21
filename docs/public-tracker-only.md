@@ -3,5 +3,8 @@
 This list excludes torrents that have been manually verified to break AB rules.
 
 
-| Idx | Title | Year | Updated At | Links |
-| :---| :-----| :----| :----------| :-----|
+| Idx | Title                                | Year | Updated At  | Links                                                                              |
+| :---| :------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
+| 1   | New PANTY & STOCKING with GARTERBELT | 2025 | 20 Dec 2025 | [SeaDex](https://releases.moe/151799/), [AniList](https://anilist.co/anime/151799) |
+| 2   | Date A Live Mayuri Judgement         | 2015 | 20 Dec 2025 | [SeaDex](https://releases.moe/20741/), [AniList](https://anilist.co/anime/20741)   |
+| 3   | Fairy Tail                           | 2009 | 20 Dec 2025 | [SeaDex](https://releases.moe/6702/), [AniList](https://anilist.co/anime/6702)     |
