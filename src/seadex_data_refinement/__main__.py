@@ -33,6 +33,7 @@ def get_entries(
         "best-missing-dual",
         "alt-missing-dual",
         "encode-best-entries",
+        "patch-required",
     ],
     /,
     *,
@@ -46,13 +47,6 @@ def get_entries(
     ----------
     criteria : Literal[...]
         The criteria to use for retrieving SeaDex entries.
-        - "unmuxed": Unmuxed entries.
-        - "no-comparisons": Entries without any comparisons.
-        - "marked-incomplete": Entries explicitly marked as incomplete by editors.
-        - "public-non-nyaa": Entries that are publicly available but not distributed on Nyaa.
-        - "private-tracker-only": Entries exclusively found on private trackers.
-        - "public-tracker-only": Entries exclusively found on public trackers.
-        -"best-no-dual": Best entries without a dual audio version.
     outfile : Path | None, optional
         Path to write the output to.
     json : bool, optional
@@ -94,6 +88,17 @@ def get_entries(
                 for entry in seadex_entry.iterator():
                     for torrent in entry.torrents:
                         if torrent.tracker.is_public() and torrent.tracker is not seadex.Tracker.NYAA:
+                            entries[entry.anilist_id] = entry
+                            break
+
+        case "patch-required":
+            header = "# Patch required"
+            header += "\n\nAn entry appears here if at least one of its releases requires a patch to be applied.\n\n"
+
+            with seadex.SeaDexEntry() as seadex_entry:
+                for entry in seadex_entry.iterator():
+                    for torrent in entry.torrents:
+                        if seadex.Tag.PATCH_REQUIRED in torrent.tags:
                             entries[entry.anilist_id] = entry
                             break
 

@@ -26,7 +26,8 @@ public-tracker-only.md
 top-500.md
 best-missing-dual.md
 alt-missing-dual.md
-encode-best-entries
+encode-best-entries.md
+patch-required.md
 ```
 
 ## Overview
@@ -56,6 +57,8 @@ encode-best-entries
 * {doc}`alt-missing-dual`: Same as best-missing-dual, but for alt releases instead.
 
 * {doc}`encode-best-entries`: Entries where an encode beats the store.
+
+* {doc}`patch-required`: An entry appears here if at least one of its releases requires a patch to be applied.
 
 ## Running locally
 
