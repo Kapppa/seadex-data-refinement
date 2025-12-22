@@ -89,16 +89,16 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | Arid / Lulu                                   | 22    |
 | 14   | FLE / LazyRemux                               | 20    |
 | 15   | Flugel / koala                                | 17    |
-| 16   | Drag                                          | 16    |
-| 17   | LaCroiX                                       | 15    |
-| 18   | KH / LostYears / UDF / Vodes & Others         | 14    |
-| 19   | Beatrice / FraMeSToR / SubsPlease             | 13    |
-| 20   | Pog42 / Reza                                  | 12    |
-| 21   | Mehul / SCY                                   | 11    |
-| 22   | DemiHuman / IK / Mysteria / NOGRP & Others    | 10    |
-| 23   | BBT-RMX / Holomux / P9 / cappybara            | 9     |
-| 24   | ANE / Beatrice-Raws / CUNNY / JySzE & Others  | 8     |
-| 25   | Bunny-Apocalypse / Exp / OZR / Pizza & Others | 7     |
+| 16   | Drag / LaCroiX                                | 16    |
+| 17   | KH / LostYears / UDF / Vodes & Others         | 14    |
+| 18   | Beatrice / FraMeSToR / SubsPlease             | 13    |
+| 19   | Pog42 / Reza                                  | 12    |
+| 20   | Mehul / SCY                                   | 11    |
+| 21   | DemiHuman / IK / Mysteria / NOGRP & Others    | 10    |
+| 22   | BBT-RMX / Holomux / P9 / cappybara            | 9     |
+| 23   | ANE / Beatrice-Raws / CUNNY / JySzE & Others  | 8     |
+| 24   | Bunny-Apocalypse / Exp / OZR / Pizza & Others | 7     |
+| 25   | Cunnysseur / Metal / RMX / Stye / eldon       | 6     |
 
 ## Top 25 - Alt entries
 
@@ -121,11 +121,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | Chihiro                                    | 19    |
 | 16   | HorribleSubs / Pog42 / SCY                 | 16    |
 | 17   | Reza                                       | 15    |
-| 18   | CBT / IK / Lulu / Mysteria / UDF           | 13    |
-| 19   | NH / SEV / sam                             | 12    |
+| 18   | CBT / IK / Lulu / UDF                      | 13    |
+| 19   | Mysteria / NH / SEV / sam                  | 12    |
 | 20   | Asakura / Datte13 / FFF                    | 11    |
 | 21   | CyC / Pookie / Tsundere / Yoghurt / o7     | 10    |
 | 22   | GSK_kun / OZR / Starbez / WBDP             | 8     |
-| 23   | Baws / Exp / LCE                           | 7     |
+| 23   | Baws / Exp / LCE / Netaro                  | 7     |
 | 24   | AC / ARC / Aoba_xu / BlurayDesuYo & Others | 6     |
 | 25   | -KS- / ANE / CW / Crow & Others            | 5     |

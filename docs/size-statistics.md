@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `121.1 TiB`
-- Best size: `91.1 TiB`
-- Alt size: `29.9 TiB`
-- Realistic size: `93.9 TiB`
+- Total size: `121.2 TiB`
+- Best size: `91.3 TiB`
+- Alt size: `30.0 TiB`
+- Realistic size: `94.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -35,7 +35,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 13   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 14   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.72%)  | 82 (~17.1 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
-| 16   | LaCroiX          | 1.1 TiB    | 1.1 TiB (100.00%)   | 15 (~71.8 GiB each)   |
+| 16   | LaCroiX          | 1.1 TiB    | 1.1 TiB (100.00%)   | 16 (~72.4 GiB each)   |
 | 17   | NOGRP            | 1.0 TiB    | 848.3 GiB (80.82%)  | 31 (~33.9 GiB each)   |
 | 18   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 19   | LYS1TH3A         | 938.0 GiB  | 909.6 GiB (96.98%)  | 37 (~25.4 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 48   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 49   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 50   | Others           | 37.4 TiB   | 20.9 TiB (55.73%)   | 1779 (~21.6 GiB each) |
+| 50   | Others           | 37.5 TiB   | 20.9 TiB (55.73%)   | 1781 (~21.6 GiB each) |
