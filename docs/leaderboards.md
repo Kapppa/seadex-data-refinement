@@ -24,7 +24,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | Headpatter                          | 69    |
 | 9    | Moxie                               | 68    |
 | 10   | YURASUKA                            | 65    |
-| 11   | hchcsen                             | 60    |
+| 11   | hchcsen                             | 59    |
 | 12   | smol                                | 58    |
 | 13   | Drag                                | 57    |
 | 14   | KH                                  | 53    |
@@ -49,7 +49,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                                             | 91    |
 | 4    | NAN0                                            | 76    |
 | 5    | LYS1TH3A                                        | 33    |
-| 6    | hchcsen                                         | 29    |
+| 6    | hchcsen                                         | 28    |
 | 7    | TTGA                                            | 25    |
 | 8    | smol                                            | 23    |
 | 9    | Headpatter                                      | 20    |
@@ -58,8 +58,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Flugel                                          | 17    |
 | 13   | LazyRemux / Moxie / YURI                        | 16    |
 | 14   | LostYears / ZeroBuild / koala                   | 14    |
-| 15   | Arid / FraMeSToR                                | 13    |
-| 16   | KH / PMR / Vodes                                | 12    |
+| 15   | Arid                                            | 13    |
+| 16   | FraMeSToR / KH / PMR / Vodes                    | 12    |
 | 17   | YURASUKA                                        | 11    |
 | 18   | DemiHuman / SCY / hydes                         | 10    |
 | 19   | Meakes / UDF                                    | 8     |
@@ -84,15 +84,15 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | Headpatter                                    | 51    |
 | 9    | Okay-Subs                                     | 36    |
 | 10   | LYS1TH3A / PMR / TTGA / YURI                  | 34    |
-| 11   | hchcsen                                       | 32    |
+| 11   | hchcsen                                       | 31    |
 | 12   | B00BA / Orphan                                | 26    |
 | 13   | Arid / Lulu                                   | 22    |
 | 14   | FLE / LazyRemux                               | 20    |
 | 15   | Flugel / koala                                | 17    |
 | 16   | Drag / LaCroiX                                | 16    |
 | 17   | KH / LostYears / UDF / Vodes & Others         | 14    |
-| 18   | Beatrice / FraMeSToR / SubsPlease             | 13    |
-| 19   | Pog42 / Reza                                  | 12    |
+| 18   | Beatrice / SubsPlease                         | 13    |
+| 19   | FraMeSToR / Pog42 / Reza                      | 12    |
 | 20   | Mehul / SCY                                   | 11    |
 | 21   | DemiHuman / IK / Mysteria / NOGRP & Others    | 10    |
 | 22   | BBT-RMX / Holomux / P9 / cappybara            | 9     |

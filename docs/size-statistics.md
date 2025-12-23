@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `121.2 TiB`
-- Best size: `91.3 TiB`
+- Total size: `121.1 TiB`
+- Best size: `91.0 TiB`
 - Alt size: `30.0 TiB`
-- Realistic size: `94.1 TiB`
+- Realistic size: `93.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -27,7 +27,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 5    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
 | 6    | TTGA             | 2.6 TiB    | 2.4 TiB (92.47%)    | 36 (~73.8 GiB each)   |
 | 7    | Moxie            | 2.6 TiB    | 2.6 TiB (100.00%)   | 68 (~38.8 GiB each)   |
-| 8    | hchcsen          | 2.5 TiB    | 1.7 TiB (65.82%)    | 65 (~40.2 GiB each)   |
+| 8    | hchcsen          | 2.4 TiB    | 1.5 TiB (63.38%)    | 64 (~38.1 GiB each)   |
 | 9    | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 10   | Headpatter       | 2.3 TiB    | 2.0 TiB (88.65%)    | 74 (~31.4 GiB each)   |
 | 11   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
@@ -40,12 +40,12 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 18   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 19   | LYS1TH3A         | 938.0 GiB  | 909.6 GiB (96.98%)  | 37 (~25.4 GiB each)   |
 | 20   | FLE              | 934.0 GiB  | 895.9 GiB (95.92%)  | 22 (~42.5 GiB each)   |
-| 21   | FraMeSToR        | 903.8 GiB  | 903.8 GiB (100.00%) | 13 (~69.5 GiB each)   |
-| 22   | KH               | 895.0 GiB  | 219.7 GiB (24.55%)  | 55 (~16.3 GiB each)   |
-| 23   | koala            | 871.3 GiB  | 871.3 GiB (100.00%) | 17 (~51.3 GiB each)   |
-| 24   | YURI             | 868.7 GiB  | 385.1 GiB (44.33%)  | 71 (~12.2 GiB each)   |
-| 25   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
-| 26   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
+| 21   | KH               | 895.0 GiB  | 219.7 GiB (24.55%)  | 55 (~16.3 GiB each)   |
+| 22   | koala            | 871.3 GiB  | 871.3 GiB (100.00%) | 17 (~51.3 GiB each)   |
+| 23   | YURI             | 868.7 GiB  | 385.1 GiB (44.33%)  | 71 (~12.2 GiB each)   |
+| 24   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
+| 25   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
+| 26   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
 | 27   | Holomux          | 804.4 GiB  | 163.2 GiB (20.29%)  | 29 (~27.7 GiB each)   |
 | 28   | Bunny-Apocalypse | 796.4 GiB  | 173.8 GiB (21.82%)  | 37 (~21.5 GiB each)   |
 | 29   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 48   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
 | 49   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 50   | Others           | 37.5 TiB   | 20.9 TiB (55.73%)   | 1781 (~21.6 GiB each) |
+| 50   | Others           | 37.6 TiB   | 20.9 TiB (55.64%)   | 1784 (~21.6 GiB each) |
