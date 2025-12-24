@@ -19,26 +19,26 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                                 | 133   |
 | 4    | NAN0                                | 99    |
 | 5    | MTBB                                | 94    |
-| 6    | SubsPlease                          | 82    |
+| 6    | SubsPlease                          | 81    |
 | 7    | YURI                                | 71    |
 | 8    | Headpatter                          | 69    |
 | 9    | Moxie                               | 68    |
 | 10   | YURASUKA                            | 65    |
-| 11   | hchcsen                             | 59    |
-| 12   | smol                                | 58    |
-| 13   | Drag                                | 57    |
-| 14   | KH                                  | 53    |
-| 15   | Arid                                | 45    |
-| 16   | LostYears                           | 44    |
-| 17   | Okay-Subs                           | 38    |
-| 18   | Bunny-Apocalypse / LYS1TH3A         | 37    |
-| 19   | TTGA                                | 36    |
-| 20   | Lulu / PMR                          | 34    |
-| 21   | Commie                              | 33    |
-| 22   | NOGRP                               | 31    |
-| 23   | Kametsu                             | 30    |
-| 24   | Erai-raws / Holomux / Pog42 / VARYG | 28    |
-| 25   | Orphan / SCY                        | 27    |
+| 11   | hchcsen / smol                      | 58    |
+| 12   | Drag                                | 57    |
+| 13   | KH                                  | 53    |
+| 14   | Arid                                | 45    |
+| 15   | LostYears                           | 44    |
+| 16   | Okay-Subs                           | 38    |
+| 17   | Bunny-Apocalypse / LYS1TH3A         | 37    |
+| 18   | TTGA                                | 36    |
+| 19   | Lulu / PMR                          | 34    |
+| 20   | Commie                              | 33    |
+| 21   | NOGRP                               | 31    |
+| 22   | Kametsu                             | 30    |
+| 23   | Erai-raws / Holomux / Pog42 / VARYG | 28    |
+| 24   | Orphan / SCY                        | 27    |
+| 25   | B00BA / Reza                        | 26    |
 
 ## Top 25 - Best dual audio entries
 
@@ -88,8 +88,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | B00BA / Orphan                                | 26    |
 | 13   | Arid / Lulu                                   | 22    |
 | 14   | FLE / LazyRemux                               | 20    |
-| 15   | Flugel / koala                                | 17    |
-| 16   | Drag / LaCroiX                                | 16    |
+| 15   | Flugel / LaCroiX / koala                      | 17    |
+| 16   | Drag                                          | 16    |
 | 17   | KH / LostYears / UDF / Vodes & Others         | 14    |
 | 18   | Beatrice / SubsPlease                         | 13    |
 | 19   | FraMeSToR / Pog42 / Reza                      | 12    |
@@ -104,28 +104,28 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                      | Count |
 | :----| :------------------------------------------| :-----|
-| 🥇   | SubsPlease                                 | 69    |
+| 🥇   | SubsPlease                                 | 68    |
 | 🥈   | YURASUKA                                   | 51    |
 | 🥉   | Drag                                       | 42    |
 | 4    | KH                                         | 41    |
-| 5    | -ZR-                                       | 39    |
+| 5    | -ZR-                                       | 38    |
 | 6    | YURI                                       | 37    |
-| 7    | Commie / hchcsen                           | 33    |
-| 8    | Bunny-Apocalypse / LostYears / MTBB        | 30    |
-| 9    | Erai-raws                                  | 25    |
-| 10   | Arid / VARYG                               | 24    |
-| 11   | Headpatter                                 | 23    |
-| 12   | Kametsu                                    | 22    |
-| 13   | NOGRP                                      | 21    |
-| 14   | CTR / Holomux                              | 20    |
-| 15   | Chihiro                                    | 19    |
-| 16   | HorribleSubs / Pog42 / SCY                 | 16    |
-| 17   | Reza                                       | 15    |
-| 18   | CBT / IK / Lulu / UDF                      | 13    |
-| 19   | Mysteria / NH / SEV / sam                  | 12    |
-| 20   | Asakura / Datte13 / FFF                    | 11    |
-| 21   | CyC / Pookie / Tsundere / Yoghurt / o7     | 10    |
-| 22   | GSK_kun / OZR / Starbez / WBDP             | 8     |
-| 23   | Baws / Exp / LCE / Netaro                  | 7     |
-| 24   | AC / ARC / Aoba_xu / BlurayDesuYo & Others | 6     |
-| 25   | -KS- / ANE / CW / Crow & Others            | 5     |
+| 7    | Commie                                     | 33    |
+| 8    | hchcsen                                    | 32    |
+| 9    | Bunny-Apocalypse / LostYears / MTBB        | 30    |
+| 10   | Erai-raws                                  | 25    |
+| 11   | Arid / VARYG                               | 24    |
+| 12   | Headpatter                                 | 23    |
+| 13   | Kametsu                                    | 22    |
+| 14   | NOGRP                                      | 21    |
+| 15   | CTR / Holomux                              | 20    |
+| 16   | Chihiro                                    | 19    |
+| 17   | HorribleSubs / Pog42 / SCY                 | 16    |
+| 18   | Reza                                       | 15    |
+| 19   | CBT / IK / Lulu / UDF                      | 13    |
+| 20   | Mysteria / NH / SEV / sam                  | 12    |
+| 21   | Asakura / Datte13 / FFF                    | 11    |
+| 22   | CyC / Pookie / Tsundere / Yoghurt / o7     | 10    |
+| 23   | GSK_kun / OZR / Starbez / WBDP             | 8     |
+| 24   | Baws / Exp / Kitsune / LCE / Netaro        | 7     |
+| 25   | AC / ARC / Aoba_xu / BlurayDesuYo & Others | 6     |

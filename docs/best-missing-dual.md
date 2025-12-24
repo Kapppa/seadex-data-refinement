@@ -40,8 +40,9 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 33  | Lucifer and the Biscuit Hammer                                             | 2022 | 29 Jun 2025 | [SeaDex](https://releases.moe/144323/), [AniList](https://anilist.co/anime/144323) |
 | 34  | Love, Chunibyo & Other Delusions - Heart Throb - Specials                  | 2014 | 13 Feb 2025 | [SeaDex](https://releases.moe/20777/), [AniList](https://anilist.co/anime/20777)   |
 | 35  | Synduality Noir                                                            | 2023 | 26 Jul 2025 | [SeaDex](https://releases.moe/154643/), [AniList](https://anilist.co/anime/154643) |
-| 36  | Aesthetica of a Rogue Hero Specials                                        | 2012 | 23 Jun 2024 | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
-| 37  | IS: Infinite Stratos 2 - Infinite Wedding                                  | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
-| 38  | Synduality Noir Part 2                                                     | 2024 | 26 Jul 2025 | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
-| 39  | El Hazard: The Wanderers                                                   | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
-| 40  | Photon: The Idiot Adventures                                               | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
+| 36  | Inu X Boku Secret Service Special                                          | 2012 | 23 Dec 2025 | [SeaDex](https://releases.moe/13403/), [AniList](https://anilist.co/anime/13403)   |
+| 37  | Aesthetica of a Rogue Hero Specials                                        | 2012 | 23 Jun 2024 | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
+| 38  | IS: Infinite Stratos 2 - Infinite Wedding                                  | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
+| 39  | Synduality Noir Part 2                                                     | 2024 | 26 Jul 2025 | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
+| 40  | El Hazard: The Wanderers                                                   | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
+| 41  | Photon: The Idiot Adventures                                               | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
