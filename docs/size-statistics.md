@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `121.5 TiB`
-- Best size: `91.3 TiB`
-- Alt size: `30.2 TiB`
-- Realistic size: `94.3 TiB`
+- Total size: `121.6 TiB`
+- Best size: `91.5 TiB`
+- Alt size: `30.1 TiB`
+- Realistic size: `94.4 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -36,7 +36,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 14   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.89%)  | 81 (~17.1 GiB each)   |
 | 15   | iKaos            | 1.2 TiB    | 898.5 GiB (70.42%)  | 4 (~319.0 GiB each)   |
 | 16   | LaCroiX          | 1.2 TiB    | 1.2 TiB (100.00%)   | 17 (~72.9 GiB each)   |
-| 17   | NOGRP            | 1.0 TiB    | 848.3 GiB (80.82%)  | 31 (~33.9 GiB each)   |
+| 17   | NOGRP            | 1.0 TiB    | 868.3 GiB (81.18%)  | 33 (~32.4 GiB each)   |
 | 18   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 19   | LYS1TH3A         | 938.0 GiB  | 909.6 GiB (96.98%)  | 37 (~25.4 GiB each)   |
 | 20   | FLE              | 934.0 GiB  | 895.9 GiB (95.92%)  | 22 (~42.5 GiB each)   |
@@ -46,8 +46,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 24   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
 | 25   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
 | 26   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
-| 27   | Holomux          | 804.4 GiB  | 163.2 GiB (20.29%)  | 29 (~27.7 GiB each)   |
-| 28   | Bunny-Apocalypse | 796.4 GiB  | 173.8 GiB (21.82%)  | 37 (~21.5 GiB each)   |
+| 27   | Bunny-Apocalypse | 807.7 GiB  | 173.8 GiB (21.52%)  | 38 (~21.3 GiB each)   |
+| 28   | Holomux          | 804.4 GiB  | 163.2 GiB (20.29%)  | 29 (~27.7 GiB each)   |
 | 29   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 30   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
 | 31   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
@@ -66,7 +66,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 44   | Almighty         | 544.3 GiB  | 0 B (0.00%)         | 4 (~136.1 GiB each)   |
 | 45   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
 | 46   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
-| 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 48   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 49   | UltraRemux       | 496.7 GiB  | 496.7 GiB (100.00%) | 5 (~99.3 GiB each)    |
-| 50   | Others           | 38.0 TiB   | 21.1 TiB (55.50%)   | 1796 (~21.7 GiB each) |
+| 47   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
+| 48   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
+| 49   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
+| 50   | Others           | 38.1 TiB   | 21.3 TiB (55.89%)   | 1787 (~21.8 GiB each) |
