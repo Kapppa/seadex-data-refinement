@@ -3,7 +3,7 @@
 | :---| :---------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
 | 1   | My Hero Academia Season 5                                       | 2021 | 17 Dec 2024 | [SeaDex](https://releases.moe/117193/), [AniList](https://anilist.co/anime/117193) |
 | 2   | Fairy Tail Final Season                                         | 2018 | 23 Dec 2025 | [SeaDex](https://releases.moe/99749/), [AniList](https://anilist.co/anime/99749)   |
-| 3   | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond | 2022 | 06 Nov 2025 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
+| 3   | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond | 2022 | 25 Dec 2025 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
 | 4   | Immoral Guild                                                   | 2022 | 18 Dec 2025 | [SeaDex](https://releases.moe/146233/), [AniList](https://anilist.co/anime/146233) |
 | 5   | Scarlet Nexus                                                   | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
 | 6   | Scar on the Praeter                                             | 2021 | 22 Oct 2025 | [SeaDex](https://releases.moe/123785/), [AniList](https://anilist.co/anime/123785) |

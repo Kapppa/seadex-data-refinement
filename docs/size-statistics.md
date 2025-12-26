@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
 | 48   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 49   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 38.1 TiB   | 21.3 TiB (55.89%)   | 1787 (~21.8 GiB each) |
+| 50   | Others           | 38.1 TiB   | 21.3 TiB (55.88%)   | 1787 (~21.8 GiB each) |

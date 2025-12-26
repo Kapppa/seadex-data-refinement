@@ -36,8 +36,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | Commie / NOGRP               | 33    |
 | 21   | Kametsu                      | 30    |
 | 22   | Erai-raws                    | 29    |
-| 23   | Holomux / Pog42 / VARYG      | 28    |
-| 24   | Orphan / SCY                 | 27    |
+| 23   | Holomux / Pog42              | 28    |
+| 24   | Orphan / SCY / VARYG         | 27    |
 | 25   | B00BA / Reza                 | 26    |
 
 ## Top 25 - Best dual audio entries
@@ -115,8 +115,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Bunny-Apocalypse                        | 31    |
 | 10   | LostYears / MTBB                        | 30    |
 | 11   | Erai-raws                               | 25    |
-| 12   | Arid / VARYG                            | 24    |
-| 13   | Headpatter                              | 23    |
+| 12   | Arid                                    | 24    |
+| 13   | Headpatter / VARYG                      | 23    |
 | 14   | Kametsu                                 | 22    |
 | 15   | NOGRP                                   | 21    |
 | 16   | CTR / Holomux                           | 20    |
