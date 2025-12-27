@@ -14,8 +14,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                        | Count |
 | :----| :----------------------------| :-----|
-| 🥇   | -ZR-                         | 174   |
-| 🥈   | CRUCiBLE                     | 141   |
+| 🥇   | -ZR-                         | 175   |
+| 🥈   | CRUCiBLE                     | 142   |
 | 🥉   | sam                          | 133   |
 | 4    | NAN0                         | 99    |
 | 5    | MTBB                         | 94    |
@@ -24,18 +24,18 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | Headpatter                   | 69    |
 | 9    | Moxie                        | 68    |
 | 10   | YURASUKA                     | 65    |
-| 11   | hchcsen / smol               | 58    |
-| 12   | Drag                         | 57    |
-| 13   | KH                           | 53    |
-| 14   | Arid                         | 45    |
-| 15   | LostYears                    | 44    |
-| 16   | Bunny-Apocalypse / Okay-Subs | 38    |
-| 17   | LYS1TH3A                     | 37    |
-| 18   | TTGA                         | 36    |
-| 19   | Lulu / PMR                   | 34    |
-| 20   | Commie / NOGRP               | 33    |
-| 21   | Kametsu                      | 30    |
-| 22   | Erai-raws                    | 29    |
+| 11   | hchcsen                      | 59    |
+| 12   | smol                         | 58    |
+| 13   | Drag                         | 57    |
+| 14   | KH                           | 53    |
+| 15   | Arid                         | 45    |
+| 16   | LostYears                    | 44    |
+| 17   | Bunny-Apocalypse / Okay-Subs | 38    |
+| 18   | LYS1TH3A                     | 37    |
+| 19   | TTGA                         | 36    |
+| 20   | Lulu / PMR                   | 34    |
+| 21   | Commie / NOGRP               | 33    |
+| 22   | Erai-raws / Kametsu          | 30    |
 | 23   | Holomux / Pog42              | 28    |
 | 24   | Orphan / SCY / VARYG         | 27    |
 | 25   | B00BA / Reza                 | 26    |
@@ -44,12 +44,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                           | Count |
 | :----| :-----------------------------------------------| :-----|
-| 🥇   | CRUCiBLE                                        | 112   |
+| 🥇   | CRUCiBLE                                        | 113   |
 | 🥈   | -ZR-                                            | 110   |
 | 🥉   | sam                                             | 91    |
 | 4    | NAN0                                            | 76    |
 | 5    | LYS1TH3A                                        | 33    |
-| 6    | hchcsen                                         | 28    |
+| 6    | hchcsen                                         | 29    |
 | 7    | TTGA                                            | 25    |
 | 8    | smol                                            | 23    |
 | 9    | Headpatter                                      | 20    |
@@ -75,7 +75,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                                             | Count |
 | :----| :-------------------------------------------------| :-----|
 | 🥇   | -ZR-                                              | 147   |
-| 🥈   | CRUCiBLE                                          | 141   |
+| 🥈   | CRUCiBLE                                          | 142   |
 | 🥉   | sam                                               | 122   |
 | 4    | NAN0                                              | 98    |
 | 5    | Moxie                                             | 68    |
@@ -84,7 +84,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | Headpatter                                        | 51    |
 | 9    | Okay-Subs                                         | 36    |
 | 10   | LYS1TH3A / PMR / TTGA / YURI                      | 34    |
-| 11   | hchcsen                                           | 31    |
+| 11   | hchcsen                                           | 32    |
 | 12   | B00BA / Orphan                                    | 26    |
 | 13   | Arid / Lulu                                       | 22    |
 | 14   | FLE / LazyRemux                                   | 20    |
@@ -108,13 +108,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | YURASUKA                                | 51    |
 | 🥉   | Drag                                    | 42    |
 | 4    | KH                                      | 41    |
-| 5    | -ZR-                                    | 38    |
+| 5    | -ZR-                                    | 39    |
 | 6    | YURI                                    | 37    |
 | 7    | Commie                                  | 33    |
 | 8    | hchcsen                                 | 32    |
 | 9    | Bunny-Apocalypse                        | 31    |
 | 10   | LostYears / MTBB                        | 30    |
-| 11   | Erai-raws                               | 25    |
+| 11   | Erai-raws                               | 26    |
 | 12   | Arid                                    | 24    |
 | 13   | Headpatter / VARYG                      | 23    |
 | 14   | Kametsu                                 | 22    |
