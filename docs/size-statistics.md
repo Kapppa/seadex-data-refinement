@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `122.0 TiB`
-- Best size: `91.9 TiB`
+- Total size: `122.1 TiB`
+- Best size: `91.8 TiB`
 - Alt size: `30.2 TiB`
-- Realistic size: `94.7 TiB`
+- Realistic size: `94.8 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 15.2 TiB   | 13.1 TiB (86.09%)   | 186 (~83.7 GiB each)  |
-| 2    | CRUCiBLE         | 10.6 TiB   | 10.6 TiB (100.00%)  | 142 (~76.1 GiB each)  |
+| 2    | CRUCiBLE         | 10.6 TiB   | 10.6 TiB (100.00%)  | 143 (~76.1 GiB each)  |
 | 3    | NAN0             | 7.3 TiB    | 7.3 TiB (98.97%)    | 99 (~75.8 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.01%)    | 134 (~29.8 GiB each)  |
 | 5    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
@@ -35,13 +35,13 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 13   | MTBB             | 1.5 TiB    | 1.2 TiB (83.03%)    | 94 (~15.9 GiB each)   |
 | 14   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 15   | SubsPlease       | 1.4 TiB    | 206.6 GiB (14.89%)  | 81 (~17.1 GiB each)   |
-| 16   | LaCroiX          | 1.2 TiB    | 1.2 TiB (100.00%)   | 17 (~72.9 GiB each)   |
+| 16   | LaCroiX          | 1.3 TiB    | 1.3 TiB (100.00%)   | 18 (~71.5 GiB each)   |
 | 17   | NOGRP            | 1.0 TiB    | 868.3 GiB (81.18%)  | 33 (~32.4 GiB each)   |
 | 18   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 19   | LYS1TH3A         | 938.0 GiB  | 909.6 GiB (96.98%)  | 37 (~25.4 GiB each)   |
 | 20   | FLE              | 934.0 GiB  | 895.9 GiB (95.92%)  | 22 (~42.5 GiB each)   |
-| 21   | KH               | 895.0 GiB  | 219.7 GiB (24.55%)  | 55 (~16.3 GiB each)   |
-| 22   | koala            | 871.3 GiB  | 871.3 GiB (100.00%) | 17 (~51.3 GiB each)   |
+| 21   | koala            | 900.1 GiB  | 900.1 GiB (100.00%) | 17 (~52.9 GiB each)   |
+| 22   | KH               | 895.0 GiB  | 219.7 GiB (24.55%)  | 55 (~16.3 GiB each)   |
 | 23   | YURI             | 868.7 GiB  | 385.1 GiB (44.33%)  | 71 (~12.2 GiB each)   |
 | 24   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
 | 25   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
@@ -51,9 +51,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 29   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 30   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
 | 31   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
-| 32   | ZeroBuild        | 761.4 GiB  | 681.4 GiB (89.50%)  | 17 (~44.8 GiB each)   |
-| 33   | YURASUKA         | 746.2 GiB  | 178.6 GiB (23.93%)  | 65 (~11.5 GiB each)   |
-| 34   | LostYears        | 736.8 GiB  | 261.9 GiB (35.55%)  | 44 (~16.7 GiB each)   |
+| 32   | YURASUKA         | 764.1 GiB  | 178.6 GiB (23.37%)  | 66 (~11.6 GiB each)   |
+| 33   | ZeroBuild        | 761.4 GiB  | 681.4 GiB (89.50%)  | 17 (~44.8 GiB each)   |
+| 34   | LostYears        | 736.8 GiB  | 207.6 GiB (28.17%)  | 44 (~16.7 GiB each)   |
 | 35   | WAP              | 699.2 GiB  | 699.2 GiB (100.00%) | 7 (~99.9 GiB each)    |
 | 36   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
 | 37   | Reza             | 665.1 GiB  | 318.7 GiB (47.92%)  | 27 (~24.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 48   | Erai-raws        | 508.5 GiB  | 52.9 GiB (10.39%)   | 30 (~17.0 GiB each)   |
 | 49   | CTR              | 500.7 GiB  | 113.6 GiB (22.69%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 38.0 TiB   | 21.2 TiB (55.91%)   | 1760 (~22.1 GiB each) |
+| 50   | Others           | 37.9 TiB   | 21.1 TiB (55.75%)   | 1759 (~22.0 GiB each) |
