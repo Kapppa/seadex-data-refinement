@@ -19,9 +19,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                          | 133   |
 | 4    | NAN0                         | 99    |
 | 5    | MTBB                         | 94    |
-| 6    | SubsPlease                   | 81    |
+| 6    | SubsPlease                   | 80    |
 | 7    | YURI                         | 71    |
-| 8    | Headpatter                   | 69    |
+| 8    | Headpatter                   | 70    |
 | 9    | Moxie                        | 68    |
 | 10   | YURASUKA                     | 66    |
 | 11   | hchcsen                      | 59    |
@@ -52,7 +52,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | hchcsen                                             | 29    |
 | 7    | TTGA                                                | 25    |
 | 8    | smol                                                | 23    |
-| 9    | Headpatter                                          | 20    |
+| 9    | Headpatter                                          | 21    |
 | 10   | Lulu                                                | 19    |
 | 11   | FLE                                                 | 18    |
 | 12   | Flugel                                              | 17    |
@@ -81,7 +81,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | Moxie                                         | 68    |
 | 6    | MTBB                                          | 64    |
 | 7    | smol                                          | 56    |
-| 8    | Headpatter                                    | 51    |
+| 8    | Headpatter                                    | 52    |
 | 9    | Okay-Subs                                     | 36    |
 | 10   | LYS1TH3A / PMR / TTGA / YURI                  | 34    |
 | 11   | hchcsen                                       | 32    |
@@ -95,8 +95,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 19   | Beatrice / LostYears / Mehul / SubsPlease     | 13    |
 | 20   | FraMeSToR / NOGRP / Pog42 / Reza              | 12    |
 | 21   | SCY                                           | 11    |
-| 22   | DemiHuman / IK / Mysteria / RUDY / hydes      | 10    |
-| 23   | BBT-RMX / Holomux / P9 / cappybara            | 9     |
+| 22   | DemiHuman / IK / Mysteria / RUDY & Others     | 10    |
+| 23   | BBT-RMX / Holomux / P9                        | 9     |
 | 24   | ANE / CUNNY / JySzE / Kametsu & Others        | 8     |
 | 25   | Bunny-Apocalypse / Exp / OZR / Pizza & Others | 7     |
 
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                   | Count |
 | :----| :---------------------------------------| :-----|
-| 🥇   | SubsPlease                              | 68    |
+| 🥇   | SubsPlease                              | 67    |
 | 🥈   | YURASUKA                                | 52    |
 | 🥉   | Drag                                    | 42    |
 | 4    | KH                                      | 41    |
