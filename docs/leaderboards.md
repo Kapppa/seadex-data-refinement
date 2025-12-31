@@ -86,8 +86,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | LYS1TH3A / PMR / TTGA / YURI                  | 34    |
 | 11   | hchcsen                                       | 32    |
 | 12   | B00BA / Orphan                                | 26    |
-| 13   | Arid / Lulu                                   | 22    |
-| 14   | FLE / LazyRemux                               | 20    |
+| 13   | Lulu                                          | 22    |
+| 14   | Arid / FLE / LazyRemux                        | 20    |
 | 15   | LaCroiX                                       | 18    |
 | 16   | Flugel / koala                                | 17    |
 | 17   | Drag                                          | 16    |
@@ -114,8 +114,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | hchcsen                                 | 32    |
 | 9    | Bunny-Apocalypse / LostYears            | 31    |
 | 10   | MTBB                                    | 30    |
-| 11   | Erai-raws                               | 26    |
-| 12   | Arid / VARYG                            | 24    |
+| 11   | Arid / Erai-raws                        | 26    |
+| 12   | VARYG                                   | 24    |
 | 13   | Headpatter                              | 23    |
 | 14   | Kametsu                                 | 22    |
 | 15   | NOGRP                                   | 21    |

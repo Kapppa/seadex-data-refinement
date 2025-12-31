@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `122.4 TiB`
-- Best size: `92.2 TiB`
+- Total size: `122.3 TiB`
+- Best size: `92.0 TiB`
 - Alt size: `30.2 TiB`
-- Realistic size: `95.0 TiB`
+- Realistic size: `94.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -57,7 +57,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 35   | WAP              | 699.2 GiB  | 699.2 GiB (100.00%) | 7 (~99.9 GiB each)    |
 | 36   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
 | 37   | Reza             | 665.1 GiB  | 318.7 GiB (47.92%)  | 27 (~24.6 GiB each)   |
-| 38   | Arid             | 648.0 GiB  | 211.8 GiB (32.68%)  | 46 (~14.1 GiB each)   |
+| 38   | Arid             | 648.0 GiB  | 210.6 GiB (32.50%)  | 46 (~14.1 GiB each)   |
 | 39   | Drag             | 639.7 GiB  | 146.0 GiB (22.81%)  | 58 (~11.0 GiB each)   |
 | 40   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
 | 41   | D4C              | 583.2 GiB  | 583.2 GiB (100.00%) | 3 (~194.4 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 48   | Erai-raws        | 508.5 GiB  | 52.9 GiB (10.39%)   | 30 (~17.0 GiB each)   |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 37.9 TiB   | 21.2 TiB (55.86%)   | 1760 (~22.1 GiB each) |
+| 50   | Others           | 37.8 TiB   | 21.1 TiB (55.70%)   | 1761 (~22.0 GiB each) |
