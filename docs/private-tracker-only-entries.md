@@ -8,7 +8,8 @@
 | 5   | Please tell me! Galko-chan                                      | 2016 | 29 Dec 2025 | [SeaDex](https://releases.moe/21472/), [AniList](https://anilist.co/anime/21472)   |
 | 6   | Immoral Guild                                                   | 2022 | 18 Dec 2025 | [SeaDex](https://releases.moe/146233/), [AniList](https://anilist.co/anime/146233) |
 | 7   | Scarlet Nexus                                                   | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
-| 8   | Scar on the Praeter                                             | 2021 | 22 Oct 2025 | [SeaDex](https://releases.moe/123785/), [AniList](https://anilist.co/anime/123785) |
-| 9   | TIGER & BUNNY 2                                                 | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/117197/), [AniList](https://anilist.co/anime/117197) |
-| 10  | Overlord: Ple Ple Pleiades 4                                    | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 11  | TIGER & BUNNY 2 Part 2                                          | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/151803/), [AniList](https://anilist.co/anime/151803) |
+| 8   | Show Me Your Panties While You Give Me That Disgusted Look!     | 2018 | 31 Dec 2025 | [SeaDex](https://releases.moe/101970/), [AniList](https://anilist.co/anime/101970) |
+| 9   | Scar on the Praeter                                             | 2021 | 22 Oct 2025 | [SeaDex](https://releases.moe/123785/), [AniList](https://anilist.co/anime/123785) |
+| 10  | TIGER & BUNNY 2                                                 | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/117197/), [AniList](https://anilist.co/anime/117197) |
+| 11  | Overlord: Ple Ple Pleiades 4                                    | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 12  | TIGER & BUNNY 2 Part 2                                          | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/151803/), [AniList](https://anilist.co/anime/151803) |
