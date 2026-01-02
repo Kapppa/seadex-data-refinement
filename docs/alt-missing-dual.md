@@ -44,7 +44,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 37  | Somali and the Forest Spirit                                                                | 2020 | 09 Jul 2025 | [SeaDex](https://releases.moe/108617/), [AniList](https://anilist.co/anime/108617) |
 | 38  | Given The Movie                                                                             | 2020 | 20 Jun 2025 | [SeaDex](https://releases.moe/111734/), [AniList](https://anilist.co/anime/111734) |
 | 39  | Romantic Killer                                                                             | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/153930/), [AniList](https://anilist.co/anime/153930) |
-| 40  | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                             | 2022 | 25 Dec 2025 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
+| 40  | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond                             | 2022 | 01 Jan 2026 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
 | 41  | Isekai Cheat Magician                                                                       | 2019 | 01 Aug 2025 | [SeaDex](https://releases.moe/101547/), [AniList](https://anilist.co/anime/101547) |
 | 42  | I'm Standing on a Million Lives                                                             | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/116242/), [AniList](https://anilist.co/anime/116242) |
 | 43  | Cells at Work!!                                                                             | 2021 | 14 Aug 2025 | [SeaDex](https://releases.moe/108631/), [AniList](https://anilist.co/anime/108631) |

@@ -1,15 +1,11 @@
 # Private tracker only entries
-| Idx | Title                                                           | Year | Updated At  | Links                                                                              |
-| :---| :---------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | My Hero Academia Season 5                                       | 2021 | 17 Dec 2024 | [SeaDex](https://releases.moe/117193/), [AniList](https://anilist.co/anime/117193) |
-| 2   | Fairy Tail Final Season                                         | 2018 | 23 Dec 2025 | [SeaDex](https://releases.moe/99749/), [AniList](https://anilist.co/anime/99749)   |
-| 3   | That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond | 2022 | 25 Dec 2025 | [SeaDex](https://releases.moe/139498/), [AniList](https://anilist.co/anime/139498) |
-| 4   | Senryu Girl                                                     | 2019 | 29 Dec 2025 | [SeaDex](https://releases.moe/106051/), [AniList](https://anilist.co/anime/106051) |
-| 5   | Please tell me! Galko-chan                                      | 2016 | 29 Dec 2025 | [SeaDex](https://releases.moe/21472/), [AniList](https://anilist.co/anime/21472)   |
-| 6   | Immoral Guild                                                   | 2022 | 18 Dec 2025 | [SeaDex](https://releases.moe/146233/), [AniList](https://anilist.co/anime/146233) |
-| 7   | Scarlet Nexus                                                   | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
-| 8   | Show Me Your Panties While You Give Me That Disgusted Look!     | 2018 | 31 Dec 2025 | [SeaDex](https://releases.moe/101970/), [AniList](https://anilist.co/anime/101970) |
-| 9   | Scar on the Praeter                                             | 2021 | 22 Oct 2025 | [SeaDex](https://releases.moe/123785/), [AniList](https://anilist.co/anime/123785) |
-| 10  | TIGER & BUNNY 2                                                 | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/117197/), [AniList](https://anilist.co/anime/117197) |
-| 11  | Overlord: Ple Ple Pleiades 4                                    | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 12  | TIGER & BUNNY 2 Part 2                                          | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/151803/), [AniList](https://anilist.co/anime/151803) |
+| Idx | Title                        | Year | Updated At  | Links                                                                              |
+| :---| :----------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
+| 1   | My Hero Academia Season 5    | 2021 | 17 Dec 2024 | [SeaDex](https://releases.moe/117193/), [AniList](https://anilist.co/anime/117193) |
+| 2   | Fairy Tail Final Season      | 2018 | 23 Dec 2025 | [SeaDex](https://releases.moe/99749/), [AniList](https://anilist.co/anime/99749)   |
+| 3   | Immoral Guild                | 2022 | 18 Dec 2025 | [SeaDex](https://releases.moe/146233/), [AniList](https://anilist.co/anime/146233) |
+| 4   | Scarlet Nexus                | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/131150/), [AniList](https://anilist.co/anime/131150) |
+| 5   | Scar on the Praeter          | 2021 | 22 Oct 2025 | [SeaDex](https://releases.moe/123785/), [AniList](https://anilist.co/anime/123785) |
+| 6   | TIGER & BUNNY 2              | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/117197/), [AniList](https://anilist.co/anime/117197) |
+| 7   | Overlord: Ple Ple Pleiades 4 | 2022 | 29 Dec 2023 | [SeaDex](https://releases.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 8   | TIGER & BUNNY 2 Part 2       | 2022 | 14 Oct 2025 | [SeaDex](https://releases.moe/151803/), [AniList](https://anilist.co/anime/151803) |

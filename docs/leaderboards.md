@@ -15,36 +15,36 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                        | Count |
 | :----| :----------------------------| :-----|
 | 🥇   | -ZR-                         | 174   |
-| 🥈   | CRUCiBLE                     | 143   |
+| 🥈   | CRUCiBLE                     | 145   |
 | 🥉   | sam                          | 133   |
 | 4    | NAN0                         | 99    |
 | 5    | MTBB                         | 94    |
 | 6    | SubsPlease                   | 80    |
-| 7    | Headpatter / YURI            | 71    |
-| 8    | Moxie                        | 68    |
-| 9    | YURASUKA                     | 66    |
-| 10   | hchcsen                      | 59    |
-| 11   | smol                         | 58    |
-| 12   | Drag                         | 57    |
-| 13   | KH                           | 53    |
-| 14   | Arid                         | 45    |
-| 15   | LostYears                    | 44    |
-| 16   | Bunny-Apocalypse / Okay-Subs | 38    |
-| 17   | LYS1TH3A                     | 37    |
-| 18   | TTGA                         | 36    |
-| 19   | Commie                       | 35    |
-| 20   | Lulu / PMR                   | 34    |
-| 21   | NOGRP                        | 33    |
-| 22   | Erai-raws / Kametsu          | 30    |
-| 23   | Holomux / Pog42 / VARYG      | 28    |
-| 24   | Orphan / SCY                 | 27    |
-| 25   | B00BA / Reza                 | 26    |
+| 7    | Headpatter                   | 73    |
+| 8    | YURI                         | 71    |
+| 9    | Moxie                        | 68    |
+| 10   | YURASUKA                     | 67    |
+| 11   | hchcsen                      | 59    |
+| 12   | smol                         | 58    |
+| 13   | Drag                         | 57    |
+| 14   | KH                           | 53    |
+| 15   | Arid                         | 45    |
+| 16   | LostYears                    | 44    |
+| 17   | Bunny-Apocalypse / Okay-Subs | 38    |
+| 18   | LYS1TH3A                     | 37    |
+| 19   | TTGA                         | 36    |
+| 20   | Commie                       | 35    |
+| 21   | Lulu / PMR                   | 34    |
+| 22   | NOGRP                        | 33    |
+| 23   | Erai-raws / Kametsu          | 30    |
+| 24   | Holomux / Pog42 / VARYG      | 28    |
+| 25   | Orphan / SCY                 | 27    |
 
 ## Top 25 - Best dual audio entries
 
 | Rank | Group                                               | Count |
 | :----| :---------------------------------------------------| :-----|
-| 🥇   | CRUCiBLE                                            | 114   |
+| 🥇   | CRUCiBLE                                            | 116   |
 | 🥈   | -ZR-                                                | 109   |
 | 🥉   | sam                                                 | 91    |
 | 4    | NAN0                                                | 76    |
@@ -75,13 +75,13 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                                         | Count |
 | :----| :---------------------------------------------| :-----|
 | 🥇   | -ZR-                                          | 146   |
-| 🥈   | CRUCiBLE                                      | 143   |
+| 🥈   | CRUCiBLE                                      | 145   |
 | 🥉   | sam                                           | 122   |
 | 4    | NAN0                                          | 98    |
 | 5    | Moxie                                         | 68    |
 | 6    | MTBB                                          | 64    |
 | 7    | smol                                          | 56    |
-| 8    | Headpatter                                    | 53    |
+| 8    | Headpatter                                    | 55    |
 | 9    | Okay-Subs                                     | 36    |
 | 10   | LYS1TH3A / PMR / TTGA / YURI                  | 34    |
 | 11   | hchcsen                                       | 32    |
@@ -105,7 +105,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                                          | Count |
 | :----| :----------------------------------------------| :-----|
 | 🥇   | SubsPlease                                     | 67    |
-| 🥈   | YURASUKA                                       | 52    |
+| 🥈   | YURASUKA                                       | 53    |
 | 🥉   | Drag                                           | 42    |
 | 4    | KH                                             | 41    |
 | 5    | -ZR-                                           | 39    |

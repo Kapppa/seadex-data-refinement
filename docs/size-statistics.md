@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `122.1 TiB`
-- Best size: `91.8 TiB`
+- Total size: `122.2 TiB`
+- Best size: `92.0 TiB`
 - Alt size: `30.2 TiB`
-- Realistic size: `95.0 TiB`
+- Realistic size: `95.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,13 +21,13 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 15.1 TiB   | 12.9 TiB (85.96%)   | 185 (~83.3 GiB each)  |
-| 2    | CRUCiBLE         | 10.6 TiB   | 10.6 TiB (100.00%)  | 143 (~76.1 GiB each)  |
+| 2    | CRUCiBLE         | 10.7 TiB   | 10.7 TiB (100.00%)  | 145 (~75.4 GiB each)  |
 | 3    | NAN0             | 7.3 TiB    | 7.3 TiB (98.97%)    | 99 (~75.8 GiB each)   |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.01%)    | 134 (~29.8 GiB each)  |
 | 5    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
-| 6    | TTGA             | 2.6 TiB    | 2.4 TiB (92.47%)    | 36 (~73.8 GiB each)   |
-| 7    | Moxie            | 2.6 TiB    | 2.6 TiB (100.00%)   | 68 (~38.8 GiB each)   |
-| 8    | Headpatter       | 2.5 TiB    | 2.3 TiB (89.74%)    | 77 (~33.5 GiB each)   |
+| 6    | Headpatter       | 2.6 TiB    | 2.3 TiB (90.04%)    | 79 (~33.6 GiB each)   |
+| 7    | TTGA             | 2.6 TiB    | 2.4 TiB (92.47%)    | 36 (~73.8 GiB each)   |
+| 8    | Moxie            | 2.6 TiB    | 2.6 TiB (100.00%)   | 68 (~38.8 GiB each)   |
 | 9    | hchcsen          | 2.4 TiB    | 1.6 TiB (64.97%)    | 64 (~39.1 GiB each)   |
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
@@ -51,7 +51,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 29   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 30   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
 | 31   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
-| 32   | YURASUKA         | 764.1 GiB  | 178.6 GiB (23.37%)  | 66 (~11.6 GiB each)   |
+| 32   | YURASUKA         | 764.8 GiB  | 178.6 GiB (23.35%)  | 67 (~11.4 GiB each)   |
 | 33   | ZeroBuild        | 761.4 GiB  | 681.4 GiB (89.50%)  | 17 (~44.8 GiB each)   |
 | 34   | LostYears        | 736.8 GiB  | 207.6 GiB (28.17%)  | 44 (~16.7 GiB each)   |
 | 35   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
