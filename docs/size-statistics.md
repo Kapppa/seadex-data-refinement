@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 48   | Erai-raws        | 508.5 GiB  | 52.9 GiB (10.39%)   | 30 (~17.0 GiB each)   |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 37.9 TiB   | 21.2 TiB (55.78%)   | 1764 (~22.0 GiB each) |
+| 50   | Others           | 38.0 TiB   | 21.2 TiB (55.79%)   | 1764 (~22.0 GiB each) |
