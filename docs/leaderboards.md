@@ -93,8 +93,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Drag                                          | 16    |
 | 18   | KH / UDF / Vodes / YURASUKA / ZeroBuild       | 14    |
 | 19   | Beatrice / LostYears / Mehul / SubsPlease     | 13    |
-| 20   | FraMeSToR / NOGRP / Pog42 / Reza              | 12    |
-| 21   | SCY                                           | 11    |
+| 20   | FraMeSToR / NOGRP / Reza                      | 12    |
+| 21   | Pog42 / SCY                                   | 11    |
 | 22   | DemiHuman / IK / Mysteria / RUDY & Others     | 10    |
 | 23   | BBT-RMX / Holomux / P9 / uba                  | 9     |
 | 24   | ANE / CUNNY / JySzE / Kametsu & Others        | 8     |
@@ -120,12 +120,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | NOGRP                                          | 21    |
 | 15   | CTR / Holomux                                  | 20    |
 | 16   | Chihiro                                        | 19    |
-| 17   | HorribleSubs / Pog42 / SCY                     | 16    |
-| 18   | Reza                                           | 15    |
-| 19   | CBT / IK / Lulu / UDF                          | 13    |
-| 20   | Mysteria / NH / SEV / sam                      | 12    |
-| 21   | Asakura / Datte13 / FFF                        | 11    |
-| 22   | CyC / Pookie / Yoghurt / o7                    | 10    |
-| 23   | Tsundere                                       | 9     |
-| 24   | GSK_kun / GetItTwisted / Netaro / OZR & Others | 8     |
-| 25   | Baws / Exp / Kitsune / LCE                     | 7     |
+| 17   | Pog42                                          | 17    |
+| 18   | HorribleSubs / SCY                             | 16    |
+| 19   | Reza                                           | 15    |
+| 20   | CBT / IK / Lulu / UDF                          | 13    |
+| 21   | Mysteria / NH / SEV / sam                      | 12    |
+| 22   | Asakura / Datte13 / FFF                        | 11    |
+| 23   | CyC / Pookie / Yoghurt / o7                    | 10    |
+| 24   | Tsundere                                       | 9     |
+| 25   | GSK_kun / GetItTwisted / Netaro / OZR & Others | 8     |

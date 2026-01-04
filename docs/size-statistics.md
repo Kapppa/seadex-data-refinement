@@ -8,9 +8,9 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `122.2 TiB`
+- Total size: `122.3 TiB`
 - Best size: `92.0 TiB`
-- Alt size: `30.2 TiB`
+- Alt size: `30.3 TiB`
 - Realistic size: `95.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 48   | Erai-raws        | 508.5 GiB  | 52.9 GiB (10.39%)   | 30 (~17.0 GiB each)   |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 38.0 TiB   | 21.2 TiB (55.79%)   | 1764 (~22.0 GiB each) |
+| 50   | Others           | 38.0 TiB   | 21.2 TiB (55.67%)   | 1765 (~22.0 GiB each) |
