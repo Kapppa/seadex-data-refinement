@@ -24,11 +24,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 10.7 TiB   | 10.7 TiB (100.00%)  | 145 (~75.4 GiB each)  |
 | 3    | NAN0             | 7.4 TiB    | 7.3 TiB (98.98%)    | 100 (~75.8 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.01%)    | 134 (~29.8 GiB each)  |
-| 5    | Headpatter       | 2.7 TiB    | 2.4 TiB (90.25%)    | 82 (~33.5 GiB each)   |
+| 5    | Headpatter       | 2.7 TiB    | 2.4 TiB (89.20%)    | 83 (~33.4 GiB each)   |
 | 6    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
 | 7    | TTGA             | 2.6 TiB    | 2.4 TiB (92.47%)    | 36 (~73.8 GiB each)   |
 | 8    | Moxie            | 2.6 TiB    | 2.6 TiB (100.00%)   | 68 (~38.8 GiB each)   |
-| 9    | hchcsen          | 2.4 TiB    | 1.6 TiB (64.97%)    | 64 (~39.1 GiB each)   |
+| 9    | hchcsen          | 2.4 TiB    | 1.6 TiB (65.00%)    | 64 (~39.1 GiB each)   |
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 48   | Erai-raws        | 508.5 GiB  | 52.9 GiB (10.39%)   | 30 (~17.0 GiB each)   |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 38.3 TiB   | 21.4 TiB (55.82%)   | 1775 (~22.1 GiB each) |
+| 50   | Others           | 38.3 TiB   | 21.4 TiB (55.86%)   | 1774 (~22.1 GiB each) |
