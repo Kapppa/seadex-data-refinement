@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `122.8 TiB`
-- Best size: `92.4 TiB`
+- Total size: `123.2 TiB`
+- Best size: `92.7 TiB`
 - Alt size: `30.4 TiB`
-- Realistic size: `95.6 TiB`
+- Realistic size: `95.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -22,9 +22,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 15.1 TiB   | 13.0 TiB (86.00%)   | 186 (~83.1 GiB each)  |
 | 2    | CRUCiBLE         | 10.7 TiB   | 10.7 TiB (100.00%)  | 145 (~75.4 GiB each)  |
-| 3    | NAN0             | 7.4 TiB    | 7.3 TiB (98.98%)    | 100 (~75.8 GiB each)  |
+| 3    | NAN0             | 7.6 TiB    | 7.5 TiB (99.00%)    | 101 (~76.7 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.01%)    | 134 (~29.8 GiB each)  |
-| 5    | Headpatter       | 2.7 TiB    | 2.4 TiB (89.20%)    | 83 (~33.4 GiB each)   |
+| 5    | Headpatter       | 2.7 TiB    | 2.4 TiB (88.65%)    | 84 (~33.2 GiB each)   |
 | 6    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
 | 7    | TTGA             | 2.6 TiB    | 2.4 TiB (92.47%)    | 36 (~73.8 GiB each)   |
 | 8    | Moxie            | 2.6 TiB    | 2.6 TiB (100.00%)   | 68 (~38.8 GiB each)   |
@@ -66,7 +66,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 44   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
 | 45   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
 | 46   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
-| 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 48   | Erai-raws        | 508.5 GiB  | 52.9 GiB (10.39%)   | 30 (~17.0 GiB each)   |
+| 47   | Erai-raws        | 524.7 GiB  | 69.0 GiB (13.15%)   | 31 (~16.9 GiB each)   |
+| 48   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 38.3 TiB   | 21.4 TiB (55.86%)   | 1774 (~22.1 GiB each) |
+| 50   | Others           | 38.5 TiB   | 21.5 TiB (55.98%)   | 1776 (~22.2 GiB each) |
