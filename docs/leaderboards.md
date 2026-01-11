@@ -15,10 +15,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                        | Count |
 | :----| :----------------------------| :-----|
 | 🥇   | -ZR-                         | 175   |
-| 🥈   | CRUCiBLE                     | 145   |
+| 🥈   | CRUCiBLE                     | 146   |
 | 🥉   | sam                          | 133   |
 | 4    | NAN0                         | 101   |
-| 5    | MTBB                         | 94    |
+| 5    | MTBB                         | 96    |
 | 6    | SubsPlease                   | 79    |
 | 7    | Headpatter                   | 78    |
 | 8    | YURI                         | 71    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                               | Count |
 | :----| :---------------------------------------------------| :-----|
-| 🥇   | CRUCiBLE                                            | 116   |
+| 🥇   | CRUCiBLE                                            | 117   |
 | 🥈   | -ZR-                                                | 109   |
 | 🥉   | sam                                                 | 91    |
 | 4    | NAN0                                                | 77    |
@@ -74,11 +74,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                                     | Count |
 | :----| :-----------------------------------------| :-----|
 | 🥇   | -ZR-                                      | 147   |
-| 🥈   | CRUCiBLE                                  | 145   |
+| 🥈   | CRUCiBLE                                  | 146   |
 | 🥉   | sam                                       | 122   |
 | 4    | NAN0                                      | 100   |
 | 5    | Moxie                                     | 68    |
-| 6    | MTBB                                      | 64    |
+| 6    | MTBB                                      | 66    |
 | 7    | Headpatter                                | 57    |
 | 8    | smol                                      | 56    |
 | 9    | Okay-Subs                                 | 36    |

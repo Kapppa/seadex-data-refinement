@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `123.2 TiB`
-- Best size: `92.7 TiB`
-- Alt size: `30.4 TiB`
-- Realistic size: `95.9 TiB`
+- Total size: `123.3 TiB`
+- Best size: `92.8 TiB`
+- Alt size: `30.5 TiB`
+- Realistic size: `96.0 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -21,7 +21,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 15.1 TiB   | 13.0 TiB (86.00%)   | 186 (~83.1 GiB each)  |
-| 2    | CRUCiBLE         | 10.7 TiB   | 10.7 TiB (100.00%)  | 145 (~75.4 GiB each)  |
+| 2    | CRUCiBLE         | 10.8 TiB   | 10.8 TiB (100.00%)  | 146 (~75.4 GiB each)  |
 | 3    | NAN0             | 7.6 TiB    | 7.5 TiB (99.00%)    | 101 (~76.7 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.01%)    | 134 (~29.8 GiB each)  |
 | 5    | Headpatter       | 2.7 TiB    | 2.4 TiB (88.65%)    | 84 (~33.2 GiB each)   |
@@ -32,7 +32,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 13   | MTBB             | 1.5 TiB    | 1.2 TiB (83.03%)    | 94 (~15.9 GiB each)   |
+| 13   | MTBB             | 1.5 TiB    | 1.2 TiB (83.19%)    | 96 (~15.7 GiB each)   |
 | 14   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 15   | SubsPlease       | 1.3 TiB    | 190.6 GiB (14.06%)  | 79 (~17.2 GiB each)   |
 | 16   | LaCroiX          | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.2 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Erai-raws        | 524.7 GiB  | 69.0 GiB (13.15%)   | 31 (~16.9 GiB each)   |
 | 48   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 38.5 TiB   | 21.5 TiB (55.98%)   | 1776 (~22.2 GiB each) |
+| 50   | Others           | 38.5 TiB   | 21.5 TiB (55.96%)   | 1778 (~22.2 GiB each) |
