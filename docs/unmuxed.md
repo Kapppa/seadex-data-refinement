@@ -27,8 +27,8 @@
 | 24  | Ponyo                                                                                          | 2008 | 01 Jan 2025 | [SeaDex](https://releases.moe/2890/), [AniList](https://anilist.co/anime/2890)     |
 | 25  | K                                                                                              | 2012 | 29 Dec 2024 | [SeaDex](https://releases.moe/14467/), [AniList](https://anilist.co/anime/14467)   |
 | 26  | Link Click                                                                                     | 2021 | 21 Aug 2025 | [SeaDex](https://releases.moe/126403/), [AniList](https://anilist.co/anime/126403) |
-| 27  | That Time I Got Reincarnated as a Slime Season 3                                               | 2024 | 22 Nov 2025 | [SeaDex](https://releases.moe/156822/), [AniList](https://anilist.co/anime/156822) |
-| 28  | My Hero Academia Season 7                                                                      | 2024 | 03 Dec 2025 | [SeaDex](https://releases.moe/163139/), [AniList](https://anilist.co/anime/163139) |
+| 27  | My Hero Academia Season 7                                                                      | 2024 | 03 Dec 2025 | [SeaDex](https://releases.moe/163139/), [AniList](https://anilist.co/anime/163139) |
+| 28  | That Time I Got Reincarnated as a Slime Season 3                                               | 2024 | 22 Nov 2025 | [SeaDex](https://releases.moe/156822/), [AniList](https://anilist.co/anime/156822) |
 | 29  | Yu Yu Hakusho: Ghostfiles                                                                      | 1992 | 22 Jun 2025 | [SeaDex](https://releases.moe/392/), [AniList](https://anilist.co/anime/392)       |
 | 30  | Say "I love you".                                                                              | 2012 | 12 Oct 2024 | [SeaDex](https://releases.moe/14289/), [AniList](https://anilist.co/anime/14289)   |
 | 31  | The Asterisk War                                                                               | 2015 | 24 Nov 2024 | [SeaDex](https://releases.moe/21131/), [AniList](https://anilist.co/anime/21131)   |
@@ -151,8 +151,8 @@
 | 148 | Real Girl 2                                                                                    | 2019 | 28 Apr 2025 | [SeaDex](https://releases.moe/102882/), [AniList](https://anilist.co/anime/102882) |
 | 149 | Occultic;Nine                                                                                  | 2016 | 30 Dec 2023 | [SeaDex](https://releases.moe/21708/), [AniList](https://anilist.co/anime/21708)   |
 | 150 | Sunday Without God                                                                             | 2013 | 26 Jan 2025 | [SeaDex](https://releases.moe/16009/), [AniList](https://anilist.co/anime/16009)   |
-| 151 | Gatchaman Crowds                                                                               | 2013 | 04 Aug 2025 | [SeaDex](https://releases.moe/18229/), [AniList](https://anilist.co/anime/18229)   |
-| 152 | Joker Game                                                                                     | 2016 | 07 Dec 2024 | [SeaDex](https://releases.moe/21291/), [AniList](https://anilist.co/anime/21291)   |
+| 151 | Joker Game                                                                                     | 2016 | 07 Dec 2024 | [SeaDex](https://releases.moe/21291/), [AniList](https://anilist.co/anime/21291)   |
+| 152 | Gatchaman Crowds                                                                               | 2013 | 04 Aug 2025 | [SeaDex](https://releases.moe/18229/), [AniList](https://anilist.co/anime/18229)   |
 | 153 | Ladies Versus Butlers                                                                          | 2010 | 09 Jun 2025 | [SeaDex](https://releases.moe/7148/), [AniList](https://anilist.co/anime/7148)     |
 | 154 | Chaika -The Coffin Princess- AVENGING BATTLE                                                   | 2014 | 02 Aug 2025 | [SeaDex](https://releases.moe/20719/), [AniList](https://anilist.co/anime/20719)   |
 | 155 | Terra Formars                                                                                  | 2014 | 23 Dec 2024 | [SeaDex](https://releases.moe/20629/), [AniList](https://anilist.co/anime/20629)   |

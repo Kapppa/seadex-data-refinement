@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                        | Count |
 | :----| :----------------------------| :-----|
-| 🥇   | -ZR-                         | 175   |
+| 🥇   | -ZR-                         | 177   |
 | 🥈   | CRUCiBLE                     | 146   |
 | 🥉   | sam                          | 133   |
 | 4    | NAN0                         | 101   |
@@ -22,7 +22,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | SubsPlease                   | 79    |
 | 7    | Headpatter                   | 78    |
 | 8    | YURI                         | 71    |
-| 9    | YURASUKA                     | 69    |
+| 9    | YURASUKA                     | 70    |
 | 10   | Moxie                        | 68    |
 | 11   | hchcsen                      | 59    |
 | 12   | smol                         | 58    |
@@ -36,8 +36,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 20   | NOGRP                        | 32    |
 | 21   | Erai-raws                    | 31    |
 | 22   | Kametsu                      | 30    |
-| 23   | Holomux / Pog42 / VARYG      | 28    |
-| 24   | Orphan / SCY                 | 27    |
+| 23   | Holomux / Pog42              | 28    |
+| 24   | Orphan / SCY / VARYG         | 27    |
 | 25   | B00BA / Reza                 | 26    |
 
 ## Top 25 - Best dual audio entries
@@ -45,7 +45,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                                               | Count |
 | :----| :---------------------------------------------------| :-----|
 | 🥇   | CRUCiBLE                                            | 117   |
-| 🥈   | -ZR-                                                | 109   |
+| 🥈   | -ZR-                                                | 111   |
 | 🥉   | sam                                                 | 91    |
 | 4    | NAN0                                                | 77    |
 | 5    | LYS1TH3A                                            | 33    |
@@ -73,7 +73,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                     | Count |
 | :----| :-----------------------------------------| :-----|
-| 🥇   | -ZR-                                      | 147   |
+| 🥇   | -ZR-                                      | 149   |
 | 🥈   | CRUCiBLE                                  | 146   |
 | 🥉   | sam                                       | 122   |
 | 4    | NAN0                                      | 100   |
@@ -104,7 +104,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                            | Count |
 | :----| :--------------------------------| :-----|
 | 🥇   | SubsPlease                       | 67    |
-| 🥈   | YURASUKA                         | 55    |
+| 🥈   | YURASUKA                         | 56    |
 | 🥉   | Drag                             | 42    |
 | 4    | KH                               | 41    |
 | 5    | -ZR-                             | 39    |
@@ -115,7 +115,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | LostYears / MTBB                 | 30    |
 | 11   | Headpatter                       | 27    |
 | 12   | Arid / Erai-raws                 | 26    |
-| 13   | VARYG                            | 24    |
+| 13   | VARYG                            | 23    |
 | 14   | Kametsu                          | 22    |
 | 15   | NOGRP                            | 21    |
 | 16   | CTR / Holomux                    | 20    |

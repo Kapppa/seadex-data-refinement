@@ -9,7 +9,7 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `123.3 TiB`
-- Best size: `92.8 TiB`
+- Best size: `92.9 TiB`
 - Alt size: `30.5 TiB`
 - Realistic size: `96.0 TiB`
 
@@ -20,7 +20,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 15.1 TiB   | 13.0 TiB (86.00%)   | 186 (~83.1 GiB each)  |
+| 1    | -ZR-             | 15.1 TiB   | 13.0 TiB (86.03%)   | 188 (~82.4 GiB each)  |
 | 2    | CRUCiBLE         | 10.8 TiB   | 10.8 TiB (100.00%)  | 146 (~75.4 GiB each)  |
 | 3    | NAN0             | 7.6 TiB    | 7.5 TiB (99.00%)    | 101 (~76.7 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.01%)    | 134 (~29.8 GiB each)  |
@@ -48,10 +48,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 26   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
 | 27   | Bunny-Apocalypse | 807.7 GiB  | 173.8 GiB (21.52%)  | 38 (~21.3 GiB each)   |
 | 28   | Holomux          | 804.4 GiB  | 163.2 GiB (20.29%)  | 29 (~27.7 GiB each)   |
-| 29   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
-| 30   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
-| 31   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
-| 32   | YURASUKA         | 772.6 GiB  | 178.6 GiB (23.11%)  | 69 (~11.2 GiB each)   |
+| 29   | YURASUKA         | 787.3 GiB  | 178.6 GiB (22.68%)  | 70 (~11.2 GiB each)   |
+| 30   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
+| 31   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
+| 32   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
 | 33   | ZeroBuild        | 761.4 GiB  | 681.4 GiB (89.50%)  | 17 (~44.8 GiB each)   |
 | 34   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
 | 35   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Erai-raws        | 524.7 GiB  | 69.0 GiB (13.15%)   | 31 (~16.9 GiB each)   |
 | 48   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 38.5 TiB   | 21.5 TiB (55.96%)   | 1778 (~22.2 GiB each) |
+| 50   | Others           | 38.5 TiB   | 21.5 TiB (55.96%)   | 1779 (~22.1 GiB each) |
