@@ -20,11 +20,11 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 15.1 TiB   | 13.0 TiB (86.03%)   | 188 (~82.4 GiB each)  |
+| 1    | -ZR-             | 15.1 TiB   | 13.0 TiB (86.12%)   | 187 (~82.8 GiB each)  |
 | 2    | CRUCiBLE         | 10.8 TiB   | 10.8 TiB (100.00%)  | 146 (~75.4 GiB each)  |
 | 3    | NAN0             | 7.6 TiB    | 7.5 TiB (99.00%)    | 101 (~76.7 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.01%)    | 134 (~29.8 GiB each)  |
-| 5    | Headpatter       | 2.7 TiB    | 2.4 TiB (88.65%)    | 84 (~33.2 GiB each)   |
+| 5    | Headpatter       | 2.7 TiB    | 2.4 TiB (88.07%)    | 85 (~33.1 GiB each)   |
 | 6    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
 | 7    | TTGA             | 2.6 TiB    | 2.4 TiB (92.47%)    | 36 (~73.8 GiB each)   |
 | 8    | Moxie            | 2.6 TiB    | 2.6 TiB (100.00%)   | 68 (~38.8 GiB each)   |
@@ -66,7 +66,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 44   | BBT-RMX          | 539.2 GiB  | 374.5 GiB (69.44%)  | 11 (~49.0 GiB each)   |
 | 45   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
 | 46   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
-| 47   | Erai-raws        | 524.7 GiB  | 69.0 GiB (13.15%)   | 31 (~16.9 GiB each)   |
-| 48   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
+| 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
+| 48   | Erai-raws        | 508.5 GiB  | 69.0 GiB (13.57%)   | 30 (~16.9 GiB each)   |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
 | 50   | Others           | 38.5 TiB   | 21.5 TiB (55.96%)   | 1779 (~22.1 GiB each) |
