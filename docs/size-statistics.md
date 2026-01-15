@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `123.3 TiB`
-- Best size: `92.9 TiB`
-- Alt size: `30.4 TiB`
-- Realistic size: `96.0 TiB`
+- Total size: `123.5 TiB`
+- Best size: `93.2 TiB`
+- Alt size: `30.3 TiB`
+- Realistic size: `96.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,19 +20,19 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 15.1 TiB   | 13.0 TiB (86.12%)   | 187 (~82.8 GiB each)  |
+| 1    | -ZR-             | 15.1 TiB   | 13.2 TiB (87.24%)   | 187 (~82.8 GiB each)  |
 | 2    | CRUCiBLE         | 10.8 TiB   | 10.8 TiB (100.00%)  | 146 (~75.4 GiB each)  |
 | 3    | NAN0             | 7.6 TiB    | 7.5 TiB (99.00%)    | 101 (~76.7 GiB each)  |
-| 4    | sam              | 3.9 TiB    | 3.6 TiB (92.01%)    | 134 (~29.8 GiB each)  |
+| 4    | sam              | 3.9 TiB    | 3.6 TiB (92.07%)    | 135 (~29.8 GiB each)  |
 | 5    | Headpatter       | 2.8 TiB    | 2.4 TiB (87.79%)    | 87 (~32.4 GiB each)   |
-| 6    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
-| 7    | TTGA             | 2.6 TiB    | 2.4 TiB (92.47%)    | 36 (~73.8 GiB each)   |
+| 6    | TTGA             | 2.6 TiB    | 2.4 TiB (92.54%)    | 37 (~72.4 GiB each)   |
+| 7    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
 | 8    | Moxie            | 2.6 TiB    | 2.6 TiB (100.00%)   | 68 (~38.8 GiB each)   |
 | 9    | hchcsen          | 2.4 TiB    | 1.6 TiB (65.00%)    | 64 (~39.1 GiB each)   |
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 13   | MTBB             | 1.5 TiB    | 1.2 TiB (83.19%)    | 96 (~15.7 GiB each)   |
+| 13   | MTBB             | 1.5 TiB    | 1.2 TiB (83.38%)    | 98 (~15.5 GiB each)   |
 | 14   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 15   | SubsPlease       | 1.3 TiB    | 190.6 GiB (14.06%)  | 79 (~17.2 GiB each)   |
 | 16   | LaCroiX          | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.2 GiB each)   |
@@ -47,7 +47,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 25   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
 | 26   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
 | 27   | Holomux          | 804.4 GiB  | 163.2 GiB (20.29%)  | 29 (~27.7 GiB each)   |
-| 28   | YURASUKA         | 787.3 GiB  | 178.6 GiB (22.68%)  | 70 (~11.2 GiB each)   |
+| 28   | YURASUKA         | 792.7 GiB  | 178.6 GiB (22.53%)  | 71 (~11.2 GiB each)   |
 | 29   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 30   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
 | 31   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 48   | Erai-raws        | 508.5 GiB  | 69.0 GiB (13.57%)   | 30 (~16.9 GiB each)   |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 38.5 TiB   | 21.5 TiB (55.94%)   | 1777 (~22.2 GiB each) |
+| 50   | Others           | 38.6 TiB   | 21.6 TiB (55.93%)   | 1780 (~22.2 GiB each) |

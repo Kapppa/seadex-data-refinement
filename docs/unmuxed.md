@@ -7,7 +7,7 @@
 | 4   | Neon Genesis Evangelion                                                                        | 1995 | 30 Jan 2025 | [SeaDex](https://releases.moe/30/), [AniList](https://anilist.co/anime/30)         |
 | 5   | Blue Exorcist                                                                                  | 2011 | 27 Dec 2025 | [SeaDex](https://releases.moe/9919/), [AniList](https://anilist.co/anime/9919)     |
 | 6   | Food Wars!                                                                                     | 2015 | 04 Sep 2025 | [SeaDex](https://releases.moe/20923/), [AniList](https://anilist.co/anime/20923)   |
-| 7   | My Hero Academia Season 5                                                                      | 2021 | 17 Dec 2024 | [SeaDex](https://releases.moe/117193/), [AniList](https://anilist.co/anime/117193) |
+| 7   | My Hero Academia Season 5                                                                      | 2021 | 14 Jan 2026 | [SeaDex](https://releases.moe/117193/), [AniList](https://anilist.co/anime/117193) |
 | 8   | Soul Eater                                                                                     | 2008 | 23 Aug 2024 | [SeaDex](https://releases.moe/3588/), [AniList](https://anilist.co/anime/3588)     |
 | 9   | Weathering With You                                                                            | 2019 | 05 Jan 2026 | [SeaDex](https://releases.moe/106286/), [AniList](https://anilist.co/anime/106286) |
 | 10  | The Promised Neverland Season 2                                                                | 2021 | 28 Jun 2025 | [SeaDex](https://releases.moe/108725/), [AniList](https://anilist.co/anime/108725) |
@@ -55,8 +55,8 @@
 | 52  | Gintama Season 3                                                                               | 2015 | 30 Aug 2025 | [SeaDex](https://releases.moe/20996/), [AniList](https://anilist.co/anime/20996)   |
 | 53  | Baka and Test - Summon the Beasts                                                              | 2010 | 04 May 2025 | [SeaDex](https://releases.moe/6347/), [AniList](https://anilist.co/anime/6347)     |
 | 54  | World Trigger                                                                                  | 2014 | 02 Jul 2025 | [SeaDex](https://releases.moe/20729/), [AniList](https://anilist.co/anime/20729)   |
-| 55  | LOVE and LIES                                                                                  | 2017 | 30 Dec 2024 | [SeaDex](https://releases.moe/98320/), [AniList](https://anilist.co/anime/98320)   |
-| 56  | Evangelion: 3.0+1.0 Thrice Upon a Time                                                         | 2021 | 02 Apr 2025 | [SeaDex](https://releases.moe/3786/), [AniList](https://anilist.co/anime/3786)     |
+| 55  | Evangelion: 3.0+1.0 Thrice Upon a Time                                                         | 2021 | 02 Apr 2025 | [SeaDex](https://releases.moe/3786/), [AniList](https://anilist.co/anime/3786)     |
+| 56  | LOVE and LIES                                                                                  | 2017 | 30 Dec 2024 | [SeaDex](https://releases.moe/98320/), [AniList](https://anilist.co/anime/98320)   |
 | 57  | Seitokai Yakuindomo                                                                            | 2010 | 30 Dec 2024 | [SeaDex](https://releases.moe/8675/), [AniList](https://anilist.co/anime/8675)     |
 | 58  | Gintama Season 2                                                                               | 2011 | 30 Aug 2025 | [SeaDex](https://releases.moe/9969/), [AniList](https://anilist.co/anime/9969)     |
 | 59  | Date A Live III                                                                                | 2019 | 13 Jul 2025 | [SeaDex](https://releases.moe/100722/), [AniList](https://anilist.co/anime/100722) |
