@@ -25,8 +25,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 3    | NAN0             | 7.6 TiB    | 7.5 TiB (99.00%)    | 101 (~76.7 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.07%)    | 135 (~29.8 GiB each)  |
 | 5    | Headpatter       | 2.8 TiB    | 2.4 TiB (87.79%)    | 87 (~32.4 GiB each)   |
-| 6    | TTGA             | 2.6 TiB    | 2.4 TiB (92.54%)    | 37 (~72.4 GiB each)   |
-| 7    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
+| 6    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
+| 7    | TTGA             | 2.6 TiB    | 2.4 TiB (92.43%)    | 36 (~73.3 GiB each)   |
 | 8    | Moxie            | 2.6 TiB    | 2.6 TiB (100.00%)   | 68 (~38.8 GiB each)   |
 | 9    | hchcsen          | 2.4 TiB    | 1.6 TiB (65.00%)    | 64 (~39.1 GiB each)   |
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 48   | Erai-raws        | 508.5 GiB  | 69.0 GiB (13.57%)   | 30 (~16.9 GiB each)   |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 38.6 TiB   | 21.6 TiB (55.93%)   | 1780 (~22.2 GiB each) |
+| 50   | Others           | 38.6 TiB   | 21.6 TiB (55.92%)   | 1784 (~22.2 GiB each) |

@@ -5,11 +5,11 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                                         | Year | Updated At  | Links                                                                              |
 | :---| :---------------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | DAN DA DAN Season 2                                                                           | 2025 | 10 Jan 2026 | [SeaDex](https://releases.moe/185660/), [AniList](https://anilist.co/anime/185660) |
-| 2   | Orb: On the Movements of the Earth                                                            | 2024 | 09 Jan 2026 | [SeaDex](https://releases.moe/151514/), [AniList](https://anilist.co/anime/151514) |
-| 3   | Elfen Lied                                                                                    | 2004 | 08 Jan 2026 | [SeaDex](https://releases.moe/226/), [AniList](https://anilist.co/anime/226)       |
-| 4   | Muromi-san                                                                                    | 2013 | 07 Jan 2026 | [SeaDex](https://releases.moe/16910/), [AniList](https://anilist.co/anime/16910)   |
-| 5   | Josee, the Tiger and the Fish                                                                 | 2020 | 07 Jan 2026 | [SeaDex](https://releases.moe/113596/), [AniList](https://anilist.co/anime/113596) |
+| 1   | Josee, the Tiger and the Fish                                                                 | 2020 | 15 Jan 2026 | [SeaDex](https://releases.moe/113596/), [AniList](https://anilist.co/anime/113596) |
+| 2   | DAN DA DAN Season 2                                                                           | 2025 | 10 Jan 2026 | [SeaDex](https://releases.moe/185660/), [AniList](https://anilist.co/anime/185660) |
+| 3   | Orb: On the Movements of the Earth                                                            | 2024 | 09 Jan 2026 | [SeaDex](https://releases.moe/151514/), [AniList](https://anilist.co/anime/151514) |
+| 4   | Elfen Lied                                                                                    | 2004 | 08 Jan 2026 | [SeaDex](https://releases.moe/226/), [AniList](https://anilist.co/anime/226)       |
+| 5   | Muromi-san                                                                                    | 2013 | 07 Jan 2026 | [SeaDex](https://releases.moe/16910/), [AniList](https://anilist.co/anime/16910)   |
 | 6   | The Great Passage                                                                             | 2016 | 07 Jan 2026 | [SeaDex](https://releases.moe/21703/), [AniList](https://anilist.co/anime/21703)   |
 | 7   | UzaMaid!                                                                                      | 2018 | 03 Jan 2026 | [SeaDex](https://releases.moe/101506/), [AniList](https://anilist.co/anime/101506) |
 | 8   | RE-MAIN                                                                                       | 2021 | 31 Dec 2025 | [SeaDex](https://releases.moe/130549/), [AniList](https://anilist.co/anime/130549) |
