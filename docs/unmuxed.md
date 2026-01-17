@@ -87,8 +87,8 @@
 | 84  | Chaika -The Coffin Princess-                                                                   | 2014 | 29 Dec 2025 | [SeaDex](https://releases.moe/20462/), [AniList](https://anilist.co/anime/20462)   |
 | 85  | Gintama Season 2 Part 2                                                                        | 2012 | 30 Aug 2025 | [SeaDex](https://releases.moe/15417/), [AniList](https://anilist.co/anime/15417)   |
 | 86  | Girls und Panzer                                                                               | 2012 | 29 Dec 2025 | [SeaDex](https://releases.moe/14131/), [AniList](https://anilist.co/anime/14131)   |
-| 87  | Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?                                     | 2019 | 10 Jan 2026 | [SeaDex](https://releases.moe/104723/), [AniList](https://anilist.co/anime/104723) |
-| 88  | Aoashi                                                                                         | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/134732/), [AniList](https://anilist.co/anime/134732) |
+| 87  | Aoashi                                                                                         | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/134732/), [AniList](https://anilist.co/anime/134732) |
+| 88  | Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?                                     | 2019 | 10 Jan 2026 | [SeaDex](https://releases.moe/104723/), [AniList](https://anilist.co/anime/104723) |
 | 89  | We Never Learn!: BOKUBEN Season 2                                                              | 2019 | 16 Mar 2025 | [SeaDex](https://releases.moe/110229/), [AniList](https://anilist.co/anime/110229) |
 | 90  | Gintama Season 4                                                                               | 2017 | 30 Aug 2025 | [SeaDex](https://releases.moe/97889/), [AniList](https://anilist.co/anime/97889)   |
 | 91  | How a Realist Hero Rebuilt the Kingdom Part 2                                                  | 2022 | 06 Aug 2025 | [SeaDex](https://releases.moe/139648/), [AniList](https://anilist.co/anime/139648) |
@@ -165,8 +165,8 @@
 | 162 | Gonna be the Twin-Tail!!                                                                       | 2014 | 12 Aug 2025 | [SeaDex](https://releases.moe/20565/), [AniList](https://anilist.co/anime/20565)   |
 | 163 | Listen to Me, Girls. I Am Your Father!                                                         | 2012 | 30 Jul 2025 | [SeaDex](https://releases.moe/11179/), [AniList](https://anilist.co/anime/11179)   |
 | 164 | She Professed Herself Pupil of the Wise Man                                                    | 2022 | 01 Jun 2025 | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
-| 165 | Gugure! Kokkuri-san                                                                            | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20656/), [AniList](https://anilist.co/anime/20656)   |
-| 166 | SANDA                                                                                          | 2025 | 15 Jan 2026 | [SeaDex](https://releases.moe/179302/), [AniList](https://anilist.co/anime/179302) |
+| 165 | SANDA                                                                                          | 2025 | 15 Jan 2026 | [SeaDex](https://releases.moe/179302/), [AniList](https://anilist.co/anime/179302) |
+| 166 | Gugure! Kokkuri-san                                                                            | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20656/), [AniList](https://anilist.co/anime/20656)   |
 | 167 | Clockwork Planet                                                                               | 2017 | 13 Apr 2025 | [SeaDex](https://releases.moe/21563/), [AniList](https://anilist.co/anime/21563)   |
 | 168 | Natsume's Book of Friends Season 5                                                             | 2016 | 23 Mar 2025 | [SeaDex](https://releases.moe/21710/), [AniList](https://anilist.co/anime/21710)   |
 | 169 | Ace Attorney                                                                                   | 2016 | 03 Aug 2025 | [SeaDex](https://releases.moe/21360/), [AniList](https://anilist.co/anime/21360)   |
@@ -276,8 +276,8 @@
 | 273 | Chaika -The Coffin Princess- OVA                                                               | 2015 | 02 Jul 2024 | [SeaDex](https://releases.moe/20724/), [AniList](https://anilist.co/anime/20724)   |
 | 274 | Modest Heroes: Ponoc Short Films Theatre, Volume 1                                             | 2018 | 24 Jul 2024 | [SeaDex](https://releases.moe/103887/), [AniList](https://anilist.co/anime/103887) |
 | 275 | Macross Zero                                                                                   | 2002 | 01 Jun 2025 | [SeaDex](https://releases.moe/194/), [AniList](https://anilist.co/anime/194)       |
-| 276 | Shagahai ReLIFE Kenkyuujo Support-ka                                                           | 2018 | 03 Mar 2025 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
-| 277 | Space Runaway Ideon                                                                            | 1980 | 25 Jun 2025 | [SeaDex](https://releases.moe/930/), [AniList](https://anilist.co/anime/930)       |
+| 276 | Space Runaway Ideon                                                                            | 1980 | 25 Jun 2025 | [SeaDex](https://releases.moe/930/), [AniList](https://anilist.co/anime/930)       |
+| 277 | Shagahai ReLIFE Kenkyuujo Support-ka                                                           | 2018 | 03 Mar 2025 | [SeaDex](https://releases.moe/108939/), [AniList](https://anilist.co/anime/108939) |
 | 278 | Papa no Iukoto wo Kikinasai!: Pokkapoka                                                        | 2012 | 12 Apr 2025 | [SeaDex](https://releases.moe/12673/), [AniList](https://anilist.co/anime/12673)   |
 | 279 | Riddle Story of Devil Special                                                                  | 2014 | 07 Apr 2025 | [SeaDex](https://releases.moe/20926/), [AniList](https://anilist.co/anime/20926)   |
 | 280 | Bladedance of Elementalers Specials                                                            | 2014 | 17 Jun 2024 | [SeaDex](https://releases.moe/20871/), [AniList](https://anilist.co/anime/20871)   |

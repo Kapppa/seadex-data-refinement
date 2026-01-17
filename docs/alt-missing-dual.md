@@ -16,8 +16,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 9   | Prison School                                                                               | 2015 | 29 Dec 2025 | [SeaDex](https://releases.moe/20807/), [AniList](https://anilist.co/anime/20807)   |
 | 10  | Overlord III                                                                                | 2018 | 31 Jul 2025 | [SeaDex](https://releases.moe/101474/), [AniList](https://anilist.co/anime/101474) |
 | 11  | Angels of Death                                                                             | 2018 | 11 Oct 2025 | [SeaDex](https://releases.moe/99629/), [AniList](https://anilist.co/anime/99629)   |
-| 12  | Sword Art Online: Alicization - War of Underworld                                           | 2019 | 13 Nov 2023 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
-| 13  | SPY x FAMILY Season 2                                                                       | 2023 | 19 Aug 2025 | [SeaDex](https://releases.moe/158927/), [AniList](https://anilist.co/anime/158927) |
+| 12  | SPY x FAMILY Season 2                                                                       | 2023 | 19 Aug 2025 | [SeaDex](https://releases.moe/158927/), [AniList](https://anilist.co/anime/158927) |
+| 13  | Sword Art Online: Alicization - War of Underworld                                           | 2019 | 13 Nov 2023 | [SeaDex](https://releases.moe/108759/), [AniList](https://anilist.co/anime/108759) |
 | 14  | Summer Time Rendering                                                                       | 2022 | 01 Aug 2025 | [SeaDex](https://releases.moe/129201/), [AniList](https://anilist.co/anime/129201) |
 | 15  | The Case Study of Vanitas                                                                   | 2021 | 14 Nov 2023 | [SeaDex](https://releases.moe/131646/), [AniList](https://anilist.co/anime/131646) |
 | 16  | How NOT to Summon a Demon Lord                                                              | 2018 | 19 Jun 2025 | [SeaDex](https://releases.moe/101004/), [AniList](https://anilist.co/anime/101004) |
@@ -66,8 +66,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 59  | My Roommate is a Cat                                                                        | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
 | 60  | Infinite Dendrogram                                                                         | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
 | 61  | Children who Chase Lost Voices                                                              | 2011 | 08 Jun 2025 | [SeaDex](https://releases.moe/9760/), [AniList](https://anilist.co/anime/9760)     |
-| 62  | Japan Sinks: 2020                                                                           | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
-| 63  | Tokyo Ghoul: [PINTO]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
+| 62  | Tokyo Ghoul: [PINTO]                                                                        | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21326/), [AniList](https://anilist.co/anime/21326)   |
+| 63  | Japan Sinks: 2020                                                                           | 2020 | 14 Aug 2025 | [SeaDex](https://releases.moe/112357/), [AniList](https://anilist.co/anime/112357) |
 | 64  | Sarazanmai                                                                                  | 2019 | 15 Nov 2023 | [SeaDex](https://releases.moe/101261/), [AniList](https://anilist.co/anime/101261) |
 | 65  | Tiger & Bunny                                                                               | 2011 | 12 Oct 2025 | [SeaDex](https://releases.moe/9941/), [AniList](https://anilist.co/anime/9941)     |
 | 66  | Pretty Boy Detective Club                                                                   | 2021 | 07 Jun 2025 | [SeaDex](https://releases.moe/113428/), [AniList](https://anilist.co/anime/113428) |
