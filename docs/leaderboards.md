@@ -18,7 +18,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE             | 146   |
 | 🥉   | sam                  | 134   |
 | 4    | NAN0                 | 101   |
-| 5    | MTBB                 | 98    |
+| 5    | MTBB                 | 99    |
 | 6    | Headpatter           | 81    |
 | 7    | SubsPlease           | 79    |
 | 8    | YURASUKA / YURI      | 71    |
@@ -33,8 +33,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Bunny-Apocalypse     | 37    |
 | 18   | LYS1TH3A / TTGA      | 36    |
 | 19   | Commie / Lulu / PMR  | 34    |
-| 20   | NOGRP                | 32    |
-| 21   | Erai-raws / Kametsu  | 30    |
+| 20   | Erai-raws / NOGRP    | 32    |
+| 21   | Kametsu              | 30    |
 | 22   | Holomux / Pog42      | 28    |
 | 23   | Orphan / SCY / VARYG | 27    |
 | 24   | B00BA / Reza         | 26    |
@@ -71,33 +71,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Best entries
 
-| Rank | Group                                         | Count |
-| :----| :---------------------------------------------| :-----|
-| 🥇   | -ZR-                                          | 150   |
-| 🥈   | CRUCiBLE                                      | 146   |
-| 🥉   | sam                                           | 123   |
-| 4    | NAN0                                          | 100   |
-| 5    | MTBB / Moxie                                  | 68    |
-| 6    | Headpatter                                    | 57    |
-| 7    | smol                                          | 56    |
-| 8    | Okay-Subs                                     | 36    |
-| 9    | LYS1TH3A / PMR / TTGA / YURI                  | 34    |
-| 10   | hchcsen                                       | 32    |
-| 11   | B00BA / Orphan                                | 26    |
-| 12   | Lulu                                          | 22    |
-| 13   | FLE                                           | 21    |
-| 14   | Arid / LazyRemux                              | 20    |
-| 15   | LaCroiX                                       | 19    |
-| 16   | Flugel / koala                                | 17    |
-| 17   | Drag                                          | 16    |
-| 18   | KH / UDF / Vodes / YURASUKA / ZeroBuild       | 14    |
-| 19   | Beatrice / LostYears / Mehul                  | 13    |
-| 20   | FraMeSToR / Reza / SubsPlease                 | 12    |
-| 21   | NOGRP / Pog42 / SCY                           | 11    |
-| 22   | DemiHuman / IK / Mysteria / RUDY & Others     | 10    |
-| 23   | BBT-RMX / Holomux / P9 / uba                  | 9     |
-| 24   | ANE / CUNNY / JySzE / Kametsu & Others        | 8     |
-| 25   | Bunny-Apocalypse / Exp / OZR / Pizza & Others | 7     |
+| Rank | Group                                     | Count |
+| :----| :-----------------------------------------| :-----|
+| 🥇   | -ZR-                                      | 150   |
+| 🥈   | CRUCiBLE                                  | 146   |
+| 🥉   | sam                                       | 123   |
+| 4    | NAN0                                      | 100   |
+| 5    | MTBB                                      | 69    |
+| 6    | Moxie                                     | 68    |
+| 7    | Headpatter                                | 57    |
+| 8    | smol                                      | 56    |
+| 9    | Okay-Subs                                 | 36    |
+| 10   | LYS1TH3A / PMR / TTGA / YURI              | 34    |
+| 11   | hchcsen                                   | 32    |
+| 12   | B00BA / Orphan                            | 26    |
+| 13   | Lulu                                      | 22    |
+| 14   | FLE                                       | 21    |
+| 15   | Arid / LazyRemux                          | 20    |
+| 16   | LaCroiX                                   | 19    |
+| 17   | Flugel / koala                            | 17    |
+| 18   | Drag                                      | 16    |
+| 19   | KH / UDF / Vodes / YURASUKA / ZeroBuild   | 14    |
+| 20   | Beatrice / LostYears / Mehul              | 13    |
+| 21   | FraMeSToR / Reza / SubsPlease             | 12    |
+| 22   | NOGRP / Pog42 / SCY                       | 11    |
+| 23   | DemiHuman / IK / Mysteria / RUDY & Others | 10    |
+| 24   | BBT-RMX / Holomux / P9 / uba              | 9     |
+| 25   | ANE / CUNNY / JySzE / Kametsu & Others    | 8     |
 
 ## Top 25 - Alt entries
 
@@ -111,8 +111,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | Commie                                           | 34    |
 | 7    | hchcsen                                          | 32    |
 | 8    | Bunny-Apocalypse / Headpatter / LostYears / MTBB | 30    |
-| 9    | Arid                                             | 26    |
-| 10   | Erai-raws                                        | 25    |
+| 9    | Erai-raws                                        | 27    |
+| 10   | Arid                                             | 26    |
 | 11   | VARYG                                            | 23    |
 | 12   | Kametsu                                          | 22    |
 | 13   | NOGRP                                            | 21    |
