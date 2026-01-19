@@ -5,7 +5,7 @@ This list excludes torrents that have been manually verified to break AB rules.
 
 | Idx | Title                                                                                         | Year | Updated At  | Links                                                                              |
 | :---| :---------------------------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
-| 1   | WIND BREAKER Season 2                                                                         | 2025 | 17 Jan 2026 | [SeaDex](https://releases.moe/178680/), [AniList](https://anilist.co/anime/178680) |
+| 1   | WIND BREAKER Season 2                                                                         | 2025 | 18 Jan 2026 | [SeaDex](https://releases.moe/178680/), [AniList](https://anilist.co/anime/178680) |
 | 2   | Necronomico and the Cosmic Horror Show                                                        | 2025 | 17 Jan 2026 | [SeaDex](https://releases.moe/185505/), [AniList](https://anilist.co/anime/185505) |
 | 3   | Josee, the Tiger and the Fish                                                                 | 2020 | 15 Jan 2026 | [SeaDex](https://releases.moe/113596/), [AniList](https://anilist.co/anime/113596) |
 | 4   | DAN DA DAN Season 2                                                                           | 2025 | 10 Jan 2026 | [SeaDex](https://releases.moe/185660/), [AniList](https://anilist.co/anime/185660) |

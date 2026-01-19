@@ -9,7 +9,7 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `123.5 TiB`
-- Best size: `93.2 TiB`
+- Best size: `93.1 TiB`
 - Alt size: `30.4 TiB`
 - Realistic size: `96.1 TiB`
 
@@ -32,7 +32,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 13   | MTBB             | 1.5 TiB    | 1.2 TiB (83.44%)    | 99 (~15.4 GiB each)   |
+| 13   | MTBB             | 1.5 TiB    | 1.2 TiB (84.74%)    | 98 (~15.4 GiB each)   |
 | 14   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 15   | SubsPlease       | 1.3 TiB    | 190.6 GiB (14.06%)  | 79 (~17.2 GiB each)   |
 | 16   | LaCroiX          | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.2 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
 | 48   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 38.6 TiB   | 21.6 TiB (55.92%)   | 1785 (~22.2 GiB each) |
+| 50   | Others           | 38.7 TiB   | 21.6 TiB (55.76%)   | 1786 (~22.2 GiB each) |
