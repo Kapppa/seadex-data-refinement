@@ -50,8 +50,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 43  | Love Tyrant                                                                                 | 2017 | 15 Nov 2025 | [SeaDex](https://releases.moe/21517/), [AniList](https://anilist.co/anime/21517)   |
 | 44  | NANBAKA                                                                                     | 2016 | 03 Aug 2025 | [SeaDex](https://releases.moe/21051/), [AniList](https://anilist.co/anime/21051)   |
 | 45  | Love After World Domination                                                                 | 2022 | 25 Jun 2025 | [SeaDex](https://releases.moe/132010/), [AniList](https://anilist.co/anime/132010) |
-| 46  | Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!            | 2021 | 03 Aug 2025 | [SeaDex](https://releases.moe/126791/), [AniList](https://anilist.co/anime/126791) |
-| 47  | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells      | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/173694/), [AniList](https://anilist.co/anime/173694) |
+| 46  | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells      | 2024 | 01 Aug 2025 | [SeaDex](https://releases.moe/173694/), [AniList](https://anilist.co/anime/173694) |
+| 47  | Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!            | 2021 | 03 Aug 2025 | [SeaDex](https://releases.moe/126791/), [AniList](https://anilist.co/anime/126791) |
 | 48  | The 8th Son? Are You Kidding Me?                                                            | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/106319/), [AniList](https://anilist.co/anime/106319) |
 | 49  | Hi Score Girl                                                                               | 2018 | 02 Aug 2025 | [SeaDex](https://releases.moe/20574/), [AniList](https://anilist.co/anime/20574)   |
 | 50  | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | 2024 | 22 Jan 2025 | [SeaDex](https://releases.moe/163292/), [AniList](https://anilist.co/anime/163292) |

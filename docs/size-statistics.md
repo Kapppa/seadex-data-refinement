@@ -23,7 +23,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 15.1 TiB   | 13.2 TiB (87.24%)   | 187 (~82.8 GiB each)  |
 | 2    | CRUCiBLE         | 10.8 TiB   | 10.8 TiB (100.00%)  | 146 (~75.4 GiB each)  |
 | 3    | NAN0             | 7.6 TiB    | 7.5 TiB (99.00%)    | 101 (~76.7 GiB each)  |
-| 4    | sam              | 3.9 TiB    | 3.6 TiB (92.07%)    | 135 (~29.8 GiB each)  |
+| 4    | sam              | 3.9 TiB    | 3.6 TiB (92.04%)    | 134 (~29.9 GiB each)  |
 | 5    | Headpatter       | 2.8 TiB    | 2.4 TiB (87.79%)    | 87 (~32.4 GiB each)   |
 | 6    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
 | 7    | TTGA             | 2.6 TiB    | 2.4 TiB (92.43%)    | 36 (~73.3 GiB each)   |
@@ -32,13 +32,13 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
-| 13   | MTBB             | 1.5 TiB    | 1.2 TiB (84.74%)    | 98 (~15.4 GiB each)   |
+| 13   | MTBB             | 1.5 TiB    | 1.2 TiB (83.44%)    | 99 (~15.4 GiB each)   |
 | 14   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 15   | SubsPlease       | 1.3 TiB    | 190.6 GiB (14.06%)  | 79 (~17.2 GiB each)   |
 | 16   | LaCroiX          | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~71.2 GiB each)   |
 | 17   | NOGRP            | 1.0 TiB    | 850.8 GiB (80.87%)  | 32 (~32.9 GiB each)   |
 | 18   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
-| 19   | FLE              | 936.1 GiB  | 897.9 GiB (95.93%)  | 23 (~40.7 GiB each)   |
+| 19   | FLE              | 951.3 GiB  | 913.2 GiB (95.99%)  | 24 (~39.6 GiB each)   |
 | 20   | LYS1TH3A         | 935.0 GiB  | 909.6 GiB (97.29%)  | 36 (~26.0 GiB each)   |
 | 21   | koala            | 900.1 GiB  | 900.1 GiB (100.00%) | 17 (~52.9 GiB each)   |
 | 22   | KH               | 895.0 GiB  | 219.7 GiB (24.55%)  | 55 (~16.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
 | 48   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 38.7 TiB   | 21.6 TiB (55.76%)   | 1786 (~22.2 GiB each) |
+| 50   | Others           | 38.6 TiB   | 21.6 TiB (55.82%)   | 1786 (~22.1 GiB each) |
