@@ -17,11 +17,11 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥇   | -ZR-                 | 176   |
 | 🥈   | CRUCiBLE             | 146   |
 | 🥉   | sam                  | 133   |
-| 4    | NAN0                 | 101   |
-| 5    | MTBB                 | 99    |
-| 6    | Headpatter           | 81    |
-| 7    | SubsPlease           | 79    |
-| 8    | YURASUKA / YURI      | 71    |
+| 4    | MTBB / NAN0          | 101   |
+| 5    | Headpatter           | 81    |
+| 6    | SubsPlease           | 79    |
+| 7    | YURASUKA             | 72    |
+| 8    | YURI                 | 71    |
 | 9    | Moxie                | 68    |
 | 10   | hchcsen              | 59    |
 | 11   | smol                 | 58    |
@@ -56,10 +56,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 10   | Lulu                                                | 19    |
 | 11   | Flugel                                              | 17    |
 | 12   | LazyRemux / Moxie / YURI                            | 16    |
-| 13   | ZeroBuild / koala                                   | 14    |
-| 14   | Arid / LostYears                                    | 13    |
-| 15   | FraMeSToR / KH / PMR / Vodes                        | 12    |
-| 16   | YURASUKA                                            | 11    |
+| 13   | koala                                               | 15    |
+| 14   | ZeroBuild                                           | 14    |
+| 15   | Arid / LostYears                                    | 13    |
+| 16   | FraMeSToR / KH / PMR / Vodes / YURASUKA             | 12    |
 | 17   | DemiHuman / SCY / hydes                             | 10    |
 | 18   | Meakes / UDF                                        | 8     |
 | 19   | Bunny-Apocalypse / Kametsu / LaCroiX / Mehul / Reza | 7     |
@@ -72,33 +72,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Best entries
 
-| Rank | Group                                         | Count |
-| :----| :---------------------------------------------| :-----|
-| 🥇   | -ZR-                                          | 150   |
-| 🥈   | CRUCiBLE                                      | 146   |
-| 🥉   | sam                                           | 122   |
-| 4    | NAN0                                          | 100   |
-| 5    | MTBB                                          | 69    |
-| 6    | Moxie                                         | 68    |
-| 7    | Headpatter                                    | 57    |
-| 8    | smol                                          | 56    |
-| 9    | Okay-Subs                                     | 36    |
-| 10   | LYS1TH3A / PMR / TTGA / YURI                  | 34    |
-| 11   | hchcsen                                       | 32    |
-| 12   | B00BA / Orphan                                | 26    |
-| 13   | FLE / Lulu                                    | 22    |
-| 14   | Arid / LazyRemux                              | 20    |
-| 15   | LaCroiX                                       | 19    |
-| 16   | Flugel / koala                                | 17    |
-| 17   | Drag                                          | 16    |
-| 18   | KH / UDF / Vodes / YURASUKA / ZeroBuild       | 14    |
-| 19   | Beatrice / LostYears / Mehul                  | 13    |
-| 20   | FraMeSToR / Reza / SubsPlease                 | 12    |
-| 21   | NOGRP / Pog42 / SCY                           | 11    |
-| 22   | DemiHuman / IK / RUDY / cappybara / hydes     | 10    |
-| 23   | BBT-RMX / Holomux / Mysteria / P9 / uba       | 9     |
-| 24   | ANE / CUNNY / JySzE / Kametsu & Others        | 8     |
-| 25   | Bunny-Apocalypse / Exp / OZR / Pizza & Others | 7     |
+| Rank | Group                                     | Count |
+| :----| :-----------------------------------------| :-----|
+| 🥇   | -ZR-                                      | 150   |
+| 🥈   | CRUCiBLE                                  | 146   |
+| 🥉   | sam                                       | 122   |
+| 4    | NAN0                                      | 100   |
+| 5    | MTBB                                      | 71    |
+| 6    | Moxie                                     | 68    |
+| 7    | Headpatter                                | 57    |
+| 8    | smol                                      | 56    |
+| 9    | Okay-Subs                                 | 36    |
+| 10   | LYS1TH3A / PMR / TTGA / YURI              | 34    |
+| 11   | hchcsen                                   | 32    |
+| 12   | B00BA / Orphan                            | 26    |
+| 13   | FLE / Lulu                                | 22    |
+| 14   | Arid / LazyRemux                          | 20    |
+| 15   | LaCroiX                                   | 19    |
+| 16   | koala                                     | 18    |
+| 17   | Flugel                                    | 17    |
+| 18   | Drag                                      | 16    |
+| 19   | YURASUKA                                  | 15    |
+| 20   | KH / UDF / Vodes / ZeroBuild              | 14    |
+| 21   | Beatrice / LostYears / Mehul              | 13    |
+| 22   | FraMeSToR / Reza / SubsPlease             | 12    |
+| 23   | NOGRP / Pog42 / SCY                       | 11    |
+| 24   | DemiHuman / IK / RUDY / cappybara / hydes | 10    |
+| 25   | BBT-RMX / Holomux / Mysteria / P9 / uba   | 9     |
 
 ## Top 25 - Alt entries
 
