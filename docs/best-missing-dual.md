@@ -12,8 +12,8 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 5   | Great Pretender                                                            | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
 | 6   | Clannad: After Story                                                       | 2008 | 07 Sep 2025 | [SeaDex](https://releases.moe/4181/), [AniList](https://anilist.co/anime/4181)     |
 | 7   | From the New World                                                         | 2012 | 10 Aug 2025 | [SeaDex](https://releases.moe/13125/), [AniList](https://anilist.co/anime/13125)   |
-| 8   | Laid-Back Camp                                                             | 2018 | 11 Oct 2024 | [SeaDex](https://releases.moe/98444/), [AniList](https://anilist.co/anime/98444)   |
-| 9   | takt op.Destiny                                                            | 2021 | 14 Jan 2026 | [SeaDex](https://releases.moe/131565/), [AniList](https://anilist.co/anime/131565) |
+| 8   | takt op.Destiny                                                            | 2021 | 14 Jan 2026 | [SeaDex](https://releases.moe/131565/), [AniList](https://anilist.co/anime/131565) |
+| 9   | Laid-Back Camp                                                             | 2018 | 11 Oct 2024 | [SeaDex](https://releases.moe/98444/), [AniList](https://anilist.co/anime/98444)   |
 | 10  | Evangelion: 1.0 You Are (Not) Alone                                        | 2007 | 28 Jul 2025 | [SeaDex](https://releases.moe/2759/), [AniList](https://anilist.co/anime/2759)     |
 | 11  | March comes in like a lion Season 2                                        | 2017 | 17 Jan 2026 | [SeaDex](https://releases.moe/98478/), [AniList](https://anilist.co/anime/98478)   |
 | 12  | Evangelion: 2.0 You Can (Not) Advance                                      | 2009 | 23 Jun 2025 | [SeaDex](https://releases.moe/3784/), [AniList](https://anilist.co/anime/3784)     |
