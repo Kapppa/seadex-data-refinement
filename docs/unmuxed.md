@@ -87,8 +87,8 @@
 | 84  | WIND BREAKER Season 2                                                                          | 2025 | 18 Jan 2026 | [SeaDex](https://releases.moe/178680/), [AniList](https://anilist.co/anime/178680) |
 | 85  | Chaika -The Coffin Princess-                                                                   | 2014 | 29 Dec 2025 | [SeaDex](https://releases.moe/20462/), [AniList](https://anilist.co/anime/20462)   |
 | 86  | Gintama Season 2 Part 2                                                                        | 2012 | 30 Aug 2025 | [SeaDex](https://releases.moe/15417/), [AniList](https://anilist.co/anime/15417)   |
-| 87  | Girls und Panzer                                                                               | 2012 | 29 Dec 2025 | [SeaDex](https://releases.moe/14131/), [AniList](https://anilist.co/anime/14131)   |
-| 88  | Aoashi                                                                                         | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/134732/), [AniList](https://anilist.co/anime/134732) |
+| 87  | Aoashi                                                                                         | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/134732/), [AniList](https://anilist.co/anime/134732) |
+| 88  | Girls und Panzer                                                                               | 2012 | 29 Dec 2025 | [SeaDex](https://releases.moe/14131/), [AniList](https://anilist.co/anime/14131)   |
 | 89  | Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?                                     | 2019 | 10 Jan 2026 | [SeaDex](https://releases.moe/104723/), [AniList](https://anilist.co/anime/104723) |
 | 90  | We Never Learn!: BOKUBEN Season 2                                                              | 2019 | 16 Mar 2025 | [SeaDex](https://releases.moe/110229/), [AniList](https://anilist.co/anime/110229) |
 | 91  | Gintama Season 4                                                                               | 2017 | 30 Aug 2025 | [SeaDex](https://releases.moe/97889/), [AniList](https://anilist.co/anime/97889)   |
@@ -164,9 +164,9 @@
 | 161 | Princess Lover!                                                                                | 2009 | 16 Mar 2025 | [SeaDex](https://releases.moe/6201/), [AniList](https://anilist.co/anime/6201)     |
 | 162 | Seraph of the End: Vampire Reign - Owaranai Seraph                                             | 2015 | 25 Oct 2024 | [SeaDex](https://releases.moe/21483/), [AniList](https://anilist.co/anime/21483)   |
 | 163 | Tari Tari                                                                                      | 2012 | 27 Aug 2024 | [SeaDex](https://releases.moe/13333/), [AniList](https://anilist.co/anime/13333)   |
-| 164 | Gonna be the Twin-Tail!!                                                                       | 2014 | 12 Aug 2025 | [SeaDex](https://releases.moe/20565/), [AniList](https://anilist.co/anime/20565)   |
-| 165 | Listen to Me, Girls. I Am Your Father!                                                         | 2012 | 30 Jul 2025 | [SeaDex](https://releases.moe/11179/), [AniList](https://anilist.co/anime/11179)   |
-| 166 | SANDA                                                                                          | 2025 | 15 Jan 2026 | [SeaDex](https://releases.moe/179302/), [AniList](https://anilist.co/anime/179302) |
+| 164 | SANDA                                                                                          | 2025 | 15 Jan 2026 | [SeaDex](https://releases.moe/179302/), [AniList](https://anilist.co/anime/179302) |
+| 165 | Gonna be the Twin-Tail!!                                                                       | 2014 | 12 Aug 2025 | [SeaDex](https://releases.moe/20565/), [AniList](https://anilist.co/anime/20565)   |
+| 166 | Listen to Me, Girls. I Am Your Father!                                                         | 2012 | 30 Jul 2025 | [SeaDex](https://releases.moe/11179/), [AniList](https://anilist.co/anime/11179)   |
 | 167 | She Professed Herself Pupil of the Wise Man                                                    | 2022 | 01 Jun 2025 | [SeaDex](https://releases.moe/119056/), [AniList](https://anilist.co/anime/119056) |
 | 168 | Gugure! Kokkuri-san                                                                            | 2014 | 13 Jul 2025 | [SeaDex](https://releases.moe/20656/), [AniList](https://anilist.co/anime/20656)   |
 | 169 | Clockwork Planet                                                                               | 2017 | 13 Apr 2025 | [SeaDex](https://releases.moe/21563/), [AniList](https://anilist.co/anime/21563)   |
