@@ -108,8 +108,8 @@
 | 105 | Gargantia on the Verdurous Planet                                                              | 2013 | 02 Aug 2025 | [SeaDex](https://releases.moe/16524/), [AniList](https://anilist.co/anime/16524)   |
 | 106 | PSYCHO-PASS 3                                                                                  | 2019 | 14 Jun 2025 | [SeaDex](https://releases.moe/108307/), [AniList](https://anilist.co/anime/108307) |
 | 107 | Ninja Kamui                                                                                    | 2024 | 05 Jun 2025 | [SeaDex](https://releases.moe/151639/), [AniList](https://anilist.co/anime/151639) |
-| 108 | Anti-Magic Academy: The 35th Test Platoon                                                      | 2015 | 09 Jan 2025 | [SeaDex](https://releases.moe/20704/), [AniList](https://anilist.co/anime/20704)   |
-| 109 | Tokyo Magnitude 8.0                                                                            | 2009 | 19 Nov 2025 | [SeaDex](https://releases.moe/6211/), [AniList](https://anilist.co/anime/6211)     |
+| 108 | Tokyo Magnitude 8.0                                                                            | 2009 | 19 Nov 2025 | [SeaDex](https://releases.moe/6211/), [AniList](https://anilist.co/anime/6211)     |
+| 109 | Anti-Magic Academy: The 35th Test Platoon                                                      | 2015 | 09 Jan 2025 | [SeaDex](https://releases.moe/20704/), [AniList](https://anilist.co/anime/20704)   |
 | 110 | Slam Dunk                                                                                      | 1993 | 23 May 2024 | [SeaDex](https://releases.moe/170/), [AniList](https://anilist.co/anime/170)       |
 | 111 | Princess Principal                                                                             | 2017 | 16 Dec 2023 | [SeaDex](https://releases.moe/98505/), [AniList](https://anilist.co/anime/98505)   |
 | 112 | Ground Control to Psychoelectric Girl                                                          | 2011 | 28 Oct 2024 | [SeaDex](https://releases.moe/9379/), [AniList](https://anilist.co/anime/9379)     |
@@ -117,9 +117,9 @@
 | 114 | King's Game                                                                                    | 2017 | 06 Apr 2025 | [SeaDex](https://releases.moe/99698/), [AniList](https://anilist.co/anime/99698)   |
 | 115 | Baka and Test - Summon the Beasts 2                                                            | 2011 | 11 Oct 2025 | [SeaDex](https://releases.moe/8516/), [AniList](https://anilist.co/anime/8516)     |
 | 116 | Dimension W                                                                                    | 2016 | 11 Jul 2024 | [SeaDex](https://releases.moe/21256/), [AniList](https://anilist.co/anime/21256)   |
-| 117 | Spy Classroom                                                                                  | 2023 | 03 Aug 2025 | [SeaDex](https://releases.moe/146323/), [AniList](https://anilist.co/anime/146323) |
+| 117 | Black Lagoon: Roberta's Blood Trail                                                            | 2010 | 14 Feb 2025 | [SeaDex](https://releases.moe/4901/), [AniList](https://anilist.co/anime/4901)     |
 | 118 | High School of the Dead: Drifters of the Dead                                                  | 2011 | 09 Jul 2024 | [SeaDex](https://releases.moe/9515/), [AniList](https://anilist.co/anime/9515)     |
-| 119 | Black Lagoon: Roberta's Blood Trail                                                            | 2010 | 14 Feb 2025 | [SeaDex](https://releases.moe/4901/), [AniList](https://anilist.co/anime/4901)     |
+| 119 | Spy Classroom                                                                                  | 2023 | 03 Aug 2025 | [SeaDex](https://releases.moe/146323/), [AniList](https://anilist.co/anime/146323) |
 | 120 | ALDNOAH.ZERO Season 2                                                                          | 2015 | 13 Jul 2025 | [SeaDex](https://releases.moe/20853/), [AniList](https://anilist.co/anime/20853)   |
 | 121 | The aquatope on white sand                                                                     | 2021 | 19 Mar 2025 | [SeaDex](https://releases.moe/128545/), [AniList](https://anilist.co/anime/128545) |
 | 122 | RADIANT                                                                                        | 2018 | 04 Aug 2025 | [SeaDex](https://releases.moe/101024/), [AniList](https://anilist.co/anime/101024) |
@@ -299,8 +299,8 @@
 | 296 | Shomin Sample: Kujou-san no Doesu Soudan-Shitsu Anime-ban                                      | 2016 | 30 Mar 2025 | [SeaDex](https://releases.moe/21492/), [AniList](https://anilist.co/anime/21492)   |
 | 297 | My Sister, My Writer (OVA)                                                                     | 2019 | 09 Apr 2025 | [SeaDex](https://releases.moe/108062/), [AniList](https://anilist.co/anime/108062) |
 | 298 | Moyashimon Returns                                                                             | 2012 | 24 Jan 2024 | [SeaDex](https://releases.moe/13409/), [AniList](https://anilist.co/anime/13409)   |
-| 299 | Gatchaman Crowds: Embrace                                                                      | 2014 | 02 Jul 2024 | [SeaDex](https://releases.moe/20759/), [AniList](https://anilist.co/anime/20759)   |
-| 300 | Symphogear G: Non-Songs of the Valkyries                                                       | 2014 | 30 Jul 2025 | [SeaDex](https://releases.moe/20452/), [AniList](https://anilist.co/anime/20452)   |
+| 299 | Symphogear G: Non-Songs of the Valkyries                                                       | 2014 | 30 Jul 2025 | [SeaDex](https://releases.moe/20452/), [AniList](https://anilist.co/anime/20452)   |
+| 300 | Gatchaman Crowds: Embrace                                                                      | 2014 | 02 Jul 2024 | [SeaDex](https://releases.moe/20759/), [AniList](https://anilist.co/anime/20759)   |
 | 301 | Armor Shop for Ladies & Gentlemen II                                                           | 2021 | 09 Mar 2025 | [SeaDex](https://releases.moe/124136/), [AniList](https://anilist.co/anime/124136) |
 | 302 | Show by Rock!! Stars!!                                                                         | 2021 | 26 Jul 2025 | [SeaDex](https://releases.moe/113476/), [AniList](https://anilist.co/anime/113476) |
 | 303 | Necronomico and the Cosmic Horror Show                                                         | 2025 | 17 Jan 2026 | [SeaDex](https://releases.moe/185505/), [AniList](https://anilist.co/anime/185505) |
