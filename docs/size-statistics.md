@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `124.3 TiB`
-- Best size: `93.7 TiB`
+- Total size: `124.7 TiB`
+- Best size: `94.1 TiB`
 - Alt size: `30.6 TiB`
-- Realistic size: `96.9 TiB`
+- Realistic size: `97.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -25,10 +25,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 3    | NAN0             | 7.6 TiB    | 7.5 TiB (99.00%)    | 101 (~76.7 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.04%)    | 134 (~29.9 GiB each)  |
 | 5    | Headpatter       | 2.8 TiB    | 2.4 TiB (87.90%)    | 89 (~32.0 GiB each)   |
-| 6    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~78.7 GiB each)   |
-| 7    | TTGA             | 2.6 TiB    | 2.4 TiB (92.43%)    | 36 (~73.3 GiB each)   |
-| 8    | Moxie            | 2.6 TiB    | 2.6 TiB (100.00%)   | 68 (~38.8 GiB each)   |
-| 9    | hchcsen          | 2.5 TiB    | 1.7 TiB (66.04%)    | 64 (~40.0 GiB each)   |
+| 6    | Moxie            | 2.7 TiB    | 2.7 TiB (100.00%)   | 70 (~39.8 GiB each)   |
+| 7    | PMR              | 2.7 TiB    | 2.7 TiB (100.00%)   | 35 (~78.3 GiB each)   |
+| 8    | hchcsen          | 2.6 TiB    | 1.7 TiB (66.93%)    | 65 (~40.4 GiB each)   |
+| 9    | TTGA             | 2.5 TiB    | 2.4 TiB (94.92%)    | 35 (~73.5 GiB each)   |
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
 | 48   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
 | 49   | CTR              | 500.5 GiB  | 113.6 GiB (22.70%)  | 25 (~20.0 GiB each)   |
-| 50   | Others           | 38.9 TiB   | 21.7 TiB (55.63%)   | 1795 (~22.2 GiB each) |
+| 50   | Others           | 39.1 TiB   | 21.8 TiB (55.76%)   | 1801 (~22.2 GiB each) |
