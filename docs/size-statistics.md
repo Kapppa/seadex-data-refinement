@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `125.0 TiB`
-- Best size: `94.2 TiB`
+- Total size: `125.1 TiB`
+- Best size: `94.3 TiB`
 - Alt size: `30.8 TiB`
-- Realistic size: `97.3 TiB`
+- Realistic size: `97.4 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,12 +20,12 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 15.3 TiB   | 13.4 TiB (87.32%)   | 190 (~82.5 GiB each)  |
+| 1    | -ZR-             | 15.3 TiB   | 13.4 TiB (87.33%)   | 191 (~82.2 GiB each)  |
 | 2    | CRUCiBLE         | 10.8 TiB   | 10.8 TiB (100.00%)  | 146 (~75.4 GiB each)  |
 | 3    | NAN0             | 7.8 TiB    | 7.7 TiB (99.03%)    | 104 (~76.3 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.04%)    | 134 (~29.9 GiB each)  |
 | 5    | Headpatter       | 2.9 TiB    | 2.4 TiB (85.49%)    | 90 (~32.5 GiB each)   |
-| 6    | Moxie            | 2.7 TiB    | 2.7 TiB (100.00%)   | 73 (~38.4 GiB each)   |
+| 6    | Moxie            | 2.8 TiB    | 2.8 TiB (100.00%)   | 74 (~38.6 GiB each)   |
 | 7    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~79.4 GiB each)   |
 | 8    | TTGA             | 2.6 TiB    | 2.5 TiB (95.08%)    | 36 (~73.7 GiB each)   |
 | 9    | hchcsen          | 2.6 TiB    | 1.7 TiB (66.93%)    | 65 (~40.4 GiB each)   |
@@ -41,7 +41,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 19   | FLE              | 951.3 GiB  | 913.2 GiB (95.99%)  | 24 (~39.6 GiB each)   |
 | 20   | LYS1TH3A         | 935.0 GiB  | 909.6 GiB (97.29%)  | 36 (~26.0 GiB each)   |
 | 21   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
-| 22   | KH               | 895.0 GiB  | 219.7 GiB (24.55%)  | 55 (~16.3 GiB each)   |
+| 22   | KH               | 918.1 GiB  | 219.7 GiB (23.93%)  | 56 (~16.4 GiB each)   |
 | 23   | YURI             | 868.7 GiB  | 385.1 GiB (44.33%)  | 71 (~12.2 GiB each)   |
 | 24   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
 | 25   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
@@ -59,7 +59,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 37   | Arid             | 648.0 GiB  | 210.6 GiB (32.50%)  | 46 (~14.1 GiB each)   |
 | 38   | Drag             | 639.7 GiB  | 146.0 GiB (22.81%)  | 58 (~11.0 GiB each)   |
 | 39   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 40   | Erai-raws        | 573.4 GiB  | 69.0 GiB (12.03%)   | 34 (~16.9 GiB each)   |
+| 40   | Erai-raws        | 590.1 GiB  | 85.7 GiB (14.53%)   | 35 (~16.9 GiB each)   |
 | 41   | SEV              | 568.2 GiB  | 0 B (0.00%)         | 12 (~47.3 GiB each)   |
 | 42   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 43   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
