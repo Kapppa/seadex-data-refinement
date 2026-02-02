@@ -21,7 +21,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | MTBB                               | 101   |
 | 6    | Headpatter                         | 84    |
 | 7    | SubsPlease                         | 79    |
-| 8    | Moxie                              | 74    |
+| 8    | Moxie                              | 76    |
 | 9    | YURASUKA                           | 73    |
 | 10   | YURI                               | 71    |
 | 11   | hchcsen                            | 60    |
@@ -78,7 +78,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE                                 | 146   |
 | 🥉   | sam                                      | 122   |
 | 4    | NAN0                                     | 103   |
-| 5    | Moxie                                    | 74    |
+| 5    | Moxie                                    | 76    |
 | 6    | MTBB                                     | 72    |
 | 7    | Headpatter                               | 59    |
 | 8    | smol                                     | 56    |
@@ -118,14 +118,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | VARYG                                    | 23    |
 | 13   | Kametsu                                  | 22    |
 | 14   | NOGRP                                    | 21    |
-| 15   | CTR / Holomux                            | 20    |
-| 16   | Chihiro                                  | 19    |
-| 17   | GetItTwisted                             | 18    |
-| 18   | Pog42 / SCY                              | 16    |
-| 19   | HorribleSubs / Reza                      | 15    |
-| 20   | CBT / IK / Lulu / NH / UDF               | 13    |
-| 21   | FFF / Kitsune / Mysteria / SEV / sam     | 12    |
-| 22   | Asakura / Datte13                        | 11    |
-| 23   | CyC / Netaro / Pookie / Yoghurt / o7     | 10    |
-| 24   | Tsundere                                 | 9     |
-| 25   | GSK_kun / OZR / RASETSU / Starbez / WBDP | 8     |
+| 15   | CTR / Chihiro / Holomux                  | 20    |
+| 16   | GetItTwisted                             | 18    |
+| 17   | Pog42 / SCY                              | 16    |
+| 18   | HorribleSubs / Reza                      | 15    |
+| 19   | CBT / IK / Lulu / NH / UDF               | 13    |
+| 20   | FFF / Kitsune / Mysteria / SEV / sam     | 12    |
+| 21   | Asakura / Datte13                        | 11    |
+| 22   | CyC / Netaro / Pookie / Yoghurt / o7     | 10    |
+| 23   | Tsundere                                 | 9     |
+| 24   | GSK_kun / OZR / RASETSU / Starbez / WBDP | 8     |
+| 25   | AC / Baws / Exp / LCE                    | 7     |
