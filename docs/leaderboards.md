@@ -14,17 +14,17 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                              | Count |
 | :----| :----------------------------------| :-----|
-| 🥇   | -ZR-                               | 180   |
-| 🥈   | CRUCiBLE                           | 146   |
+| 🥇   | -ZR-                               | 179   |
+| 🥈   | CRUCiBLE                           | 147   |
 | 🥉   | sam                                | 133   |
 | 4    | NAN0                               | 104   |
 | 5    | MTBB                               | 101   |
-| 6    | Headpatter                         | 84    |
+| 6    | Headpatter                         | 85    |
 | 7    | SubsPlease                         | 79    |
 | 8    | Moxie                              | 76    |
 | 9    | YURASUKA                           | 73    |
 | 10   | YURI                               | 71    |
-| 11   | hchcsen                            | 60    |
+| 11   | hchcsen                            | 61    |
 | 12   | smol                               | 58    |
 | 13   | Drag                               | 57    |
 | 14   | KH                                 | 55    |
@@ -44,7 +44,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                            | Count |
 | :----| :------------------------------------------------| :-----|
-| 🥇   | CRUCiBLE                                         | 117   |
+| 🥇   | CRUCiBLE                                         | 118   |
 | 🥈   | -ZR-                                             | 115   |
 | 🥉   | sam                                              | 91    |
 | 4    | NAN0                                             | 79    |
@@ -75,12 +75,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                                    | Count |
 | :----| :----------------------------------------| :-----|
 | 🥇   | -ZR-                                     | 153   |
-| 🥈   | CRUCiBLE                                 | 146   |
+| 🥈   | CRUCiBLE                                 | 147   |
 | 🥉   | sam                                      | 122   |
 | 4    | NAN0                                     | 103   |
 | 5    | Moxie                                    | 76    |
 | 6    | MTBB                                     | 72    |
-| 7    | Headpatter                               | 59    |
+| 7    | Headpatter                               | 60    |
 | 8    | smol                                     | 56    |
 | 9    | Okay-Subs                                | 36    |
 | 10   | TTGA                                     | 35    |
@@ -108,10 +108,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | YURASUKA                                 | 58    |
 | 🥉   | KH                                       | 43    |
 | 4    | Drag                                     | 42    |
-| 5    | -ZR-                                     | 38    |
-| 6    | YURI                                     | 37    |
-| 7    | Commie                                   | 34    |
-| 8    | Headpatter / hchcsen                     | 31    |
+| 5    | -ZR- / YURI                              | 37    |
+| 6    | Commie                                   | 34    |
+| 7    | hchcsen                                  | 32    |
+| 8    | Headpatter                               | 31    |
 | 9    | Bunny-Apocalypse / LostYears             | 30    |
 | 10   | Erai-raws / MTBB                         | 29    |
 | 11   | Arid                                     | 26    |
