@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `124.8 TiB`
-- Best size: `94.8 TiB`
+- Total size: `124.9 TiB`
+- Best size: `94.9 TiB`
 - Alt size: `30.0 TiB`
 - Realistic size: `97.8 TiB`
 
@@ -42,7 +42,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 20   | LYS1TH3A         | 935.0 GiB  | 909.6 GiB (97.29%)  | 36 (~26.0 GiB each)   |
 | 21   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 22   | KH               | 920.4 GiB  | 219.7 GiB (23.87%)  | 57 (~16.1 GiB each)   |
-| 23   | YURI             | 868.7 GiB  | 385.1 GiB (44.33%)  | 71 (~12.2 GiB each)   |
+| 23   | YURI             | 867.7 GiB  | 384.1 GiB (44.26%)  | 70 (~12.4 GiB each)   |
 | 24   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
 | 25   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
 | 26   | YURASUKA         | 826.2 GiB  | 194.5 GiB (23.54%)  | 73 (~11.3 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
 | 48   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
 | 49   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 50   | Others           | 39.5 TiB   | 22.0 TiB (55.79%)   | 1831 (~22.1 GiB each) |
+| 50   | Others           | 39.6 TiB   | 22.1 TiB (55.83%)   | 1835 (~22.1 GiB each) |
