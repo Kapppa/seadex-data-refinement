@@ -11,7 +11,7 @@ All of this and more means that we need to settle on a method to calculate these
 - Total size: `124.9 TiB`
 - Best size: `94.9 TiB`
 - Alt size: `30.0 TiB`
-- Realistic size: `97.8 TiB`
+- Realistic size: `97.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -24,7 +24,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 10.8 TiB   | 10.8 TiB (100.00%)  | 147 (~75.2 GiB each)  |
 | 3    | NAN0             | 7.8 TiB    | 7.7 TiB (99.03%)    | 104 (~76.3 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.04%)    | 134 (~29.9 GiB each)  |
-| 5    | Headpatter       | 3.1 TiB    | 2.7 TiB (86.65%)    | 91 (~34.9 GiB each)   |
+| 5    | Headpatter       | 3.1 TiB    | 2.7 TiB (86.71%)    | 92 (~34.7 GiB each)   |
 | 6    | Moxie            | 2.9 TiB    | 2.9 TiB (100.00%)   | 76 (~38.6 GiB each)   |
 | 7    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~79.4 GiB each)   |
 | 8    | TTGA             | 2.6 TiB    | 2.5 TiB (95.08%)    | 36 (~73.7 GiB each)   |
@@ -53,7 +53,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 31   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
 | 32   | LostYears        | 765.8 GiB  | 246.3 GiB (32.16%)  | 44 (~17.4 GiB each)   |
 | 33   | ZeroBuild        | 761.4 GiB  | 681.4 GiB (89.50%)  | 17 (~44.8 GiB each)   |
-| 34   | Bunny-Apocalypse | 741.1 GiB  | 161.0 GiB (21.72%)  | 36 (~20.6 GiB each)   |
+| 34   | Bunny-Apocalypse | 728.3 GiB  | 161.0 GiB (22.10%)  | 35 (~20.8 GiB each)   |
 | 35   | UQW              | 692.1 GiB  | 36.3 GiB (5.25%)    | 5 (~138.4 GiB each)   |
 | 36   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
 | 37   | Reza             | 665.1 GiB  | 318.7 GiB (47.92%)  | 27 (~24.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
 | 48   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
 | 49   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 50   | Others           | 39.6 TiB   | 22.1 TiB (55.83%)   | 1835 (~22.1 GiB each) |
+| 50   | Others           | 39.6 TiB   | 22.1 TiB (55.81%)   | 1836 (~22.1 GiB each) |
