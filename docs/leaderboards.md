@@ -12,33 +12,33 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 ## Top 25 - Total entries
 
-| Rank | Group               | Count |
-| :----| :-------------------| :-----|
-| 🥇   | -ZR-                | 179   |
-| 🥈   | CRUCiBLE            | 147   |
-| 🥉   | sam                 | 133   |
-| 4    | NAN0                | 105   |
-| 5    | MTBB                | 101   |
-| 6    | Headpatter          | 87    |
-| 7    | SubsPlease          | 79    |
-| 8    | Moxie               | 77    |
-| 9    | YURASUKA            | 74    |
-| 10   | YURI                | 70    |
-| 11   | hchcsen             | 61    |
-| 12   | smol                | 58    |
-| 13   | Drag                | 57    |
-| 14   | KH                  | 55    |
-| 15   | Arid                | 45    |
-| 16   | LostYears           | 44    |
-| 17   | Okay-Subs           | 38    |
-| 18   | Erai-raws / TTGA    | 37    |
-| 19   | LYS1TH3A            | 36    |
-| 20   | Bunny-Apocalypse    | 35    |
-| 21   | Commie / Lulu / PMR | 34    |
-| 22   | NOGRP               | 31    |
-| 23   | Kametsu             | 30    |
-| 24   | Holomux / Orphan    | 28    |
-| 25   | Pog42 / SCY         | 27    |
+| Rank | Group                | Count |
+| :----| :--------------------| :-----|
+| 🥇   | -ZR-                 | 179   |
+| 🥈   | CRUCiBLE             | 147   |
+| 🥉   | sam                  | 133   |
+| 4    | NAN0                 | 105   |
+| 5    | MTBB                 | 101   |
+| 6    | Headpatter           | 88    |
+| 7    | SubsPlease           | 79    |
+| 8    | Moxie                | 78    |
+| 9    | YURASUKA             | 75    |
+| 10   | YURI                 | 70    |
+| 11   | hchcsen              | 61    |
+| 12   | smol                 | 58    |
+| 13   | Drag                 | 57    |
+| 14   | KH                   | 55    |
+| 15   | Arid                 | 45    |
+| 16   | LostYears            | 44    |
+| 17   | Okay-Subs            | 38    |
+| 18   | TTGA                 | 37    |
+| 19   | Erai-raws / LYS1TH3A | 36    |
+| 20   | Bunny-Apocalypse     | 35    |
+| 21   | Commie / Lulu / PMR  | 34    |
+| 22   | NOGRP                | 31    |
+| 23   | Kametsu              | 30    |
+| 24   | Holomux / Orphan     | 28    |
+| 25   | Pog42 / SCY          | 27    |
 
 ## Top 25 - Best dual audio entries
 
@@ -58,8 +58,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | LazyRemux / YURI                                 | 16    |
 | 13   | koala                                            | 15    |
 | 14   | LostYears / ZeroBuild                            | 14    |
-| 15   | Arid                                             | 13    |
-| 16   | FraMeSToR / KH / Vodes / YURASUKA                | 12    |
+| 15   | Arid / YURASUKA                                  | 13    |
+| 16   | FraMeSToR / KH / Vodes                           | 12    |
 | 17   | PMR                                              | 11    |
 | 18   | DemiHuman / SCY / hydes                          | 10    |
 | 19   | LaCroiX / Meakes / UDF                           | 8     |
@@ -78,9 +78,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE                                             | 147   |
 | 🥉   | sam                                                  | 122   |
 | 4    | NAN0                                                 | 104   |
-| 5    | Moxie                                                | 77    |
+| 5    | Moxie                                                | 78    |
 | 6    | MTBB                                                 | 72    |
-| 7    | Headpatter                                           | 62    |
+| 7    | Headpatter                                           | 63    |
 | 8    | smol                                                 | 56    |
 | 9    | Okay-Subs / TTGA                                     | 36    |
 | 10   | LYS1TH3A / PMR / hchcsen                             | 34    |
@@ -91,14 +91,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | LaCroiX                                              | 19    |
 | 16   | koala                                                | 18    |
 | 17   | Flugel                                               | 17    |
-| 18   | Drag                                                 | 16    |
-| 19   | YURASUKA                                             | 15    |
-| 20   | KH / LostYears / UDF / Vodes / ZeroBuild             | 14    |
-| 21   | Beatrice / Mehul                                     | 13    |
-| 22   | FraMeSToR / Reza                                     | 12    |
-| 23   | Pog42 / SCY / SubsPlease / cappybara                 | 11    |
-| 24   | DemiHuman / IK / NOGRP / RUDY / hydes                | 10    |
-| 25   | BBT-RMX / GetItTwisted / Holomux / Mysteria & Others | 9     |
+| 18   | Drag / YURASUKA                                      | 16    |
+| 19   | KH / LostYears / UDF / Vodes / ZeroBuild             | 14    |
+| 20   | Beatrice / Mehul                                     | 13    |
+| 21   | FraMeSToR / Reza                                     | 12    |
+| 22   | Pog42 / SCY / SubsPlease / cappybara                 | 11    |
+| 23   | DemiHuman / IK / NOGRP / RUDY / hydes                | 10    |
+| 24   | BBT-RMX / GetItTwisted / Holomux / Mysteria & Others | 9     |
+| 25   | ANE / CUNNY / JySzE / Kametsu & Others               | 8     |
 
 ## Top 25 - Alt entries
 
@@ -111,8 +111,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 5    | -ZR- / YURI                              | 37    |
 | 6    | Commie                                   | 34    |
 | 7    | hchcsen                                  | 32    |
-| 8    | Erai-raws / Headpatter                   | 31    |
-| 9    | LostYears                                | 30    |
+| 8    | Headpatter                               | 31    |
+| 9    | Erai-raws / LostYears                    | 30    |
 | 10   | Bunny-Apocalypse / MTBB                  | 29    |
 | 11   | Arid                                     | 26    |
 | 12   | VARYG                                    | 24    |
