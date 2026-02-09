@@ -9,7 +9,7 @@ All of this and more means that we need to settle on a method to calculate these
 ## Overview
 
 - Total size: `125.8 TiB`
-- Best size: `95.6 TiB`
+- Best size: `95.7 TiB`
 - Alt size: `30.2 TiB`
 - Realistic size: `98.6 TiB`
 
@@ -24,15 +24,15 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 2    | CRUCiBLE         | 10.8 TiB   | 10.8 TiB (100.00%)  | 147 (~75.2 GiB each)  |
 | 3    | NAN0             | 7.9 TiB    | 7.9 TiB (99.05%)    | 105 (~77.3 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.05%)    | 134 (~29.9 GiB each)  |
-| 5    | Headpatter       | 3.2 TiB    | 2.8 TiB (87.14%)    | 94 (~35.1 GiB each)   |
-| 6    | Moxie            | 3.0 TiB    | 3.0 TiB (100.00%)   | 78 (~38.9 GiB each)   |
+| 5    | Headpatter       | 3.2 TiB    | 2.8 TiB (86.75%)    | 95 (~34.9 GiB each)   |
+| 6    | Moxie            | 3.0 TiB    | 3.0 TiB (100.00%)   | 79 (~39.4 GiB each)   |
 | 7    | TTGA             | 2.7 TiB    | 2.5 TiB (95.21%)    | 37 (~73.7 GiB each)   |
 | 8    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~79.4 GiB each)   |
 | 9    | hchcsen          | 2.6 TiB    | 1.7 TiB (66.87%)    | 66 (~39.8 GiB each)   |
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
-| 12   | MTBB             | 1.5 TiB    | 1.3 TiB (85.26%)    | 101 (~15.4 GiB each)  |
-| 13   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
+| 12   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
+| 13   | MTBB             | 1.5 TiB    | 1.3 TiB (84.89%)    | 100 (~15.2 GiB each)  |
 | 14   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 15   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~75.5 GiB each)   |
 | 16   | SubsPlease       | 1.3 TiB    | 177.6 GiB (13.10%)  | 79 (~17.2 GiB each)   |
@@ -51,9 +51,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 29   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 30   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
 | 31   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
-| 32   | LostYears        | 765.8 GiB  | 246.3 GiB (32.16%)  | 44 (~17.4 GiB each)   |
-| 33   | ZeroBuild        | 761.4 GiB  | 681.4 GiB (89.50%)  | 17 (~44.8 GiB each)   |
-| 34   | Bunny-Apocalypse | 728.3 GiB  | 161.0 GiB (22.10%)  | 35 (~20.8 GiB each)   |
+| 32   | ZeroBuild        | 761.4 GiB  | 681.4 GiB (89.50%)  | 17 (~44.8 GiB each)   |
+| 33   | Bunny-Apocalypse | 728.3 GiB  | 161.0 GiB (22.10%)  | 35 (~20.8 GiB each)   |
+| 34   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
 | 35   | UQW              | 692.1 GiB  | 36.3 GiB (5.25%)    | 5 (~138.4 GiB each)   |
 | 36   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
 | 37   | Reza             | 665.1 GiB  | 318.7 GiB (47.92%)  | 27 (~24.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
 | 48   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
 | 49   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 50   | Others           | 39.9 TiB   | 22.3 TiB (55.96%)   | 1848 (~22.1 GiB each) |
+| 50   | Others           | 40.0 TiB   | 22.4 TiB (56.00%)   | 1851 (~22.1 GiB each) |
