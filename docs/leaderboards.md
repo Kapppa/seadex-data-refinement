@@ -19,8 +19,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                  | 133   |
 | 4    | NAN0                 | 105   |
 | 5    | MTBB                 | 100   |
-| 6    | Headpatter           | 90    |
-| 7    | Moxie                | 80    |
+| 6    | Headpatter           | 91    |
+| 7    | Moxie                | 81    |
 | 8    | SubsPlease           | 79    |
 | 9    | YURASUKA             | 75    |
 | 10   | YURI                 | 70    |
@@ -78,9 +78,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥈   | CRUCiBLE                                       | 147   |
 | 🥉   | sam                                            | 122   |
 | 4    | NAN0                                           | 104   |
-| 5    | Moxie                                          | 80    |
+| 5    | Moxie                                          | 81    |
 | 6    | MTBB                                           | 71    |
-| 7    | Headpatter                                     | 64    |
+| 7    | Headpatter                                     | 65    |
 | 8    | smol                                           | 56    |
 | 9    | Okay-Subs / TTGA                               | 36    |
 | 10   | LYS1TH3A / PMR / hchcsen                       | 34    |
