@@ -66,7 +66,7 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 59  | From Up on Poppy Hill                                                                       | 2011 | 14 Nov 2023 | [SeaDex](https://releases.moe/10029/), [AniList](https://anilist.co/anime/10029)   |
 | 60  | No Guns Life                                                                                | 2019 | 02 Feb 2026 | [SeaDex](https://releases.moe/108478/), [AniList](https://anilist.co/anime/108478) |
 | 61  | Tokyo Ghoul: [JACK]                                                                         | 2015 | 24 Apr 2025 | [SeaDex](https://releases.moe/21132/), [AniList](https://anilist.co/anime/21132)   |
-| 62  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                  | 2025 | 01 Aug 2025 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
+| 62  | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time                  | 2025 | 11 Feb 2026 | [SeaDex](https://releases.moe/167143/), [AniList](https://anilist.co/anime/167143) |
 | 63  | MEGALOBOX 2: NOMAD                                                                          | 2021 | 08 Oct 2025 | [SeaDex](https://releases.moe/113359/), [AniList](https://anilist.co/anime/113359) |
 | 64  | My Roommate is a Cat                                                                        | 2019 | 15 May 2024 | [SeaDex](https://releases.moe/103874/), [AniList](https://anilist.co/anime/103874) |
 | 65  | Infinite Dendrogram                                                                         | 2020 | 11 Jul 2024 | [SeaDex](https://releases.moe/107420/), [AniList](https://anilist.co/anime/107420) |
