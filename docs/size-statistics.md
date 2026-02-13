@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `126.4 TiB`
-- Best size: `96.1 TiB`
-- Alt size: `30.2 TiB`
-- Realistic size: `99.1 TiB`
+- Total size: `126.6 TiB`
+- Best size: `96.2 TiB`
+- Alt size: `30.4 TiB`
+- Realistic size: `99.2 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -23,9 +23,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 1    | -ZR-             | 14.2 TiB   | 13.4 TiB (94.40%)   | 190 (~76.4 GiB each)  |
 | 2    | CRUCiBLE         | 10.8 TiB   | 10.8 TiB (100.00%)  | 147 (~75.2 GiB each)  |
 | 3    | NAN0             | 7.9 TiB    | 7.8 TiB (99.04%)    | 105 (~76.6 GiB each)  |
-| 4    | sam              | 3.9 TiB    | 3.6 TiB (92.38%)    | 131 (~30.5 GiB each)  |
-| 5    | Headpatter       | 3.4 TiB    | 3.0 TiB (87.11%)    | 100 (~34.9 GiB each)  |
-| 6    | Moxie            | 3.2 TiB    | 3.2 TiB (100.00%)   | 83 (~39.8 GiB each)   |
+| 4    | sam              | 3.9 TiB    | 3.6 TiB (91.93%)    | 132 (~30.4 GiB each)  |
+| 5    | Headpatter       | 3.5 TiB    | 3.0 TiB (85.83%)    | 101 (~35.1 GiB each)  |
+| 6    | Moxie            | 3.3 TiB    | 3.3 TiB (100.00%)   | 85 (~39.3 GiB each)   |
 | 7    | TTGA             | 2.7 TiB    | 2.5 TiB (95.21%)    | 37 (~73.7 GiB each)   |
 | 8    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~79.4 GiB each)   |
 | 9    | hchcsen          | 2.6 TiB    | 1.7 TiB (67.16%)    | 69 (~38.5 GiB each)   |
@@ -58,9 +58,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 36   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
 | 37   | Reza             | 665.1 GiB  | 318.7 GiB (47.92%)  | 27 (~24.6 GiB each)   |
 | 38   | Arid             | 648.0 GiB  | 210.6 GiB (32.50%)  | 46 (~14.1 GiB each)   |
-| 39   | Drag             | 639.7 GiB  | 146.0 GiB (22.81%)  | 58 (~11.0 GiB each)   |
+| 39   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 40   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 41   | Erai-raws        | 606.4 GiB  | 85.7 GiB (14.14%)   | 36 (~16.8 GiB each)   |
+| 41   | Erai-raws        | 622.8 GiB  | 85.7 GiB (13.76%)   | 37 (~16.8 GiB each)   |
 | 42   | SEV              | 568.2 GiB  | 0 B (0.00%)         | 12 (~47.3 GiB each)   |
 | 43   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 44   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
 | 48   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
 | 49   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 50   | Others           | 40.2 TiB   | 22.6 TiB (56.12%)   | 1860 (~22.1 GiB each) |
+| 50   | Others           | 40.3 TiB   | 22.6 TiB (56.12%)   | 1864 (~22.1 GiB each) |
