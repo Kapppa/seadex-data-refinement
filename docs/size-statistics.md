@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `126.6 TiB`
-- Best size: `96.2 TiB`
+- Total size: `126.9 TiB`
+- Best size: `96.5 TiB`
 - Alt size: `30.4 TiB`
-- Realistic size: `99.2 TiB`
+- Realistic size: `99.5 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -26,8 +26,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (91.93%)    | 132 (~30.4 GiB each)  |
 | 5    | Headpatter       | 3.5 TiB    | 3.0 TiB (85.83%)    | 101 (~35.1 GiB each)  |
 | 6    | Moxie            | 3.3 TiB    | 3.3 TiB (100.00%)   | 85 (~39.3 GiB each)   |
-| 7    | TTGA             | 2.7 TiB    | 2.5 TiB (95.21%)    | 37 (~73.7 GiB each)   |
-| 8    | PMR              | 2.6 TiB    | 2.6 TiB (100.00%)   | 34 (~79.4 GiB each)   |
+| 7    | PMR              | 2.8 TiB    | 2.8 TiB (100.00%)   | 35 (~81.5 GiB each)   |
+| 8    | TTGA             | 2.7 TiB    | 2.5 TiB (95.21%)    | 37 (~73.7 GiB each)   |
 | 9    | hchcsen          | 2.6 TiB    | 1.7 TiB (67.16%)    | 69 (~38.5 GiB each)   |
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
@@ -51,10 +51,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 29   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 30   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
 | 31   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
-| 32   | ZeroBuild        | 761.4 GiB  | 681.4 GiB (89.50%)  | 17 (~44.8 GiB each)   |
-| 33   | Bunny-Apocalypse | 728.3 GiB  | 161.0 GiB (22.10%)  | 35 (~20.8 GiB each)   |
-| 34   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
-| 35   | UQW              | 716.7 GiB  | 36.3 GiB (5.07%)    | 6 (~119.4 GiB each)   |
+| 32   | UQW              | 765.4 GiB  | 36.3 GiB (4.74%)    | 8 (~95.7 GiB each)    |
+| 33   | ZeroBuild        | 761.4 GiB  | 681.4 GiB (89.50%)  | 17 (~44.8 GiB each)   |
+| 34   | Bunny-Apocalypse | 728.3 GiB  | 161.0 GiB (22.10%)  | 35 (~20.8 GiB each)   |
+| 35   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
 | 36   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
 | 37   | Reza             | 665.1 GiB  | 318.7 GiB (47.92%)  | 27 (~24.6 GiB each)   |
 | 38   | Arid             | 648.0 GiB  | 210.6 GiB (32.50%)  | 46 (~14.1 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
 | 48   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
 | 49   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 50   | Others           | 40.3 TiB   | 22.6 TiB (56.12%)   | 1864 (~22.1 GiB each) |
+| 50   | Others           | 40.4 TiB   | 22.7 TiB (56.18%)   | 1866 (~22.2 GiB each) |
