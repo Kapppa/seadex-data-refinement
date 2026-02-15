@@ -8,7 +8,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `126.9 TiB`
+- Total size: `126.8 TiB`
 - Best size: `96.5 TiB`
 - Alt size: `30.4 TiB`
 - Realistic size: `99.5 TiB`
@@ -21,14 +21,14 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.2 TiB   | 13.4 TiB (94.40%)   | 190 (~76.4 GiB each)  |
-| 2    | CRUCiBLE         | 10.8 TiB   | 10.8 TiB (100.00%)  | 147 (~75.2 GiB each)  |
+| 2    | CRUCiBLE         | 10.8 TiB   | 10.8 TiB (100.00%)  | 146 (~75.5 GiB each)  |
 | 3    | NAN0             | 7.9 TiB    | 7.8 TiB (99.04%)    | 105 (~76.6 GiB each)  |
-| 4    | sam              | 3.9 TiB    | 3.6 TiB (91.93%)    | 132 (~30.4 GiB each)  |
+| 4    | sam              | 3.9 TiB    | 3.6 TiB (91.96%)    | 133 (~30.3 GiB each)  |
 | 5    | Headpatter       | 3.5 TiB    | 3.0 TiB (85.83%)    | 101 (~35.1 GiB each)  |
 | 6    | Moxie            | 3.3 TiB    | 3.3 TiB (100.00%)   | 85 (~39.3 GiB each)   |
 | 7    | PMR              | 2.8 TiB    | 2.8 TiB (100.00%)   | 35 (~81.5 GiB each)   |
-| 8    | TTGA             | 2.7 TiB    | 2.5 TiB (95.21%)    | 37 (~73.7 GiB each)   |
-| 9    | hchcsen          | 2.6 TiB    | 1.7 TiB (67.16%)    | 69 (~38.5 GiB each)   |
+| 8    | hchcsen          | 2.7 TiB    | 1.8 TiB (68.18%)    | 70 (~39.1 GiB each)   |
+| 9    | TTGA             | 2.7 TiB    | 2.5 TiB (95.21%)    | 37 (~73.7 GiB each)   |
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
 | 11   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~614.9 GiB each)   |
 | 12   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
@@ -43,16 +43,16 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 21   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 22   | KH               | 920.4 GiB  | 219.7 GiB (23.87%)  | 57 (~16.1 GiB each)   |
 | 23   | YURI             | 867.7 GiB  | 384.1 GiB (44.26%)  | 70 (~12.4 GiB each)   |
-| 24   | YURASUKA         | 850.8 GiB  | 209.2 GiB (24.58%)  | 75 (~11.3 GiB each)   |
+| 24   | YURASUKA         | 856.4 GiB  | 214.7 GiB (25.07%)  | 76 (~11.3 GiB each)   |
 | 25   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
 | 26   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
 | 27   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
-| 28   | Holomux          | 804.4 GiB  | 163.2 GiB (20.29%)  | 29 (~27.7 GiB each)   |
+| 28   | Holomux          | 819.7 GiB  | 163.2 GiB (19.91%)  | 30 (~27.3 GiB each)   |
 | 29   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 30   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
 | 31   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
 | 32   | UQW              | 765.4 GiB  | 36.3 GiB (4.74%)    | 8 (~95.7 GiB each)    |
-| 33   | ZeroBuild        | 761.4 GiB  | 681.4 GiB (89.50%)  | 17 (~44.8 GiB each)   |
+| 33   | ZeroBuild        | 730.4 GiB  | 681.4 GiB (93.30%)  | 16 (~45.6 GiB each)   |
 | 34   | Bunny-Apocalypse | 728.3 GiB  | 161.0 GiB (22.10%)  | 35 (~20.8 GiB each)   |
 | 35   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
 | 36   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
@@ -60,7 +60,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 38   | Arid             | 648.0 GiB  | 210.6 GiB (32.50%)  | 46 (~14.1 GiB each)   |
 | 39   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 40   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 41   | Erai-raws        | 622.8 GiB  | 85.7 GiB (13.76%)   | 37 (~16.8 GiB each)   |
+| 41   | Erai-raws        | 614.7 GiB  | 85.7 GiB (13.95%)   | 36 (~17.1 GiB each)   |
 | 42   | SEV              | 568.2 GiB  | 0 B (0.00%)         | 12 (~47.3 GiB each)   |
 | 43   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 44   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
 | 48   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
 | 49   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 50   | Others           | 40.4 TiB   | 22.7 TiB (56.18%)   | 1866 (~22.2 GiB each) |
+| 50   | Others           | 40.3 TiB   | 22.6 TiB (56.17%)   | 1861 (~22.2 GiB each) |
