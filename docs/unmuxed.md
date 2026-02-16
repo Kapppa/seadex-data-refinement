@@ -44,8 +44,8 @@
 | 41  | Platinum End                                                                       | 2021 | 04 Aug 2025 | [SeaDex](https://releases.moe/127401/), [AniList](https://anilist.co/anime/127401) |
 | 42  | Shiki                                                                              | 2010 | 15 Nov 2023 | [SeaDex](https://releases.moe/7724/), [AniList](https://anilist.co/anime/7724)     |
 | 43  | Seirei Gensouki: Spirit Chronicles                                                 | 2021 | 29 Jun 2025 | [SeaDex](https://releases.moe/126546/), [AniList](https://anilist.co/anime/126546) |
-| 44  | Strike the Blood                                                                   | 2013 | 24 Nov 2024 | [SeaDex](https://releases.moe/18277/), [AniList](https://anilist.co/anime/18277)   |
-| 45  | How a Realist Hero Rebuilt the Kingdom                                             | 2021 | 21 Jan 2026 | [SeaDex](https://releases.moe/117612/), [AniList](https://anilist.co/anime/117612) |
+| 44  | How a Realist Hero Rebuilt the Kingdom                                             | 2021 | 21 Jan 2026 | [SeaDex](https://releases.moe/117612/), [AniList](https://anilist.co/anime/117612) |
+| 45  | Strike the Blood                                                                   | 2013 | 15 Feb 2026 | [SeaDex](https://releases.moe/18277/), [AniList](https://anilist.co/anime/18277)   |
 | 46  | BLEACH: Thousand-Year Blood War - The Separation                                   | 2023 | 05 Jun 2025 | [SeaDex](https://releases.moe/159322/), [AniList](https://anilist.co/anime/159322) |
 | 47  | AJIN: Demi-Human                                                                   | 2016 | 31 May 2025 | [SeaDex](https://releases.moe/21341/), [AniList](https://anilist.co/anime/21341)   |
 | 48  | NEW GAME!                                                                          | 2016 | 17 Nov 2025 | [SeaDex](https://releases.moe/21455/), [AniList](https://anilist.co/anime/21455)   |
@@ -94,8 +94,8 @@
 | 91  | LAID-BACK CAMP SEASON2                                                             | 2021 | 13 Aug 2025 | [SeaDex](https://releases.moe/104459/), [AniList](https://anilist.co/anime/104459) |
 | 92  | Pseudo Harem                                                                       | 2024 | 21 Mar 2025 | [SeaDex](https://releases.moe/163623/), [AniList](https://anilist.co/anime/163623) |
 | 93  | PERSONA5 the Animation                                                             | 2018 | 27 Dec 2023 | [SeaDex](https://releases.moe/99693/), [AniList](https://anilist.co/anime/99693)   |
-| 94  | Revolutionary Girl Utena                                                           | 1997 | 13 Jul 2025 | [SeaDex](https://releases.moe/440/), [AniList](https://anilist.co/anime/440)       |
-| 95  | KamiKatsu: Working for God in a Godless World                                      | 2023 | 24 Dec 2025 | [SeaDex](https://releases.moe/148048/), [AniList](https://anilist.co/anime/148048) |
+| 94  | KamiKatsu: Working for God in a Godless World                                      | 2023 | 24 Dec 2025 | [SeaDex](https://releases.moe/148048/), [AniList](https://anilist.co/anime/148048) |
+| 95  | Revolutionary Girl Utena                                                           | 1997 | 13 Jul 2025 | [SeaDex](https://releases.moe/440/), [AniList](https://anilist.co/anime/440)       |
 | 96  | The 8th Son? Are You Kidding Me?                                                   | 2020 | 06 Feb 2026 | [SeaDex](https://releases.moe/106319/), [AniList](https://anilist.co/anime/106319) |
 | 97  | Sword of the Stranger                                                              | 2007 | 14 Feb 2025 | [SeaDex](https://releases.moe/2418/), [AniList](https://anilist.co/anime/2418)     |
 | 98  | Hell Girl                                                                          | 2005 | 10 Feb 2026 | [SeaDex](https://releases.moe/228/), [AniList](https://anilist.co/anime/228)       |
@@ -242,8 +242,8 @@
 | 239 | Yowamushi Pedal New Generation                                                     | 2017 | 09 Jan 2026 | [SeaDex](https://releases.moe/21407/), [AniList](https://anilist.co/anime/21407)   |
 | 240 | Seiyu's Life!                                                                      | 2015 | 17 Jul 2025 | [SeaDex](https://releases.moe/21009/), [AniList](https://anilist.co/anime/21009)   |
 | 241 | Berserk: The Golden Age Arc - Memorial Edition                                     | 2022 | 09 Jan 2025 | [SeaDex](https://releases.moe/155011/), [AniList](https://anilist.co/anime/155011) |
-| 242 | Fractale                                                                           | 2011 | 17 Nov 2024 | [SeaDex](https://releases.moe/9314/), [AniList](https://anilist.co/anime/9314)     |
-| 243 | Kingdom Season 4                                                                   | 2022 | 12 Apr 2025 | [SeaDex](https://releases.moe/140350/), [AniList](https://anilist.co/anime/140350) |
+| 242 | Kingdom Season 4                                                                   | 2022 | 12 Apr 2025 | [SeaDex](https://releases.moe/140350/), [AniList](https://anilist.co/anime/140350) |
+| 243 | Fractale                                                                           | 2011 | 17 Nov 2024 | [SeaDex](https://releases.moe/9314/), [AniList](https://anilist.co/anime/9314)     |
 | 244 | Horizon in the Middle of Nowhere II                                                | 2012 | 10 Jul 2024 | [SeaDex](https://releases.moe/12487/), [AniList](https://anilist.co/anime/12487)   |
 | 245 | HIGH CARD Season 2                                                                 | 2024 | 12 Feb 2026 | [SeaDex](https://releases.moe/163151/), [AniList](https://anilist.co/anime/163151) |
 | 246 | Free! -Eternal Summer-: Forbidden All-Hard!                                        | 2015 | 01 Jul 2024 | [SeaDex](https://releases.moe/21091/), [AniList](https://anilist.co/anime/21091)   |
@@ -316,8 +316,9 @@
 | 313 | Armor Shop for Ladies & Gentlemen Flips the Script                                 | 2019 | 09 Mar 2025 | [SeaDex](https://releases.moe/108355/), [AniList](https://anilist.co/anime/108355) |
 | 314 | Hades Project Zeorymer                                                             | 1988 | 20 Jan 2026 | [SeaDex](https://releases.moe/1832/), [AniList](https://anilist.co/anime/1832)     |
 | 315 | Symphogear XV Omake                                                                | 2019 | 15 Nov 2024 | [SeaDex](https://releases.moe/113348/), [AniList](https://anilist.co/anime/113348) |
-| 316 | Flying Witch Petit Special                                                         | 2016 | 11 Jan 2025 | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
-| 317 | El Hazard: The Alternative World                                                   | 1998 | 27 Jun 2024 | [SeaDex](https://releases.moe/115/), [AniList](https://anilist.co/anime/115)       |
-| 318 | Shonen Maid Special                                                                | 2016 | 07 Oct 2024 | [SeaDex](https://releases.moe/87538/), [AniList](https://anilist.co/anime/87538)   |
-| 319 | Panzer World Galient                                                               | 1984 | 29 Dec 2023 | [SeaDex](https://releases.moe/5153/), [AniList](https://anilist.co/anime/5153)     |
-| 320 | Special Crime Investigation Unit - Special 7 OVA                                   | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/113864/), [AniList](https://anilist.co/anime/113864) |
+| 316 | Metal Armor Dragonar                                                               | 1987 | 15 Feb 2026 | [SeaDex](https://releases.moe/865/), [AniList](https://anilist.co/anime/865)       |
+| 317 | Flying Witch Petit Special                                                         | 2016 | 11 Jan 2025 | [SeaDex](https://releases.moe/102001/), [AniList](https://anilist.co/anime/102001) |
+| 318 | El Hazard: The Alternative World                                                   | 1998 | 27 Jun 2024 | [SeaDex](https://releases.moe/115/), [AniList](https://anilist.co/anime/115)       |
+| 319 | Shonen Maid Special                                                                | 2016 | 07 Oct 2024 | [SeaDex](https://releases.moe/87538/), [AniList](https://anilist.co/anime/87538)   |
+| 320 | Panzer World Galient                                                               | 1984 | 29 Dec 2023 | [SeaDex](https://releases.moe/5153/), [AniList](https://anilist.co/anime/5153)     |
+| 321 | Special Crime Investigation Unit - Special 7 OVA                                   | 2020 | 13 Jul 2025 | [SeaDex](https://releases.moe/113864/), [AniList](https://anilist.co/anime/113864) |
