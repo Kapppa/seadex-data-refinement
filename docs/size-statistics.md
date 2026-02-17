@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `127.2 TiB`
-- Best size: `96.7 TiB`
+- Total size: `127.4 TiB`
+- Best size: `96.8 TiB`
 - Alt size: `30.6 TiB`
-- Realistic size: `99.8 TiB`
+- Realistic size: `99.9 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -42,8 +42,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 20   | KH               | 938.7 GiB  | 219.7 GiB (23.41%)  | 58 (~16.2 GiB each)   |
 | 21   | LYS1TH3A         | 935.0 GiB  | 909.6 GiB (97.29%)  | 36 (~26.0 GiB each)   |
 | 22   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
-| 23   | YURI             | 867.7 GiB  | 384.1 GiB (44.26%)  | 70 (~12.4 GiB each)   |
-| 24   | YURASUKA         | 856.4 GiB  | 214.7 GiB (25.07%)  | 76 (~11.3 GiB each)   |
+| 23   | YURASUKA         | 874.3 GiB  | 217.4 GiB (24.86%)  | 77 (~11.4 GiB each)   |
+| 24   | YURI             | 867.7 GiB  | 384.1 GiB (44.26%)  | 70 (~12.4 GiB each)   |
 | 25   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
 | 26   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
 | 27   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
 | 48   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
 | 49   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 50   | Others           | 40.5 TiB   | 22.6 TiB (55.87%)   | 1869 (~22.2 GiB each) |
+| 50   | Others           | 40.6 TiB   | 22.8 TiB (56.03%)   | 1870 (~22.2 GiB each) |
