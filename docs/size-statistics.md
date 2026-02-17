@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `127.1 TiB`
-- Best size: `96.6 TiB`
-- Alt size: `30.5 TiB`
-- Realistic size: `99.7 TiB`
+- Total size: `127.2 TiB`
+- Best size: `96.7 TiB`
+- Alt size: `30.6 TiB`
+- Realistic size: `99.8 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -26,7 +26,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.76%)    | 132 (~30.3 GiB each)  |
 | 5    | Headpatter       | 3.4 TiB    | 3.0 TiB (86.19%)    | 100 (~35.3 GiB each)  |
 | 6    | Moxie            | 3.4 TiB    | 3.4 TiB (100.00%)   | 86 (~40.5 GiB each)   |
-| 7    | PMR              | 2.8 TiB    | 2.8 TiB (100.00%)   | 35 (~81.5 GiB each)   |
+| 7    | PMR              | 2.9 TiB    | 2.9 TiB (100.00%)   | 36 (~81.3 GiB each)   |
 | 8    | hchcsen          | 2.7 TiB    | 1.8 TiB (68.18%)    | 70 (~39.1 GiB each)   |
 | 9    | TTGA             | 2.6 TiB    | 2.5 TiB (95.07%)    | 36 (~73.5 GiB each)   |
 | 10   | B00BA            | 2.3 TiB    | 2.3 TiB (100.00%)   | 26 (~91.1 GiB each)   |
@@ -35,7 +35,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 13   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 14   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 15   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~75.5 GiB each)   |
-| 16   | SubsPlease       | 1.3 TiB    | 177.6 GiB (13.10%)  | 79 (~17.2 GiB each)   |
+| 16   | SubsPlease       | 1.3 TiB    | 177.6 GiB (12.93%)  | 80 (~17.2 GiB each)   |
 | 17   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 18   | NOGRP            | 973.2 GiB  | 771.9 GiB (79.32%)  | 31 (~31.4 GiB each)   |
 | 19   | FLE              | 951.3 GiB  | 913.2 GiB (95.99%)  | 24 (~39.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
 | 48   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
 | 49   | Pizza            | 519.0 GiB  | 366.8 GiB (70.68%)  | 9 (~57.7 GiB each)    |
-| 50   | Others           | 40.4 TiB   | 22.6 TiB (55.98%)   | 1865 (~22.2 GiB each) |
+| 50   | Others           | 40.5 TiB   | 22.6 TiB (55.87%)   | 1869 (~22.2 GiB each) |
