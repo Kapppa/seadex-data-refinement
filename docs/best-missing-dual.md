@@ -7,12 +7,12 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | :---| :--------------------------------------------------------------------------| :----| :-----------| :----------------------------------------------------------------------------------|
 | 1   | Your Name.                                                                 | 2016 | 10 Feb 2026 | [SeaDex](https://releases.moe/21519/), [AniList](https://anilist.co/anime/21519)   |
 | 2   | Death Parade                                                               | 2015 | 07 Jun 2025 | [SeaDex](https://releases.moe/20931/), [AniList](https://anilist.co/anime/20931)   |
-| 3   | Cyberpunk: Edgerunners                                                     | 2022 | 17 Feb 2026 | [SeaDex](https://releases.moe/120377/), [AniList](https://anilist.co/anime/120377) |
-| 4   | Clannad                                                                    | 2007 | 07 Sep 2025 | [SeaDex](https://releases.moe/2167/), [AniList](https://anilist.co/anime/2167)     |
-| 5   | Classroom of the Elite Season 2                                            | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/145545/), [AniList](https://anilist.co/anime/145545) |
-| 6   | Great Pretender                                                            | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
-| 7   | Clannad: After Story                                                       | 2008 | 07 Sep 2025 | [SeaDex](https://releases.moe/4181/), [AniList](https://anilist.co/anime/4181)     |
-| 8   | From the New World                                                         | 2012 | 10 Aug 2025 | [SeaDex](https://releases.moe/13125/), [AniList](https://anilist.co/anime/13125)   |
+| 3   | Clannad                                                                    | 2007 | 07 Sep 2025 | [SeaDex](https://releases.moe/2167/), [AniList](https://anilist.co/anime/2167)     |
+| 4   | Classroom of the Elite Season 2                                            | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/145545/), [AniList](https://anilist.co/anime/145545) |
+| 5   | Great Pretender                                                            | 2020 | 01 Aug 2025 | [SeaDex](https://releases.moe/110349/), [AniList](https://anilist.co/anime/110349) |
+| 6   | Clannad: After Story                                                       | 2008 | 07 Sep 2025 | [SeaDex](https://releases.moe/4181/), [AniList](https://anilist.co/anime/4181)     |
+| 7   | From the New World                                                         | 2012 | 10 Aug 2025 | [SeaDex](https://releases.moe/13125/), [AniList](https://anilist.co/anime/13125)   |
+| 8   | GAMERS!                                                                    | 2017 | 18 Feb 2026 | [SeaDex](https://releases.moe/97766/), [AniList](https://anilist.co/anime/97766)   |
 | 9   | takt op.Destiny                                                            | 2021 | 14 Jan 2026 | [SeaDex](https://releases.moe/131565/), [AniList](https://anilist.co/anime/131565) |
 | 10  | Laid-Back Camp                                                             | 2018 | 11 Oct 2024 | [SeaDex](https://releases.moe/98444/), [AniList](https://anilist.co/anime/98444)   |
 | 11  | Evangelion: 1.0 You Are (Not) Alone                                        | 2007 | 28 Jul 2025 | [SeaDex](https://releases.moe/2759/), [AniList](https://anilist.co/anime/2759)     |
@@ -41,5 +41,6 @@ An entry appears here if its designated 'best' version lacks dual audio, but at 
 | 34  | Aesthetica of a Rogue Hero Specials                                        | 2012 | 23 Jun 2024 | [SeaDex](https://releases.moe/15729/), [AniList](https://anilist.co/anime/15729)   |
 | 35  | IS: Infinite Stratos 2 - Infinite Wedding                                  | 2016 | 12 Feb 2025 | [SeaDex](https://releases.moe/98860/), [AniList](https://anilist.co/anime/98860)   |
 | 36  | Synduality Noir Part 2                                                     | 2024 | 26 Jul 2025 | [SeaDex](https://releases.moe/169559/), [AniList](https://anilist.co/anime/169559) |
-| 37  | El Hazard: The Wanderers                                                   | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
-| 38  | Photon: The Idiot Adventures                                               | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
+| 37  | Shomin Sample: Kujou-san no Doesu Soudan-Shitsu Anime-ban                  | 2016 | 20 Feb 2026 | [SeaDex](https://releases.moe/21492/), [AniList](https://anilist.co/anime/21492)   |
+| 38  | El Hazard: The Wanderers                                                   | 1995 | 27 Jun 2024 | [SeaDex](https://releases.moe/116/), [AniList](https://anilist.co/anime/116)       |
+| 39  | Photon: The Idiot Adventures                                               | 1997 | 02 Aug 2025 | [SeaDex](https://releases.moe/1944/), [AniList](https://anilist.co/anime/1944)     |
