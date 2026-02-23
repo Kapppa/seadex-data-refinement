@@ -33,9 +33,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 17   | Bunny-Apocalypse / Commie         | 35    |
 | 18   | Lulu                              | 34    |
 | 19   | NOGRP                             | 31    |
-| 20   | Kametsu / VARYG                   | 30    |
-| 21   | Holomux                           | 29    |
-| 22   | GetItTwisted / Orphan             | 28    |
+| 20   | Holomux / Kametsu / VARYG         | 30    |
+| 21   | GetItTwisted                      | 29    |
+| 22   | Orphan                            | 28    |
 | 23   | Pog42 / SCY                       | 27    |
 | 24   | B00BA / Reza                      | 26    |
 | 25   | CTR / UDF                         | 25    |
@@ -59,46 +59,46 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 13   | koala                                            | 15    |
 | 14   | ZeroBuild                                        | 14    |
 | 15   | Arid / LostYears / YURASUKA                      | 13    |
-| 16   | FraMeSToR / KH / PMR / Vodes                     | 12    |
-| 17   | GetItTwisted                                     | 11    |
-| 18   | DemiHuman / SCY / hydes                          | 10    |
-| 19   | LaCroiX / Meakes / UDF                           | 8     |
-| 20   | IK / Kametsu / Mehul / Reza                      | 7     |
-| 21   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
-| 22   | CTR / Doc / NH / NOGRP & Others                  | 5     |
-| 23   | Holomux / Ignore / Iznjie Biznjie / MK & Others  | 4     |
-| 24   | Aergia / Arg0 / DorK / EJF & Others              | 3     |
-| 25   | A&C / ABdex / ASC / Afro & Others                | 2     |
+| 16   | FraMeSToR / GetItTwisted / KH / PMR / Vodes      | 12    |
+| 17   | DemiHuman / SCY / hydes                          | 10    |
+| 18   | LaCroiX / Meakes / UDF                           | 8     |
+| 19   | IK / Kametsu / Mehul / Reza                      | 7     |
+| 20   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
+| 21   | CTR / Doc / NH / NOGRP & Others                  | 5     |
+| 22   | Holomux / Ignore / Iznjie Biznjie / MK & Others  | 4     |
+| 23   | Aergia / Arg0 / DorK / EJF & Others              | 3     |
+| 24   | A&C / ABdex / ASC / Afro & Others                | 2     |
+| 25   | -KS- / 727 / 9volt / AC & Others                 | 1     |
 
 ## Top 25 - Best entries
 
-| Rank | Group                                | Count |
-| :----| :------------------------------------| :-----|
-| 🥇   | -ZR-                                 | 154   |
-| 🥈   | CRUCiBLE                             | 144   |
-| 🥉   | sam                                  | 122   |
-| 4    | NAN0                                 | 105   |
-| 5    | Moxie                                | 87    |
-| 6    | MTBB                                 | 73    |
-| 7    | Headpatter                           | 66    |
-| 8    | smol                                 | 56    |
-| 9    | hchcsen                              | 38    |
-| 10   | Okay-Subs / PMR                      | 36    |
-| 11   | TTGA                                 | 35    |
-| 12   | LYS1TH3A                             | 34    |
-| 13   | YURI                                 | 33    |
-| 14   | B00BA / Orphan                       | 26    |
-| 15   | FLE / Lulu                           | 22    |
-| 16   | Arid / LazyRemux                     | 20    |
-| 17   | LaCroiX                              | 19    |
-| 18   | YURASUKA / koala                     | 18    |
-| 19   | Flugel                               | 17    |
-| 20   | Drag                                 | 16    |
-| 21   | GetItTwisted                         | 15    |
-| 22   | KH / UDF / Vodes / ZeroBuild         | 14    |
-| 23   | Beatrice / LostYears / Mehul         | 13    |
-| 24   | FraMeSToR / Reza                     | 12    |
-| 25   | Pog42 / SCY / SubsPlease / cappybara | 11    |
+| Rank | Group                                 | Count |
+| :----| :-------------------------------------| :-----|
+| 🥇   | -ZR-                                  | 154   |
+| 🥈   | CRUCiBLE                              | 144   |
+| 🥉   | sam                                   | 122   |
+| 4    | NAN0                                  | 105   |
+| 5    | Moxie                                 | 87    |
+| 6    | MTBB                                  | 73    |
+| 7    | Headpatter                            | 66    |
+| 8    | smol                                  | 56    |
+| 9    | hchcsen                               | 38    |
+| 10   | Okay-Subs / PMR                       | 36    |
+| 11   | TTGA                                  | 35    |
+| 12   | LYS1TH3A                              | 34    |
+| 13   | YURI                                  | 33    |
+| 14   | B00BA / Orphan                        | 26    |
+| 15   | FLE / Lulu                            | 22    |
+| 16   | Arid / LazyRemux                      | 20    |
+| 17   | LaCroiX                               | 19    |
+| 18   | YURASUKA / koala                      | 18    |
+| 19   | Flugel                                | 17    |
+| 20   | Drag / GetItTwisted                   | 16    |
+| 21   | KH / UDF / Vodes / ZeroBuild          | 14    |
+| 22   | Beatrice / LostYears / Mehul          | 13    |
+| 23   | FraMeSToR / Reza                      | 12    |
+| 24   | Pog42 / SCY / SubsPlease / cappybara  | 11    |
+| 25   | DemiHuman / IK / NOGRP / RUDY / hydes | 10    |
 
 ## Top 25 - Alt entries
 
@@ -115,8 +115,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Bunny-Apocalypse / Erai-raws             | 29    |
 | 10   | VARYG                                    | 28    |
 | 11   | Arid                                     | 26    |
-| 12   | Kametsu                                  | 22    |
-| 13   | Chihiro / Holomux / NOGRP                | 21    |
+| 12   | Holomux / Kametsu                        | 22    |
+| 13   | Chihiro / NOGRP                          | 21    |
 | 14   | CTR / GetItTwisted                       | 20    |
 | 15   | Pog42 / SCY                              | 16    |
 | 16   | Reza                                     | 15    |

@@ -45,9 +45,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 23   | YURASUKA         | 894.4 GiB  | 237.5 GiB (26.56%)  | 78 (~11.5 GiB each)   |
 | 24   | YURI             | 867.7 GiB  | 384.1 GiB (44.26%)  | 70 (~12.4 GiB each)   |
 | 25   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
-| 26   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
-| 27   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
-| 28   | Holomux          | 819.7 GiB  | 163.2 GiB (19.91%)  | 30 (~27.3 GiB each)   |
+| 26   | Holomux          | 838.8 GiB  | 163.2 GiB (19.45%)  | 31 (~27.1 GiB each)   |
+| 27   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
+| 28   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
 | 29   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 30   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
 | 31   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
@@ -55,9 +55,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 33   | ZeroBuild        | 730.4 GiB  | 681.4 GiB (93.30%)  | 16 (~45.6 GiB each)   |
 | 34   | Bunny-Apocalypse | 728.3 GiB  | 161.0 GiB (22.10%)  | 35 (~20.8 GiB each)   |
 | 35   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
-| 36   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
-| 37   | Reza             | 665.1 GiB  | 318.7 GiB (47.92%)  | 27 (~24.6 GiB each)   |
-| 38   | GetItTwisted     | 661.0 GiB  | 403.6 GiB (61.07%)  | 35 (~18.9 GiB each)   |
+| 36   | GetItTwisted     | 686.0 GiB  | 428.7 GiB (62.49%)  | 36 (~19.1 GiB each)   |
+| 37   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
+| 38   | Reza             | 665.1 GiB  | 318.7 GiB (47.92%)  | 27 (~24.6 GiB each)   |
 | 39   | Arid             | 648.0 GiB  | 210.6 GiB (32.50%)  | 46 (~14.1 GiB each)   |
 | 40   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 41   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
