@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `127.8 TiB`
-- Best size: `97.0 TiB`
-- Alt size: `30.8 TiB`
-- Realistic size: `100.2 TiB`
+- Total size: `128.0 TiB`
+- Best size: `96.9 TiB`
+- Alt size: `31.0 TiB`
+- Realistic size: `100.4 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,7 +20,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.3 TiB   | 13.5 TiB (94.43%)   | 191 (~76.5 GiB each)  |
+| 1    | -ZR-             | 14.2 TiB   | 13.4 TiB (94.40%)   | 190 (~76.5 GiB each)  |
 | 2    | CRUCiBLE         | 10.6 TiB   | 10.6 TiB (100.00%)  | 144 (~75.4 GiB each)  |
 | 3    | NAN0             | 7.9 TiB    | 7.9 TiB (99.05%)    | 106 (~76.7 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.76%)    | 132 (~30.3 GiB each)  |
@@ -53,8 +53,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 31   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
 | 32   | UQW              | 765.4 GiB  | 36.3 GiB (4.74%)    | 8 (~95.7 GiB each)    |
 | 33   | ZeroBuild        | 730.4 GiB  | 681.4 GiB (93.30%)  | 16 (~45.6 GiB each)   |
-| 34   | Bunny-Apocalypse | 728.3 GiB  | 161.0 GiB (22.10%)  | 35 (~20.8 GiB each)   |
-| 35   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
+| 34   | LostYears        | 727.1 GiB  | 207.6 GiB (28.55%)  | 43 (~16.9 GiB each)   |
+| 35   | Bunny-Apocalypse | 713.7 GiB  | 161.0 GiB (22.56%)  | 34 (~21.0 GiB each)   |
 | 36   | GetItTwisted     | 686.0 GiB  | 428.7 GiB (62.49%)  | 36 (~19.1 GiB each)   |
 | 37   | Lulu             | 678.0 GiB  | 352.6 GiB (52.00%)  | 35 (~19.4 GiB each)   |
 | 38   | Reza             | 665.1 GiB  | 318.7 GiB (47.92%)  | 27 (~24.6 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | SEV              | 533.0 GiB  | 0 B (0.00%)         | 11 (~48.5 GiB each)   |
 | 48   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
 | 49   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
-| 50   | Others           | 40.8 TiB   | 22.9 TiB (56.18%)   | 1860 (~22.5 GiB each) |
+| 50   | Others           | 41.0 TiB   | 22.9 TiB (55.86%)   | 1863 (~22.6 GiB each) |

@@ -14,7 +14,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                             | Count |
 | :----| :---------------------------------| :-----|
-| 🥇   | -ZR-                              | 179   |
+| 🥇   | -ZR-                              | 178   |
 | 🥈   | CRUCiBLE                          | 144   |
 | 🥉   | sam                               | 132   |
 | 4    | NAN0                              | 106   |
@@ -30,8 +30,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 14   | LostYears                         | 43    |
 | 15   | Okay-Subs                         | 38    |
 | 16   | Erai-raws / LYS1TH3A / PMR / TTGA | 36    |
-| 17   | Bunny-Apocalypse / Commie         | 35    |
-| 18   | Lulu                              | 34    |
+| 17   | Commie                            | 35    |
+| 18   | Bunny-Apocalypse / Lulu           | 34    |
 | 19   | NOGRP                             | 31    |
 | 20   | Holomux / Kametsu / VARYG         | 30    |
 | 21   | GetItTwisted                      | 29    |
@@ -44,37 +44,37 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                            | Count |
 | :----| :------------------------------------------------| :-----|
-| 🥇   | -ZR- / CRUCiBLE                                  | 116   |
-| 🥈   | sam                                              | 91    |
-| 🥉   | NAN0                                             | 81    |
-| 4    | hchcsen                                          | 34    |
-| 5    | LYS1TH3A                                         | 33    |
-| 6    | Headpatter                                       | 27    |
-| 7    | TTGA                                             | 24    |
-| 8    | smol                                             | 23    |
-| 9    | FLE                                              | 20    |
-| 10   | Lulu                                             | 19    |
-| 11   | Flugel / Moxie                                   | 17    |
-| 12   | LazyRemux / YURI                                 | 16    |
-| 13   | koala                                            | 15    |
-| 14   | ZeroBuild                                        | 14    |
-| 15   | Arid / LostYears / YURASUKA                      | 13    |
-| 16   | FraMeSToR / GetItTwisted / KH / PMR / Vodes      | 12    |
-| 17   | DemiHuman / SCY / hydes                          | 10    |
-| 18   | LaCroiX / Meakes / UDF                           | 8     |
-| 19   | IK / Kametsu / Mehul / Reza                      | 7     |
-| 20   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
-| 21   | CTR / Doc / NH / NOGRP & Others                  | 5     |
-| 22   | Holomux / Ignore / Iznjie Biznjie / MK & Others  | 4     |
-| 23   | Aergia / Arg0 / DorK / EJF & Others              | 3     |
-| 24   | A&C / ABdex / ASC / Afro & Others                | 2     |
-| 25   | -KS- / 727 / 9volt / AC & Others                 | 1     |
+| 🥇   | CRUCiBLE                                         | 116   |
+| 🥈   | -ZR-                                             | 115   |
+| 🥉   | sam                                              | 91    |
+| 4    | NAN0                                             | 81    |
+| 5    | hchcsen                                          | 34    |
+| 6    | LYS1TH3A                                         | 33    |
+| 7    | Headpatter                                       | 27    |
+| 8    | TTGA                                             | 24    |
+| 9    | smol                                             | 23    |
+| 10   | FLE                                              | 20    |
+| 11   | Lulu                                             | 19    |
+| 12   | Flugel / Moxie                                   | 17    |
+| 13   | LazyRemux / YURI                                 | 16    |
+| 14   | koala                                            | 15    |
+| 15   | ZeroBuild                                        | 14    |
+| 16   | Arid / LostYears / YURASUKA                      | 13    |
+| 17   | FraMeSToR / GetItTwisted / KH / PMR / Vodes      | 12    |
+| 18   | DemiHuman / SCY / hydes                          | 10    |
+| 19   | LaCroiX / Meakes / UDF                           | 8     |
+| 20   | IK / Kametsu / Mehul / Reza                      | 7     |
+| 21   | B00BA / Bunny-Apocalypse / Drag / JySzE & Others | 6     |
+| 22   | CTR / Doc / NH / NOGRP & Others                  | 5     |
+| 23   | Holomux / Ignore / Iznjie Biznjie / MK & Others  | 4     |
+| 24   | Aergia / Arg0 / DorK / EJF & Others              | 3     |
+| 25   | A&C / ABdex / ASC / Afro & Others                | 2     |
 
 ## Top 25 - Best entries
 
 | Rank | Group                                 | Count |
 | :----| :-------------------------------------| :-----|
-| 🥇   | -ZR-                                  | 154   |
+| 🥇   | -ZR-                                  | 153   |
 | 🥈   | CRUCiBLE                              | 144   |
 | 🥉   | sam                                   | 122   |
 | 4    | NAN0                                  | 105   |
@@ -112,8 +112,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 6    | Commie                                   | 35    |
 | 7    | Headpatter                               | 33    |
 | 8    | LostYears / MTBB                         | 30    |
-| 9    | Bunny-Apocalypse / Erai-raws             | 29    |
-| 10   | VARYG                                    | 28    |
+| 9    | Erai-raws                                | 29    |
+| 10   | Bunny-Apocalypse / VARYG                 | 28    |
 | 11   | Arid                                     | 26    |
 | 12   | Holomux / Kametsu                        | 22    |
 | 13   | Chihiro / NOGRP                          | 21    |
