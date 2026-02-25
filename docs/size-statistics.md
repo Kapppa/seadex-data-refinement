@@ -10,7 +10,7 @@ All of this and more means that we need to settle on a method to calculate these
 
 - Total size: `128.0 TiB`
 - Best size: `96.9 TiB`
-- Alt size: `31.0 TiB`
+- Alt size: `31.1 TiB`
 - Realistic size: `100.4 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
@@ -66,7 +66,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 44   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
 | 45   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 46   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 47   | SEV              | 533.0 GiB  | 0 B (0.00%)         | 11 (~48.5 GiB each)   |
-| 48   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
-| 49   | Mehul            | 525.4 GiB  | 525.4 GiB (100.00%) | 15 (~35.0 GiB each)   |
-| 50   | Others           | 41.0 TiB   | 22.9 TiB (55.86%)   | 1863 (~22.6 GiB each) |
+| 47   | CTR              | 534.7 GiB  | 113.6 GiB (21.24%)  | 26 (~20.6 GiB each)   |
+| 48   | SEV              | 533.0 GiB  | 0 B (0.00%)         | 11 (~48.5 GiB each)   |
+| 49   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
+| 50   | Others           | 41.1 TiB   | 23.3 TiB (56.78%)   | 1855 (~22.7 GiB each) |

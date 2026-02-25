@@ -37,8 +37,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 21   | GetItTwisted                      | 29    |
 | 22   | Orphan                            | 28    |
 | 23   | Pog42 / SCY                       | 27    |
-| 24   | B00BA / Reza                      | 26    |
-| 25   | CTR / UDF                         | 25    |
+| 24   | B00BA / CTR / Reza                | 26    |
+| 25   | UDF                               | 25    |
 
 ## Top 25 - Best dual audio entries
 
@@ -115,9 +115,9 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 9    | Erai-raws                                | 29    |
 | 10   | Bunny-Apocalypse / VARYG                 | 28    |
 | 11   | Arid                                     | 26    |
-| 12   | Holomux / Kametsu                        | 22    |
-| 13   | Chihiro / NOGRP                          | 21    |
-| 14   | CTR / GetItTwisted                       | 20    |
+| 12   | Chihiro / Holomux / Kametsu              | 22    |
+| 13   | CTR / NOGRP                              | 21    |
+| 14   | GetItTwisted                             | 20    |
 | 15   | Pog42 / SCY                              | 16    |
 | 16   | Reza                                     | 15    |
 | 17   | HorribleSubs / Kitsune                   | 14    |
