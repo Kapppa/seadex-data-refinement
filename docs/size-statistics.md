@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `128.6 TiB`
-- Best size: `97.5 TiB`
+- Total size: `128.7 TiB`
+- Best size: `97.6 TiB`
 - Alt size: `31.1 TiB`
-- Realistic size: `100.9 TiB`
+- Realistic size: `101.0 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -43,12 +43,12 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 21   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 22   | YURASUKA         | 910.2 GiB  | 253.3 GiB (27.83%)  | 79 (~11.5 GiB each)   |
 | 23   | KH               | 887.7 GiB  | 139.7 GiB (15.74%)  | 57 (~15.6 GiB each)   |
-| 24   | Holomux          | 869.1 GiB  | 193.5 GiB (22.26%)  | 32 (~27.2 GiB each)   |
-| 25   | YURI             | 867.7 GiB  | 367.0 GiB (42.29%)  | 71 (~12.2 GiB each)   |
-| 26   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
-| 27   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
-| 28   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
-| 29   | GetItTwisted     | 810.8 GiB  | 535.7 GiB (66.06%)  | 39 (~20.8 GiB each)   |
+| 24   | GetItTwisted     | 886.0 GiB  | 610.8 GiB (68.94%)  | 41 (~21.6 GiB each)   |
+| 25   | Holomux          | 869.1 GiB  | 193.5 GiB (22.26%)  | 32 (~27.2 GiB each)   |
+| 26   | YURI             | 867.7 GiB  | 367.0 GiB (42.29%)  | 71 (~12.2 GiB each)   |
+| 27   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
+| 28   | Vodes            | 827.1 GiB  | 533.6 GiB (64.51%)  | 18 (~46.0 GiB each)   |
+| 29   | FraMeSToR        | 822.9 GiB  | 822.9 GiB (100.00%) | 12 (~68.6 GiB each)   |
 | 30   | sittingmongoose  | 782.5 GiB  | 782.5 GiB (100.00%) | 1 (~782.5 GiB each)   |
 | 31   | A&C              | 779.4 GiB  | 753.0 GiB (96.60%)  | 5 (~155.9 GiB each)   |
 | 32   | Okay-Subs        | 778.8 GiB  | 761.8 GiB (97.81%)  | 38 (~20.5 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 48   | CTR              | 534.7 GiB  | 113.6 GiB (21.24%)  | 26 (~20.6 GiB each)   |
 | 49   | SEV              | 533.0 GiB  | 0 B (0.00%)         | 11 (~48.5 GiB each)   |
-| 50   | Others           | 41.4 TiB   | 23.3 TiB (56.33%)   | 1877 (~22.6 GiB each) |
+| 50   | Others           | 41.5 TiB   | 23.4 TiB (56.39%)   | 1878 (~22.6 GiB each) |
