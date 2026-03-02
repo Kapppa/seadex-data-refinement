@@ -8,7 +8,7 @@ from typing import Final, Literal
 import seadex
 from cyclopts import App, Group
 
-from .core import EXCLUSIVE_GROUPS, MediaEntryCollection
+from .core import EXCLUSIVE_GROUPS, MediaEntryCollection, remove_entries_without_dub
 from .leaderboard import SeaDexLeaderboard
 from .size import SeaDexSizeCalculator
 
@@ -32,6 +32,7 @@ def get_entries(
         "public-tracker-only",
         "best-missing-dual",
         "alt-missing-dual",
+        "no-dub",
         "encode-best-entries",
         "patch-required",
     ],
@@ -174,6 +175,19 @@ def get_entries(
                         entries[entry.anilist_id] = entry
                     elif not alt_has_dual and best_has_dual and has_alt and criteria == "alt-missing-dual":
                         entries[entry.anilist_id] = entry
+        case "no-dub":
+            header = "# No dub\n\n"
+            header += "This list contains all entries that have a dub according to AniList but have no dual-audio entries.\n\n"
+
+            
+            with seadex.SeaDexEntry() as seadex_entry:
+                for entry in seadex_entry.iterator():
+                    has_dual = any(t for t in entry.torrents if t.is_dual_audio)
+
+                    if not has_dual:
+                        entries[entry.anilist_id] = entry
+
+            remove_entries_without_dub(entries)
 
         case "encode-best-entries":
             header = "# Encode best entries"

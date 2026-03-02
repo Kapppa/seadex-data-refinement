@@ -132,3 +132,77 @@ class MediaEntryCollection(BaseModel):
     def to_json(self) -> str:
         """Converts the MediaEntryCollection to a JSON string."""
         return self.model_dump_json(indent=2)
+
+
+DUB_INFO = """
+query Media($page: Int, $ids: [Int]) {
+  Page(page: $page, perPage: 50) {
+    pageInfo {
+      lastPage
+      total
+      hasNextPage
+      currentPage
+    }
+    media(
+      type: ANIME
+      format_not: MUSIC
+      sort: POPULARITY_DESC
+      id_in: $ids
+    ) {
+      id
+      type
+      title {
+        romaji
+        english
+      }
+      characters {
+        edges {
+          node {
+            id
+          }
+          id,
+          voiceActorRoles (language: ENGLISH) {
+            voiceActor {
+              name {
+                first
+                middle
+                last
+                full
+                native
+                userPreferred
+              }
+            }
+            dubGroup
+          }
+        }
+      }
+    }
+  }
+}
+
+"""
+
+
+def remove_entries_without_dub(entries: dict[int, seadex.EntryRecord]) -> None:
+    with pyanilist.AniList() as anilist:
+        page = 1
+        ids = [entry.anilist_id for entry in entries.values()]
+
+        while True:
+            time.sleep(5)
+            response = anilist._post(query=DUB_INFO, variables={"page": page, "ids": ids})
+            print(response["Page"]["pageInfo"])
+
+
+            for media in response["Page"]["media"]:
+                id = media["id"]
+                if not any(char["voiceActorRoles"] for char in media["characters"]["edges"]):
+                    entries.pop(id)
+                    continue
+
+
+            if response["Page"]["pageInfo"]["hasNextPage"]:
+                page +=1
+            else:
+                return
+            

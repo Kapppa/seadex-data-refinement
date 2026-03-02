@@ -26,6 +26,7 @@ public-tracker-only.md
 top-500.md
 best-missing-dual.md
 alt-missing-dual.md
+no-dub.md
 encode-best-entries.md
 patch-required.md
 ```
@@ -55,6 +56,8 @@ patch-required.md
 * {doc}`best-missing-dual`: Best entries that currently do not have a dual audio version available. If you're interested in creating dual audio muxes for these entries, it's recommended to first join the [Discord](https://discord.com/invite/jPeeZewWRn) to consult with others before starting. You can also find a helpful guide in the [muxing tutorial](https://thewiki.moe/advanced/muxing/).
 
 * {doc}`alt-missing-dual`: Same as best-missing-dual, but for alt releases instead.
+
+* {doc}`no-dub`: For entries where none have dual audio but there is a dub according to AniList.
 
 * {doc}`encode-best-entries`: Entries where an encode beats the store.
 
