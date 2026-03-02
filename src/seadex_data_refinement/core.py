@@ -87,7 +87,12 @@ class MediaEntryCollection(BaseModel):
         ids = [int(id) for id in httpx.get(SEADEX_ANILIST_IDS_URL).raise_for_status().text.split(",")]
 
         with pyanilist.AniList() as anilist:
-            media_iter = itertools.islice(anilist.get_media_many(id_not_in=ids, sort=pyanilist.MediaSort.POPULARITY_DESC, type=pyanilist.MediaType.ANIME), count)
+            media_iter = itertools.islice(
+                anilist.get_media_many(
+                    id_not_in=ids, sort=pyanilist.MediaSort.POPULARITY_DESC, type=pyanilist.MediaType.ANIME
+                ),
+                count,
+            )
             for media in media_iter:
                 results.append(
                     MediaEntry(
@@ -193,16 +198,13 @@ def remove_entries_without_dub(entries: dict[int, seadex.EntryRecord]) -> None:
             response = anilist._post(query=DUB_INFO, variables={"page": page, "ids": ids})
             print(response["Page"]["pageInfo"])
 
-
             for media in response["Page"]["media"]:
                 id = media["id"]
                 if not any(char["voiceActorRoles"] for char in media["characters"]["edges"]):
-                    entries.pop(id)
+                    entries.pop(id, None)
                     continue
 
-
             if response["Page"]["pageInfo"]["hasNextPage"]:
-                page +=1
+                page += 1
             else:
                 return
-            

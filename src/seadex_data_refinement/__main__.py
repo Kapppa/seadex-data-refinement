@@ -179,7 +179,6 @@ def get_entries(
             header = "# No dub\n\n"
             header += "This list contains all entries that have a dub according to AniList but have no dual-audio entries.\n\n"
 
-            
             with seadex.SeaDexEntry() as seadex_entry:
                 for entry in seadex_entry.iterator():
                     has_dual = any(t for t in entry.torrents if t.is_dual_audio)

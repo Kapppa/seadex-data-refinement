@@ -53,19 +53,19 @@ class SeaDexLeaderboard:
                 data[group] += 1
 
         return self.do_groupping(data)
-    
-    def do_groupping(self, dict:dict[str, int]) -> dict[int, list[str]]:
+
+    def do_groupping(self, dict: dict[str, int]) -> dict[int, list[str]]:
         grouped = defaultdict(list)
-    
+
         for k, v in dict.items():
             grouped[v].append(k)
-        
+
         sorted_dict = {k: sorted(grouped[k]) for k in sorted(grouped, reverse=True)}
-        
+
         return sorted_dict
-    
-    def do_group_format(self, groups:list[str]) -> str:
-        amount = 5 if len(groups)<= 5 else 4
+
+    def do_group_format(self, groups: list[str]) -> str:
+        amount = 5 if len(groups) <= 5 else 4
 
         joined = " / ".join(groups[:amount])
 
@@ -74,7 +74,7 @@ class SeaDexLeaderboard:
 
         return joined
 
-    def get_medal(self, count:int) -> str:
+    def get_medal(self, count: int) -> str:
         match count:
             case 1:
                 return "🥇"
@@ -116,7 +116,8 @@ class SeaDexLeaderboard:
             table.field_names = ["Rank", "Group", "Count"]
 
             for rank, (count, names) in enumerate(data.items(), start=1):
-                if rank > 25: break
+                if rank > 25:
+                    break
                 table.add_row([self.get_medal(rank), self.do_group_format(names), count])
 
             report.append(f"## {title}\n")

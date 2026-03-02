@@ -110,7 +110,6 @@ def build_docs(session: nox.Session) -> None:
     sleep()
     session.run("sdr", "get-entries", "no-dub", "--outfile", src / "no-dub.md", *session.posargs)
 
-
     # No sleep here because these do not hit AniList.
     session.run("sdr", "size-stats", "--outfile", src / "size-statistics.md", *session.posargs)
     session.run("sdr", "leaderboards", "--outfile", src / "leaderboards.md", *session.posargs)
