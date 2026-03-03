@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `128.7 TiB`
+- Total size: `128.8 TiB`
 - Best size: `97.6 TiB`
-- Alt size: `31.1 TiB`
-- Realistic size: `101.0 TiB`
+- Alt size: `31.2 TiB`
+- Realistic size: `101.1 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -20,9 +20,9 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 
 | Rank | Group            | Total Size | Best Size           | Total Entries         |
 | :----| :----------------| :----------| :-------------------| :---------------------|
-| 1    | -ZR-             | 14.4 TiB   | 13.6 TiB (94.46%)   | 192 (~76.6 GiB each)  |
+| 1    | -ZR-             | 14.4 TiB   | 13.5 TiB (94.35%)   | 192 (~76.6 GiB each)  |
 | 2    | CRUCiBLE         | 10.4 TiB   | 10.4 TiB (100.00%)  | 142 (~75.3 GiB each)  |
-| 3    | NAN0             | 8.0 TiB    | 7.9 TiB (99.06%)    | 107 (~76.6 GiB each)  |
+| 3    | NAN0             | 8.1 TiB    | 8.0 TiB (99.07%)    | 108 (~76.6 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.76%)    | 132 (~30.3 GiB each)  |
 | 5    | Moxie            | 3.7 TiB    | 3.7 TiB (100.00%)   | 93 (~40.4 GiB each)   |
 | 6    | Headpatter       | 3.3 TiB    | 2.8 TiB (85.54%)    | 98 (~34.4 GiB each)   |
@@ -35,15 +35,15 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 13   | JySzE            | 1.5 TiB    | 1.5 TiB (100.00%)   | 8 (~192.8 GiB each)   |
 | 14   | LazyRemux        | 1.4 TiB    | 1.4 TiB (100.00%)   | 20 (~72.3 GiB each)   |
 | 15   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~75.5 GiB each)   |
-| 16   | SubsPlease       | 1.3 TiB    | 177.6 GiB (12.93%)  | 80 (~17.2 GiB each)   |
+| 16   | SubsPlease       | 1.3 TiB    | 161.3 GiB (11.88%)  | 79 (~17.2 GiB each)   |
 | 17   | FLE              | 1.0 TiB    | 993.1 GiB (96.30%)  | 26 (~39.7 GiB each)   |
 | 18   | smol             | 1.0 TiB    | 976.7 GiB (95.18%)  | 58 (~17.7 GiB each)   |
 | 19   | NOGRP            | 973.2 GiB  | 771.9 GiB (79.32%)  | 31 (~31.4 GiB each)   |
 | 20   | LYS1TH3A         | 935.0 GiB  | 909.6 GiB (97.29%)  | 36 (~26.0 GiB each)   |
 | 21   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 22   | YURASUKA         | 910.2 GiB  | 253.3 GiB (27.83%)  | 79 (~11.5 GiB each)   |
-| 23   | KH               | 887.7 GiB  | 139.7 GiB (15.74%)  | 57 (~15.6 GiB each)   |
-| 24   | GetItTwisted     | 886.0 GiB  | 610.8 GiB (68.94%)  | 41 (~21.6 GiB each)   |
+| 23   | GetItTwisted     | 899.4 GiB  | 610.8 GiB (67.92%)  | 43 (~20.9 GiB each)   |
+| 24   | KH               | 887.7 GiB  | 139.7 GiB (15.74%)  | 57 (~15.6 GiB each)   |
 | 25   | Holomux          | 869.1 GiB  | 193.5 GiB (22.26%)  | 32 (~27.2 GiB each)   |
 | 26   | YURI             | 867.7 GiB  | 367.0 GiB (42.29%)  | 71 (~12.2 GiB each)   |
 | 27   | RUDY             | 846.8 GiB  | 828.3 GiB (97.80%)  | 11 (~77.0 GiB each)   |
@@ -61,7 +61,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 39   | Arid             | 648.0 GiB  | 210.6 GiB (32.50%)  | 46 (~14.1 GiB each)   |
 | 40   | Drag             | 641.2 GiB  | 146.0 GiB (22.76%)  | 59 (~10.9 GiB each)   |
 | 41   | Meakes           | 637.8 GiB  | 624.4 GiB (97.90%)  | 9 (~70.9 GiB each)    |
-| 42   | Erai-raws        | 613.2 GiB  | 101.9 GiB (16.62%)  | 36 (~17.0 GiB each)   |
+| 42   | Erai-raws        | 613.2 GiB  | 84.2 GiB (13.73%)   | 36 (~17.0 GiB each)   |
 | 43   | Mehul            | 584.6 GiB  | 584.6 GiB (100.00%) | 20 (~29.2 GiB each)   |
 | 44   | D4C              | 556.0 GiB  | 556.0 GiB (100.00%) | 2 (~278.0 GiB each)   |
 | 45   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
 | 48   | CTR              | 534.7 GiB  | 113.6 GiB (21.24%)  | 26 (~20.6 GiB each)   |
 | 49   | SEV              | 533.0 GiB  | 0 B (0.00%)         | 11 (~48.5 GiB each)   |
-| 50   | Others           | 41.5 TiB   | 23.4 TiB (56.39%)   | 1878 (~22.6 GiB each) |
+| 50   | Others           | 41.5 TiB   | 23.3 TiB (56.21%)   | 1877 (~22.6 GiB each) |
