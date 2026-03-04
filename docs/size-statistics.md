@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `128.8 TiB`
-- Best size: `97.6 TiB`
+- Total size: `128.6 TiB`
+- Best size: `97.5 TiB`
 - Alt size: `31.2 TiB`
-- Realistic size: `101.1 TiB`
+- Realistic size: `101.0 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -22,10 +22,10 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | :----| :----------------| :----------| :-------------------| :---------------------|
 | 1    | -ZR-             | 14.4 TiB   | 13.5 TiB (94.35%)   | 192 (~76.6 GiB each)  |
 | 2    | CRUCiBLE         | 10.4 TiB   | 10.4 TiB (100.00%)  | 142 (~75.3 GiB each)  |
-| 3    | NAN0             | 8.1 TiB    | 8.0 TiB (99.07%)    | 108 (~76.6 GiB each)  |
+| 3    | NAN0             | 7.9 TiB    | 7.9 TiB (99.05%)    | 107 (~75.9 GiB each)  |
 | 4    | sam              | 3.9 TiB    | 3.6 TiB (92.76%)    | 132 (~30.3 GiB each)  |
 | 5    | Moxie            | 3.7 TiB    | 3.7 TiB (100.00%)   | 93 (~40.4 GiB each)   |
-| 6    | Headpatter       | 3.3 TiB    | 2.8 TiB (85.54%)    | 98 (~34.4 GiB each)   |
+| 6    | Headpatter       | 3.3 TiB    | 2.8 TiB (85.60%)    | 99 (~34.2 GiB each)   |
 | 7    | PMR              | 2.7 TiB    | 2.7 TiB (100.00%)   | 35 (~79.3 GiB each)   |
 | 8    | hchcsen          | 2.7 TiB    | 1.8 TiB (68.18%)    | 70 (~39.1 GiB each)   |
 | 9    | TTGA             | 2.6 TiB    | 2.5 TiB (95.07%)    | 36 (~73.5 GiB each)   |
@@ -41,8 +41,8 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 19   | NOGRP            | 973.2 GiB  | 771.9 GiB (79.32%)  | 31 (~31.4 GiB each)   |
 | 20   | LYS1TH3A         | 935.0 GiB  | 909.6 GiB (97.29%)  | 36 (~26.0 GiB each)   |
 | 21   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
-| 22   | YURASUKA         | 910.2 GiB  | 253.3 GiB (27.83%)  | 79 (~11.5 GiB each)   |
-| 23   | GetItTwisted     | 899.4 GiB  | 610.8 GiB (67.92%)  | 43 (~20.9 GiB each)   |
+| 22   | GetItTwisted     | 899.4 GiB  | 610.8 GiB (67.92%)  | 43 (~20.9 GiB each)   |
+| 23   | YURASUKA         | 894.4 GiB  | 237.5 GiB (26.56%)  | 78 (~11.5 GiB each)   |
 | 24   | KH               | 887.7 GiB  | 139.7 GiB (15.74%)  | 57 (~15.6 GiB each)   |
 | 25   | Holomux          | 869.1 GiB  | 193.5 GiB (22.26%)  | 32 (~27.2 GiB each)   |
 | 26   | YURI             | 867.7 GiB  | 367.0 GiB (42.29%)  | 71 (~12.2 GiB each)   |
@@ -67,6 +67,6 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 45   | Almighty         | 555.9 GiB  | 0 B (0.00%)         | 5 (~111.2 GiB each)   |
 | 46   | BBT-RMX          | 548.0 GiB  | 374.5 GiB (68.33%)  | 12 (~45.7 GiB each)   |
 | 47   | WAP              | 540.8 GiB  | 540.8 GiB (100.00%) | 6 (~90.1 GiB each)    |
-| 48   | CTR              | 534.7 GiB  | 113.6 GiB (21.24%)  | 26 (~20.6 GiB each)   |
-| 49   | SEV              | 533.0 GiB  | 0 B (0.00%)         | 11 (~48.5 GiB each)   |
-| 50   | Others           | 41.5 TiB   | 23.3 TiB (56.21%)   | 1877 (~22.6 GiB each) |
+| 48   | SEV              | 533.0 GiB  | 0 B (0.00%)         | 11 (~48.5 GiB each)   |
+| 49   | UDF              | 530.9 GiB  | 249.3 GiB (46.96%)  | 27 (~19.7 GiB each)   |
+| 50   | Others           | 41.5 TiB   | 23.2 TiB (55.96%)   | 1876 (~22.6 GiB each) |

@@ -63,8 +63,8 @@
 | 60  | Black Lagoon: The Second Barrage                                                   | 2006 | 14 Feb 2025 | [SeaDex](https://releases.moe/1519/), [AniList](https://anilist.co/anime/1519)     |
 | 61  | Kiss Him, Not Me                                                                   | 2016 | 16 Jul 2024 | [SeaDex](https://releases.moe/21686/), [AniList](https://anilist.co/anime/21686)   |
 | 62  | Bunny Drop                                                                         | 2011 | 16 Aug 2025 | [SeaDex](https://releases.moe/10162/), [AniList](https://anilist.co/anime/10162)   |
-| 63  | The Asterisk War 2                                                                 | 2016 | 27 Jul 2025 | [SeaDex](https://releases.moe/21390/), [AniList](https://anilist.co/anime/21390)   |
-| 64  | Skeleton Knight in Another World                                                   | 2022 | 24 Feb 2026 | [SeaDex](https://releases.moe/132474/), [AniList](https://anilist.co/anime/132474) |
+| 63  | Skeleton Knight in Another World                                                   | 2022 | 24 Feb 2026 | [SeaDex](https://releases.moe/132474/), [AniList](https://anilist.co/anime/132474) |
+| 64  | The Asterisk War 2                                                                 | 2016 | 27 Jul 2025 | [SeaDex](https://releases.moe/21390/), [AniList](https://anilist.co/anime/21390)   |
 | 65  | B: The Beginning                                                                   | 2018 | 11 Nov 2024 | [SeaDex](https://releases.moe/21665/), [AniList](https://anilist.co/anime/21665)   |
 | 66  | Yosuga no Sora: In Solitude Where We are Least Alone                               | 2010 | 13 Jul 2025 | [SeaDex](https://releases.moe/8861/), [AniList](https://anilist.co/anime/8861)     |
 | 67  | Kono Oto Tomare!: Sounds of Life                                                   | 2019 | 23 Feb 2026 | [SeaDex](https://releases.moe/103302/), [AniList](https://anilist.co/anime/103302) |
@@ -82,7 +82,7 @@
 | 79  | Waiting in the Summer                                                              | 2012 | 07 Jul 2025 | [SeaDex](https://releases.moe/11433/), [AniList](https://anilist.co/anime/11433)   |
 | 80  | Chaika -The Coffin Princess-                                                       | 2014 | 29 Dec 2025 | [SeaDex](https://releases.moe/20462/), [AniList](https://anilist.co/anime/20462)   |
 | 81  | Aoashi                                                                             | 2022 | 29 Mar 2025 | [SeaDex](https://releases.moe/134732/), [AniList](https://anilist.co/anime/134732) |
-| 82  | Girls und Panzer                                                                   | 2012 | 29 Dec 2025 | [SeaDex](https://releases.moe/14131/), [AniList](https://anilist.co/anime/14131)   |
+| 82  | Girls und Panzer                                                                   | 2012 | 03 Mar 2026 | [SeaDex](https://releases.moe/14131/), [AniList](https://anilist.co/anime/14131)   |
 | 83  | Gintama Season 2 Part 2                                                            | 2012 | 30 Aug 2025 | [SeaDex](https://releases.moe/15417/), [AniList](https://anilist.co/anime/15417)   |
 | 84  | Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?                         | 2019 | 10 Jan 2026 | [SeaDex](https://releases.moe/104723/), [AniList](https://anilist.co/anime/104723) |
 | 85  | We Never Learn!: BOKUBEN Season 2                                                  | 2019 | 16 Mar 2025 | [SeaDex](https://releases.moe/110229/), [AniList](https://anilist.co/anime/110229) |
